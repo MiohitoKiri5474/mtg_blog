@@ -1,0 +1,38 @@
+name: Auto Deploy to GitHub Pages
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Set Time Zone
+        run: sudo timedatectl set-timezone 'Asia/Taipei'
+
+      - name: Add GitHub into ssh_known
+        run: |
+          mkdir -p ~/.ssh
+          ssh-keyscan github.com >> ~/.ssh/known_hosts
+
+      - name: Node.js Setup
+        uses: actions/setup-node@v2
+        with:
+          node-version: "13.0.0"
+          cache: 'npm'
+
+      - name: Node.js Package install
+        run: npm i -g hexo-cli && npm i
+
+      - name: Deploy
+        uses: sma11black/hexo-action@v1.0.3
+        with:
+          deploy_key: ${{ secrets.BLOG_SEC }}
