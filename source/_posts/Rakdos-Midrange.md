@@ -5,6 +5,9 @@ tags:
  - Pioneer
  - Rakdos Midrange
  - MTG
+author: 'MiohitoKiri5474'
+cover: "https://cdnb.artstation.com/p/assets/images/images/017/692/791/large/adam-paquette-402481-r.jpg?1556986302"
+thumbnail: "https://cdnb.artstation.com/p/assets/images/images/017/692/791/large/adam-paquette-402481-r.jpg?1556986302"
 ---
 
 ## Before We Start
