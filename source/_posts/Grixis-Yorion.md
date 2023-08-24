@@ -7,8 +7,8 @@ tags:
  - Grixis Midrange
 
 author: 'cephille'
-cover: "https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/4/4d/Yorion.jpg/revision/latest?cb=20200429195234"
-thumbnail: "https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/4/4d/Yorion.jpg/revision/latest?cb=20200429195234"
+cover: "/images/Yorion.jpg"
+thumbnail: "/images/Yorion.jpg"
 ---
 
 ## Before We Start
@@ -26,7 +26,7 @@ thumbnail: "https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/4/4d
 
 直接來比較一下跟紅黑的不同以及我的一些小巧思吧。
 
-{% asset_img decklist.png "Deck List" %}
+![](/images/Grixis-Yorion-decklist.png)
 
 ### Graveyard Trespasser -> Corpse Appraiser
 

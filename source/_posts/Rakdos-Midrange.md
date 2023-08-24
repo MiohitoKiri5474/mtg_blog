@@ -109,7 +109,7 @@ thumbnail: "https://cdnb.artstation.com/p/assets/images/images/017/692/791/large
 
 最後這邊放個[套牌連結](https://www.mtggoldfish.com/deck/5713356#paper)。
 
-{% asset_img Rakdos_Midrange-min.jpg "先上個牌表" %}
+![](/images/Rakdos_midrange-min.jpg)
 
 ## Starting Hands, Countermeasures and Mulligan
 

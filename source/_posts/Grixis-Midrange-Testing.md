@@ -22,7 +22,7 @@ tags:
 
 ## Grixis Transmogrify
 
-{% asset_img Grixis-Transmogrify.png "Grixis Transmogrify" %}
+![](/images/Grixis-Transmogrify.png)
 
 反正就是轉亞崔夏出來，因為只有要轉一隻而且為了避免卡色問題所以選擇放 Transmogrify 而不是 Indomitable Creativity。
 個人打起來感覺很不舒服的點是轉出來的生物不會贏，雖然亞崔夏賺了很多手牌，但最終還是要想辦法保住她讓他能打個一兩拳賺血差，這樣急便被殺了還有時間可以做第二隻亞崔夏出來。
@@ -35,13 +35,13 @@ tags:
 
 ### JP RC
 
-{% asset_img Grixis-Yorion-JPRC.jpg "日本 RC 的 Grixis Yorion" %}
+![](/images/Grixis-Yorion-JPRC.jpg)
 
 日本 RC 的牌表與其說是格利極不如說是紅黑，藍色元素太少了，而且也沒有利用到 Yorion flick 的效果，如果只是想要把更多備牌帶進正編而打 80 張的紅黑中速，感覺不是一個好選擇。
 
 ### MO Pioneer Challenge
 
-{% asset_img Grixis-Yorion-MO.png "MO Pioneer Challenge" %}
+![](/images/Grixis-Yorion-MO.png)
 
 而 MO 的這套就比較有格利極的感覺了，雖然個人覺得少了 Drown in the Loch 藍黑元素有點不足，但多了 Corpse Appraiser 補牌 + 堆墳且配合 Yorion flick 的效應更大（比起 Graveyard Trespasser 單純的補血好很多），但沒辦法吃掉 Storm the Festival 或脂牙的載具是很嚴重的缺點，另外加上有 Invasion of Amonkhet 會主動幫對手堆墳，如果不能去除一些非生物的墳場威脅感覺總有一天會被反噬。
 
@@ -55,7 +55,7 @@ tags:
 
 ## Grixis Midrange
 
-{% asset_img Grixis-Midrange.png "最純的 Grixis Midrange" %}
+![](/images/Grixis-Midrange.png)
 
 這個就是正常的 60 張格利極中速了，目前看到許多構築，我當時測試的牌表已經找不到了，所以這邊放一個跟我印象中差不多的構築。
 
@@ -71,7 +71,7 @@ tags:
 
 ## Grixis Metamorphic Dross
 
-{% asset_img Grixis-Metamorphic-Dross.png "Grixis Metamorphic Dross" %}
+![](/images/Grixis-Metamorphic-Dross.png)
 
 最後一套是我還沒有測過的牌組，因為 MTGA 上的野卡不夠合四張 Metamorphic Alternation QQ
 即使用 Metamorphic Alternation 複製 Archiend of the Dross 的格利極中速。
