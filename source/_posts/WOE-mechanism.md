@@ -1,11 +1,13 @@
 ---
-title: WOE-mechanism
+title: '豬鼻子的艾卓荒野(WOE)限制賽初探 — 機制介紹'
 date: 2023-08-29 16:40:06
 tags:
  - cephille
  - 豬鼻子的mtg世界
  - WOE
  - Limited
+cover: 'https://media.wizards.com/2023/images/daily/nNjKmcrleh.jpg'
+thumbnail: '/images/WOE-Cover.jpg'
 ---
 
 > **註：以下WOE機制中所提到的數量，係由主系列 — 也就是輪抽補充包所能開到的277張牌，再加上附屬系列 — 魅附奇譚(Enchanting Tales, WOT)中的63張重印結界牌，一共340張牌所做的統計。不包含系列包能開出的編號外的Jumpstart卡、異圖(showcase)卡、無邊框(Bordless)卡、以及聚珍補充包限定的擴畫(extend)卡等牌張。**
