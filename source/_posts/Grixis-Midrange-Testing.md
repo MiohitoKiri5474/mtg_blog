@@ -5,6 +5,8 @@ tags:
  - Grixis Midrange
  - Pioneer
  - MTG
+cover: "https://www.artofmtg.com/wp-content/uploads/2022/03/Xanders-Lounge-Streets-of-New-Capenna-MtG-Art.jpg"
+thumbnail: "https://www.artofmtg.com/wp-content/uploads/2022/03/Xanders-Lounge-Streets-of-New-Capenna-MtG-Art.jpg"
 ---
 
 ## Before We Start
