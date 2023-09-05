@@ -6,8 +6,8 @@ tags:
  - Modern
  - Decktech
 
-cover: "/images/Izzet-Murktide/Cover.jpg"
-thumbnail: "/images/Izzet-Murktide/Cover.jpg"
+cover: "https://miohitokiri5474.github.io/mtg_blog/images/Izzet-Murktide/Cover.jpg"
+thumbnail: "https://miohitokiri5474.github.io/mtg_blog/images/Izzet-Murktide/Cover.jpg"
 ---
 
 ## Before We Start
