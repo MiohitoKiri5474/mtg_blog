@@ -114,10 +114,10 @@ thumbnail: "https://cdnb.artstation.com/p/assets/images/images/017/692/791/large
 ## Starting Hands, Countermeasures and Mulligan
 
 先說說起手，如果不論對手的話會希望起手長這樣：
-2~3x Lands 且不卡色（一塊能產紅另一塊能產黑）
-0~2x 1 drop 節奏
-1~3x 2 drop 節奏
-0~1x 3+ drop 節奏
+2-3x Lands 且不卡色（一塊能產紅另一塊能產黑）
+0-2x 1 drop 節奏
+1-3x 2 drop 節奏
+0-1x 3+ drop 節奏
 其中的 1 drop 以及 2 drop 至少有一到兩張殺。
 
 這邊舉個例子：
