@@ -12,7 +12,7 @@ info:
   # Site title
   title: Guildmages' Forum
   # Author name
-  author: Guildmages' Forum Stuff
+  author: Guildmages' Forum Staff
   # Site URL
   url: https://miohitokiri5474.github.io/mtg_blog/
 # BASIC INFORMATION <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
@@ -178,18 +178,22 @@ navbar:
     # Status: 
     #   path: https://status.evanluo.top/
     #   icon: fa-regular fa-chart-bar
+    Tags:
+      path: /tags
+      icon: fa-regular fa-tags
+    Categories:
+      path: /categories
+      icon: fa-regular fa-folder
     About Us: 
       path: /about
       icon: fa-regular fa-user
-    #   submenus:
-    #     Me: /about
-    #     Github: https://github.com/EvanNotFound/hexo-theme-redefine
-    #     Blog: https://ohevan.com
-    #     Friends: /friends
     Links: 
       icon: fa-regular fa-link
       submenus:
-        Link1: https://miohitokiri5474.github.io/game
+        Gamer MiohitoKiri: https://miohitokiri5474.github.io/game
+        豬鼻子的mtg世界: https://www.facebook.com/Pignosemtgworld
+        多明納里亞圖書館: https://dominarialibrary.com
+        龍尊與荒野騎士的玄境之談: https://podcasts.apple.com/tw/podcast/%E9%BE%8D%E5%B0%8A%E8%88%87%E8%8D%92%E9%87%8E%E9%A8%8E%E5%A3%AB%E7%9A%84%E7%8E%84%E5%A2%83%E4%B9%8B%E8%AB%87/id1680452807
     #     Link2: /link2
     #     Link3: /link3
     # ...... # you can add more
