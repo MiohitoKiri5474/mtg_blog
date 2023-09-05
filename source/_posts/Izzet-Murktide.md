@@ -5,6 +5,9 @@ tags:
  - MiohitoKiri5474
  - Modern
  - Decktech
+
+cover: "/images/Izzet-Murktide/Cover.jpg"
+thumbnail: "/images/Izzet-Murktide/Cover.jpg"
 ---
 
 ## Before We Start
