@@ -6,6 +6,7 @@ tags:
  - 豬鼻子的mtg世界
  - WOE
  - Limited
+categories: WOE-Limit
 cover: 'https://media.wizards.com/2023/images/daily/nNjKmcrleh.jpg'
 thumbnail: '/images/WOE-Cover.jpg'
 ---
