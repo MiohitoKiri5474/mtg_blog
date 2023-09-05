@@ -1,10 +1,10 @@
 ---
 title: 'Something About Rakdos Midrange'
-date: 2023-07-18 20:21:01
+date: 2023-08-20 20:21:01
 tags:
+ - MiohitoKiri5474
  - Pioneer
- - Rakdos Midrange
- - MTG
+ - Decktech
 author: 'MiohitoKiri5474'
 cover: "https://cdnb.artstation.com/p/assets/images/images/017/692/791/large/adam-paquette-402481-r.jpg?1556986302"
 thumbnail: "https://cdnb.artstation.com/p/assets/images/images/017/692/791/large/adam-paquette-402481-r.jpg?1556986302"
@@ -162,3 +162,31 @@ thumbnail: "https://cdnb.artstation.com/p/assets/images/images/017/692/791/large
 第四季 MITQ 還沒結束，希望這篇文章能提供給仍在奮戰的紅黑玩家一點新的想法。
 或許對於其中部分的說法不認同也沒關係，至少提出了另一種看法可以參考。
 大家會場見！
+
+## Edit: Post WOE
+
+這篇是當時我在自己的部落格發的[文章](https://miohitokiri5474.github.io/game/Rakdos-Midrange/) ~~我絕對不會說是為了湊網站初期的文章數才搬運過來的~~。
+不過距離撰文當下也過了蠻久的，中間一度使用量跌落至二線套牌的水準，但在八月底後又慢慢爬圍一線。
+另外既然 WOE 準備要發售了，這邊順便寫一下在 WOE 後我會想要怎麼改善套牌。進入我眼中的牌有兩張：
+2. [The End](https://cards.scryfall.io/large/front/b/1/b18402dc-c4ab-417c-92d1-5e4d9cfb840d.jpg)
+1. [Beseech the Mirror](https://cards.scryfall.io/large/front/1/8/18c59776-e1f1-4197-a128-db1d603f56b7.jpg)
+
+### The End
+
+![The End](https://cards.scryfall.io/large/front/b/1/b18402dc-c4ab-417c-92d1-5e4d9cfb840d.jpg)
+
+The End 不用說，當然是要打綠獻的，直接把綠騎或卡恩放逐，我們的壓力會變小很多。
+拿來殺控制的大泰或是藍鋼彈創新的藍鋼彈，甚至是老鼠車的脂牙也很舒服（雖然四費殺打老鼠好像有點太慢了，不過還是可以試試）。
+沒意外會在正編投入一張，可能會取代一張殺或是莉莉的位置，這部分還要再測試和調整看看。
+
+### Beseech the Mirror
+
+![Beseech the Mirror](https://cards.scryfall.io/large/front/1/8/18c59776-e1f1-4197-a128-db1d603f56b7.jpg)
+
+Beseech the Mirror 則是用來取代掉第三張 Sheoldred 或是 Kalitas 的位置，很少對局會用到第三張 Sheoldred，通常用到也快要輸了。
+與其這樣不如把其中一張的位置換成 Beseech the Mirror 這種比較靈活的牌，可以視情況找 Sheoldred，或是在備牌局去找換進來的針對備牌。
+> 像是在打綠獻的時候，Extinction Event 有時會比 Sheoldred 來的更重要，而且也能減少備牌中重複單卡的數量，把位置給其他備牌。
+
+另外紅黑中速的 token 非常之多，完全不用擔心 Bargain 會無法觸發，再不濟就把奇奇或是劫庫械吃掉去找牌，總比什麼事都不能做來的好。
+
+不過以上的測試都要等到 WOE 上 MTGA 後才能測試，也要經過 meta 的洗禮，等十月底前再來看看要怎麼改牌吧。
