@@ -172,9 +172,9 @@ navbar:
     Home: 
       path: /
       icon: fa-regular fa-house # can be empty
-    Archives: 
-      path: /archives 
-      icon: fa-regular fa-archive # can be empty
+    # Archives: 
+    #  path: /archives 
+    #  icon: fa-regular fa-archive # can be empty
     # Status: 
     #   path: https://status.evanluo.top/
     #   icon: fa-regular fa-chart-bar
@@ -187,6 +187,9 @@ navbar:
     About Us: 
       path: /about
       icon: fa-regular fa-user
+    Contact Us:
+      path: /contact-us
+      icon: fa-regular fa-mailbox-flag-up
     Links: 
       icon: fa-regular fa-link
       submenus:
@@ -215,9 +218,9 @@ home:
     first_item: info # First item in sidebar. menu, info
     announcement: # Announcement text
     links:
-      Archives: 
-        path: /archives 
-        icon: fa-regular fa-archive # can be empty
+      # Archives: 
+      #  path: /archives 
+      #  icon: fa-regular fa-archive # can be empty
       Tags: 
         path: /tags 
         icon: fa-regular fa-tags # can be empty
@@ -227,6 +230,9 @@ home:
       About Us: 
         path: /about
         icon: fa-regular fa-user
+      Contact Us:
+        path: /contact-us
+        icon: fa-regular fa-mailbox-flag-up
       # ...... # you can add more
   # Article date format
   article_date_format: auto # auto, relative, YYYY-MM-DD, YYYY-MM-DD HH:mm:ss etc.
