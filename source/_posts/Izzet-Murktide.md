@@ -8,6 +8,7 @@ tags:
 
 cover: "https://guildmagesforum.tw/images/Izzet-Murktide/Cover.jpg"
 thumbnail: "https://guildmagesforum.tw/images/Izzet-Murktide/Cover.jpg"
+excerpt: '好啦，上一篇那樣太明目張膽了，這一次多給了一堆內容應該可以了吧QQ'
 ---
 
 ## Before We Start
