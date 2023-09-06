@@ -6,8 +6,8 @@ tags:
  - Modern
  - Decktech
 
-cover: "https://miohitokiri5474.github.io/mtg_blog/images/Izzet-Murktide/Cover.jpg"
-thumbnail: "https://miohitokiri5474.github.io/mtg_blog/images/Izzet-Murktide/Cover.jpg"
+cover: "https://guildmagesforum.tw/images/Izzet-Murktide/Cover.jpg"
+thumbnail: "https://guildmagesforum.tw/images/Izzet-Murktide/Cover.jpg"
 ---
 
 ## Before We Start

@@ -7,6 +7,9 @@ tags:
  - WOE
  - Limited
 categories: WOE-Limit
+cover: 'https://guildmagesforum.tw/images/WOE-Multicolor-cover.jpg'
+thumbnail: 'https://guildmagesforum.tw/images/WOE-Multicolor-cover.jpg'
+excerpt: '而一個系列限制賽中通常十個雙色色組都有對應的思路，艾卓荒野(WOE)也不例外！讓我們在艾卓時空中的傳奇人物的帶領下來認識雙色的限制賽構築方向，並進一步認識WOE中多色、神器以及地牌的評分與介紹吧！'
 ---
 
 本文採用LSV以及Reid Duke兩位大神發表在Channelfireball(CFB)網站上的魔戒：中土世界傳奇 (LOTR)的限制賽評分標準以及行文格式。
