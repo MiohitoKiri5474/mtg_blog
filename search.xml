@@ -2,7 +2,7 @@
 <search>
   <entry>
     <title>Something About Rakdos Midrange</title>
-    <url>/mtg_blog/Rakdos-Midrange/</url>
+    <url>/Rakdos-Midrange/</url>
     <content><![CDATA[<h2 id="Before-We-Start"><a href="#Before-We-Start" class="headerlink" title="Before We Start"></a>Before We Start</h2><p>開始之前先簡單的談談為什麼會想寫這篇文章。<br>首先，作為一個 MTG 有在打比賽的玩家，會對於現在官方正在推的賽制較為熟悉，以過去一年來看就會是標準以及先驅。<br>標準我一直都是愛打不打的，反正先把便宜的純藍拼出來，剩下再說，大不了跟朋友借牌來打，主要是我對於一套要價 500 鎂的牌組，最多只能打一年多有點賭爛，而且還要一直追新系列更新牌表。<br>因此比起標準，我更喜歡永恆賽制。</p>
 <span id="more"></span>
 
@@ -22,7 +22,7 @@
 <p><img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="/mtg_blog/images/Rakdos_midrange-min.jpg"
+                     data-src="/images/Rakdos_midrange-min.jpg"
                      
                 ></p>
 <h2 id="Starting-Hands-Countermeasures-and-Mulligan"><a href="#Starting-Hands-Countermeasures-and-Mulligan" class="headerlink" title="Starting Hands, Countermeasures and Mulligan"></a>Starting Hands, Countermeasures and Mulligan</h2><p>先說說起手，如果不論對手的話會希望起手長這樣：<br>2-3x Lands 且不卡色（一塊能產紅另一塊能產黑）<br>0-2x 1 drop 節奏<br>1-3x 2 drop 節奏<br>0-1x 3+ drop 節奏<br>其中的 1 drop 以及 2 drop 至少有一到兩張殺。</p>
@@ -39,7 +39,7 @@
 </ol>
 <p>但目前都還沒有測出一個比較喜歡的型，至於 MIT #4 要帶什麼去打目前還不確定，不過沒意外一樣是紅黑底的套牌。<br>理由也與其他紅黑玩家差不多：紅黑中速是一套可以對於對手牌型安排 game plain 的套牌，看完牌表在決定先後手、洗牌時就能夠開始想計畫，不用按照起手來決定要怎麼打，並且對於大多數套牌（創火例外 &#x3D; &#x3D;）都有相對應的手段。</p>
 <p>第四季 MITQ 還沒結束，希望這篇文章能提供給仍在奮戰的紅黑玩家一點新的想法。<br>或許對於其中部分的說法不認同也沒關係，至少提出了另一種看法可以參考。<br>大家會場見！</p>
-<h2 id="Edit-Post-WOE"><a href="#Edit-Post-WOE" class="headerlink" title="Edit: Post WOE"></a>Edit: Post WOE</h2><p>這篇是當時我在自己的部落格發的<a href="https://miohitokiri5474.github.io/game/Rakdos-Midrange/">文章</a> <del>我絕對不會說是為了湊網站初期的文章數才搬運過來的</del>。<br>不過距離撰文當下也過了蠻久的，中間一度使用量跌落至二線套牌的水準，但在八月底後又慢慢爬圍一線。<br>另外既然 WOE 準備要發售了，這邊順便寫一下在 WOE 後我會想要怎麼改善套牌。進入我眼中的牌有兩張：<br>2. <a class="link"   href="https://cards.scryfall.io/large/front/b/1/b18402dc-c4ab-417c-92d1-5e4d9cfb840d.jpg" >The End <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+<h2 id="Edit-Post-WOE"><a href="#Edit-Post-WOE" class="headerlink" title="Edit: Post WOE"></a>Edit: Post WOE</h2><p>這篇是當時我在自己的部落格發的<a class="link"   href="https://miohitokiri5474.github.io/game/Rakdos-Midrange/" >文章 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> <del>我絕對不會說是為了湊網站初期的文章數才搬運過來的</del>。<br>不過距離撰文當下也過了蠻久的，中間一度使用量跌落至二線套牌的水準，但在八月底後又慢慢爬圍一線。<br>另外既然 WOE 準備要發售了，這邊順便寫一下在 WOE 後我會想要怎麼改善套牌。進入我眼中的牌有兩張：<br>2. <a class="link"   href="https://cards.scryfall.io/large/front/b/1/b18402dc-c4ab-417c-92d1-5e4d9cfb840d.jpg" >The End <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
 <ol>
 <li><a class="link"   href="https://cards.scryfall.io/large/front/1/8/18c59776-e1f1-4197-a128-db1d603f56b7.jpg" >Beseech the Mirror <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
 </ol>
@@ -71,7 +71,7 @@
   </entry>
   <entry>
     <title>克撒傳怎麼自爆了</title>
-    <url>/mtg_blog/Saga-and-Moon/</url>
+    <url>/Saga-and-Moon/</url>
     <content><![CDATA[<p>要問起近代新篇2中哪張牌讓裁判收到了最多次的規則諮詢，那我想非<a class="link"   href="https://scryfall.com/card/mh2/259/zht/%E5%85%8B%E6%92%92%E5%82%B3" >克撒傳 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>莫屬了，不僅是史上第一張結界地，更是前無古人(可能也後無來者)的傳紀地，這也讓它的規則Q&amp;A異常精彩。</p>
 <p>其中最常見的問題便是與<a class="link"   href="https://scryfall.com/card/2xm/118/blood-moon" >腥紅之月 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>、<a class="link"   href="https://scryfall.com/card/zen/70/spreading-seas" >海域蔓延 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>等單卡的互動如何導致<a class="link"   href="https://scryfall.com/card/mh2/259/zht/%E5%85%8B%E6%92%92%E5%82%B3" >克撒傳 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>自爆，今天就來聊聊有關傳紀的一些規則話題。</p>
 <p>(備註 : 為便於閱讀理解，以下引用規則文時會適當忽略部分規則描述，完整規則請以連結原文為主。)</p>
@@ -142,7 +142,7 @@
   </entry>
   <entry>
     <title>豬鼻子的艾卓荒野(WOE)限制賽初探 — 機制介紹</title>
-    <url>/mtg_blog/WOE-mechanism/</url>
+    <url>/WOE-mechanism/</url>
     <content><![CDATA[<blockquote>
 <p><strong>註：以下WOE機制中所提到的數量，係由主系列 — 也就是輪抽補充包所能開到的277張牌，再加上附屬系列 — 魅附奇譚(Enchanting Tales, WOT)中的63張重印結界牌，一共340張牌所做的統計。不包含系列包能開出的編號外的Jumpstart卡、異圖(showcase)卡、無邊框(Bordless)卡、以及聚珍補充包限定的擴畫(extend)卡等牌張。</strong></p>
 </blockquote>
@@ -409,7 +409,7 @@
   </entry>
   <entry>
     <title>如何施放無費用咒語</title>
-    <url>/mtg_blog/casting-spell-without-mana-cost/</url>
+    <url>/casting-spell-without-mana-cost/</url>
     <content><![CDATA[<p>MTG的咒語中存在著一種特殊異類，它們沒有正常的施放費用，也無法像一般咒語一樣直接從手上施放，想要施放它們只能使用某些特殊手段。</p>
 <p>對於常打Modern的玩家，這些咒語肯定不陌生，哪些方法能讓你施放這些牌、哪些則不行，這些判定結果相信基本也掌握了。</p>
 <p>但是問起背後是怎樣底層規則在運作? 或許就不是那麼明白了，如果對於這些規則有著刨根問底的興趣，就來看看這次的文章吧。</p>
@@ -517,7 +517,7 @@
   </entry>
   <entry>
     <title>艾卓仙蹤標準初探 : 葛加理互鬥抹煞獸</title>
-    <url>/mtg_blog/Golgari-Obliterator/</url>
+    <url>/Golgari-Obliterator/</url>
     <content><![CDATA[<p>雖然標題寫著標準初探，但不是依靠艾卓新牌而成立的牌型，而是對現有牌表的改良。</p>
 <p>這套互鬥抹煞獸是筆者近半年持續在操作的套牌，打起來手感十分良好，並且這次艾卓仙蹤收穫了數量不多卻大幅補足了原有弱點的新牌。</p>
 <p><a class="link"   href="https://www.mtggoldfish.com/deck/5827985#paper" >牌表連結 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
@@ -682,37 +682,37 @@
   </entry>
   <entry>
     <title>Mio&#39;s Izzet Murktide List</title>
-    <url>/mtg_blog/Izzet-Murktide/</url>
+    <url>/Izzet-Murktide/</url>
     <content><![CDATA[<h2 id="Before-We-Start"><a href="#Before-We-Start" class="headerlink" title="Before We Start"></a>Before We Start</h2><p>自從 MH2 發售以來，紅藍龍侯都是我很喜歡的其中一套近代套牌。<br>當時因為勒格文太貴了，只好作罷。<br>經過了不少風風雨雨，終於在今年五月時組完整套龍侯了，詳細的過程我們有空再說。</p>
-<p>以前曾在自己的 blog 上面寫過類似的文章，不過那也是 Preordain 解禁前的事情了，想要回顧一下當時的文章可以<a href="https://miohitokiri5474.github.io/game/Izzet-Murktide/">點這裡</a>。</p>
+<p>以前曾在自己的 blog 上面寫過類似的文章，不過那也是 Preordain 解禁前的事情了，想要回顧一下當時的文章可以<a class="link"   href="https://miohitokiri5474.github.io/game/Izzet-Murktide/" >點這裡 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>。</p>
 <span id="more"></span>
 
 <h2 id="Decklist-Deck-Tech"><a href="#Decklist-Deck-Tech" class="headerlink" title="Decklist &amp; Deck Tech"></a>Decklist &amp; Deck Tech</h2><p>按照慣例先上個<a class="link"   href="https://www.mtggoldfish.com/deck/5829573#paper" >牌表 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>。<br>在我上次寫的文章中，提到我有考慮以兩種方式加入 Preordain 這張牌，分別是 <code>八張一費濾牌</code> 以及 <code>以 Preordain 取代 Consider</code>。<br>最後我選擇的方案，是不完全的 <code>八張一費濾牌</code>，最後我只選放七張。<br>放一堆找牌去找東西，為什麼我不直接把重點多放一張就好XD<br>例如我最近測起來發現很容易卡地，所以把第四張 Consider 換成多一張找地地。<br>畢竟原本的位置就是放海島 cycle 去找地，現在不能穩定的找出地來等於是真正打 17 地，而不是有 19 地當作有兩塊是躺地）這樣。</p>
 <h3 id="Creatures"><a href="#Creatures" class="headerlink" title="Creatures"></a>Creatures</h3><p><img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="/mtg_blog/images/Izzet-Murktide/Creatures.jpg"
+                     data-src="/images/Izzet-Murktide/Creatures.jpg"
                      
                 ></p>
 <p>生物的部分跟現在 meta 上超過九成的人差不多，Ragavan 跟 DRC 放滿、兩張 Subtlety、三張 Murktide Regent。<br>Ragavan 作為環境中最強的一點生物，打 tempo&#x2F;midrange&#x2F;control 都很舒服，賺資源又賺珍寶，讚啦。<br>DRC 是主要的堆墳手段，同時能用來過濾抽牌時的牌庫頂。躁狂之後變成 3&#x2F;3 + 飛行刷傷害很快，雖然一定要攻擊有時候很尷尬，但整體來說還是劣大於優的牌。<br>Subtlety 則是為了應付目前環境中的一回 Scam 和四色元素中不能被康的歐納斯&#x2F;小泰&#x2F;卡恩。<br>Murktide Regent 是現在唯一的大打點，以前還有 Ledger Shredder，不過自從弓箭手橫空出世之後，這種一定要抽牌的東西只能忍痛拔掉了。</p>
 <h3 id="Spells"><a href="#Spells" class="headerlink" title="Spells"></a>Spells</h3><p><img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="/mtg_blog/images/Izzet-Murktide/Spells.jpg"
+                     data-src="/images/Izzet-Murktide/Spells.jpg"
                      
                 ></p>
 <p>巫術瞬間蠻直觀的，Lightning Bolt 以及 Unholy Heat 是點燒，用來解場面用的。<br>而 Consider, Preordain, Expressive Iteration 就是濾牌。<br>剩下的都是康，因為現在環境有點臭所以康的數量不少（加上備牌），感覺有點不健康 &#x3D; &#x3D;<br>另外 Lightning Bolt 我個人不會放到滿，以目前的環境來說就是最多三張，打三已經處理不了某些場面了。<br>然後是手上如果同時有兩張燒，躁狂前如果打二就足夠會優先丟 Unholy Heat，躁狂後則是會優先丟 Lightning Bolt，除非要留著打臉做斬殺。</p>
 <h3 id="Mishra’s-Bauble"><a href="#Mishra’s-Bauble" class="headerlink" title="Mishra’s Bauble"></a>Mishra’s Bauble</h3><p><img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="/mtg_blog/images/Izzet-Murktide/Mishras-Bauble.jpg"
+                     data-src="/images/Izzet-Murktide/Mishras-Bauble.jpg"
                      
                 ></p>
 <p>濾牌 + 額外資訊 + 配合 DRC 做刺探 + 湊躁狂，強牌。</p>
 <h3 id="Sideboard"><a href="#Sideboard" class="headerlink" title="Sideboard"></a>Sideboard</h3><p><img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="/mtg_blog/images/Izzet-Murktide/Sideboard.jpg"
+                     data-src="/images/Izzet-Murktide/Sideboard.jpg"
                      
                 ></p>
 <p>Sideboard 的部分跟之前沒差（也沒什麼好調整的，環境還是長得差不多），所以以下的內容為複製貼上（我就懶）。</p>
@@ -725,7 +725,7 @@
 <p><img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="/mtg_blog/images/Izzet-Murktide/Sample-hands-01.png"
+                     data-src="/images/Izzet-Murktide/Sample-hands-01.png"
                      
                 ></p>
 <p>算是很舒服，打什麼都能接的起手。</p>
@@ -733,7 +733,7 @@
 <p><img  
                      lazyload
                      src="/images/loading.svg"
-                     data-src="/mtg_blog/images/Izzet-Murktide/Sample-hands-02.png"
+                     data-src="/images/Izzet-Murktide/Sample-hands-02.png"
                      
                 ></p>
 <p>也都能接，只是會稍微痛苦一點，而且會有一些細節上的差異等等會提到。</p>
@@ -1202,7 +1202,7 @@
   </entry>
   <entry>
     <title>豬鼻子的艾卓荒野(WOE)限制賽初探 — 黑色</title>
-    <url>/mtg_blog/WOE-Black/</url>
+    <url>/WOE-Black/</url>
     <content><![CDATA[<p>本文採用LSV以及Reid Duke兩位大神發表在Channelfireball(CFB)網站上的魔戒：中土世界傳奇 (LOTR)的限制賽評分標準以及行文格式。</p>
 <span id="more"></span>
 
@@ -1605,7 +1605,7 @@
   </entry>
   <entry>
     <title>豬鼻子的艾卓荒野(WOE)限制賽初探 — 藍色</title>
-    <url>/mtg_blog/WOE-Blue/</url>
+    <url>/WOE-Blue/</url>
     <content><![CDATA[<p>本文採用LSV以及Reid Duke兩位大神發表在Channelfireball(CFB)網站上的魔戒：中土世界傳奇 (LOTR)的限制賽評分標準以及行文格式。</p>
 <span id="more"></span>
 
@@ -1929,12 +1929,15 @@
         <category>WOE-Limit</category>
       </categories>
       <tags>
-        <tag>cephille - 豬鼻子的mtg世界 - WOE - Limited</tag>
+        <tag>cephille</tag>
+        <tag>豬鼻子的mtg世界</tag>
+        <tag>WOE</tag>
+        <tag>Limited</tag>
       </tags>
   </entry>
   <entry>
     <title>豬鼻子的艾卓荒野(WOE)限制賽初探 — 綠色</title>
-    <url>/mtg_blog/WOE-Green/</url>
+    <url>/WOE-Green/</url>
     <content><![CDATA[<p>本文採用LSV以及Reid Duke兩位大神發表在Channelfireball(CFB)網站上的魔戒：中土世界傳奇 (LOTR)的限制賽評分標準以及行文格式。</p>
 <span id="more"></span>
 
@@ -2299,7 +2302,7 @@
   </entry>
   <entry>
     <title>豬鼻子的艾卓荒野(WOE)限制賽初探 — 紅色</title>
-    <url>/mtg_blog/WOE-Red/</url>
+    <url>/WOE-Red/</url>
     <content><![CDATA[<p>本文採用LSV以及Reid Duke兩位大神發表在Channelfireball(CFB)網站上的魔戒：中土世界傳奇 (LOTR)的限制賽評分標準以及行文格式。</p>
 <span id="more"></span>
 
@@ -2673,7 +2676,7 @@
   </entry>
   <entry>
     <title>豬鼻子的艾卓荒野(WOE)限制賽初探 — 魅附奇譚(WOT)</title>
-    <url>/mtg_blog/WOE-WOT/</url>
+    <url>/WOE-WOT/</url>
     <content><![CDATA[<p>本文採用LSV以及Reid Duke兩位大神發表在Channelfireball(CFB)網站上的魔戒：中土世界傳奇 (LOTR)的限制賽評分標準以及行文格式。</p>
 <span id="more"></span>
 
@@ -3241,7 +3244,7 @@
   </entry>
   <entry>
     <title>豬鼻子的艾卓荒野(WOE)限制賽初探 — 白色</title>
-    <url>/mtg_blog/WOE-White/</url>
+    <url>/WOE-White/</url>
     <content><![CDATA[<p>本文採用LSV以及Reid Duke兩位大神發表在Channelfireball(CFB)網站上的魔戒：中土世界傳奇 (LOTR)的限制賽評分標準以及行文格式。</p>
 <span id="more"></span>
 
@@ -3624,10 +3627,10 @@
   </entry>
   <entry>
     <title>豬鼻子的艾卓荒野(WOE)限制賽初探 — 多色、神器、地</title>
-    <url>/mtg_blog/WOE-multicolors/</url>
+    <url>/WOE-multicolors/</url>
     <content><![CDATA[<p>本文採用LSV以及Reid Duke兩位大神發表在Channelfireball(CFB)網站上的魔戒：中土世界傳奇 (LOTR)的限制賽評分標準以及行文格式。</p>
 <span id="more"></span>
-<h2 id="評分標準-Grading-Scale"><a href="#評分標準-Grading-Scale" class="headerlink" title="評分標準 (Grading Scale)"></a>評分標準 (Grading Scale)</h2><p>已退休但榮登限制賽炸彈名人堂的霸者們: <a class="link"   href="https://https//cdn1.mtggoldfish.com/images/h/Pack-Rat-RTR-672.jpg" >Pack Rat <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>, <a class="link"   href="https://cdn1.mtggoldfish.com/images/h/Umezawas-Jitte-BOK-672.jpg" >Umezawa’s Jitte <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>, <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0353_MTGCMM_Main.png" >The Scarab God <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</p>
+<h2 id="評分標準-Grading-Scale"><a href="#評分標準-Grading-Scale" class="headerlink" title="評分標準 (Grading Scale)"></a>評分標準 (Grading Scale)</h2><p>已退休但榮登限制賽炸彈名人堂的霸者們: <a href="https://https//cdn1.mtggoldfish.com/images/h/Pack-Rat-RTR-672.jpg">Pack Rat</a>, <a class="link"   href="https://cdn1.mtggoldfish.com/images/h/Umezawas-Jitte-BOK-672.jpg" >Umezawa’s Jitte <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>, <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0353_MTGCMM_Main.png" >The Scarab God <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</p>
 <ul>
 <li>5.0: <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0051_MTGMOM_Main.png" >Chrome Host Seedshark <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>. <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0094_MTGMOM_Main.png" >Breach the Multiverse <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>. <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0040_MTGMOM_Main.png" >Sunfall <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</li>
 <li>4.5: <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0185_MTGMOM_Main.png" >Doomskar Warrior <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>. <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0089_MTGMOM_Main.png" >Archpriest of Shadows <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>. <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0219_MTGMOM_Main.png" >Borborygmos and Fblthp <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</li>
