@@ -2,7 +2,7 @@
 title: '豬鼻子的艾卓荒野(WOE)限制賽初探 — 藍色'
 date: 2023-09-05 17:30:21
 tags:
-- cephille
+ - cephille
  - 豬鼻子的mtg世界
  - WOE
  - Limited
