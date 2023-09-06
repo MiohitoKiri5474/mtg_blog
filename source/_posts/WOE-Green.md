@@ -7,6 +7,7 @@ tags:
  - WOE
  - Limited
 categories: WOE-Limit
+excerpt: "食品與線索...怪物與皇族的故事最終是...艾卓荒野(WOE)限制賽中綠色牌的評分與介紹看這邊！"
 ---
 
 本文採用LSV以及Reid Duke兩位大神發表在Channelfireball(CFB)網站上的魔戒：中土世界傳奇 (LOTR)的限制賽評分標準以及行文格式。

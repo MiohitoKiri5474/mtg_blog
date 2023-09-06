@@ -7,7 +7,9 @@ tags:
  - WOE
  - Limited
 categories: WOE-Limit
-
+cover: 'https://guildmagesforum.tw/images/WOE-Red.jpg'
+thumbnail: 'https://guildmagesforum.tw/images/WOE-Red.jpg'
+excerpt: "鬼怪、鼠群、大無畏的突擊！艾卓荒野(WOE)限制賽中紅色牌的評分與介紹看這邊！"
 ---
 
 本文採用LSV以及Reid Duke兩位大神發表在Channelfireball(CFB)網站上的魔戒：中土世界傳奇 (LOTR)的限制賽評分標準以及行文格式。
