@@ -279,8 +279,8 @@ EE 跟康上滿，然後把 Lightning Bolt 這種點不掉犀牛跟 Subtlety 康
 
 | Side Out | Side In |
 | :-: | :-: |
-| -1 Murktide Regent | +2 Flusterstorm |
-| -4 Unholy Heat | +1 Force of Negation |
+| -2 Subtlety | +2 Flusterstorm |
+| -3 Unholy Heat | +1 Force of Negation |
 | | +1 Mystical Dispute |
 | | +1 Fury |
 
