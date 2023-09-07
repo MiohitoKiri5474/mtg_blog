@@ -7,7 +7,7 @@ tags:
  - Decktech
 cover: "https://cdnb.artstation.com/p/assets/images/images/017/692/791/large/adam-paquette-402481-r.jpg?1556986302"
 thumbnail: "https://cdnb.artstation.com/p/assets/images/images/017/692/791/large/adam-paquette-402481-r.jpg?1556986302"
-excerpt: '看起來好像似曾相識的標題？這就對啦！我就是想水一篇文章啦怎麼樣？'
+excerpt: '看起來好像似曾相識的標題？這就對啦！'
 ---
 
 ## Before We Start
