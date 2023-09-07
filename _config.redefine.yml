@@ -173,11 +173,14 @@ navbar:
       path: /
       icon: fa-regular fa-house # can be empty
     # Archives: 
-    #  path: /archives 
+    #  path: /archives
     #  icon: fa-regular fa-archive # can be empty
     # Status: 
     #   path: https://status.evanluo.top/
     #   icon: fa-regular fa-chart-bar
+    Home: 
+      path: /
+      icon: fa-regular fa-house
     Tags:
       path: /tags
       icon: fa-regular fa-tags
