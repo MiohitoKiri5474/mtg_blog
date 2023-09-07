@@ -108,4 +108,4 @@ deploy:
   branch: gp_deploy
 
 # Neat
-all_minifier: False
+all_minifier: True

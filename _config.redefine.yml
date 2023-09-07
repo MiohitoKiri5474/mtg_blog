@@ -188,11 +188,12 @@ navbar:
       path: /about
       icon: fa-regular fa-user
     Contact Us:
-      path: /contact-us
+      path: /Contact-Us
       icon: fa-regular fa-mailbox-flag-up
     Links: 
       icon: fa-regular fa-link
       submenus:
+        Guildmages' Forum 粉專: https://www.facebook.com/Pignosemtgworld
         Gamer MiohitoKiri: https://miohitokiri5474.github.io/game
         豬鼻子的mtg世界: https://www.facebook.com/Pignosemtgworld
         多明納里亞圖書館: https://dominarialibrary.com
@@ -231,7 +232,7 @@ home:
         path: /about
         icon: fa-regular fa-user
       Contact Us:
-        path: /contact-us
+        path: /Contact-Us
         icon: fa-regular fa-mailbox-flag-up
       # ...... # you can add more
   # Article date format
@@ -293,9 +294,9 @@ articles:
     # Article recommendation title
     title: 或許你會喜歡
     # Max number of articles to display
-    limit: 3
+    limit: 5
     # Max number of articles to display mobile
-    mobile_limit: 2
+    mobile_limit: 3
     # Placeholder image
     placeholder: /images/wallhaven-wqery6-light.webp
     # Skip directory
@@ -328,17 +329,17 @@ comment:
       region: # Twikoo region. can be empty
     # Giscus comment system. See https://giscus.app/
     giscus:
-      repo: # Github repository name e.g. EvanNotFound/hexo-theme-redefine
-      repo_id: # Github repository id
-      category: # Github discussion category
-      category_id: # Github discussion category id
+      repo: MiohitoKiri5474/mtg_blog # Github repository name e.g. EvanNotFound/hexo-theme-redefine
+      repo_id: R_kgDOKKeAMw # Github repository id
+      category: General # Github discussion category
+      category_id: DIC_kwDOKKeAM84CZIEs # Github discussion category id
       mapping: pathname # Which value to use as the unique identifier for the page. e.g. pathname, url, title, og:title. DO NOT USE og:title WITH PJAX ENABLED since pjax will not update og:title when the page changes
       strict: 0 # Whether to enable strict mode. e.g. 0, 1
       reactions_enabled: 1 # Whether to enable reactions. e.g. 0, 1
       emit_metadata: 0 # Whether to emit metadata. e.g. 0, 1
-      lang: en # Giscus language. e.g. en, zh-CN, zh-TW
-      input_position: bottom # Place the comment box above/below the comments. e.g. top, bottom
-      loading: lazy # Load the comments lazily
+      lang: zh-TW # Giscus language. e.g. en, zh-CN, zh-TW
+      input_position: top # Place the comment box above/below the comments. e.g. top, bottom
+      loading: not-lazy # Load the comments lazily
 # COMMENT <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
 
 
