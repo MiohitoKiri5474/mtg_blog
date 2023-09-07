@@ -178,9 +178,6 @@ navbar:
     # Status: 
     #   path: https://status.evanluo.top/
     #   icon: fa-regular fa-chart-bar
-    Home: 
-      path: /
-      icon: fa-regular fa-house
     Tags:
       path: /tags
       icon: fa-regular fa-tags
@@ -222,6 +219,9 @@ home:
     first_item: info # First item in sidebar. menu, info
     announcement: # Announcement text
     links:
+      Home: 
+        path: /
+        icon: fa-regular fa-house # can be empty
       # Archives: 
       #  path: /archives 
       #  icon: fa-regular fa-archive # can be empty
@@ -297,7 +297,7 @@ articles:
     # Article recommendation title
     title: 或許你會喜歡
     # Max number of articles to display
-    limit: 5
+    limit: 6
     # Max number of articles to display mobile
     mobile_limit: 3
     # Placeholder image
