@@ -131,7 +131,7 @@ Hardened Scales 則是可以很過分的做一個 X = 0 的弩砲 BM 對手.....
 
 上週末 MITQ 也開打了，團隊內回報北部這週是 Rhinos 最多，其次是 Burn 以及 Scam，預期下週開始會有大量的 [Chalice of the Void](https://cards.scryfall.io/large/front/1/f/1f0d2e8e-c8f2-4b31-a6ba-6283fc8740d4.jpg?1562433485) 以及 [Engineered Explosives](https://cards.scryfall.io/large/front/4/2/420bf1e9-f2ec-4dff-b540-e64de71e58be.jpg?1599709112) 出現，Rhinos 要注意一下，或是乾脆換套牌，打打 Omnath 或是 Tron，甚至 Burn 去抓前面這兩套都沒問題。
 
-而南部......這兩週沒比賽而且什麼都有什麼都不奇怪，但如果為了九月底以及十月初的比賽，是可以考慮 Rhinos 以及 Scam 這種綜合勝率比較高、沒有重大弱點的套牌，如果覺得練習量太高也可以轉打 Merfloks 或 Hammer Time 這些只要有一些底子就能打得不錯的套牌。
+而南部......這兩週沒比賽而且套牌分佈什麼都有什麼都不奇怪，但如果為了九月底以及十月初的比賽，是可以考慮 Rhinos 以及 Scam 這種綜合勝率比較高、沒有重大弱點的套牌，如果覺得練習量太高也可以轉打 Merfloks 或 Hammer Time 這些只要有一些底子就能打得不錯的套牌。
 
 ## Epilogue
 
