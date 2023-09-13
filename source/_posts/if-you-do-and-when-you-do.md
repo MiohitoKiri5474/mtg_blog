@@ -21,8 +21,8 @@ excerpt: "來談談 If you do 與 When you do 差一個字所產生的規則差�
 
 此類效應會先詢問你是否執行某項動作、或者單純的讓你執行該動作，如果你執行了，則產生後續效果。然而在產生後續效果的規則敘述上有兩種寫法，分別是：
 
-- **If** you do (**若**你如此作)
-- **When** you do (**當**你如此作)
+- **If** you do （**若**你如此作）
+- **When** you do （**當**你如此作）
 
 今天就來分析一下兩者差異，以及究竟這些效應在堆疊上是長怎樣的。鑑於觸發式異能的案例最為常見，也最容易產生實戰上的規則疑問，因此下文皆以觸發式異能做說明。
 
@@ -36,8 +36,8 @@ excerpt: "來談談 If you do 與 When you do 差一個字所產生的規則差�
 ## If you do
 
 - 敘述 : 
-1.你可以執行A動作。**若**你如此作(**If** you do)，則產生B效果。
-2.執行A動作。**若**你如此作(**If** you do)，則產生B效果。
+1.你可以執行A動作。**若**你如此作（**If** you do），則產生B效果。
+2.執行A動作。**若**你如此作（**If** you do），則產生B效果。
 
 - 結果 : 
 1.**可以執行A這項選擇**上堆疊，堆疊上該異能結算時，選擇是否執行A，**若**選擇執行A則立刻執行B效果，中間無其他可回應時機點。
@@ -52,7 +52,7 @@ excerpt: "來談談 If you do 與 When you do 差一個字所產生的規則差�
 
 對於If you do的寫法，再讓我們看看一個具體的情境題。
 
-假設我方場上有[無私精靈](https://scryfall.com/card/clb/706/zht/%E7%84%A1%E7%A7%81%E7%B2%BE%E9%9D%88)與其他生物，對方墳場中有[寇基雷再臨](https://scryfall.com/card/ogw/98/zht/%E5%AF%87%E5%9F%BA%E9%9B%B7%E5%86%8D%E8%87%A8)，現在對手從手上施放了[虛空篩除體](https://scryfall.com/card/bfz/17/zht/%E8%99%9B%E7%A9%BA%E7%AF%A9%E9%99%A4%E9%AB%94)，並觸發了墳場中[寇基雷再臨](https://scryfall.com/card/ogw/98/zht/%E5%AF%87%E5%9F%BA%E9%9B%B7%E5%86%8D%E8%87%A8)的能力 **(你可以將寇基雷再臨從你的墳墓場放逐。若你如此作，則寇基雷再臨對每個生物各造成5點傷害)**。
+假設我方場上有[無私精靈](https://scryfall.com/card/clb/706/zht/%E7%84%A1%E7%A7%81%E7%B2%BE%E9%9D%88)與其他生物，對方墳場中有[寇基雷再臨](https://scryfall.com/card/ogw/98/zht/%E5%AF%87%E5%9F%BA%E9%9B%B7%E5%86%8D%E8%87%A8)，現在對手從手上施放了[虛空篩除體](https://scryfall.com/card/bfz/17/zht/%E8%99%9B%E7%A9%BA%E7%AF%A9%E9%99%A4%E9%AB%94)，並觸發了墳場中[寇基雷再臨](https://scryfall.com/card/ogw/98/zht/%E5%AF%87%E5%9F%BA%E9%9B%B7%E5%86%8D%E8%87%A8)的能力 **（你可以將寇基雷再臨從你的墳墓場放逐。若你如此作，則寇基雷再臨對每個生物各造成5點傷害）**。
 
 現在上堆疊的異能為 **「你可以將寇基雷再臨從你的墳墓場放逐」**，對手只需等此異能結算時再選擇是否要放逐此卡，但你若希望使用[無私精靈](https://scryfall.com/card/clb/706/zht/%E7%84%A1%E7%A7%81%E7%B2%BE%E9%9D%88)的異能來給己方所有生物獲得不滅異能，需要回應對方 **「是否放逐此卡」** 的異能先啟動[無私精靈](https://scryfall.com/card/clb/706/zht/%E7%84%A1%E7%A7%81%E7%B2%BE%E9%9D%88)的異能，如果這時沒讓你的生物獲得不滅，等[寇基雷再臨](https://scryfall.com/card/ogw/98/zht/%E5%AF%87%E5%9F%BA%E9%9B%B7%E5%86%8D%E8%87%A8)異能結算時，對手若選擇從墳場放逐，5點傷害就會立刻燒在所有生物身上，這時你是沒有機會可以啟動[無私精靈](https://scryfall.com/card/clb/706/zht/%E7%84%A1%E7%A7%81%E7%B2%BE%E9%9D%88)異能的。反之如果你回應了對方先啟動了[無私精靈](https://scryfall.com/card/clb/706/zht/%E7%84%A1%E7%A7%81%E7%B2%BE%E9%9D%88)全體不滅的能力，對手在[寇基雷再臨](https://scryfall.com/card/ogw/98/zht/%E5%AF%87%E5%9F%BA%E9%9B%B7%E5%86%8D%E8%87%A8)異能結算時可以選擇不放逐墳場中的此卡，這麼一來對手等於白嫖了你的一隻[無私精靈](https://scryfall.com/card/clb/706/zht/%E7%84%A1%E7%A7%81%E7%B2%BE%E9%9D%88)且依舊扣有[寇基雷再臨](https://scryfall.com/card/ogw/98/zht/%E5%AF%87%E5%9F%BA%E9%9B%B7%E5%86%8D%E8%87%A8)掃場5點傷害的選擇，只須等到下次滿足觸發條件即可。
 
@@ -63,8 +63,8 @@ excerpt: "來談談 If you do 與 When you do 差一個字所產生的規則差�
 ## When you do
 
 - 敘述 : 
-1.你可以執行A動作。**當**你如此作(**When** you do)，則產生B效果。
-2.執行A動作。**當**你如此作(**When** you do)，則產生B效果。
+1.你可以執行A動作。**當**你如此作（**When** you do），則產生B效果。
+2.執行A動作。**當**你如此作（**When** you do），則產生B效果。
 
 - 結果 : 
 1.**可以執行A這項選擇**上堆疊，堆疊上該異能結算時，選擇是否執行A，**當**選擇執行A，則產生新的異能B並上堆疊，該異能B可以被回應。
@@ -72,19 +72,19 @@ excerpt: "來談談 If you do 與 When you do 差一個字所產生的規則差�
 
 - 範例 : 
 [金圓搜集靈](https://scryfall.com/card/mom/227/halo-forager) : 你可以支付X。**當**你如此作時，你可以從任一墳墓場中施放目標魔法力值為X的瞬間或巫術牌，且不需要支付其魔法力費用。
-[永岩城重砌考(章節II)](https://scryfall.com/card/neo/34/the-restoration-of-eiganjo-architect-of-restoration) : 你可以棄一張牌。**當**你如此作時，將目標魔法力值等於或小於2的永久物牌從你的墳墓場橫置移回戰場。
-[墓地瀆聖屍](https://scryfall.com/card/vow/100/cemetery-desecrator) : 當此卡進戰場或死去時，從任一墳墓場放逐另一張牌。**當**你如此作時，選擇一項～(下略)。
+[永岩城重砌考（章節II）](https://scryfall.com/card/neo/34/the-restoration-of-eiganjo-architect-of-restoration) : 你可以棄一張牌。**當**你如此作時，將目標魔法力值等於或小於2的永久物牌從你的墳墓場橫置移回戰場。
+[墓地瀆聖屍](https://scryfall.com/card/vow/100/cemetery-desecrator) : 當此卡進戰場或死去時，從任一墳墓場放逐另一張牌。**當**你如此作時，選擇一項～（下略）。
 
 ![When you do](https://i.imgur.com/bfhzhFe.jpg)
 
 
 When you do與If you do最主要的區別，便是後續的B效應是否會產生新的可回應堆疊，若是覺得這像是個文字遊戲容易記錯的話，可以想想平時在MTG看到When時，經常就是伴隨著一個會上堆疊的觸發式異能。
 
-實際上這也不只是一個記憶訣竅，而是遊戲真實的運作機制，這類效應確實會產生一個新的觸發式異能，或者更精準地說：[自身觸發式異能(Reflexive triggered abilities)](https://mtg.fandom.com/wiki/Triggered_ability)，該異能規範可參考[規則603.12](https://mtg.fandom.com/wiki/Triggered_ability)。
+實際上這也不只是一個記憶訣竅，而是遊戲真實的運作機制，這類效應確實會產生一個新的觸發式異能，或者更精準地說：[自身觸發式異能 (Reflexive triggered abilities)](https://mtg.fandom.com/wiki/Triggered_ability)，該異能規範可參考[規則603.12](https://mtg.fandom.com/wiki/Triggered_ability)。
 
 同樣讓我們來看一個情境題加深記憶。
 
-假設對方場上有[永岩城重砌考](https://scryfall.com/card/neo/34/the-restoration-of-eiganjo-architect-of-restoration)，我方場上有 [無牌靈車](https://scryfall.com/card/snc/246/unlicensed-hearse)，對手的[永岩城重砌考](https://scryfall.com/card/neo/34/the-restoration-of-eiganjo-architect-of-restoration)觸發了第II章的能力 **(你可以棄一張牌。當你如此作時，將目標魔法力值等於或小於2的永久物牌從你的墳墓場橫置移回戰場)**。
+假設對方場上有[永岩城重砌考](https://scryfall.com/card/neo/34/the-restoration-of-eiganjo-architect-of-restoration)，我方場上有 [無牌靈車](https://scryfall.com/card/snc/246/unlicensed-hearse)，對手的[永岩城重砌考](https://scryfall.com/card/neo/34/the-restoration-of-eiganjo-architect-of-restoration)觸發了第II章的能力 **（你可以棄一張牌。當你如此作時，將目標魔法力值等於或小於2的永久物牌從你的墳墓場橫置移回戰場）**。
 
 現在上堆疊的異能為 **「你可以棄一張牌」**，此時對手還無須決定是否棄牌，也沒有任何墳場中的牌會成為目標，當然你依舊可以回應此異能啟動[無牌靈車](https://scryfall.com/card/snc/246/unlicensed-hearse)的異能或是做任何瞬間時機能做的事，只是可能意義不大，因為等到 **「你可以棄一張牌」** 結算時，對手才選擇是否棄牌。
 
