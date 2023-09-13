@@ -20,6 +20,24 @@
   </url>
   
   <url>
+    <loc>https://guildmagesforum.tw/Rakdos-Midrange/</loc>
+    
+    <lastmod>2023-09-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://guildmagesforum.tw/Saga-and-Moon/</loc>
+    
+    <lastmod>2023-09-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://guildmagesforum.tw/WOE-mechanism/</loc>
     
     <lastmod>2023-09-13</lastmod>
@@ -39,6 +57,15 @@
   
   <url>
     <loc>https://guildmagesforum.tw/if-you-do-and-when-you-do/</loc>
+    
+    <lastmod>2023-09-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://guildmagesforum.tw/WOE-Black/</loc>
     
     <lastmod>2023-09-13</lastmod>
     
@@ -128,24 +155,6 @@
   </url>
   
   <url>
-    <loc>https://guildmagesforum.tw/Rakdos-Midrange/</loc>
-    
-    <lastmod>2023-09-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://guildmagesforum.tw/Saga-and-Moon/</loc>
-    
-    <lastmod>2023-09-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://guildmagesforum.tw/Golgari-Obliterator/</loc>
     
     <lastmod>2023-09-13</lastmod>
@@ -156,15 +165,6 @@
   
   <url>
     <loc>https://guildmagesforum.tw/Izzet-Murktide/</loc>
-    
-    <lastmod>2023-09-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://guildmagesforum.tw/WOE-Black/</loc>
     
     <lastmod>2023-09-13</lastmod>
     
