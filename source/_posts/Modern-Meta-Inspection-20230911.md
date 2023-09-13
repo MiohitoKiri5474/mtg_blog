@@ -95,7 +95,7 @@ Omnath 算是我近期很看好的套牌，最主要的原因是多了這張：
 只要場面養起來就是瘋狂的一直生 1/1，不用做組合技也沒關係，用 1/1 昆蟲海死對手就好了。
 
 Hardened Scales 則是可以很過分的做一個 X = 0 的弩砲 BM 對手......我是說手動把弩砲丟進墳然後吃掉。
-同時 Agtha's Soul Cauldron 也可以用來規避 [Pithing Needle](https://cards.scryfall.io/large/front/7/7/776899f8-e977-42b7-8b54-6f726a349e3c.jpg?1673149414)，即便被鎖住生物的啟動式異能，也可以把該生物丟進墳場之後吃掉，將啟動式異能轉給其他牌名的生物（像是把 Yawgmoth 轉給 1/1 昆蟲），大大降低了生物組合技套牌對上 Pithing Needle 的勝率。
+同時 Agtha's Soul Cauldron 也可以用來規避 [Pithing Needle](https://cards.scryfall.io/large/front/7/7/776899f8-e977-42b7-8b54-6f726a349e3c.jpg?1673149414)，即便被鎖住生物的啟動式異能，也可以把該生物丟進墳場之後吃掉，將啟動式異能轉給其他牌名的生物（像是把 Yawgmoth 轉給 1/1 昆蟲），大大提高了生物組合技套牌對上 Pithing Needle 的勝率。
 
 
 ### Jund Sagavan & 5C Creativity
