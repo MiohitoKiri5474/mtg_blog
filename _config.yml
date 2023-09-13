@@ -109,3 +109,7 @@ deploy:
 
 # Neat
 all_minifier: True
+
+# nofollow
+nofollow:
+    enable: True
