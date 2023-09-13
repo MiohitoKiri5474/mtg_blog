@@ -20,15 +20,6 @@
   </url>
   
   <url>
-    <loc>https://guildmagesforum.tw/casting-spell-without-mana-cost/</loc>
-    
-    <lastmod>2023-09-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://guildmagesforum.tw/if-you-do-and-when-you-do/</loc>
     
     <lastmod>2023-09-13</lastmod>
@@ -84,6 +75,15 @@
   
   <url>
     <loc>https://guildmagesforum.tw/WOE-mechanism/</loc>
+    
+    <lastmod>2023-09-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://guildmagesforum.tw/casting-spell-without-mana-cost/</loc>
     
     <lastmod>2023-09-13</lastmod>
     
