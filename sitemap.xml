@@ -4,7 +4,7 @@
   <url>
     <loc>https://guildmagesforum.tw/others/index.html</loc>
     
-    <lastmod>2023-09-13</lastmod>
+    <lastmod>2023-09-17</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -13,61 +13,7 @@
   <url>
     <loc>https://guildmagesforum.tw/tags/index.html</loc>
     
-    <lastmod>2023-09-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://guildmagesforum.tw/if-you-do-and-when-you-do/</loc>
-    
-    <lastmod>2023-09-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://guildmagesforum.tw/about/index.html</loc>
-    
-    <lastmod>2023-09-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://guildmagesforum.tw/categories/index.html</loc>
-    
-    <lastmod>2023-09-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://guildmagesforum.tw/Modern-Meta-Inspection-20230911/</loc>
-    
-    <lastmod>2023-09-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://guildmagesforum.tw/Rakdos-Midrange/</loc>
-    
-    <lastmod>2023-09-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://guildmagesforum.tw/Saga-and-Moon/</loc>
-    
-    <lastmod>2023-09-13</lastmod>
+    <lastmod>2023-09-17</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -76,7 +22,7 @@
   <url>
     <loc>https://guildmagesforum.tw/WOE-mechanism/</loc>
     
-    <lastmod>2023-09-13</lastmod>
+    <lastmod>2023-09-17</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -85,52 +31,16 @@
   <url>
     <loc>https://guildmagesforum.tw/casting-spell-without-mana-cost/</loc>
     
-    <lastmod>2023-09-13</lastmod>
+    <lastmod>2023-09-17</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://guildmagesforum.tw/Golgari-Obliterator/</loc>
+    <loc>https://guildmagesforum.tw/if-you-do-and-when-you-do/</loc>
     
-    <lastmod>2023-09-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://guildmagesforum.tw/Izzet-Murktide/</loc>
-    
-    <lastmod>2023-09-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://guildmagesforum.tw/WOE-Black/</loc>
-    
-    <lastmod>2023-09-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://guildmagesforum.tw/WOE-Blue/</loc>
-    
-    <lastmod>2023-09-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://guildmagesforum.tw/WOE-Green/</loc>
-    
-    <lastmod>2023-09-13</lastmod>
+    <lastmod>2023-09-17</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -139,7 +49,7 @@
   <url>
     <loc>https://guildmagesforum.tw/WOE-Red/</loc>
     
-    <lastmod>2023-09-13</lastmod>
+    <lastmod>2023-09-17</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -148,7 +58,7 @@
   <url>
     <loc>https://guildmagesforum.tw/WOE-WOT/</loc>
     
-    <lastmod>2023-09-13</lastmod>
+    <lastmod>2023-09-17</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -157,7 +67,7 @@
   <url>
     <loc>https://guildmagesforum.tw/WOE-White/</loc>
     
-    <lastmod>2023-09-13</lastmod>
+    <lastmod>2023-09-17</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -166,7 +76,97 @@
   <url>
     <loc>https://guildmagesforum.tw/WOE-multicolors/</loc>
     
-    <lastmod>2023-09-13</lastmod>
+    <lastmod>2023-09-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://guildmagesforum.tw/about/index.html</loc>
+    
+    <lastmod>2023-09-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://guildmagesforum.tw/categories/index.html</loc>
+    
+    <lastmod>2023-09-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://guildmagesforum.tw/Modern-Meta-Inspection-20230911/</loc>
+    
+    <lastmod>2023-09-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://guildmagesforum.tw/Rakdos-Midrange/</loc>
+    
+    <lastmod>2023-09-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://guildmagesforum.tw/Saga-and-Moon/</loc>
+    
+    <lastmod>2023-09-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://guildmagesforum.tw/Golgari-Obliterator/</loc>
+    
+    <lastmod>2023-09-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://guildmagesforum.tw/Izzet-Murktide/</loc>
+    
+    <lastmod>2023-09-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://guildmagesforum.tw/WOE-Black/</loc>
+    
+    <lastmod>2023-09-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://guildmagesforum.tw/WOE-Blue/</loc>
+    
+    <lastmod>2023-09-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://guildmagesforum.tw/WOE-Green/</loc>
+    
+    <lastmod>2023-09-17</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -175,7 +175,7 @@
   <url>
     <loc>https://guildmagesforum.tw/Contact-Us/index.html</loc>
     
-    <lastmod>2023-09-13</lastmod>
+    <lastmod>2023-09-17</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -184,7 +184,7 @@
 
   <url>
     <loc>https://guildmagesforum.tw/</loc>
-    <lastmod>2023-09-13</lastmod>
+    <lastmod>2023-09-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -192,91 +192,91 @@
   
   <url>
     <loc>https://guildmagesforum.tw/tags/MiohitoKiri5474/</loc>
-    <lastmod>2023-09-13</lastmod>
+    <lastmod>2023-09-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://guildmagesforum.tw/tags/Modern/</loc>
-    <lastmod>2023-09-13</lastmod>
+    <lastmod>2023-09-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://guildmagesforum.tw/tags/Inspection/</loc>
-    <lastmod>2023-09-13</lastmod>
+    <lastmod>2023-09-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://guildmagesforum.tw/tags/Pioneer/</loc>
-    <lastmod>2023-09-13</lastmod>
+    <lastmod>2023-09-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://guildmagesforum.tw/tags/Decktech/</loc>
-    <lastmod>2023-09-13</lastmod>
+    <lastmod>2023-09-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://guildmagesforum.tw/tags/JruMTG/</loc>
-    <lastmod>2023-09-13</lastmod>
+    <lastmod>2023-09-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://guildmagesforum.tw/tags/MTG-Rule/</loc>
-    <lastmod>2023-09-13</lastmod>
+    <lastmod>2023-09-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://guildmagesforum.tw/tags/Legacy/</loc>
-    <lastmod>2023-09-13</lastmod>
+    <lastmod>2023-09-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://guildmagesforum.tw/tags/cephille/</loc>
-    <lastmod>2023-09-13</lastmod>
+    <lastmod>2023-09-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://guildmagesforum.tw/tags/%E8%B1%AC%E9%BC%BB%E5%AD%90%E7%9A%84mtg%E4%B8%96%E7%95%8C/</loc>
-    <lastmod>2023-09-13</lastmod>
+    <lastmod>2023-09-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://guildmagesforum.tw/tags/WOE/</loc>
-    <lastmod>2023-09-13</lastmod>
+    <lastmod>2023-09-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://guildmagesforum.tw/tags/Limited/</loc>
-    <lastmod>2023-09-13</lastmod>
+    <lastmod>2023-09-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://guildmagesforum.tw/tags/Standard/</loc>
-    <lastmod>2023-09-13</lastmod>
+    <lastmod>2023-09-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -285,14 +285,14 @@
   
   <url>
     <loc>https://guildmagesforum.tw/categories/MTG-Rules/</loc>
-    <lastmod>2023-09-13</lastmod>
+    <lastmod>2023-09-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://guildmagesforum.tw/categories/WOE-Limit/</loc>
-    <lastmod>2023-09-13</lastmod>
+    <lastmod>2023-09-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
