@@ -109,7 +109,7 @@ excerpt: '看起來好像似曾相識的標題？這就對啦！'
 
 最後這邊放個[套牌連結](https://www.mtggoldfish.com/deck/5713356#paper)。
 
-![](/images/Rakdos_midrange-min.jpg)
+![](/images/Rakdos_Midrange-min.jpg)
 
 ## Starting Hands, Countermeasures and Mulligan
 
