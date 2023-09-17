@@ -95,7 +95,7 @@ Omnath 算是我近期很看好的套牌，最主要的原因是多了這張：
 只要場面養起來就是瘋狂的一直生 1/1，不用做組合技也沒關係，用 1/1 昆蟲海死對手就好了。
 
 Hardened Scales 則是可以很過分的做一個 X = 0 的弩砲 BM 對手......我是說手動把弩砲丟進墳然後吃掉。
-同時 Agtha's Soul Cauldron 也可以用來規避 [Pithing Needle](https://cards.scryfall.io/large/front/7/7/776899f8-e977-42b7-8b54-6f726a349e3c.jpg?1673149414)，即便被鎖住生物的啟動式異能，也可以把該生物丟進墳場之後吃掉，將啟動式異能轉給其他牌名的生物（像是把 Yawgmoth 轉給 1/1 昆蟲），大大降低了生物組合技套牌對上 Pithing Needle 的勝率。
+同時 Agtha's Soul Cauldron 也可以用來規避 [Pithing Needle](https://cards.scryfall.io/large/front/7/7/776899f8-e977-42b7-8b54-6f726a349e3c.jpg?1673149414)，即便被鎖住生物的啟動式異能，也可以把該生物丟進墳場之後吃掉，將啟動式異能轉給其他牌名的生物（像是把 Yawgmoth 轉給 1/1 昆蟲），大大提高了生物組合技套牌對上 Pithing Needle 的勝率。
 
 
 ### Jund Sagavan & 5C Creativity
@@ -131,7 +131,7 @@ Hardened Scales 則是可以很過分的做一個 X = 0 的弩砲 BM 對手.....
 
 上週末 MITQ 也開打了，團隊內回報北部這週是 Rhinos 最多，其次是 Burn 以及 Scam，預期下週開始會有大量的 [Chalice of the Void](https://cards.scryfall.io/large/front/1/f/1f0d2e8e-c8f2-4b31-a6ba-6283fc8740d4.jpg?1562433485) 以及 [Engineered Explosives](https://cards.scryfall.io/large/front/4/2/420bf1e9-f2ec-4dff-b540-e64de71e58be.jpg?1599709112) 出現，Rhinos 要注意一下，或是乾脆換套牌，打打 Omnath 或是 Tron，甚至 Burn 去抓前面這兩套都沒問題。
 
-而南部......這兩週沒比賽而且什麼都有什麼都不奇怪，但如果為了九月底以及十月初的比賽，是可以考慮 Rhinos 以及 Scam 這種綜合勝率比較高、沒有重大弱點的套牌，如果覺得練習量太高也可以轉打 Merfloks 或 Hammer Time 這些只要有一些底子就能打得不錯的套牌。
+而南部......這兩週沒比賽而且套牌分佈什麼都有什麼都不奇怪，但如果為了九月底以及十月初的比賽，是可以考慮 Rhinos 以及 Scam 這種綜合勝率比較高、沒有重大弱點的套牌，如果覺得練習量太高也可以轉打 Merfloks 或 Hammer Time 這些只要有一些底子就能打得不錯的套牌。
 
 ## Epilogue
 
