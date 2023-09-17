@@ -1,6 +1,5 @@
 https://guildmagesforum.tw/others/index.html
 https://guildmagesforum.tw/tags/index.html
-https://guildmagesforum.tw/categories/index.html
 https://guildmagesforum.tw/Modern-Meta-Inspection-20230911/
 https://guildmagesforum.tw/Rakdos-Midrange/
 https://guildmagesforum.tw/Saga-and-Moon/
@@ -18,6 +17,7 @@ https://guildmagesforum.tw/WOE-White/
 https://guildmagesforum.tw/WOE-multicolors/
 https://guildmagesforum.tw/Contact-Us/index.html
 https://guildmagesforum.tw/about/index.html
+https://guildmagesforum.tw/categories/index.html
 https://guildmagesforum.tw/
 https://guildmagesforum.tw/tags/MiohitoKiri5474/
 https://guildmagesforum.tw/tags/Modern/
