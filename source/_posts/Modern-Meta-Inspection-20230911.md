@@ -5,8 +5,8 @@ tags:
  - MiohitoKiri5474
  - Modern
  - Inspection
-thumbnail: '/images/not-dead-after-all.jpg'
-cover: '/images/not-dead-after-all.jpg'
+thumbnail: 'https://guildmagesforum.tw/images/not-dead-after-all.jpg'
+cover: 'https://guildmagesforum.tw/images/not-dead-after-all.jpg'
 excerpt: 'MITQ#5 開打啦，是時候來更新一點資訊囉。'
 ---
 
