@@ -20,60 +20,6 @@
   </url>
   
   <url>
-    <loc>https://guildmagesforum.tw/casting-spell-without-mana-cost/</loc>
-    
-    <lastmod>2023-09-18</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://guildmagesforum.tw/if-you-do-and-when-you-do/</loc>
-    
-    <lastmod>2023-09-18</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://guildmagesforum.tw/WOE-multicolors/</loc>
-    
-    <lastmod>2023-09-18</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://guildmagesforum.tw/about/index.html</loc>
-    
-    <lastmod>2023-09-18</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://guildmagesforum.tw/categories/index.html</loc>
-    
-    <lastmod>2023-09-18</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://guildmagesforum.tw/Modern-Meta-Inspection-20230911/</loc>
-    
-    <lastmod>2023-09-18</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://guildmagesforum.tw/Rakdos-Midrange/</loc>
     
     <lastmod>2023-09-18</lastmod>
@@ -101,7 +47,7 @@
   </url>
   
   <url>
-    <loc>https://guildmagesforum.tw/Golgari-Obliterator/</loc>
+    <loc>https://guildmagesforum.tw/casting-spell-without-mana-cost/</loc>
     
     <lastmod>2023-09-18</lastmod>
     
@@ -110,7 +56,7 @@
   </url>
   
   <url>
-    <loc>https://guildmagesforum.tw/Izzet-Murktide/</loc>
+    <loc>https://guildmagesforum.tw/if-you-do-and-when-you-do/</loc>
     
     <lastmod>2023-09-18</lastmod>
     
@@ -165,6 +111,69 @@
   
   <url>
     <loc>https://guildmagesforum.tw/WOE-White/</loc>
+    
+    <lastmod>2023-09-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://guildmagesforum.tw/WOE-multicolors/</loc>
+    
+    <lastmod>2023-09-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://guildmagesforum.tw/about/index.html</loc>
+    
+    <lastmod>2023-09-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://guildmagesforum.tw/categories/index.html</loc>
+    
+    <lastmod>2023-09-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://guildmagesforum.tw/Modern-Meta-Inspection-20230911/</loc>
+    
+    <lastmod>2023-09-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://guildmagesforum.tw/Pioneer-Meta-Inspection-20230918/</loc>
+    
+    <lastmod>2023-09-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://guildmagesforum.tw/Golgari-Obliterator/</loc>
+    
+    <lastmod>2023-09-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://guildmagesforum.tw/Izzet-Murktide/</loc>
     
     <lastmod>2023-09-18</lastmod>
     
