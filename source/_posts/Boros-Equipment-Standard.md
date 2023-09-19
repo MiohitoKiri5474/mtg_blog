@@ -1,5 +1,5 @@
 ---
-title: Boros_Equipment
+title: '巧手神兵：標準紅白武具'
 date: 2023-09-19 16:23:42
 tags: 
  - JerobaMTG
