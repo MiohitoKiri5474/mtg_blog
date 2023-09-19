@@ -11,7 +11,7 @@ date: 2023-09-05 15:18:20
 
 ## MiohitoKiri5474
 
-aka [台南猴王的耍猴日常](http://facebook.com/TainanMonkeyKin)，為網站共同創辦人之一。
+aka [台南猴王的耍猴日常](http://facebook.com/TainanMonkeyKin)，為網站共同創辦人之一、網站技術人員。
 ~~前 cEDH 老害，~~ 現為認份的構築賽玩家。
 主要使用套牌：
 * 先驅：紅黑中速、紅黑犧牲、藍黑冰塊、格利極約利昂中速
