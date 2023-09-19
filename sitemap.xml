@@ -20,24 +20,6 @@
   </url>
   
   <url>
-    <loc>https://guildmagesforum.tw/Adventure-and-Lier/</loc>
-    
-    <lastmod>2023-09-19</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://guildmagesforum.tw/Boros-Equipment-Standard/</loc>
-    
-    <lastmod>2023-09-19</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://guildmagesforum.tw/Modern-Meta-Inspection-20230911/</loc>
     
     <lastmod>2023-09-19</lastmod>
@@ -182,15 +164,6 @@
   </url>
   
   <url>
-    <loc>https://guildmagesforum.tw/Contact-Us/index.html</loc>
-    
-    <lastmod>2023-09-19</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://guildmagesforum.tw/about/index.html</loc>
     
     <lastmod>2023-09-19</lastmod>
@@ -201,6 +174,33 @@
   
   <url>
     <loc>https://guildmagesforum.tw/categories/index.html</loc>
+    
+    <lastmod>2023-09-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://guildmagesforum.tw/Adventure-and-Lier/</loc>
+    
+    <lastmod>2023-09-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://guildmagesforum.tw/Boros-Equipment-Standard/</loc>
+    
+    <lastmod>2023-09-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://guildmagesforum.tw/Contact-Us/index.html</loc>
     
     <lastmod>2023-09-19</lastmod>
     
