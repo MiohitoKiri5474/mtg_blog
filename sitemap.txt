@@ -1,5 +1,6 @@
 https://guildmagesforum.tw/others/index.html
 https://guildmagesforum.tw/tags/index.html
+https://guildmagesforum.tw/Adventure-and-Lier/
 https://guildmagesforum.tw/Boros-Equipment-Standard/
 https://guildmagesforum.tw/Modern-Meta-Inspection-20230911/
 https://guildmagesforum.tw/Pioneer-Meta-Inspection-20230918/
@@ -21,15 +22,15 @@ https://guildmagesforum.tw/Contact-Us/index.html
 https://guildmagesforum.tw/about/index.html
 https://guildmagesforum.tw/categories/index.html
 https://guildmagesforum.tw/
-https://guildmagesforum.tw/tags/JerobaMTG/
+https://guildmagesforum.tw/tags/JruMTG/
+https://guildmagesforum.tw/tags/MTG-Rule/
 https://guildmagesforum.tw/tags/Standard/
+https://guildmagesforum.tw/tags/JerobaMTG/
 https://guildmagesforum.tw/tags/MiohitoKiri5474/
 https://guildmagesforum.tw/tags/Modern/
 https://guildmagesforum.tw/tags/Inspection/
 https://guildmagesforum.tw/tags/Pioneer/
 https://guildmagesforum.tw/tags/Decktech/
-https://guildmagesforum.tw/tags/JruMTG/
-https://guildmagesforum.tw/tags/MTG-Rule/
 https://guildmagesforum.tw/tags/Legacy/
 https://guildmagesforum.tw/tags/cephille/
 https://guildmagesforum.tw/tags/%E8%B1%AC%E9%BC%BB%E5%AD%90%E7%9A%84mtg%E4%B8%96%E7%95%8C/

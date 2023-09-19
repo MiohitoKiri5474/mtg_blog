@@ -1,6 +1,101 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>列爾如何與歷險牌互動</title>
+    <url>/Adventure-and-Lier/</url>
+    <content><![CDATA[<p><a class="link"   href="https://scryfall.com/card/mid/59/lier-disciple-of-the-drowned" >翻湧神信徒列爾 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>究竟能不能從墳場返照歷險咒語? 這不是個很新的問題，卻是個之前被許多人忽略或錯誤理解的問題，並且隨著歷險重回標準，這道問題在實戰中的遭遇率大幅提升了許多。</p>
+<p>相信不少讀者也已經透過各式社群網站聽聞過答案了 : <strong>可以！ 你可以利用翻湧神信徒列爾的異能從墳場返照歷險咒語！</strong> 但對箇中機制卻無法理解，為甚麼讓瞬間與巫術牌具有返照異能的列爾，能夠影響到身為永久物牌的歷險牌呢?</p>
+<p>今天就讓我們來分析列爾究竟是如何做到的，以及其他類似效應的卡牌能否做到同樣的應用。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.imgur.com/FObyPb2.jpg"
+                      alt="Lier&amp;Adventure"
+                ></p>
+<hr>
+<h2 id="這個咒語的施放合法嗎"><a href="#這個咒語的施放合法嗎" class="headerlink" title="這個咒語的施放合法嗎?"></a>這個咒語的施放合法嗎?</h2><p>施放一個咒語的第一步是甚麼呢? 看過 <strong><a href="https://guildmagesforum.tw/casting-spell-without-mana-cost/">如何施放無費用咒語</a></strong> 這篇文章的讀者相信還有印象，第一步就是將這個咒語移至堆疊 :</p>
+<ul>
+<li>601.2a<br>玩家宣告施放咒語，將該牌（或複製品）移至堆疊頂層，直到該咒語結算、被反擊、移動至別處。</li>
+</ul>
+<p>但在將咒語放上堆疊前，還有一個前置檢查關卡，遊戲會檢查這個咒語是否被允許施放，有沒有效應在禁止玩家施放咒語，也就是規則601.3 :</p>
+<ul>
+<li>601.3<br>僅當規則或效果允許玩家施放咒語且沒有規則或效果禁止玩家施放咒語時，玩家才可以開始施放咒語。</li>
+</ul>
+<p>這條601.3看起來很直觀也很理所當然對吧? 但如果仔細的問，究竟該如何定義這個合法性的檢查特徵呢? 有許多咒語在施放時存在變量、替代特徵等，有許多允許你特殊施放或禁止施放的效應，例如:</p>
+<ul>
+<li><a class="link"   href="https://scryfall.com/card/c20/220/melek-izzet-paragon" >伊捷守護者梅列克 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>允許你從牌庫頂施放瞬間巫術牌。</li>
+<li><a class="link"   href="https://scryfall.com/card/emn/15b/brisela-voice-of-nightmares" >夢魘異音布瑟拉 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>禁止你施放總魔法力值等於小於3的咒語。</li>
+</ul>
+<p>這些條件又是局限性的，有可能因為咒語自身的變量或特徵變化而改變判決結果，那遊戲究竟是如何判斷的呢? 這就要看到規則601.3e了 :</p>
+<ul>
+<li>601.3e<br>一些規則或效應敘述在確定一張牌或一張牌的複製品是否可以合法施放時，會考慮它的一組替代特徵或其特徵的子集。在此次確定流程中，這些替代特徵會替換該物件的原特徵。 <strong>一旦該物件具有這些特徵便會生效的持續性效應也會被考慮在內</strong> 。</li>
+<li>601.3e<br>Some rules and effects state that an alternative set of characteristics or a subset of characteristics are considered to determine if a card or copy of a card is legal to cast. These alternative characteristics replace the object’s characteristics for this determination. <strong>Continuous effects that would apply to that object once it has those characteristics are also considered</strong> .</li>
+</ul>
+<p>光是這樣看肯定很難理解，這裡先讓我們上個範例~<br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.imgur.com/ye2coQE.jpg"
+                      alt="601.3e範例"
+                ></p>
+<p><a class="link"   href="https://scryfall.com/card/c20/220/melek-izzet-paragon" >伊捷守護者梅列克 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> : 可以從牌庫頂施放瞬間、巫術牌 。<br><a class="link"   href="https://scryfall.com/card/w17/24/garruks-horde" >賈路的獸群 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> : 可以從牌庫頂施放生物牌。 </p>
+<p>當我今天分別單獨操控梅列克或賈路的獸群，且牌庫頂是<a class="link"   href="https://scryfall.com/card/eld/115/bonecrusher-giant-stomp" >碎骨巨人 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>，我能從牌庫頂做到怎樣的施放動作呢? 答案顯而易見的，賈路的獸群在時我能夠施放碎骨巨人，但不能施放一腳踩下（歷險端）；梅列克在場時我可以施放一腳踩下，但不能施放碎骨巨人。原因便是我們在嘗試施放時，如果宣告要施放替代特徵那一端，遊戲會用替代特徵抽換掉原始特徵，因此當我操控梅列克嘗試宣告一腳踩下時，遊戲檢查的會是作為一腳踩下的特徵，而不是作為碎骨巨人的特徵。</p>
+<p>此外當你使用替代特徵時， <strong>對該替代特徵有效的持續性效應也會一同生效</strong> ，因此當你操控<a class="link"   href="https://scryfall.com/card/dmu/208/najal-the-storm-runner" >追風魔納賈爾 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>時，你可以將<a class="link"   href="https://scryfall.com/card/woe/115/virtue-of-persistence-locthwain-scorn" >洛司溫蔑視（毅力之美德歷險端） <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>視同具有閃現異能來施放。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.imgur.com/eaLGn4u.jpg"
+                      alt="持續性效應範例"
+                ></p>
+<hr>
+<h2 id="列爾怎麼做到的"><a href="#列爾怎麼做到的" class="headerlink" title="列爾怎麼做到的?"></a>列爾怎麼做到的?</h2><p>重新回到我們的主題，今天我們在操控翻湧神信徒列爾的情況下，嘗試宣告返照墳場中的尋求刺激時，遊戲是如何檢查這次的施放宣告的呢?</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.imgur.com/FObyPb2.jpg"
+                      alt="Lier&amp;Adventure"
+                ></p>
+<p>首先我們拿起墳場中的巨風貝倫娜，並宣告我們要以返照的方式施放歷險端的尋求刺激，遊戲開始檢查這個動作是否合法，由於我們宣告以歷險的替代特徵來施放，遊戲檢查的特徵將改為尋求刺激的特徵，根據 <strong>「601.3e:一旦該物件具有這些特徵便會生效的持續性效應也會被考慮在內」</strong> 這條規則，此時尋求刺激也適用列爾的 <strong>「你墳墓場中的每張瞬間與巫術牌均具有返照異能」</strong> ，遊戲檢查判斷這是個合法動作，尋求刺激移動至堆疊，並開始處理施放咒語相關流程。</p>
+<p>當尋求刺激從墳場施放成功後，有些讀者可能想起了返照還有一條規則 : <strong>「若曾支付返照費用，則在它將於任何時機下離開堆疊時，改為將其放逐，而非置入任何其他地方」</strong> ，但現在巧了，歷險完的牌本來就會去放逐區，也就是說返照的這條規則完全無法拘束歷險牌，現在巨風貝倫娜真正的迴光返照了。</p>
+<hr>
+<h2 id="其他牌是如何跟歷險互動的"><a href="#其他牌是如何跟歷險互動的" class="headerlink" title="其他牌是如何跟歷險互動的?"></a>其他牌是如何跟歷險互動的?</h2><p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.imgur.com/WjPrTXC.jpg"
+                      alt="Flashback"
+                ></p>
+<p><a class="link"   href="https://scryfall.com/card/mm3/50/snapcaster-mage" >迅咒法師 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>與<a class="link"   href="https://scryfall.com/card/mm3/105/past-in-flames" >過往成焰 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>同樣是賦予墳場瞬間巫術返照異能的牌，就不如列爾那麼幸運了，迅咒法師的異能需要目標，但顯然歷險牌不滿足瞬間巫術牌這個目標，當下異能指不到牌自然沒後續的事了。</p>
+<p>那跟列爾看起來近乎別無二致的過往成焰為何也不行呢?</p>
+<p>實際上列爾跟過往成焰有個決定性差異，列爾的能力來自一個永久物的靜止式異能，而過往成焰則是一個由咒語、異能的結算創造的持續性效應，有關這類持續性效應的規則由611.2c來規範 :</p>
+<ul>
+<li>611.2c<br>如果一個由咒語或異能的結算所產生的持續性效應影響特徵或改變任何物件的操控權，這組受其影響的物件在該持續性效應開始時決定。在此之後，該組永久物不會改變。（注意這與一個靜止式異能所產生的持續性效應不同。）一個由咒語或異能的結算所產生且不影響特徵或改變任何物件操控權的持續性效應影響遊戲規則，所以它們可以影響在該持續性效應開始時並不受其影響的物件。如果一個單獨的持續性效應中的一部分影響物件的特徵或改變物件的操控權，而其他部分不如此作，則受各部分影響的物件各自單獨決定。</li>
+<li>611.2c<br>If a continuous effect generated by the resolution of a spell or ability modifies the characteristics or changes the controller of any objects, the set of objects it affects is determined when that continuous effect begins. After that point, the set won’t change. (Note that this works differently than a continuous effect from a static ability.) A continuous effect generated by the resolution of a spell or ability that doesn’t modify the characteristics or change the controller of any objects modifies the rules of the game, so it can affect objects that weren’t affected when that continuous effect began. If a single continuous effect has parts that modify the characteristics or changes the controller of any objects and other parts that don’t, the set of objects each part applies to is determined independently.</li>
+</ul>
+<p>我們還是說人話吧… 這個像是法律條文的東西看了10遍也看不進去是很正常的。</p>
+<p>以過往成焰的案例來看，只有當這個咒語結算瞬間所看見的瞬間巫術牌才會獲得返照異能，再這之後新進入墳場的瞬間巫術也不會自動獲得返照異能，而過往成焰結算的當下，那些歷險牌都只是張永久物牌，自然是沒辦法獲得返照了。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.imgur.com/CNxFsUs.jpg"
+                      alt="其他範例"
+                ></p>
+<p><a class="link"   href="https://scryfall.com/card/mh1/217/wrenn-and-six" >芮恩與六樹妖 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>的徽記可以讓你墳場中的瞬間與巫術牌都具有追溯異能，這與墳場中歷險牌的互動從運作原理來講，與列爾如出一轍，當你擁有此徽記時，是可以將墳場中的歷險咒語以追溯的模式施放的。</p>
+<p><a class="link"   href="https://scryfall.com/card/mom/265/sword-of-once-and-future" >未往劍 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>則是最為單純的案例，因為它打從一開始就是寫Spell，不是Card，不會受到歷險牌本體是永久物牌這項特徵的影響，因此只要這個歷險咒語的總魔法力值小於等於2費，是可以透過未往劍的效果從墳場施放的。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.imgur.com/5aZ5yjt.jpg"
+                      alt="進軍阿拉若"
+                ></p>
+<p><a class="link"   href="https://scryfall.com/card/mom/230/invasion-of-alara-awaken-the-maelstrom" >進軍阿拉若 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>與<a class="link"   href="https://scryfall.com/card/woe/164/bramble-familiar-fetch-quest" >刺藤傭獸 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>則是一個充分利用歷險牌雙特徵的Combo，進軍阿拉若進場時展示牌庫頂直到兩張總魔法力值小於等於4的 <strong>牌</strong> ，你可以從中施放一張牌且不需要支付魔法力費用。</p>
+<p>這段能力唯一的檢查條件是 <strong>魔法力值小於等於4的牌</strong> ，刺藤傭獸是個二費的生物牌，滿足此條件。接著你可以施放此牌且不需要支付魔法力費用，這時歷險牌才會問你想要施放生物端的刺藤傭獸，還是歷險巫術端的尋得標的，無論你選擇哪一邊都可以成功施放，進軍阿拉若不會過問你最後施放了一個幾費的咒語。</p>
+]]></content>
+      <tags>
+        <tag>JruMTG</tag>
+        <tag>MTG Rule</tag>
+        <tag>Standard</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Boros_Equipment</title>
     <url>/Boros-Equipment-Standard/</url>
     <content><![CDATA[<h2 id="Before-We-Start"><a href="#Before-We-Start" class="headerlink" title="Before We Start"></a>Before We Start</h2><p>為了重振標準賽，威世智自今年起將牌池調整為三年，吸引玩家回流魔法風雲會最核心的基礎構築賽制。對於官方的努力筆者予以肯定，然而舊系列特定單卡的高昂卡價對於預算有限的新入門玩家而言無疑是一大阻礙，對此筆者就來推薦一套造價親民、只需要CU卡就能發揮優秀戰力的紅白武具套牌。</p>
@@ -125,8 +220,8 @@
 </blockquote>
 ]]></content>
       <tags>
-        <tag>JerobaMTG</tag>
         <tag>Standard</tag>
+        <tag>JerobaMTG</tag>
       </tags>
   </entry>
   <entry>
@@ -502,9 +597,9 @@
         <category>MTG-Rules</category>
       </categories>
       <tags>
-        <tag>Modern</tag>
         <tag>JruMTG</tag>
         <tag>MTG Rule</tag>
+        <tag>Modern</tag>
         <tag>Legacy</tag>
       </tags>
   </entry>
@@ -878,9 +973,9 @@
         <category>MTG-Rules</category>
       </categories>
       <tags>
-        <tag>Modern</tag>
         <tag>JruMTG</tag>
         <tag>MTG Rule</tag>
+        <tag>Modern</tag>
       </tags>
   </entry>
   <entry>
@@ -1128,8 +1223,8 @@
 <p>這些細微的改動都是根據當下環境而定，並且不同玩家所處的本地環境可能也有所出入，究竟哪些工作該給正編、那些工作備牌來處理即可，都可依您對所處環境的理解來調整。</p>
 ]]></content>
       <tags>
-        <tag>Standard</tag>
         <tag>JruMTG</tag>
+        <tag>Standard</tag>
         <tag>WOE</tag>
       </tags>
   </entry>
