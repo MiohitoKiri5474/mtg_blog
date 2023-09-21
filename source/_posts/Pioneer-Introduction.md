@@ -1,7 +1,7 @@
 ---
 title: '先驅簡易環境指南'
 
-date: 2023-09-20 10:46:00
+date: 2023-09-21 14:00:00
 
 tags: 
  - Enki
@@ -10,7 +10,7 @@ tags:
 excerpt: '給新加入的玩家、或是想要入坑先驅賽制的玩家的一個建議!'
 
 cover: "https://www.wargamer.com/wp-content/sites/wargamer/2023/06/mtg-pioneer.jpg"
-thumbnail: "https://www.wargamer.com/wp-content/sites/wargamer/2023/06/mtg-pioneer.jpg)"
+thumbnail: "https://www.wargamer.com/wp-content/sites/wargamer/2023/06/mtg-pioneer.jpg"
 
 ---
 
@@ -18,7 +18,7 @@ thumbnail: "https://www.wargamer.com/wp-content/sites/wargamer/2023/06/mtg-pione
 
 ## 前言
 
-安安各位旅法師好，有鑑於近年因國內外各大小資格賽事的關係，魔風實體牌的社群又再度活絡起來了。而最近作為官方主推、復活超過一年之久的先驅賽制，在台灣的MIT資格賽中已經作為主賽舉辦了兩個賽季。對於不管是對魔風有興趣、想要入坑的新玩家，又或是已經玩過其他賽制、想要換換口味的老玩家，相信先驅賽制對於任意一方來說都會是相當好的選擇，理由有以下幾個：
+安安各位旅法師好，有鑑於近年因國內外各大小資格賽事的關係，魔風實體牌的社群又再度活絡起來了。而最近作為官方主推、復活超過一年之久的先驅賽制，在台灣的MIT資格賽中已經作為主賽舉辦了三個賽季。對於不管是對魔風有興趣、想要入坑的新玩家，又或是已經玩過其他賽制、想要換換口味的老玩家，相信先驅賽制對於任意一方來說都會是相當好的選擇，理由有以下幾個：
 
 **1. 造價中庸**
     先驅賽制的平均造價大約落在$200鎂到$400鎂左右，比起動輒千鎂的近代賽制來說更為親民並且相當接近現今標準賽制的造價。
@@ -47,34 +47,13 @@ thumbnail: "https://www.wargamer.com/wp-content/sites/wargamer/2023/06/mtg-pione
 
 {% folding red :: 組合技分解動作 %}
 
-> 本段文字翻譯於Reddit上"[Mono Green Karn Combo](https://www.reddit.com/r/PioneerMTG/comments/ubbydc/mono_green_karn_combo/)"討論串中網友DisasterType1A的解說：
-> 
-> 0. 首先，你場上要有至少14點綠色獻力來源、1張夜天神殿、1張未啟動過忠誠異能的卡恩；而你的墳場至少要有兩張奇奧拉以及另一張卡恩，此外，在你的魔法力池中已有14點綠色魔法力。
-> 1. 啟動卡恩[-2]忠誠異能，從**備牌**找出[Pestilent Cauldron
-](https://scryfall.com/card/stx/154/pestilent-cauldron-restorative-burst) （剩下14點法力）
-> 2. 施放它背面的[Restorative Burst](https://cdn1.mtggoldfish.com/images/h/Restorative-Burst-STX-672.jpg)並將墳場的卡恩跟奇奧拉撿回手；放逐Restorative Burst（剩下9點法力）
-> 3. 施放卡恩，因傳奇規則犧牲掉啟動過忠誠異能的卡恩（剩下5點法力）
-> 4. 施放奇奧拉（剩下2點法力）
-> 5. 啟動奇奧拉[-1]忠誠異能，重置夜天神殿（剩下2點法力）
-> 6. 用掉2點法力啟動夜天神殿的獻力產費異能，加15點綠色魔法力到你的魔法力池中（奇奧拉有1點綠獻力）
-> 7. 啟動卡恩[-2]忠誠異能，從**放逐區**找出[Pestilent Cauldron
-](https://scryfall.com/card/stx/154/pestilent-cauldron-restorative-burst)（剩下15點法力）
-> 8. 重複步驟2~7，你獲得無限點生命以及無限點法力（每次循環會加4點生命，以及1點綠色魔法力）
-> 9. 施放Pestilent Cauldron 
-> 10. 啟動Cauldron第二項異能將對手的牌庫磨光（本回合中你已獲得無限點生命）
-
-> Edit by MiohitoKiri5474 @ Sep 20, 2023
-> 這邊是技術人員 Mio 在上傳前作最後檢查時，發現的過時資訊
-> 現在備牌都會帶[The Chain Veil](https://cards.scryfall.io/large/front/1/c/1ca66955-d900-45b6-9a40-38467689a68d.jpg?1690005400)，用意就是要將組合技的啟動獻力壓倒 10 點。具體操作如下：
+> 現在備牌都會帶[鎖鏈面紗](https://cards.scryfall.io/large/front/0/2/028ad82c-d9e9-4cf1-880f-470dd2f669cb.jpg?1562781846)，用意就是要將組合技的啟動獻力壓倒 10 點。具體操作如下：
 > 1. 首先，場上要有夜天神殿、10 點綠色獻力、場上要有沒開過異能的卡恩、墳場和場上至少要有總和為二的奇奧拉、墳場有另一張卡恩，還有 10 點法力
-> 2. 啟動卡恩的[-2]異能，從備牌找[The Chain Veil](https://cards.scryfall.io/large/front/1/c/1ca66955-d900-45b6-9a40-38467689a68d.jpg?1690005400)，拍面紗 + 啟動一次面紗（剩 2 費）
+> 2. 啟動卡恩的[-2]異能，從備牌找鎖鏈面紗，拍面紗 + 啟動一次面紗（剩 2 費）
 > 3. 啟動一次奇奧拉的[-1]異能，把夜天神殿站起來，花兩點法力再產 10 費（剩下 10 費）
-> 4. 卡恩再開一次[-2]撿[Pestilent Cauldron
-](https://cards.scryfall.io/large/front/a/a/aaa1e6be-08cc-4ccc-b2de-3511613e4fd0.jpg?1634060525)，施放背面撿卡恩以及奇奧拉（剩下五費）
+> 4. 卡恩再開一次[-2]撿[Pestilent Cauldron](https://cards.scryfall.io/large/front/a/a/aaa1e6be-08cc-4ccc-b2de-3511613e4fd0.jpg?1634060525)，施放背面的[Restorative Burst](https://cards.scryfall.io/large/back/a/a/aaa1e6be-08cc-4ccc-b2de-3511613e4fd0.jpg?1634060525)撿卡恩以及奇奧拉（剩下五費）
 > 5. 拍手上的奇奧拉，把原本的那隻因為傳奇規則犧牲掉，啟動兩次奇奧拉[-1]異能，站兩次夜天神殿，並每次都回應自己的異能產一次費用（剩 18 費）
-> 6. 拍手上的卡恩，開兩次[-2]撿放逐區的[Pestilent Cauldron
-](https://cards.scryfall.io/large/front/a/a/aaa1e6be-08cc-4ccc-b2de-3511613e4fd0.jpg?1634060525)和備牌的[The Stone Brain](https://cards.scryfall.io/large/front/3/5/3570ebf2-a94c-4621-8808-b06e6e830c06.jpg?1674422057)，拍The Stone Brain 並啟動，切對手隨意一張牌，並施放[Pestilent Cauldron
-](https://cards.scryfall.io/large/front/a/a/aaa1e6be-08cc-4ccc-b2de-3511613e4fd0.jpg?1634060525)的背面撿卡恩以及奇奧拉
+> 6. 拍手上的卡恩，開兩次[-2]撿放逐區的[Pestilent Cauldron](https://cards.scryfall.io/large/front/a/a/aaa1e6be-08cc-4ccc-b2de-3511613e4fd0.jpg?1634060525)和備牌的[The Stone Brain](https://cards.scryfall.io/large/front/3/5/3570ebf2-a94c-4621-8808-b06e6e830c06.jpg?1674422057)，拍The Stone Brain 並啟動，切對手隨意一張牌，並施放[Pestilent Cauldron](https://cards.scryfall.io/large/front/a/a/aaa1e6be-08cc-4ccc-b2de-3511613e4fd0.jpg?1634060525)的背面撿卡恩以及奇奧拉
 > 7. 重複步驟 5, 6 會發現法力越來越多，而且對手會沒有牌庫 & 沒有手牌，這時換人讓對手進抽牌階段，因為沒有牌庫時抽牌輸掉
 
 {% endfolding %}
@@ -97,7 +76,7 @@ thumbnail: "https://www.wargamer.com/wp-content/sites/wargamer/2023/06/mtg-pione
 
 [紅黑中速範例牌組](https://www.mtggoldfish.com/archetype/pioneer-rakdos-midrange#paper)
 
-![](https://i.imgur.com/8C2ugqJ.jpg)
+![](https://i.imgur.com/M2431fs.jpg)
 
 ## <font color="#023FFD">藍</font><font color="#FED761">白</font>精靈 (Azorious Spirits)
 
@@ -113,6 +92,38 @@ thumbnail: "https://www.wargamer.com/wp-content/sites/wargamer/2023/06/mtg-pione
 
 ![](https://i.imgur.com/R7SBZtd.jpg)
 
+## 蓮花田組合技(Lotus Field Combo)
+
+![](https://i.imgur.com/FozvWKz.jpg)
+
+> **造價：低（$200鎂上下）
+> 操作難度：極高
+> 練習需求量：極高**
+
+蓮花田組合技應該是先驅中最難操作的一副牌了，它的組合技概念是要在一回合內產出大量費用來不停的施放濾牌咒語、找出所需的組合技套件來組成當回合的勝利條件。
+套牌主要依靠[蓮花田野](https://cards.scryfall.io/large/front/a/6/a6504b30-e0dc-4f8f-a7c9-68b4c194c68f.jpg?1646064484)一地產多費的能力、讓[悲劇舞台](https://cards.scryfall.io/large/front/9/0/903362f4-699a-4f6c-bab4-1679210faae7.jpg?1561836783)複製出第二個蓮花田，後續再運用[無形操絲](https://cards.scryfall.io/large/front/6/c/6cabe3ec-a2d1-4c29-9efd-e3d00879795c.jpg?1562915184)重置兩個蓮花田來爆產出大量費用並施放[突發通牒](https://cards.scryfall.io/large/front/6/0/6016c550-cc31-42ba-a590-c832d53b269f.jpg?1645807368)找出所需的組件、並再進行一連串的組合技操作後達成勝利。
+套牌內除了組合技套件以外，充斥著濾牌、找地、導師和能夠重置地的咒語，為的就是盡快在對手將自己打死之前取下對局。
+蓮花田的勝利方式主要分兩種版本，以下用較簡單的方式說明:
+1. **茜卓版**:
+需要三張[巴勒格復甦](https://cards.scryfall.io/large/front/b/3/b3757a55-51de-4fa1-98e4-f4539dc29a0d.jpg?1646309462)和[希望信標茜卓](https://cards.scryfall.io/large/front/a/1/a146ea07-ec1c-448d-b67a-dd9f9e27c2e0.jpg?1682204090)來達成組合技。
+簡單來說，就是藉由**茜卓**的觸發式異能，使得**巴勒格復甦**會多複製一發（共兩發），這時撿起墳場中的另外兩張**巴勒格復甦**，並且利用**茜卓**自身的忠誠異能[-5]打對手五點，然後分別再用兩發**巴勒格復甦**撿**巴勒格復甦**和**茜卓**，重複這個步驟直到將對手打死。
+2. [神日迫臨](https://cards.scryfall.io/large/front/d/5/d59b09b4-4ea6-4e7a-a650-93c2d1813acc.jpg?1619490324)版:
+需要[主腦得逞](https://cards.scryfall.io/large/front/3/1/31df6bf0-592c-48b0-afaf-fe024ee22d09.jpg?1646102161)和這張導師咒語來達成組合技。
+先用**主腦得逞**從備牌中找出**神日迫臨**，施放**神日迫臨**後，想辦法將**神日迫臨**從牌庫中找出來（用另一發導師、兩發**[衝動](https://cards.scryfall.io/large/front/5/a/5aec2b2c-0764-4869-814d-aad921122af9.jpg?1673306762)** 之類的）後再次施放，贏得遊戲。
+另外可以注意的是，如果場上的法力有七費，不一定要同一回合施放兩次**神日迫臨**，先補七點血應該很充足了......吧？
+
+以上的組合技如果有[全知全能](https://cards.scryfall.io/large/front/8/6/863f48a8-7952-49cb-a887-d81073d2fa33.jpg?1645888643)會比較容易達成（不需要付費），不過並不是必須，可以分別計算一下當前情況要花多少法力才能達成。
+
+這一套的組合技中間有非常多繁瑣的過程和細節，做招套路也有很多種，是一個需要大量練習來確保熟悉度的牌組，因此新手入場我不推薦打這套，當然如果你覺得蓮花田很酷、有一顆想學的心，也可以嘗試看看。
+
+[蓮花田組合技範例牌組(茜卓版)](https://www.mtggoldfish.com/archetype/pioneer-hidden-strings#paper)
+
+![](https://i.imgur.com/6kOS3wq.jpg)
+
+[蓮花田組合技範例牌組(神日迫臨版)](https://www.mtggoldfish.com/deck/5873033#paper)
+
+![](https://i.imgur.com/0f6kku3.jpg)
+
 ## <font color="#FD0214">紅</font>黑犧牲 (Rakdos Sacrifice)
 
 ![](https://i.imgur.com/6en2kuJ.png)
@@ -123,7 +134,7 @@ thumbnail: "https://www.wargamer.com/wp-content/sites/wargamer/2023/06/mtg-pione
 
 紅黑犧牲在先驅算是相當特別的一副牌組，玩起來相當有趣但是相對的操作也特別困難。
 套牌投入大量用以觸發犧牲異能的咒語和永久物如`貓爐combo`、珍寶血瓶token等等，並搭配核心單卡[破壞魔鬼](https://cards.scryfall.io/large/front/9/7/9770301f-1e6c-484b-a258-ee4d18ba725b.jpg?1646176896)去做解場和搶血，並以此一點一點的將對手磨死來取得勝利。
-然而由於套牌的曲線非常低，地牌的數量也相當接近快攻牌組（22左右），常常會看見犧牲只用3-4塊地在打，因此如何最有效率的使用mana並使魔鬼能在"對的時間點"對"正確的目標"造成傷害是犧牲玩家的一大課題。
+然而由於套牌的曲線非常低，地牌的數量也相當接近快攻牌組（22左右），常常會看見犧牲只用3-4塊地在打，因此如何最有效率的使用mana並使魔鬼能在「對的時間點」對「正確的目標」造成傷害是犧牲玩家的一大課題。
 紅黑犧牲的優點是在對上優勢對局時（如白快、紅黑中速等）很容易贏下，但是在對上劣勢對局時（如[純綠獻力](#純綠獻力-Mono-Green-Devotion)、[五色秘態轉生](#五色秘態轉生-5c-Fires-Of-Invention)等）反抗能力偏差。
 由於套牌對於操作、對局觀念和計算傷害的難度都屬於偏高等級，並不推薦新手入環境就打這套；但如果數學很好，或是對自己學習和適應能力有自信的朋友們可以選擇這套。
 
@@ -175,7 +186,7 @@ thumbnail: "https://www.wargamer.com/wp-content/sites/wargamer/2023/06/mtg-pione
 
 > **造價：中（$400鎂上下）
 > 操作難度：中 
-> 練習需求量：低**
+> 練習需求量：中**
 
 這副應該是先驅環境最討人厭的套牌之一了。藍白控制整副套牌充斥著干擾和解場，依靠著一定數量的點殺、掃場和反制咒語來阻止對手的遊戲計畫並將戰局往後拖直到能夠結算[多明納里亞英雄泰菲力](https://cards.scryfall.io/large/front/5/d/5d10b752-d9cb-419d-a5c4-d4ee1acb655e.jpg?1562736365)或是[飄萍皇](https://cards.scryfall.io/large/front/f/a/fab2d8a9-ab4c-4225-a570-22636293c17d.jpg?1654566563)來作為自己的終端、以此來創造龐大的資源差距將對手的精神消磨殆盡/獲勝。
 
@@ -315,8 +326,5 @@ thumbnail: "https://www.wargamer.com/wp-content/sites/wargamer/2023/06/mtg-pione
 
 ## 結語
 
-先驅目前的環境總地來說我認為還算平衡，牌組的使用率分布不會到太誇張的地步且擁有多樣性。雖然不能否認以數據來看的話確實有些牌組會擁有較高的勝率（[大綠](#純綠獻力-Mono-Green-Devotion)、[犧牲](#紅黑犧牲-Rakdos-Sacrifice)與[精靈](#藍白精靈-Azorious-Spirits)等等），但我認為這是每個卡牌遊戲都會經歷的過程，每過一個時期一定會有所謂的**版本解答**存在，這些所謂的**版本解答**其實也不全然是沒有破解方法，正因為他們被認為是解答，所以會被研究找出弱點、被備牌針對、會遇到劣勢對局、也會有無法如願完成遊戲計畫的時候。
+先驅目前的環境總地來說我認為還算平衡，牌組的使用率分布不會到太誇張的地步且擁有多樣性，而每周的meta都會出現一些新科技。雖然不能否認以數據來看的話確實有些牌組會擁有較高的勝率（[大綠](#純綠獻力-Mono-Green-Devotion)、[犧牲](#紅黑犧牲-Rakdos-Sacrifice)與[精靈](#藍白精靈-Azorious-Spirits)等等），但我認為這是每個卡牌遊戲都會經歷的過程，每過一個時期一定會有所謂的**版本解答**存在，這些所謂的**版本解答**其實也不全然是沒有破解方法，正因為他們被認為是解答，所以會被研究找出弱點、被備牌針對、會遇到劣勢對局、也會有無法如願完成遊戲計畫的時候。
 小弟我呢也使用過非上述的牌組拿下過國外資格賽的冠軍，也是經過了一定時間的練習、對對局的研究和思考備牌的選擇才終於成功，而這些激盪腦力的爽快過程對我來說是非常特別的體驗也是驅使我繼續打牌的動力，總之希望大家打牌的樂趣不要被meta給消磨，也祝各位在進入先驅賽制後能在這個多樣的環境中找到屬於自己的快樂。
-
-> 未來有機會的話會再繼續更新，預計會再做紅藍鋼彈、紅綠載具、白綠天使與藍黑盜賊的簡易介紹，而如果讀者有興趣的話我也會再發詳細攻略文（除了紅藍鳳凰外）。
-至於蓮花田......這套沒有辦法被"簡易介紹"，不只是因為我不會打，而是如果有玩家剛入先驅的話，拜託請不要嘗試，它的難度完全是另外一個級別的，建議等熟悉規則後真的有興趣再選用。
