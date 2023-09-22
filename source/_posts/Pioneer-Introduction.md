@@ -7,10 +7,10 @@ tags:
  - Enki
  - Pioneer
 
-excerpt: '給新加入的玩家、或是想要入坑先驅賽制的玩家的一個建議!'
+excerpt: '給新加入的玩家、或是想要入坑先驅賽制的玩家的一個建議！'
 
 cover: "https://www.wargamer.com/wp-content/sites/wargamer/2023/06/mtg-pioneer.jpg"
-thumbnail: "https://www.wargamer.com/wp-content/sites/wargamer/2023/06/mtg-pioneer.jpg"
+thumbnail: "https://guildmagesforum.tw/images/mtg-pioneer.jpg"
 
 ---
 
