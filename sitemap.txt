@@ -3,7 +3,6 @@ https://guildmagesforum.tw/tags/index.html
 https://guildmagesforum.tw/WOE-mechanism/
 https://guildmagesforum.tw/casting-spell-without-mana-cost/
 https://guildmagesforum.tw/if-you-do-and-when-you-do/
-https://guildmagesforum.tw/WOE-Blue/
 https://guildmagesforum.tw/WOE-Green/
 https://guildmagesforum.tw/WOE-Red/
 https://guildmagesforum.tw/WOE-WOT/
@@ -13,6 +12,8 @@ https://guildmagesforum.tw/about/index.html
 https://guildmagesforum.tw/categories/index.html
 https://guildmagesforum.tw/Adventure-and-Lier/
 https://guildmagesforum.tw/Boros-Equipment-Standard/
+https://guildmagesforum.tw/DFC-Copy/
+https://guildmagesforum.tw/Golgari-Yawgmoth/
 https://guildmagesforum.tw/Modern-Meta-Inspection-20230911/
 https://guildmagesforum.tw/Pioneer-Meta-Inspection-20230918/
 https://guildmagesforum.tw/Rakdos-Midrange/
@@ -22,6 +23,7 @@ https://guildmagesforum.tw/Golgari-Obliterator/
 https://guildmagesforum.tw/Izzet-Murktide/
 https://guildmagesforum.tw/Pioneer-Introduction/
 https://guildmagesforum.tw/WOE-Black/
+https://guildmagesforum.tw/WOE-Blue/
 https://guildmagesforum.tw/Standard-UW-Control/
 https://guildmagesforum.tw/Contact-Us/index.html
 https://guildmagesforum.tw/
@@ -29,8 +31,10 @@ https://guildmagesforum.tw/tags/JruMTG/
 https://guildmagesforum.tw/tags/MTG-Rule/
 https://guildmagesforum.tw/tags/Standard/
 https://guildmagesforum.tw/tags/JerobaMTG/
-https://guildmagesforum.tw/tags/MiohitoKiri5474/
+https://guildmagesforum.tw/tags/T1BloodMoon/
 https://guildmagesforum.tw/tags/Modern/
+https://guildmagesforum.tw/tags/Card-Tech/
+https://guildmagesforum.tw/tags/MiohitoKiri5474/
 https://guildmagesforum.tw/tags/Inspection/
 https://guildmagesforum.tw/tags/Pioneer/
 https://guildmagesforum.tw/tags/Decktech/

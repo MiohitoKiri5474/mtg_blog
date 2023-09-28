@@ -225,6 +225,246 @@
       </tags>
   </entry>
   <entry>
+    <title>轉化式雙面牌與複製效應</title>
+    <url>/DFC-Copy/</url>
+    <content><![CDATA[<h2 id="Before-We-Start"><a href="#Before-We-Start" class="headerlink" title="Before We Start"></a>Before We Start</h2><p>雙面牌與複製效應都可算是規則釋疑區的BOSS之一，單一效應就已牽扯到眾多規則，當兩者相互作用時，其規則處理往往不只反直覺，甚至是連如何開始分析都毫無頭緒。而邪軍壓境系列由撫育器Token帶來的雙面牌規則變化更是徹底打亂了許多人對雙面牌規則的認知，或許有些人嘗試過自行搜尋規則資料，面對茫茫多的規則條文時卻不知道如何下手，又或是看到物件特徵有七層(Layer)時就暈頭轉向了。</p>
+<p>本期專欄就讓我們挑戰看看，在不失規則嚴謹性的前提下，以說人話的方式解釋複製一個雙面牌會得到甚麼。並且讓我們稍微精煉問題，先專心回答一件事：所以這張牌現在是哪一面?</p>
+<p>（備註：下文僅以 <strong>雙面牌</strong> 描述時，皆是指 <strong>轉化式雙面牌</strong>）</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.imgur.com/oHdCAea.jpg"
+                      alt="Incubator"
+                ></p>
+<hr>
+<h2 id="轉化式雙面牌規則摘要"><a href="#轉化式雙面牌規則摘要" class="headerlink" title="轉化式雙面牌規則摘要"></a>轉化式雙面牌規則摘要</h2><p>轉化式雙面牌牽涉規則眾多，不過只要把握以下幾條重點規則，便足以理解本篇文章所探討的題目了：</p>
+<ul>
+<li>712.8a<br>當雙面牌在遊戲外、戰場、堆疊以外的其他區域時，它只具有其正面所述的特徵值。</li>
+<li>712.8d<br>當轉化式雙面永久物的正面朝上時，它只具有其正面所述的特徵值。</li>
+<li>712.8e<br>當轉化式雙面永久物的背面朝上時，它只具有其背面所述的特徵值。但是在計算其魔法力值時，使用其正面的魔法力費用。如果一個永久物複製一張轉化式雙面牌的背面，此永久物的魔法力值為0（即使該牌本身也是雙面牌）。</li>
+<li>712.9<br>只有 <strong>轉化式雙面永久物</strong> （轉化式衍生物&amp;轉化式雙面牌）才能轉化。如果一個咒語或異能指示玩家轉化一個非轉化式雙面永久物，則沒有事情會發生。</li>
+<li>712.14a<br>如果一個咒語或異能將一張轉化式雙面牌「已轉化(Transformed)」的放進戰場，它會以背面朝上的方式進入戰場。如果玩家被指示將一張不是轉化式雙面牌的牌已轉化的放進戰場，則該牌留在其原有的區域。</li>
+<li>712.18<br>當一個轉化式雙面永久物轉化時，它不會成為新的物件。任何已對該永久物生效的效應，在它轉化後將繼續對它生效。</li>
+</ul>
+<p>其中 <strong>712.9</strong> 是條非常新的規則變更，也是許多人規則理解錯亂的根源，這便是由邪軍壓境的<a class="link"   href="https://i.imgur.com/oHdCAea.jpg" >撫育器Token <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>帶來的Token規則變更。</p>
+<p>以往的規則為只有 「轉化式雙面<strong>牌</strong>」 可轉化，Token不滿足條件，不具備可轉化的背面，派出某個雙面牌複製品Token時，只會得到其中一面的資訊，且無法執行轉化動作。</p>
+<p>但在撫育Token誕生後，這條規則被改成了只有 「轉化式雙面<strong>永久物</strong>」 可轉化，並且如果你派出了一個轉化式雙面永久物的複製品Token，這個Token也是個轉化式雙面永久物，擁有雙面資訊，可以按照牌上的能力敘述執行轉化。</p>
+<p>不過要注意的是，這條規則僅僅更改了有關 <strong>「衍生物(Token)」</strong> 的判決，對於非衍生物的牌來說，處理規則一如既往。接下來就讓我們以具體案例的方式，看看轉化式雙面牌與複製效應的規則該如何解析吧！</p>
+<hr>
+<h2 id="派出一個雙面牌複製品Token"><a href="#派出一個雙面牌複製品Token" class="headerlink" title="派出一個雙面牌複製品Token"></a>派出一個雙面牌複製品Token</h2><p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.imgur.com/nJ0UF0T.jpg"
+                     
+                ></p>
+<p>無論你用<a class="link"   href="https://cards.scryfall.io/large/front/f/0/f069646c-fae2-40bd-92bc-35459a84d847.jpg?1572892821" >偽體擬形 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>或是<a class="link"   href="https://cards.scryfall.io/large/front/3/9/396abc9e-a738-430d-85cc-448ace2548f9.jpg?1681389581" >恐怖玩具屋 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>派出一個<a class="link"   href="https://cards.scryfall.io/large/front/d/a/daa2a273-488f-4285-a069-ad159ad2d393.jpg?1634347903" >墓地擅闖客 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>的複製品Token，結果都是一樣的，這個Token擁有墓地擅闖客的雙面資訊，可以按照原有的轉化規則進行轉化。</p>
+<p>不過有一種情況要特別注意，就是轉化的過程中會先經過放逐區再返回戰場(例如<a class="link"   href="https://cards.scryfall.io/large/front/b/f/bf2249e6-af74-4b88-8eb7-144ce8fa7f6b.jpg?1682203978" >希歐蕊 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>)，假設你派出了一個希歐蕊的複製品Token，並啟動她的轉化異能，這時Token會按照異能指示先進入放逐區，而Token一旦位於戰場以外的區域便會消失（見規則111.8 &amp; 704.5d ）。</p>
+<p>（備註：有些效應在派出複製品Token時，會對這個Token進行部分屬性修改，以恐怖玩具屋為例，最後派出的墓地擅闖客Token無論當前在正反面、無論中間經過幾次晝夜切換，他都是個組構體神器生物，身材改為0&#x2F;0且具有你「每操控一個組構體，此生物便得+1&#x2F;+1」，其中的規則詳解牽涉到Layer，為避免本文議題過於發散，這邊僅給出結果，不對Layer做細部拆解。）</p>
+<hr>
+<h2 id="死靈奇才盧德維-永續天使"><a href="#死靈奇才盧德維-永續天使" class="headerlink" title="死靈奇才盧德維+永續天使"></a>死靈奇才盧德維+永續天使</h2><p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.imgur.com/qqCgz80.jpg"
+                      alt="不死天使"
+                ></p>
+<p>當你使用<a class="link"   href="https://cards.scryfall.io/large/front/7/8/788288f6-7944-48f4-91b0-f452e209c9ce.jpg?1636684654" >死靈奇才盧德維 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>的異能，轉化成<a class="link"   href="https://cards.scryfall.io/large/back/7/8/788288f6-7944-48f4-91b0-f452e209c9ce.jpg?1636684654" >盧德維巨作歐拉格 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>，並讓其成為<a class="link"   href="https://cards.scryfall.io/large/front/a/2/a204c2a3-a899-4b70-8825-7e085b655ed0.jpg?1634347126" >永續天使 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>的複製品後，你的歐拉格會獲得永續天使的能力，其中包含這條：「如果你的總生命將降至0或更少，則改為轉化此卡且你的總生命成為3，然後如果此卡未以此法轉化，則你輸掉這盤遊戲。」</p>
+<p>當你生命降至0時永續天使能力生效，將你生命改為3並且檢查此卡是否轉化，盧德維&#x2F;歐拉格是個轉化式雙面牌，可以執行轉化動作，你不會因此輸掉，但轉化後的歐拉格會變成甚麼狀態? 是成為永續天使的背面嗎? 這就要回顧上面提到的兩條規則了：</p>
+<ul>
+<li>712.8a<br>當雙面牌在遊戲外、戰場、堆疊以外的其他區域時，它只具有其正面所述的特徵值。</li>
+</ul>
+<p>基於這條規則，其實歐拉格在成為永續天使的複製品時，就只看的到正面作為永續天使的特徵，永續天使背面長甚麼樣歐拉格是完全看不到的，現在歐拉格身上有條持續性效應叫做「此卡成為永續天使的複製品」，當遊戲要求歐拉格轉化時，這條規則則會生效：</p>
+<ul>
+<li>712.18<br>當一個轉化式雙面永久物轉化時，它不會成為新的物件。任何已對該永久物生效的效應，在它轉化後將繼續對它生效。</li>
+</ul>
+<p>因為單純的轉化沒有離場，並非成為新物件，「此卡成為永續天使的複製品」這條效應也不會消失，所以每當你的生命降至0時，這張卡便會在盧德維&#x2F;歐拉格的正反面之間反覆切換，但無論翻到哪一面，因為「此卡成為永續天使的複製品」的效應還在，你最後看到的都是一張永續天使。只要你的對手沒辦法處理掉你的天使，你就可以一直鎖血在0～3點血之間！</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.imgur.com/N5QVgwS.jpg"
+                      alt="不死天使"
+                ></p>
+<p>順便讓我們來舉一反三，看看下面這些牌複製成永續天使後，當你生命降至0時會如何：</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.imgur.com/miNXxCl.jpg"
+                      alt="變形獸"
+                ></p>
+<ul>
+<li>712.8d<br>當轉化式雙面永久物的正面朝上時，它只具有其正面所述的特徵值。</li>
+</ul>
+<p>基於這條規則，無論是誰成為永續天使的複製品，都只能看到做為正面的永續天使的特徵。<br><a class="link"   href="https://cards.scryfall.io/large/front/5/b/5b3ffc69-f21b-410e-8993-8c1b4669fc19.jpg?1562302230" >鏡身影 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>不是個雙面牌，顯然不可能執行轉化這動作(規則712.9)，你會因此輸掉這盤遊戲。<br><a class="link"   href="https://cards.scryfall.io/large/front/8/2/823ad188-bd56-476d-9853-bed90bfad582.jpg?1643588179" >鏡廊擬妖 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>與死靈奇才盧德維原理相同，運作流程完全可以比照上文，變成一隻無限鎖血天使。<br><a class="link"   href="https://cards.scryfall.io/large/front/5/a/5adcb500-8c77-4925-8e2c-1243502827d1.jpg?1604243976" >璃池擬態妖 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>雖然也是個雙面牌，但它是 <strong>模式雙面牌</strong> 而非 <strong>轉化式雙面牌</strong> ，模式雙面牌是沒有辦法執行轉化這動作的，因此結果與鏡身影相同，你會因為無法轉化而輸掉這盤遊戲。</p>
+<hr>
+<h2 id="進軍阿芒凱-希歐蕊"><a href="#進軍阿芒凱-希歐蕊" class="headerlink" title="進軍阿芒凱+希歐蕊"></a>進軍阿芒凱+希歐蕊</h2><p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.imgur.com/KForwxH.jpg"
+                      alt="阿芒凱希歐蕊"
+                ></p>
+<p><a class="link"   href="https://cards.scryfall.io/large/front/9/8/981f091a-17f8-412e-9752-69070ebed4ea.jpg?1682715194" >進軍阿芒凱 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>轉化為<a class="link"   href="https://cards.scryfall.io/large/back/9/8/981f091a-17f8-412e-9752-69070ebed4ea.jpg?1682715194" >拉佐特變節者 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>並成為<a class="link"   href="https://cards.scryfall.io/large/front/b/f/bf2249e6-af74-4b88-8eb7-144ce8fa7f6b.jpg?1682203978" >希歐蕊 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>的複製品，這題的情境與上題類似，雖然戰場的轉化流程稍微有點特殊，但這不影響他身為轉化式雙面牌的規則處理。</p>
+<p>拉佐特變節者成為希歐蕊的複製品後，同樣可以利用希歐蕊的轉化能力進行轉化，只是有一點不同的是，希歐蕊會要求放逐此卡後再以「已轉化」的形式回到戰場，這時712.18就不適用了，因為這張牌放逐自己時就成為了一個新物件，「此卡成為希歐蕊的複製品」這項效應也結束了，它不會記得自己曾經變成誰的複製品。那這張牌會以正面還是背面的形式重新進場呢? 來回顧一下規則712.14a：</p>
+<ul>
+<li>712.14a<br>如果一個咒語或異能將一張轉化式雙面牌「已轉化」的放進戰場，它會以背面朝上的方式進入戰場。如果玩家被指示將一張不是轉化式雙面牌的牌已轉化地放進戰場，則該牌留在其原有的區域。</li>
+</ul>
+<p>希歐蕊要求以「已轉化」的形式回到戰場，因此啟動這條異能時無論自己是正面或背面，最終都會以背面的形式返回戰場，而拉佐特變節者又能夠做為墳場中任何生物的複製品進場，因此它進場時會是你新選擇的對象複製品。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.imgur.com/rpHQfx6.jpg"
+                      alt="阿芒凱希歐蕊"
+                ></p>
+<hr>
+<h2 id="鏡身影-希歐蕊"><a href="#鏡身影-希歐蕊" class="headerlink" title="鏡身影+希歐蕊"></a>鏡身影+希歐蕊</h2><p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.imgur.com/npP0Iad.jpg"
+                      alt="鏡身希歐蕊"
+                ></p>
+<p>同樣是成為<a class="link"   href="https://cards.scryfall.io/large/front/b/f/bf2249e6-af74-4b88-8eb7-144ce8fa7f6b.jpg?1682203978" >希歐蕊 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>的複製品，如果改為由<a class="link"   href="https://cards.scryfall.io/large/front/5/b/5b3ffc69-f21b-410e-8993-8c1b4669fc19.jpg?1562302230" >鏡身影 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>這類非轉化式雙面牌複製，執行「放逐此卡並已轉化的進場」這段能力時又會如何呢？</p>
+<p>如果只是成為墓地擅闖客這類原地轉化生物的複製品，會因為沒有可以轉化的背面而無事發生（規則712.9），但希歐蕊這類「放逐此卡並已轉化的進場」流程則稍微複雜一些。首先鏡身影可以順利被放逐，但當它嘗試從放逐區已轉化的放進戰場時卻遇到了一點問題，因為它不是張轉化式雙面牌，而上面有一條規則是這麼說的：</p>
+<ul>
+<li>712.14a<br>如果一個咒語或異能將一張轉化式雙面牌「已轉化」的放進戰場，它會以背面朝上的方式進入戰場。如果玩家被指示將一張不是轉化式雙面牌的牌已轉化的放進戰場，則該牌留在其原有的區域。</li>
+</ul>
+<p>鏡身影最後所待過的「原有的區域」正是放逐區，它將被留在這裡，也就是說如果你讓鏡身影使用希歐蕊的轉化異能的話，它會放逐自己，然後就沒有然後了…。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.imgur.com/cSHOvkc.jpg"
+                      alt="鏡身希歐蕊"
+                ></p>
+<hr>
+<h2 id="希歐蕊-共魂利刃-遭魅新郎艾德嘉"><a href="#希歐蕊-共魂利刃-遭魅新郎艾德嘉" class="headerlink" title="希歐蕊+共魂利刃+遭魅新郎艾德嘉"></a>希歐蕊+共魂利刃+遭魅新郎艾德嘉</h2><p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.imgur.com/Ui65sN3.jpg"
+                      alt="刀1"
+                ></p>
+<p>當<a class="link"   href="https://cards.scryfall.io/large/front/b/f/bf2249e6-af74-4b88-8eb7-144ce8fa7f6b.jpg?1682203978" >希歐蕊 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>佩帶<a class="link"   href="https://cards.scryfall.io/large/front/2/7/277aeb73-4c7c-4132-b9f9-55181d57e75d.jpg?1675956948" >共魂利刃 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>並使其成為<a class="link"   href="https://cards.scryfall.io/large/front/6/3/63ba8eef-b834-4031-b0a1-0f8505d53813.jpg?1643594071" >遭魅新郎艾德嘉 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>複製品後因為任何原因死去時（例如因為傳奇規則犧牲），觸發艾德嘉的死亡異能「當此卡死去時，將其在擁有者的操控下移回戰場且已轉化」，由於規則敘述是「已轉化」，希歐蕊將以背面（<a class="link"   href="https://scryfall.com/card/mom/125/sheoldred-the-true-scriptures?back" >化真經文 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>）的形式重回戰場，且因為進場時就已經是傳記，滿足傳記放學問指示物的條件，因此會在其上放一個學問指示物並執行第I章的章節能力。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.imgur.com/KlayHnK.jpg"
+                      alt="刀1"
+                ></p>
+<hr>
+<h2 id="希歐蕊-共魂利刃-遮物簾幕"><a href="#希歐蕊-共魂利刃-遮物簾幕" class="headerlink" title="希歐蕊+共魂利刃+遮物簾幕"></a>希歐蕊+共魂利刃+遮物簾幕</h2><p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.imgur.com/dEVSOmk.jpg"
+                      alt="刀2"
+                ></p>
+<p>共魂利刃的一大特色就是可以讓A牌如同仿生妖一樣成為B牌的複製品，又可以在不讓牌離開戰場成為新物件的情況下結束複製效應，這可以更加清晰的呈現複製效應作用於雙面牌時的底層邏輯。</p>
+<p>情境如下，假設<a class="link"   href="https://cards.scryfall.io/large/front/b/f/bf2249e6-af74-4b88-8eb7-144ce8fa7f6b.jpg?1682203978" >希歐蕊 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>佩帶<a class="link"   href="https://cards.scryfall.io/large/front/2/7/277aeb73-4c7c-4132-b9f9-55181d57e75d.jpg?1675956948" >共魂利刃 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>並使其成為<a class="link"   href="https://cards.scryfall.io/large/front/6/1/612b2e6e-fe8d-49ad-b845-6fa7fa59ffd1.jpg?1643596119" >遮物簾幕 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>複製品後，啟動遮物簾幕的「轉化此卡」異能，這時的希歐蕊會是甚麼狀態? 將共魂利刃卸裝後又如何?</p>
+<p>首先來看看啟動遮物簾幕的轉化異能後會如何，與死靈奇才盧德維+永續天使的案例相同，希歐蕊是張轉化式雙面牌，可以執行轉化這個動作，但是「此卡成為遮物簾幕的複製品」的效應持續生效中，你最終看到的依舊是一個0&#x2F;4的遮物簾幕。</p>
+<p>不過希歐蕊確實已經轉化成背面的<a class="link"   href="https://scryfall.com/card/mom/125/sheoldred-the-true-scriptures?back" >化真經文 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>了，只是因為複製效應蓋住了讓你看不出來，現在我們把共魂利刃卸裝，終止「此卡成為遮物簾幕的複製品」的效應，這時你就會看到這張牌原始的狀態，也就是一個化真經文，不過因為傳記沒有檢查到自己進場的時機，因此上面目前沒有任何學問指示物，待你下一個主階一開始時，才會獲得學問指示物並執行第I章的章節能力。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.imgur.com/kbRLYfx.jpg"
+                      alt="刀2"
+                ></p>
+<hr>
+<h2 id="釐清規則定義"><a href="#釐清規則定義" class="headerlink" title="釐清規則定義"></a>釐清規則定義</h2><p>轉化式雙面牌與複製效應運作的底層邏輯其實並不複雜，但卻十分考驗對規則基本定義的理解度，本文所提及規則條目與情境，大致可包辦實戰中可能遇到的規則問題，只要理解了本文情境題中的規則處理原則，即使遇到更複雜的問題也可由底層邏輯逐步分析來破解。</p>
+<p>這次為了收斂問題，我們只專注探討了如何辨別正反面狀態，諸如Layer等其他細節就容我在此挖個坑，相信總有一天我會把這個坑填上，徹底的來聊聊Layer究竟該如何解析。</p>
+]]></content>
+      <tags>
+        <tag>JruMTG</tag>
+        <tag>MTG Rule</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>醫生轉行當廚師的指南</title>
+    <url>/Golgari-Yawgmoth/</url>
+    <content><![CDATA[<h2 id="一、前言"><a href="#一、前言" class="headerlink" title="一、前言"></a>一、前言</h2><p>大家好我是只會玩組合技的終曲，從 MH1 <a class="link"   href="https://cards.scryfall.io/large/front/8/6/8690cbcc-f8fd-41f7-9e28-e61c12b04014.jpg?1665611812" >索藍醫師約格莫夫 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>（以下簡稱<code>醫生</code>）登場我就組了這一套黑綠醫生，當時還是放滿四張<a class="link"   href="https://cards.scryfall.io/large/front/b/f/bffaad78-97ff-431f-bfb0-e96c7558f974.jpg?1562940297" >基拉夫信差 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>的版本；到了 MH2 新增了<a class="link"   href="https://cards.scryfall.io/large/front/6/9/69af2825-18c2-4463-b6ba-42eaa070ccc1.jpg?1626098484" >飢潮格蕊斯 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> （以下簡稱”Grist”）解決了這一套對於殺生物及鵬洛客的弱勢之處，讓他一度躍升金魚網 Meta 前段班；中間歷經白神弩砲強勢時期，因應環境組過<a class="link"   href="https://cards.scryfall.io/large/front/1/1/11e8d2fd-b132-4807-9410-8edeffa519ed.jpg?1673149308" >乙太精瓶 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>醫生跟放過<a class="link"   href="https://cards.scryfall.io/large/front/0/f/0fb48c2e-ee0f-4fae-9c22-247870c10d5b.jpg?1626097756" >繁聲橡樹 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> + <a class="link"   href="https://cards.scryfall.io/large/front/7/8/78bea375-8af3-4425-a418-bb5503e2dfb7.jpg?1608910737" >長春藤巷居民 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>的兩卡無限松鼠組合技；到了現在 WOE，<a class="link"   href="https://cards.scryfall.io/large/front/0/1/019b51b0-e5c6-4208-922b-7736686dddcd.jpg?1692939838" >阿加莎的靈魂鼎鑊 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>的登場，為醫生又帶來了各種變化套路，這邊我會幫大家整理了一些我目前正在用的組合技。</p>
+<p>首先先放上我參考國外卡表配合台灣環境修改的，近期使用的卡表：</p>
+<p><a class="link"   href="https://www.mtggoldfish.com/deck/5841776#paper" >金魚卡表連結 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.imgur.com/nOWlymD.jpg"
+                     
+                ></p>
+<h2 id="二、介紹鍋子"><a href="#二、介紹鍋子" class="headerlink" title="二、介紹鍋子"></a>二、介紹鍋子</h2><p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cards.scryfall.io/normal/front/0/1/019b51b0-e5c6-4208-922b-7736686dddcd.jpg?1692939838"
+                     
+                ></p>
+<p>阿加莎的靈魂鼎鑊（以下簡稱「鍋子」），WOE 新出的傳奇神器，你的所有有+1&#x2F;+1 指示物的生物，擁有被你鍋子放逐掉的生物的所有起動式異能，橫置異能則可以從任一墳場中選擇一張牌放逐，此外如果以此方式放逐的是一張生物牌，在目標你操控的生物上面放一顆+1&#x2F;+1 指示物，要注意的點有幾個：</p>
+<ul>
+<li>雙方的墳場都可以選且不限於一定要生物牌，所以遇到像是對面有帶<a class="link"   href="https://cards.scryfall.io/large/front/5/b/5bd498cc-a609-4457-9325-6888d59ca36f.jpg?1673149294" >芮恩與六樹妖 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>或是<a class="link"   href="https://cards.scryfall.io/large/front/f/d/fd97b3cf-924e-4f77-bb82-0bf19592389f.jpg?1613386994" >震懼軍奧術師 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>的時候，你可以回應吃掉他們所指的東西。</li>
+<li>當你吃的是生物牌的時候，如果你有生物，則一定要放+1&#x2F;+1，這樣注意的是有可能會讓不息生物（<a class="link"   href="https://cards.scryfall.io/large/front/0/c/0c39aa40-ef5f-40f1-a6dd-fbce91172c50.jpg?1562897786" >幼狼 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>或是<a class="link"   href="https://cards.scryfall.io/large/front/b/f/bf1fb137-205c-480f-b6dc-dfa137793ae3.jpg?1562940085" >縛根遊魂 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>）有了豆子，這時候就不能做交換了。</li>
+<li>他是傳奇，請善用<a class="link"   href="https://cards.scryfall.io/large/front/e/6/e65be588-4209-4ad7-9bdc-d601fdc0e8f6.jpg?1689143202" >快樂的半身人 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>讓他不能被康。</li>
+</ul>
+<h2 id="三、介紹鍋子要吃掉的起動式異能生物"><a href="#三、介紹鍋子要吃掉的起動式異能生物" class="headerlink" title="三、介紹鍋子要吃掉的起動式異能生物"></a>三、介紹鍋子要吃掉的起動式異能生物</h2><h3 id="1-主要目標生物"><a href="#1-主要目標生物" class="headerlink" title="1. 主要目標生物"></a>1. 主要目標生物</h3><p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.imgur.com/9o5ozRu.jpg"
+                     
+                ></p>
+<p>醫生是本套牌的絕大部分組合技的關鍵卡，如果可以被鍋子吃掉的話，不息生物本身就可以在有豆子的情況下持有醫生的起動式異能，這樣的好處是可以透過兩隻不息生物自己互跳躲殺（後面會提到整個組合技的流程跟結果）。</p>
+<p>Grist 在非戰場的狀態下都額外視為 1&#x2F;1 蟲子生物，這也讓他不能被<a class="link"   href="https://cards.scryfall.io/large/front/1/8/1825a719-1b2a-4af9-9cd2-7cb497cd0317.jpg?1673147298" >否認之力 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>康掉，那理所當然他也可以被鍋子吃掉，讓有+1&#x2F;+1 豆子的生物有鵬洛客異能，也可以配合不息生物復活來達成很多蟲子在場上。</p>
+<p><a class="link"   href="https://cards.scryfall.io/large/front/d/8/d80940ad-8e36-4226-ad5f-b54487c75c76.jpg?1673484868" >根牆 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>我之所以會與產費生物分開來寫主要有兩個原因，一是他的產費異能是無視召喚失調可以直接開的，二是他放的豆子是-0&#x2F;-1，可以直接讓防禦力為一的不息生物直接自殺後復活，這在後面提到的組合技會起到至關重要的作用。</p>
+<h3 id="2-產費生物"><a href="#2-產費生物" class="headerlink" title="2. 產費生物"></a>2. 產費生物</h3><p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.imgur.com/C8OOPxL.jpg"
+                     
+                ></p>
+<p>這四張是目前近代醫生會放的產費生物，目前主流構築是四張<a class="link"   href="https://cards.scryfall.io/large/front/7/1/71384418-173a-4f77-adab-56e52fa23692.jpg?1686969281" >快樂的半身人 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>加上零到兩張的<a class="link"   href="https://cards.scryfall.io/large/front/a/b/aba51852-af8f-49d8-8fb6-22d52a1742b8.jpg?1626097603" >陋族大主教 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>或是<a class="link"   href="https://cards.scryfall.io/large/front/3/0/30377bf0-d9b1-4c14-8dde-f74b1e02d604.jpg?1572490572" >金鵝 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>。由於半身人的加入，讓醫生、Grist、及鍋子免於被康，對醫生套牌有很大的幫助；另外<a class="link"   href="https://cards.scryfall.io/large/front/b/b/bb3a843b-2dea-4b44-be74-c09c18b9b969.jpg?1619399228" >樹靈喬木 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>作為一樣可以產費的地或生物，我也歸類在這邊，以上四張如果被鍋子吃掉的話，就會變成你每一隻有+1&#x2F;+1 豆子的生物都有產費能力。</p>
+<h3 id="3-功能性生物"><a href="#3-功能性生物" class="headerlink" title="3. 功能性生物"></a>3. 功能性生物</h3><p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.imgur.com/peQbhaw.jpg"
+                     
+                ></p>
+<p><a class="link"   href="https://cards.scryfall.io/large/front/8/4/847a175e-ead1-4596-baf3-5f7f57859e0b.jpg?1674421689" >失控蟲械 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>做為現在常用的對神器結界用生物，在醫生套牌裡面也可以被<a class="link"   href="https://cards.scryfall.io/large/front/d/a/dac257a9-39bf-4185-9d2e-f80f0848a96a.jpg?1599707002" >和聲召集 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>找進場，如果被鍋子吃掉之後，你每一隻有+1&#x2F;+1 豆子的生物都可以犧牲自己放逐非生物神器或結界，目前很好的目標像是常見的<a class="link"   href="https://cards.scryfall.io/large/front/c/1/c1e0f201-42cb-46a1-901a-65bb4fc18f6c.jpg?1667318301" >克撒傳 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>或是醫生很難處理的<a class="link"   href="https://cards.scryfall.io/large/front/8/7/87cc2855-6b14-44dd-a398-7dc2bbae081f.jpg?1626099096" >卡爾札之完化體 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>，以及各種墳場針對的神器結界都可以處理。</p>
+<p><a class="link"   href="https://cards.scryfall.io/large/front/4/2/420d1ea2-23f9-4650-993e-de99eedaa587.jpg?1599707921" >雷鳴法師 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>則是對玩地的套牌像是綠創或是泰坦護身符可以起到一定的干擾作用，拖慢對手節奏讓自己往終端發展更加順利，同樣被鍋子吃掉之後，你就可以犧牲有+1&#x2F;+1 豆子的生物來炸地。</p>
+<p>以上兩隻使用的時候要注意一點，因為是犧牲本體，所以即使是不息生物也沒辦法一直使用，會建議配合 Grist 叫蟲子來放豆後犧牲，這樣是最不虧資源的打法。</p>
+<h3 id="4-可以當-end-game-手段的功能性生物"><a href="#4-可以當-end-game-手段的功能性生物" class="headerlink" title="4. 可以當 end game 手段的功能性生物"></a>4. 可以當 end game 手段的功能性生物</h3><p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.imgur.com/cX5ukKe.jpg"
+                     
+                ></p>
+<p>在這次加入了鍋子之後，我在正編加入了<a class="link"   href="https://cards.scryfall.io/large/front/5/2/5272436e-74f0-44c4-a291-ea8ebc3f1525.jpg?1599710252" >自行弩炮 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>備編加入了<a class="link"   href="https://cards.scryfall.io/large/front/0/9/090a5f1f-9a1a-4e93-8c33-a0204c2917d5.jpg?1562428174" >餵養釘獸 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>，兩者被鍋子吃掉之後，搭配醫生體系可以做到無限點人一點傷害或無限血，整體過程會在後面提到。</p>
+<h3 id="5-當然還有對方的生物"><a href="#5-當然還有對方的生物" class="headerlink" title="5. 當然還有對方的生物"></a>5. 當然還有對方的生物</h3><p>作為另外一套大量使用鍋子的套牌，鱗甲共鳴的套牌中有幾個生物是相對對醫生來說能用的，像是<a class="link"   href="https://cards.scryfall.io/large/front/7/9/791c21fb-fc78-4106-9a42-abc73f41ab8b.jpg?1562026741" >行走機庫 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>的加豆或是<a class="link"   href="https://cards.scryfall.io/large/front/8/c/8c1cce91-7c81-45d9-bbec-b085e794791d.jpg?1626099476" >爍光怪蜂札巴茲 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>的給飛行；另外遇到內戰的時候，對面的生物也可以幫助自己完成組合技，能吃就要把他吃掉（當然你也可以阻止對手不息生物復活在他觸發的時候吃掉）。</p>
+<h2 id="四、最常使用的組合技"><a href="#四、最常使用的組合技" class="headerlink" title="四、最常使用的組合技"></a>四、最常使用的組合技</h2><p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.imgur.com/6TAnVTg.jpg"
+                     
+                ></p>
+<p>首先我要先提到醫生套牌的主要目標終端，目前主流構築是四張醫生+四張幼狼+0-2 隻縛根遊魂，會選用這兩隻是因為這是目前綠色費用最低的不息生物(配合根牆以及地牌主要為綠)，遊戲目標會希望場上有兩隻不息生物+醫生，如果成功的話可以藉由下列流程達成組合技：</p>
+<ol>
+<li>付一點血，犧牲不息生物A，放一個-1&#x2F;-1豆子在至多一個目標生物上(提醒一下醫生這個異能不一定要選目標，可以空指)，抽一張牌</li>
+<li>付一點血，犧牲不息生物B，放一個-1&#x2F;-1豆子在有+1&#x2F;+1豆子的不息生物A身上，抽一張牌，不息生物B帶著+1&#x2F;+1豆子復活，不息生物A身上的+1&#x2F;+1與-1&#x2F;-1豆子抵銷</li>
+<li>付一點血，犧牲不息生物A，放一個-1&#x2F;-1豆子在有+1&#x2F;+1豆子的不息生物B身上，抽一張牌，不息生物A帶著+1&#x2F;+1豆子復活，不息生物B身上的+1&#x2F;+1與-1&#x2F;-1豆子抵銷</li>
+</ol>
+<p>以上第二、三條的循環就可以達成扣一抽一張，這在近代已經是很過分的抽牌手段，再加上吸血生物如<a class="link"   href="https://cards.scryfall.io/large/front/5/2/52ef00c1-613a-4cbd-8972-77c41f649431.jpg?1674141830" >筑拉波割喉客 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>或是<a class="link"   href="https://cards.scryfall.io/large/front/6/9/693dd112-d04a-4404-8fce-74f7e5497312.jpg?1691108952" >鮮血畫家 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>就可以達成每做一次你自己不扣血抽一張，對手被吸一滴血達成斬殺。</p>
+<p>另外提一下<a class="link"   href="https://cards.scryfall.io/large/front/5/6/56fbbcc9-db23-4902-b0f7-cea78a2a36af.jpg?1543676055" >司毒維齊爾哈芭恰 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>在這一套的用處，他本身可以算作是前述兩隻不息生物中的一隻；此外如果對手有生物的話，不需要不息生物復活，他單獨就可以達成扣一血抽一張放一顆豆子的循環，我來做個流程說明：</p>
+<ol>
+<li>付一點血，犧牲不息生物，放一個-1&#x2F;-1豆子在一個目標生物上，抽一張牌，不息生物帶著+1&#x2F;+1 豆子復活，由於醫生異能放了-1&#x2F;-1 豆子，哈芭恰異能觸發生一隻 1&#x2F;1 蛇；接著付一點血，犧牲蛇，目標指有+1&#x2F;+1 豆子的不息生物，抽一張牌，不息生物豆子抵銷，-1&#x2F;-1 豆子觸發哈芭恰異能生一隻 1&#x2F;1 蛇；付一點血，犧牲不息生物，目標指任意生物(可以指對面的生物或是蛇來進行循環)，抽一張牌，不息生物帶著+1&#x2F;+1 豆子復活，哈芭恰生一隻蛇依此作循環。</li>
+<li>當對手有生物時，你可以付一點血，犧牲任一生物，目標指對手的生物放-1&#x2F;-1 豆子，抽一張牌，因放了-1&#x2F;-1 的豆子，哈芭恰異能觸發生一隻 1&#x2F;1 蛇；接著付一點血，犧牲蛇，目標指對手生物，抽一張牌，放-1-1 豆子觸發哈芭恰異能生一隻 1&#x2F;1 蛇，繼續付一血犧牲蛇指對手生物抽一張生蛇，依此作循環直到對手沒有生物為止（但要注意自己血還是在扣喔）。</li>
+</ol>
+<h2 id="五．因應鍋子加入後的新組合技"><a href="#五．因應鍋子加入後的新組合技" class="headerlink" title="五．因應鍋子加入後的新組合技"></a>五．因應鍋子加入後的新組合技</h2><p>為了方便解釋，引號「」內是已被鍋子吃掉的生物，例如「Grist」+不息生物（<a class="link"   href="https://cards.scryfall.io/large/front/0/c/0c39aa40-ef5f-40f1-a6dd-fbce91172c50.jpg?1562897786" >幼狼 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>或是<a class="link"   href="https://cards.scryfall.io/large/front/b/f/bf1fb137-205c-480f-b6dc-dfa137793ae3.jpg?1562940085" >縛根遊魂 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>）</p>
+<h3 id="1-「醫生」-兩隻不息生物"><a href="#1-「醫生」-兩隻不息生物" class="headerlink" title="1.「醫生」+兩隻不息生物"></a>1.「醫生」+兩隻不息生物</h3><p>原本鍋子前的目標組合技就是兩隻不息+醫生達成扣一抽一，有吸血就是直接 end game，現在鍋子吃掉醫生的話，不息生物自己就是醫生，那也就可以達成原本的循環了。</p>
+<h3 id="2-「Grist」-兩隻不息生物-「醫生」-醫生"><a href="#2-「Grist」-兩隻不息生物-「醫生」-醫生" class="headerlink" title="2.「Grist」+兩隻不息生物+「醫生」&#x2F;醫生"></a>2.「Grist」+兩隻不息生物+「醫生」&#x2F;醫生</h3><p>當 Grist 被吃掉的時候，你有豆子的生物就是旅法可以[+1] 磨一張叫一隻蟲，如果是兩隻不息生物 + 場上有醫生或是鍋子裡有醫生的話，你每一次復活帶豆子的不息生物都可以開一次[+1] ，進而可以達成複數隻蟲子，但做的時候要注意血量別壓太低。</p>
+<h3 id="3-「根牆」-一隻不息生物"><a href="#3-「根牆」-一隻不息生物" class="headerlink" title="3.「根牆」+一隻不息生物"></a>3.「根牆」+一隻不息生物</h3><p>我們來看一下根牆的異能（放一顆-0&#x2F;-1 豆子產一點綠），由於現在醫生構築所使用的不息生物為<a class="link"   href="https://cards.scryfall.io/large/front/0/c/0c39aa40-ef5f-40f1-a6dd-fbce91172c50.jpg?1562897786" >幼狼 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>及<a class="link"   href="https://cards.scryfall.io/large/front/b/f/bf1fb137-205c-480f-b6dc-dfa137793ae3.jpg?1562940085" >縛根遊魂 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>，剛好都是基礎防禦力為一的生物，所以可以自己先放-0&#x2F;-1 後把+1&#x2F;+1 拔掉（後面會提到怎麼拔）來自殺後復活依此無限循環，重點這還是無視召喚失調就可以達成，後面提到的兩個組合都可以靠根牆來做 end game 手段。</p>
+<h3 id="4-「弩炮」-一隻不息生物-「醫生或根牆」-醫生-割喉客-畫家"><a href="#4-「弩炮」-一隻不息生物-「醫生或根牆」-醫生-割喉客-畫家" class="headerlink" title="4.「弩炮」+一隻不息生物+「醫生或根牆」&#x2F;醫生&#x2F;割喉客&#x2F;畫家"></a>4.「弩炮」+一隻不息生物+「醫生或根牆」&#x2F;醫生&#x2F;割喉客&#x2F;畫家</h3><p>弩炮拔一顆+1&#x2F;+1 豆可以對任意目標點一，將不息生物犧牲掉復活，場上或鍋子裡有醫生的話可以達成扣一抽一點一的循環，鍋子裡有根牆的話可以達成無限點人；另外鍋子裡沒有醫生或根牆，場上也沒有醫生但有吸血生物的話則要改成不息生物拔一顆點自己達成無限死亡接著復活吸死對面。</p>
+<h3 id="5-「釘獸」-一隻不息生物-「醫生或根牆」-醫生-割喉客-畫家"><a href="#5-「釘獸」-一隻不息生物-「醫生或根牆」-醫生-割喉客-畫家" class="headerlink" title="5.「釘獸」+一隻不息生物+「醫生或根牆」&#x2F;醫生&#x2F;割喉客&#x2F;畫家"></a>5.「釘獸」+一隻不息生物+「醫生或根牆」&#x2F;醫生&#x2F;割喉客&#x2F;畫家</h3><p>釘獸拔一顆+1&#x2F;+1 豆可以補兩滴血，將不息生物犧牲掉復活，場上或鍋子裡有醫生的話可以達成抽一補一的循環，場上有吸血生物的話因為有無限死亡就可以吸死對面；鍋子裡有根牆更是可以直接達成無限血，有些套牌遇到無限血就會自己投降了。</p>
+<blockquote>
+<p>註：第4與第5項弩砲與釘獸的組合技中，要記得順序為先放根牆或「根牆」的-0&#x2F;-1 後再拔+1&#x2F;+1 ，因為鍋子的條件為有+1&#x2F;+1 豆子的生物才會有被他吃掉生物的起動式異能，所以你如果先拔+1&#x2F;+1 豆子的話，你會沒有辦法起動根牆的-0&#x2F;-1 產一點綠異能，這點要特別注意。</p>
+</blockquote>
+<h2 id="六、結語"><a href="#六、結語" class="headerlink" title="六、結語"></a>六、結語</h2><p>其實在預覽的時候，周遭朋友覺得鍋子在醫生套牌跟鬼一樣，但我一開始對這張牌的評價是不好的，我一直在思考我要怎麼樣把東西弄到墳場給他吃掉，感覺就很麻煩；實際上用起來我馬上就後悔，從一開始的一張到現在直接收滿四張套牌放三張。我有朋友提到說，先不論鍋子為醫生帶來多少強度，但他為醫生帶來了許多樂趣，我也這樣覺得。鍋子真的是一張很有趣的牌，我也很期待未來會有什麼新的組合技出現，如果有人有更好的鍋子配合歡迎再跟我分享。</p>
+]]></content>
+      <tags>
+        <tag>T1BloodMoon</tag>
+        <tag>Modern</tag>
+        <tag>Card Tech</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Modern 環境考察 2023/09/11</title>
     <url>/Modern-Meta-Inspection-20230911/</url>
     <content><![CDATA[<h2 id="Before-We-Start"><a href="#Before-We-Start" class="headerlink" title="Before We Start"></a>Before We Start</h2><p>環境考察預計會是一個常態性文章，沒意外的話會是一週近代、一週先驅，標準的話我比較少打沒辦法提供太多的資料，如果團隊內有人可以提供標準的部分也會推出。<br>距離<a class="link"   href="https://www.facebook.com/photo/?fbid=276003685201306&set=pb.100083750284134.-2207520000" >上一次我在自己的粉專 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>丟環境考察也過三週了，是時候更新一下環境資訊。<br>環境資訊會以 mtggoldfish 上面的為主，MITQ 的套牌分佈也會加入參考依據，不過因為 MITQ 的範圍太大了（物理），所以不會是主要的資料來源。</p>
@@ -329,8 +569,8 @@
 <h2 id="Epilogue"><a href="#Epilogue" class="headerlink" title="Epilogue"></a>Epilogue</h2><p>這週我們回顧一下過去兩週近代賽場的變動，如果要我選出最近適合打 RCQ 的套牌，我會推薦 4C Rhinos，他打的比較 aggressive 一些，但如果確定會有 Living End 玩家參賽而且比例較高的話，會推薦打 Omnath, Burn, Tron 或是比較 meta 邊緣的牌組，賭對手沒有做好應對（不過這是建立在有練好牌的前提）。<br>下週預計會是回顧先驅賽場，雖然 MIT 要等到十一月才打，不過先做點準備肯定是不錯的，先開始收牌、調整牌組，加減做一些練習。<br>希望這個系列可以作為常態性的文章一路寫下去，如果有什麼意見或是想討論的，都歡迎在下方留言，我們下週見！</p>
 ]]></content>
       <tags>
-        <tag>MiohitoKiri5474</tag>
         <tag>Modern</tag>
+        <tag>MiohitoKiri5474</tag>
         <tag>Inspection</tag>
       </tags>
   </entry>
@@ -1982,8 +2222,8 @@
 <h2 id="Epilogue"><a href="#Epilogue" class="headerlink" title="Epilogue"></a>Epilogue</h2><p>這兩週龍侯因為 Preordain 的解禁，重新回到一線，僅次於 Rakdos Scam 的使用量。<br>但也因此重新成為其他牌組的狙擊目標，近期可能會為了打 MITQ 改成 Death’s Shadow，或是改成有 Dreadhorde Arcanist 的紅藍中速看看。<br>希望明年春天可以在 MIT 會場看到大家。</p>
 ]]></content>
       <tags>
-        <tag>MiohitoKiri5474</tag>
         <tag>Modern</tag>
+        <tag>MiohitoKiri5474</tag>
         <tag>Decktech</tag>
       </tags>
   </entry>
