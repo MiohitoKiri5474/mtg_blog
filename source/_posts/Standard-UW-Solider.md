@@ -18,7 +18,7 @@ excerpt: "WOE發售後，藍白士兵雖然沒有獲得太多的補強，但在�
 
 在2023年三月第二季MIT的標準賽落幕我看到冠軍林承翰在臉書上的[鳥不喇基](https://www.facebook.com/profile.php?id=100063848411689)粉專貼出的[藍白士兵心路歷程](https://www.facebook.com/permalink.php?story_fbid=pfbid02m9mJC4oy9RGqtnPnEbXLTNBnr7WKHdC5mjxNoZkvCzQuRnZ5egYx5pR6b5Sg4uSMl&id=100063848411689)深受啟發，有興趣的人也非常歡迎回頭去看看這一篇，其中關於套牌構築的思辨以及對單卡的理解基本上到現在也同樣適用；從那之後我標準主要就打藍白士兵直到現在也有半年的時間。
 
-![](https://scontent.fkhh5-1.fna.fbcdn.net/v/t39.30808-6/335793401_219911773923322_491675692653658436_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=49d041&_nc_ohc=mGSATtUujCwAX-szOch&_nc_ht=scontent.fkhh5-1.fna&oh=00_AfB0wrQ8oXr91Hsd_xv_vbX6rzB0HUObmuqsr9Y67miGKQ&oe=6513A729)
+![](https://i.imgur.com/24VHjeZ.jpg)
 
 而在這個過程中，我持續的認為藍白士兵是一副兼具節奏、鋪場、以及打回後手劣勢的優秀套牌。基本上藍白士兵對決任何的中速套牌除了2023年標準賽制禁牌前擁有[破鏡奇譚](https://cards.scryfall.io/large/front/2/4/24c0d87b-0049-4beb-b9cb-6f813b7aa7dc.jpg?1691108103)與[幫派劫庫械](https://cards.scryfall.io/large/front/a/c/acf3f766-f92a-4975-a56d-3647d2f30e7b.jpg?1645490223)的格利極中速，絕大多數包括WOE更新後的中速套牌都是相對好的對局，尤其是在打Domain體系的套牌更是如此。
 
