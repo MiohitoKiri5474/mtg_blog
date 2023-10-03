@@ -20,6 +20,15 @@
   </url>
   
   <url>
+    <loc>https://guildmagesforum.tw/if-you-do-and-when-you-do/</loc>
+    
+    <lastmod>2023-10-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://guildmagesforum.tw/about/index.html</loc>
     
     <lastmod>2023-10-03</lastmod>
@@ -30,6 +39,42 @@
   
   <url>
     <loc>https://guildmagesforum.tw/categories/index.html</loc>
+    
+    <lastmod>2023-10-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://guildmagesforum.tw/Modern-Golgari-Yawgmoth/</loc>
+    
+    <lastmod>2023-10-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://guildmagesforum.tw/Modern-Meta-Inspection-20230911/</loc>
+    
+    <lastmod>2023-10-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://guildmagesforum.tw/Pioneer-Lotus-Field/</loc>
+    
+    <lastmod>2023-10-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://guildmagesforum.tw/Pioneer-Meta-Inspection-20230918/</loc>
     
     <lastmod>2023-10-03</lastmod>
     
@@ -92,7 +137,16 @@
   </url>
   
   <url>
-    <loc>https://guildmagesforum.tw/if-you-do-and-when-you-do/</loc>
+    <loc>https://guildmagesforum.tw/Modern-Izzet-Murktide/</loc>
+    
+    <lastmod>2023-10-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://guildmagesforum.tw/Pioneer-Introduction/</loc>
     
     <lastmod>2023-10-03</lastmod>
     
@@ -209,70 +263,7 @@
   </url>
   
   <url>
-    <loc>https://guildmagesforum.tw/Modern-Golgari-Yawgmoth/</loc>
-    
-    <lastmod>2023-10-03</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://guildmagesforum.tw/Modern-Meta-Inspection-20230911/</loc>
-    
-    <lastmod>2023-10-03</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://guildmagesforum.tw/Pioneer-Lotus-Field/</loc>
-    
-    <lastmod>2023-10-03</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://guildmagesforum.tw/Pioneer-Meta-Inpection-20231003/</loc>
-    
-    <lastmod>2023-10-03</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://guildmagesforum.tw/Pioneer-Meta-Inspection-20230918/</loc>
-    
-    <lastmod>2023-10-03</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://guildmagesforum.tw/Modern-4C-Elemental/</loc>
-    
-    <lastmod>2023-10-03</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://guildmagesforum.tw/Modern-Izzet-Murktide/</loc>
-    
-    <lastmod>2023-10-03</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://guildmagesforum.tw/Pioneer-Introduction/</loc>
     
     <lastmod>2023-10-03</lastmod>
     
@@ -363,13 +354,6 @@
   
   <url>
     <loc>https://guildmagesforum.tw/tags/Deck-Tech/</loc>
-    <lastmod>2023-10-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://guildmagesforum.tw/tags/Inoection/</loc>
     <lastmod>2023-10-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
