@@ -41,7 +41,7 @@ Day 1：一共有九輪，其中 6-3 以上的選手才會進入 Day 2。
 Day 2：則是額外六輪之後取八強單淘汰。
 
 先來看一下套牌統計，使用比例皆四捨五入到小數點下第一位，加總可能不為 100%，另外只有列出使用數量高於 20 套的牌組。
-| Archtype | Deck Count | % of Field |
+| Archetype | Deck Count | % of Field |
 | :-: | :-: | :-: |
 | Rakdos Midrange | 84 | 12.5% |
 | Mono-Green Devotion | 69 | 10.2% |
@@ -179,7 +179,7 @@ Day 1：一共有八輪，5-3 以上的玩家才會進入 day 2
 Day 2：額外的五輪瑞士輪之後取八強單淘汰。
 
 一樣先列出套牌佔比，使用比例皆四捨五入到小數點下第一位，加總可能不為 100%，另外只有列出使用數量高於 5 套的牌組。
-| Archtype | Deck Count | % of Field |
+| Archetype | Deck Count | % of Field |
 | :-: | :-: | :-: |
 | Mono-Green Devotion | 21 | 11.9% |
 | Rakdos Sacrifice | 19 | 10.7% |
@@ -292,7 +292,7 @@ Day 2：額外的五輪瑞士輪之後取八強單淘汰。
 因為一到八名獎品/資格都一樣，所以不另外取複賽。
 
 老樣子先上個套牌使用統計，這邊也是只列出五套以上的套牌，使用率四捨五入到小數點下一位，總和可能不為 100%。
-| Archtype | Deck Count | % of Field |
+| Archetype | Deck Count | % of Field |
 | :-: | :-: | :-: |
 | Mono-Green Devottion | 28 | 12.8% |
 | Rakdos Midrange | 24 | 11.0% |
