@@ -1592,6 +1592,120 @@
       </tags>
   </entry>
   <entry>
+    <title>何謂替代性費用</title>
+    <url>/What-is-Alternative-Cost/</url>
+    <content><![CDATA[<h2 id="Before-We-Start"><a href="#Before-We-Start" class="headerlink" title="Before We Start"></a>Before We Start</h2><p>替代性費用（Alternative Cost）顧名思義，就是能讓你某種其他費用取代原本應該支付的費用，有的可以幫助你以更輕鬆支付的費用來施放咒語，也有的可以改變一個咒語的特性，在MTG中是非常頻繁被使用的卡片設計要素之一。</p>
+<p>雖然替代性費用在MTG中隨處可見，規則處理上也很簡潔，但如果不清楚基本的規則定義，遊戲上還是可能產生不少誤區，本期是篇較為輕鬆的規則文，談談何謂替代性費用，完整規則條文請參閱<a class="link"   href="https://mtg.fandom.com/wiki/Alternative_cost" >規則連結 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.imgur.com/hCKhuK9.jpg"
+                      alt="FOW"
+                ></p>
+<hr>
+<h2 id="替代性費用基本定義"><a href="#替代性費用基本定義" class="headerlink" title="替代性費用基本定義"></a>替代性費用基本定義</h2><p>替代性費用有下列幾條基本規則：</p>
+<ul>
+<li><p>118.9<br>有些咒語有替代性費用。替代性費用指 <strong>咒語規則敘述中</strong> 或由 <strong>另一個效應對該咒語生效</strong> 產生的費用，其操控者可以不支付咒語原本的魔法力費用而改為支付此費用。替代性費用一般描述方式為 <strong>你可以「動作」而不需支付「此物件」的魔法力費用」</strong> or <strong>你可以施放「此物件」而不需支付其魔法力費用</strong> ，有些替代性費用是由關鍵字定義的。</p>
+</li>
+<li><p>118.9a<br>任何咒語都 <strong>只可以使用一個替代性費用</strong> ，咒語的操控者依照規則601.2b的敘述宣告其準備支付如何費用。</p>
+</li>
+</ul>
+<details class="red" data-header-exclude><summary><i class="fa-solid fa-chevron-right"></i>簡易版咒語施放流程 </summary>
+              <div class='content'>
+              <blockquote><p>601.2<br>規範施放咒語的步驟，若玩家在宣告咒語時無法滿足步驟內要求，則為非法行動，遊戲回溯到宣告咒語前的狀態。</p></blockquote><blockquote><p>601.2a<br>玩家宣告施放咒語，將該牌（或複製品）移至堆疊頂層，直到該咒語結算、被反擊、移動至別處。</p><p>601.2b<br>若該咒語有模式選擇，宣告選擇項。<br>若該咒語有替代性費用或額外費用，玩家宣告打算支付的費用。<br>若該咒語有變量（X費等），宣告其變量。<br>若該咒語有混血魔法力、非瑞魔法力等，宣告如何支付。</p></blockquote><blockquote><p>601.2c<br>玩家宣告該咒語目標，若目標數為變量則先宣告目標數。</p></blockquote><blockquote><p>601.2d<br>若該咒語要求在複數目標分配效果，則宣告如何分配，每個目標分配量不能為0。</p></blockquote><blockquote><p>601.2e<br>檢查宣告施放的咒語是否可被合法施放，若該咒語為非法，遊戲回溯到宣告咒語前的狀態。</p></blockquote><blockquote><p>601.2f<br>決定該咒語總費用，計算增費或減費效應，費用最小為0，此階段將鎖定該咒語總費用，後續改變費用效應不生效。</p></blockquote><blockquote><p>601.2g<br>若總費用包含魔法力費用，可以在此階段啟動魔法力異能。</p></blockquote><blockquote><p>601.2h<br>支付該咒語費用。</p></blockquote><blockquote><p>601.2i<br>完成施放步驟，施放觸發效應於此時觸發。</p></blockquote>
+              </div>
+            </details>
+
+<ul>
+<li><p>118.9c<br>替代性費用不會改變咒語的魔法力費用，只改變其操控者為施放它而需支付的費用。需要得知咒語魔法力費用的咒語或異能依然使用其原有的數值。</p>
+</li>
+<li><p>118.9d<br>如果支付一個替代性費用來施放咒語，任何影響該咒語的額外費用、增加費用以及減少費用依然對該替代性費用生效。</p>
+</li>
+</ul>
+<p>只要掌握了這幾條規則，就能理解替代性費用是如何運作的了，不過單看文字總是不直觀，下面就讓我們配合實際案例加深觀念。</p>
+<hr>
+<h2 id="替代性費用具體案例"><a href="#替代性費用具體案例" class="headerlink" title="替代性費用具體案例"></a>替代性費用具體案例</h2><h3 id="由一個效應給予另一個咒語替代性費用"><a href="#由一個效應給予另一個咒語替代性費用" class="headerlink" title="由一個效應給予另一個咒語替代性費用"></a>由一個效應給予另一個咒語替代性費用</h3><p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.imgur.com/0eZIugH.jpg"
+                      alt="MH2案例"
+                ></p>
+<p><a class="link"   href="https://scryfall.com/card/mh2/32/solitude" >幽寂 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>的呼魂（Evoke）與<a class="link"   href="https://scryfall.com/card/mh2/138/ragavan-nimble-pilferer" >巧手竊猴勒格文 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>的掩襲（Dash）都是從 <strong>自身規則敘述中獲得替代性費用</strong> ，或者更正確的說，是這些關鍵字本身就定義了他是替代性費用的特性，你可以選擇改為使用上面的替代性費用來施放這張牌，這費用可能是換個魔法力（勒格文），也可能改為支付魔法力以外的東西（幽寂的放逐白色手牌）。</p>
+<p><a class="link"   href="https://scryfall.com/card/mh2/292/shardless-agent" >無斷片密探 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>的傾曳（Cascade）則是 <strong>由一個效應給予另一個咒語替代性費用</strong> ，被傾曳翻出來符合條件的咒語會獲得一個叫做「不需支付其魔法力費用」的替代性費用，<a class="link"   href="https://scryfall.com/card/tsr/121/living-end" >走骨行屍 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>等無費用卡正是利用此方式來成功施放的。詳細說明可參考這篇文章：<a href="https://guildmagesforum.tw/casting-spell-without-mana-cost/">如何施放無費用咒語</a>。</p>
+<p>另外有些牌張只會寫上帶有替代性費用特徵的關鍵字，但沒有給出這個關鍵字的具體運作方式（如上圖的幽寂），這時就只能多加熟記各種關鍵字的定義了。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.imgur.com/QsfWLyA.jpg"
+                      alt="替代性費用"
+                ></p>
+<p>這些同樣都是 <strong>由一個效應給予另一個咒語替代性費用</strong> 的案例，其中指定的替代性費用雖有不同，但原理都是一樣的，<a class="link"   href="https://scryfall.com/card/m19/65/omniscience" >全知全能 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>與上面傾曳的寫法一樣都是「你可以施放該牌，且不需支付其魔法力費用」，<a class="link"   href="https://scryfall.com/card/c17/211/fist-of-suns" >五陽護手 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>與<a class="link"   href="https://scryfall.com/card/war/79/bolass-citadel" >波拉斯尊殿 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>則是從原本的費用改為了新的指定費用，其中波拉斯尊殿是將費用從支付魔法力改為支付生命，如果場上有<a class="link"   href="https://scryfall.com/card/znr/240/yasharn-implacable-earth" >執拗雄野牙剎 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>的「玩家不能以支付生命的方式施放咒語」這類效應存在時，便無法透過波拉斯尊殿的替代性費用來施放咒語（除非該咒語的總魔法力值是0，這類效應不會禁止玩家支付0點生命）。</p>
+<h3 id="任何咒語都只可以使用一個替代性費用"><a href="#任何咒語都只可以使用一個替代性費用" class="headerlink" title="任何咒語都只可以使用一個替代性費用"></a>任何咒語都只可以使用一個替代性費用</h3><p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.imgur.com/hCKhuK9.jpg"
+                      alt="FOW"
+                ></p>
+<p>替代性費用中最重要的規則非 <strong>「任何咒語都只可以使用一個替代性費用」</strong> 這條莫屬了，這個案例就能很好展示這規則的原理與可能造成的誤解。</p>
+<p><a class="link"   href="https://scryfall.com/card/ema/49/force-of-will" >意志之力（FOW） <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>是個很標準的擁有替代性費用的咒語（支付生命與放逐藍色手牌），<a class="link"   href="https://scryfall.com/card/uma/71/snapcaster-mage" >迅咒法師 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>可以給予墳場一個瞬間巫術牌返照異能，其返照費用等同於該咒語的魔法力費用，返照（Flashback）費用同樣是一個替代性費用，而一個咒語是無法使用兩個替代性費用的，如果你用迅咒法師給墳場的FOW獲得返照異能，那你只能乖乖的付5費來施放，不能再選擇FOW自己的替代性費用。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.imgur.com/Iu68bSK.jpg"
+                      alt="波拉斯風暴"
+                ></p>
+<p>這是個與上題同樣原理的案例，<a class="link"   href="https://scryfall.com/card/mic/103/rooftop-storm" >屋頂風暴 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>給予殭屍咒語新的替代性費用「0」，<a class="link"   href="https://scryfall.com/card/war/79/bolass-citadel" >波拉斯尊殿 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>給予牌庫頂的咒語新的替代性費用「生命」，假設你同時操控兩者，牌庫頂是一張<a class="link"   href="https://scryfall.com/card/soi/131/relentless-dead" >無情亡者 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>，當你想使用波拉斯尊殿的異能來施放它時，就注定是使用波拉斯尊殿的替代性費用了，屋頂風暴在這裡沒有任何作用，你無法在一個咒語上同時適用兩個替代性費用。</p>
+<h3 id="替代性費用不會改變該咒語原有的魔法力值（Mana-Value）"><a href="#替代性費用不會改變該咒語原有的魔法力值（Mana-Value）" class="headerlink" title="替代性費用不會改變該咒語原有的魔法力值（Mana Value）"></a>替代性費用不會改變該咒語原有的魔法力值（Mana Value）</h3><p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.imgur.com/pxa0o4K.jpg"
+                      alt="圈套裂空"
+                ></p>
+<p>替代性費用的另一個特徵則是不會改變這個咒語原有的魔法力值，只是改變了施放時所支付的費用。假設你施放了個<a class="link"   href="https://scryfall.com/card/cmm/84/cyclonic-rift" >龍卷裂空 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>，無論你有沒有選擇使用超載（Overload）的替代性費用，它都是一個總魔法力值為2的咒語，<a class="link"   href="https://scryfall.com/card/khm/54/disdainful-stroke" >倨傲擊 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>永遠無法康到龍卷裂空，而<a class="link"   href="https://scryfall.com/card/bbd/132/spell-snare" >圈套咒語 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>則可以康龍卷裂空。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.imgur.com/pu8lLoT.jpg"
+                      alt="返照銀鏡"
+                ></p>
+<p>不過有一種情況稍微複雜一些，就是這個咒語費用包含X的時候，我們先來看看費用包含X的情況規則是怎麼說的：</p>
+<ul>
+<li>107.3a<br>如果一個咒語或啟動式異能所具有的魔法力費用、替代性費用、額外費用、啟動費中帶有X，且X的值不被該咒語或異能的敘述所定義，則該咒語或異能的操控者作為施放該咒語或啟動該異能流程的一部分選擇並宣告X的數值。當咒語在堆疊中的時候，其魔法力費用中的任何X、及其替代性費用或額外費用中的任何X等同於所宣告的數值。當啟動式異能在堆疊中的時候，其啟動費用中的任何X等同於所宣告的數值。</li>
+</ul>
+<p>簡單來說，一個咒語如果原本費用跟替代性費用都包含X，用替代性費用施放時，這個X也會成為此咒語在堆疊上的費用特徵。再讓我們舉個更具體的例子，假設我們現在操控<a class="link"   href="https://scryfall.com/card/mid/59/lier-disciple-of-the-drowned" >翻湧神信徒列爾 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>&amp;<a class="link"   href="https://scryfall.com/card/woe/195/up-the-beanstalk" >爬上豆莖 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>，利用列爾的能力從墳場返照<a class="link"   href="https://scryfall.com/card/dmu/65/silver-scrutiny" >銀鏡洞察 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>，並且宣告X&#x3D;3，雖然返照是替代性費用，但這個X同樣會反應到咒語本體的費用特徵，所以爬上豆莖會看到你施放了一個5費（3UU）的銀鏡洞察，並觸發抽牌的異能。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.imgur.com/ytm2W5c.jpg"
+                      alt="返照X"
+                ></p>
+<p>同樣用<a class="link"   href="https://scryfall.com/card/woe/195/up-the-beanstalk" >爬上豆莖 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>檢查返照X費咒語的情境，再讓我們把問題進階一點。</p>
+<p>假設我們返照了一張<a class="link"   href="https://scryfall.com/card/c19/138/devils-play" >魔鬼造孽 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>，並宣告X&#x3D;2，你確實要支付5費（2RRR）才能施放它，但在堆疊上檢查咒語特徵時，遊戲檢查的依舊是原始特徵，只會看到這是個X&#x3D;2、總計3費的咒語（2R），爬上豆莖不會觸發抽牌能力，你如果想抽牌X必須至少為4才行。</p>
+<p><a class="link"   href="https://scryfall.com/card/mid/146/light-up-the-night" >照亮黑夜 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>也是同理，它的返照費用為4費加上從鵬洛客上移除X個忠誠指示物，這個X將會決定你返照此卡時它會是個幾費的咒語，如果你想用爬上豆莖抽牌，就必須移除至少4個忠誠指示物，這樣X大於等於4，此咒語的費用才能達到5費（4R）。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.imgur.com/OBP3VBO.jpg"
+                      alt="增幅"
+                ></p>
+<p>替代性費用與額外費用的差異也是不時有人搞混的地方，兩者最大的差異是任何咒語都只可以使用一個替代性費用，但可以擁有多個額外費用。</p>
+<p>假設你操控<a class="link"   href="https://scryfall.com/card/m19/65/omniscience" >全知全能 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>，它會創造一個替代性費用，如果使用了全知全能免費施放的替代性費用，<a class="link"   href="https://scryfall.com/card/cmm/84/cyclonic-rift" >龍卷裂空 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>就只能用原始功能的選一個目標非地永久物，而不能選擇超載，反之若想超載就要乖乖付7費，不能使用全知全能的能力，但像增幅（Kicker）這種額外費用就不同了，以<a class="link"   href="https://scryfall.com/card/dom/46/blink-of-an-eye" >眨眼即逝 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>為例，無論你有沒有適用全知全能的替代性費用，都可以在這之上額外支付2費來幫這個咒語增幅。</p>
+<h3 id="附註：試作（Prototype）並不屬於替代性費用"><a href="#附註：試作（Prototype）並不屬於替代性費用" class="headerlink" title="附註：試作（Prototype）並不屬於替代性費用"></a>附註：試作（Prototype）並不屬於替代性費用</h3><p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.imgur.com/YqZWJTS.jpg"
+                      alt="Prototype"
+                ></p>
+<p>最後來講個很容易被誤會的特例，試作的寫法雖然乍看之下很像一個替代性費用，但是它並不是！試作會真實的改變咒語的特徵，一個<a class="link"   href="https://scryfall.com/card/bro/121/phyrexian-fleshgorger" >非瑞克西亞噬生亞龍 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>如果使用試作費用來施放<a class="link"   href="https://scryfall.com/card/khm/54/disdainful-stroke" >倨傲擊 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>是康不到的，而加碼過的<a class="link"   href="https://scryfall.com/card/woe/82/beseech-the-mirror" >懇求魔鏡 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>可以選擇施放試作的非瑞克西亞噬生亞龍，因為這裡唯一的替代性費用是懇求魔鏡的免費施放能力。</p>
+<hr>
+<h2 id="結語"><a href="#結語" class="headerlink" title="結語"></a>結語</h2><p><strong>「<a href="#%E4%BB%BB%E4%BD%95%E5%92%92%E8%AA%9E%E9%83%BD%E5%8F%AA%E5%8F%AF%E4%BB%A5%E4%BD%BF%E7%94%A8%E4%B8%80%E5%80%8B%E6%9B%BF%E4%BB%A3%E6%80%A7%E8%B2%BB%E7%94%A8">任何咒語都只可以使用一個替代性費用</a>」</strong> 只要記得這句話，今天的文章你就讀懂了，剩下的就是面對某些只寫關鍵字不寫完整說明的牌張時，要懂得這個關鍵字的定義是甚麼，釐清這些後再面對「為甚麼用迅咒法師返照FOW時無法選擇替費施放」這類問題時，相信你已經可以很清晰地回答了。</p>
+]]></content>
+      <tags>
+        <tag>JruMTG</tag>
+        <tag>MTG Rule</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>如何施放無費用咒語</title>
     <url>/casting-spell-without-mana-cost/</url>
     <content><![CDATA[<p>MTG的咒語中存在著一種特殊異類，它們沒有正常的施放費用，也無法像一般咒語一樣直接從手上施放，想要施放它們只能使用某些特殊手段。</p>
