@@ -56,15 +56,6 @@
   </url>
   
   <url>
-    <loc>https://guildmagesforum.tw/WOE-Green/</loc>
-    
-    <lastmod>2023-10-19</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://guildmagesforum.tw/WOE-Red/</loc>
     
     <lastmod>2023-10-19</lastmod>
@@ -111,15 +102,6 @@
   
   <url>
     <loc>https://guildmagesforum.tw/categories/index.html</loc>
-    
-    <lastmod>2023-10-19</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://guildmagesforum.tw/DFC-Copy/</loc>
     
     <lastmod>2023-10-19</lastmod>
     
@@ -308,6 +290,15 @@
   </url>
   
   <url>
+    <loc>https://guildmagesforum.tw/WOE-Green/</loc>
+    
+    <lastmod>2023-10-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://guildmagesforum.tw/Standard-UW-Control/</loc>
     
     <lastmod>2023-10-19</lastmod>
@@ -327,6 +318,15 @@
   
   <url>
     <loc>https://guildmagesforum.tw/Adventure-and-Lier/</loc>
+    
+    <lastmod>2023-10-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://guildmagesforum.tw/DFC-Copy/</loc>
     
     <lastmod>2023-10-19</lastmod>
     
