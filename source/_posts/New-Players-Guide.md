@@ -5,7 +5,6 @@ date: 2023-10-05 14:15:24
 tags: 
 
  - JruMTG
- - etc.
 
 cover: "https://i.imgur.com/Puc6gJz.png"
 thumbnail: "https://i.imgur.com/ISsvq5u.png"
