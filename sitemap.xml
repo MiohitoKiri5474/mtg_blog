@@ -20,15 +20,6 @@
   </url>
   
   <url>
-    <loc>https://guildmagesforum.tw/Standard-Jeskai-Mechtitan-Core/</loc>
-    
-    <lastmod>2023-10-20</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://guildmagesforum.tw/WOE-mechanism/</loc>
     
     <lastmod>2023-10-20</lastmod>
@@ -57,24 +48,6 @@
   
   <url>
     <loc>https://guildmagesforum.tw/if-you-do-and-when-you-do/</loc>
-    
-    <lastmod>2023-10-20</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://guildmagesforum.tw/Standard-Golgari-Obliterator/</loc>
-    
-    <lastmod>2023-10-20</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://guildmagesforum.tw/Standard-Grixis-Battles/</loc>
     
     <lastmod>2023-10-20</lastmod>
     
@@ -138,15 +111,6 @@
   
   <url>
     <loc>https://guildmagesforum.tw/WOE-White/</loc>
-    
-    <lastmod>2023-10-20</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://guildmagesforum.tw/Standard-UW-Control/</loc>
     
     <lastmod>2023-10-20</lastmod>
     
@@ -308,6 +272,15 @@
   </url>
   
   <url>
+    <loc>https://guildmagesforum.tw/Standard-Jeskai-Mechtitan-Core/</loc>
+    
+    <lastmod>2023-10-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://guildmagesforum.tw/Modern-4C-Elemental/</loc>
     
     <lastmod>2023-10-20</lastmod>
@@ -336,6 +309,33 @@
   
   <url>
     <loc>https://guildmagesforum.tw/Pioneer-Meta-Inspection-20231007/</loc>
+    
+    <lastmod>2023-10-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://guildmagesforum.tw/Standard-Golgari-Obliterator/</loc>
+    
+    <lastmod>2023-10-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://guildmagesforum.tw/Standard-Grixis-Battles/</loc>
+    
+    <lastmod>2023-10-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://guildmagesforum.tw/Standard-UW-Control/</loc>
     
     <lastmod>2023-10-20</lastmod>
     
