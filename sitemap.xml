@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://guildmagesforum.tw/casting-spell-without-mana-cost/</loc>
+    <loc>https://guildmagesforum.tw/if-you-do-and-when-you-do/</loc>
     
     <lastmod>2023-11-03</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://guildmagesforum.tw/if-you-do-and-when-you-do/</loc>
+    <loc>https://guildmagesforum.tw/about/index.html</loc>
     
     <lastmod>2023-11-03</lastmod>
     
@@ -47,7 +47,43 @@
   </url>
   
   <url>
-    <loc>https://guildmagesforum.tw/about/index.html</loc>
+    <loc>https://guildmagesforum.tw/Modern-Meta-Inspection-20230911/</loc>
+    
+    <lastmod>2023-11-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://guildmagesforum.tw/Modern-Mono-Black-Coffers/</loc>
+    
+    <lastmod>2023-11-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://guildmagesforum.tw/New-Players-Guide/</loc>
+    
+    <lastmod>2023-11-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://guildmagesforum.tw/Pioneer-Lotus-Field/</loc>
+    
+    <lastmod>2023-11-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://guildmagesforum.tw/Pioneer-Meta-Inspection-20230918/</loc>
     
     <lastmod>2023-11-03</lastmod>
     
@@ -147,6 +183,60 @@
   
   <url>
     <loc>https://guildmagesforum.tw/What-is-Alternative-Cost/</loc>
+    
+    <lastmod>2023-11-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://guildmagesforum.tw/casting-spell-without-mana-cost/</loc>
+    
+    <lastmod>2023-11-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://guildmagesforum.tw/Modern-Temur-Crashing-Footballs/</loc>
+    
+    <lastmod>2023-11-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://guildmagesforum.tw/Pioneer-4C-Enigmatic-Fires/</loc>
+    
+    <lastmod>2023-11-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://guildmagesforum.tw/Pioneer-Introduction/</loc>
+    
+    <lastmod>2023-11-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://guildmagesforum.tw/Pioneer-Meta-Inspection-20231007/</loc>
+    
+    <lastmod>2023-11-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://guildmagesforum.tw/Pioneer-Meta-Inspection-PreMIT-4/</loc>
     
     <lastmod>2023-11-03</lastmod>
     
@@ -308,60 +398,6 @@
   </url>
   
   <url>
-    <loc>https://guildmagesforum.tw/Modern-Meta-Inspection-20230911/</loc>
-    
-    <lastmod>2023-11-03</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://guildmagesforum.tw/Modern-Mono-Black-Coffers/</loc>
-    
-    <lastmod>2023-11-03</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://guildmagesforum.tw/Modern-Rakdos-Scam/</loc>
-    
-    <lastmod>2023-11-03</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://guildmagesforum.tw/New-Players-Guide/</loc>
-    
-    <lastmod>2023-11-03</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://guildmagesforum.tw/Pioneer-Lotus-Field/</loc>
-    
-    <lastmod>2023-11-03</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://guildmagesforum.tw/Pioneer-Meta-Inspection-20230918/</loc>
-    
-    <lastmod>2023-11-03</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://guildmagesforum.tw/Modern-4C-Elemental/</loc>
     
     <lastmod>2023-11-03</lastmod>
@@ -372,51 +408,6 @@
   
   <url>
     <loc>https://guildmagesforum.tw/Modern-Izzet-Murktide/</loc>
-    
-    <lastmod>2023-11-03</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://guildmagesforum.tw/Modern-Temur-Crashing-Footballs/</loc>
-    
-    <lastmod>2023-11-03</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://guildmagesforum.tw/Pioneer-4C-Enigmatic-Fires/</loc>
-    
-    <lastmod>2023-11-03</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://guildmagesforum.tw/Pioneer-Introduction/</loc>
-    
-    <lastmod>2023-11-03</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://guildmagesforum.tw/Pioneer-Meta-Inspection-20231007/</loc>
-    
-    <lastmod>2023-11-03</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://guildmagesforum.tw/Pioneer-Meta-Inspection-PreMIT-4/</loc>
     
     <lastmod>2023-11-03</lastmod>
     
