@@ -4,7 +4,6 @@ https://guildmagesforum.tw/WOE-mechanism/
 https://guildmagesforum.tw/What-is-Alternative-Cost/
 https://guildmagesforum.tw/casting-spell-without-mana-cost/
 https://guildmagesforum.tw/if-you-do-and-when-you-do/
-https://guildmagesforum.tw/WOE-Black/
 https://guildmagesforum.tw/WOE-Blue/
 https://guildmagesforum.tw/WOE-Green/
 https://guildmagesforum.tw/WOE-Red/
@@ -13,12 +12,14 @@ https://guildmagesforum.tw/WOE-White/
 https://guildmagesforum.tw/WOE-multicolors/
 https://guildmagesforum.tw/about/index.html
 https://guildmagesforum.tw/categories/index.html
+https://guildmagesforum.tw/About-Play-Boosters/
 https://guildmagesforum.tw/Adventure-and-Lier/
 https://guildmagesforum.tw/DFC-Copy/
 https://guildmagesforum.tw/Deck-Building-Basic/
 https://guildmagesforum.tw/Modern-Golgari-Yawgmoth/
 https://guildmagesforum.tw/Modern-Meta-Inspection-20230911/
 https://guildmagesforum.tw/Modern-Mono-Black-Coffers/
+https://guildmagesforum.tw/Modern-Rakdos-Scam/
 https://guildmagesforum.tw/New-Players-Guide/
 https://guildmagesforum.tw/Pioneer-Lotus-Field/
 https://guildmagesforum.tw/Pioneer-Meta-Inspection-20230918/
@@ -40,9 +41,9 @@ https://guildmagesforum.tw/Pioneer-Meta-Inspection-PreMIT-4/
 https://guildmagesforum.tw/Standard-Golgari-Obliterator/
 https://guildmagesforum.tw/Standard-Grixis-Battles/
 https://guildmagesforum.tw/Standard-UW-Solider/
+https://guildmagesforum.tw/WOE-Black/
 https://guildmagesforum.tw/Round-Process/
 https://guildmagesforum.tw/Standard-UW-Control/
-https://guildmagesforum.tw/About-Play-Boosters/
 https://guildmagesforum.tw/Contact-Us/index.html
 https://guildmagesforum.tw/
 https://guildmagesforum.tw/tags/cephille/

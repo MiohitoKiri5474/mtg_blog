@@ -56,15 +56,6 @@
   </url>
   
   <url>
-    <loc>https://guildmagesforum.tw/WOE-Black/</loc>
-    
-    <lastmod>2023-11-03</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://guildmagesforum.tw/WOE-Blue/</loc>
     
     <lastmod>2023-11-03</lastmod>
@@ -137,6 +128,15 @@
   </url>
   
   <url>
+    <loc>https://guildmagesforum.tw/About-Play-Boosters/</loc>
+    
+    <lastmod>2023-11-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://guildmagesforum.tw/Adventure-and-Lier/</loc>
     
     <lastmod>2023-11-03</lastmod>
@@ -183,6 +183,15 @@
   
   <url>
     <loc>https://guildmagesforum.tw/Modern-Mono-Black-Coffers/</loc>
+    
+    <lastmod>2023-11-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://guildmagesforum.tw/Modern-Rakdos-Scam/</loc>
     
     <lastmod>2023-11-03</lastmod>
     
@@ -380,6 +389,15 @@
   </url>
   
   <url>
+    <loc>https://guildmagesforum.tw/WOE-Black/</loc>
+    
+    <lastmod>2023-11-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://guildmagesforum.tw/Round-Process/</loc>
     
     <lastmod>2023-11-03</lastmod>
@@ -390,15 +408,6 @@
   
   <url>
     <loc>https://guildmagesforum.tw/Standard-UW-Control/</loc>
-    
-    <lastmod>2023-11-03</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://guildmagesforum.tw/About-Play-Boosters/</loc>
     
     <lastmod>2023-11-03</lastmod>
     
