@@ -8,6 +8,8 @@ packages = [{include = "mtg_blog_card_replace_tools"}]
 
 [tool.poetry.dependencies]
 python = "^3.11"
+
+[tool.poetry.dev-dependencies]
 scrython = "^1.11.0"
 
 

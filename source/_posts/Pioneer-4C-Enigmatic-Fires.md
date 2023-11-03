@@ -5,8 +5,8 @@ tags:
   - "Enki"
   - "Pioneer"
 excerpt: "想叫大怪卻又不想好好支費用嗎?"
-cover: "https://www.artofmtg.com/wp-content/uploads/2020/01/Enigmatic-Incarnation-Theros-Beyond-Death-Art.jpg"
-thumbnail: "https://www.artofmtg.com/wp-content/uploads/2020/01/Enigmatic-Incarnation-Theros-Beyond-Death-Art.jpg"
+cover: "https://guildmagesforum.tw/images/Enigmatic-Incarnation.jpg"
+thumbnail: "https://guildmagesforum.tw/images/Enigmatic-Incarnation.jpg"
 ---
 
 ## 前言
