@@ -6,7 +6,6 @@ tags:
  - MTG Rule
  - Modern
  - Legacy
-categories: MTG-Rules
 excerpt: '我只是拍個血月，克薩傳怎麼就自己爆掉了'
 
 categories:
