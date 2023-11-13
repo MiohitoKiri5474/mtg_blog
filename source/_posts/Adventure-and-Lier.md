@@ -15,6 +15,8 @@ thumbnail: "https://i.imgur.com/zd5EUlv.png"
 
 excerpt: "翻湧神信徒列爾是如何從墳場返照歷險咒語的?"
 
+categories:
+  - MTG-Rules
 ---
 
 

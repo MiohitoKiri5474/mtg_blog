@@ -11,6 +11,9 @@ thumbnail: "https://i.imgur.com/ISsvq5u.png"
 
 excerpt: "關於筆者近年來在帶領新人上的經驗總結"
 
+categories:
+  - Others
+
 ---
 
 ## Before We Start

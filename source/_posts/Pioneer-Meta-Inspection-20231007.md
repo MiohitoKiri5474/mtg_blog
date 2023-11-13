@@ -2,12 +2,15 @@
 title: 'Pioneer 環境考察 2023/10/07'
 date: 2023-10-07 09:00:00
 tags:
- - MiohitoKiri5474
- - Pioneer
- - Inspection
+  - MiohitoKiri5474
+  - Pioneer
+  - Inspection
 cover: 'https://files.hareruyamtg.com/article/wp-content/uploads/2020/07/06194309/Discontinuity.jpg'
 thumbnail: 'https://files.hareruyamtg.com/article/wp-content/uploads/2020/07/06194309/Discontinuity.jpg'
 excerpt: '加拿大 RC 和歐洲 RC 在上週末結束了，讓我們來看看有哪些突出的套牌吧！'
+categories:
+  - Construct
+  - Pioneer
 ---
 
 ## Before We Start

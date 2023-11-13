@@ -2,13 +2,16 @@
 title: "Mio's Izzet Murktide List"
 date: 2023-09-05 14:24:59
 tags:
- - MiohitoKiri5474
- - Modern
- - Decktech
+  - MiohitoKiri5474
+  - Modern
+  - Deck Tech
 
 cover: "https://guildmagesforum.tw/images/Izzet-Murktide/Cover.jpg"
 thumbnail: "https://guildmagesforum.tw/images/Izzet-Murktide/Cover.jpg"
 excerpt: '好啦，上一篇那樣太明目張膽了，這一次多給了一堆內容應該可以了吧QQ'
+categories:
+  - Construct
+  - Modern
 ---
 
 ## Before We Start

@@ -11,6 +11,9 @@ excerpt: '不久前威世智釋出了下一個標準系列《依夏蘭迷窟》�
 cover: "https://i.imgur.com/C8aM8pu.jpg"
 thumbnail: "https://i.imgur.com/C8aM8pu.jpg"
 
+categories:
+  - Construct
+  - Pioneer
 ---
 
 ## Before We Start

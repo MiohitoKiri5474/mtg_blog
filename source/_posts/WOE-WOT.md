@@ -2,11 +2,12 @@
 title: '豬鼻子的艾卓荒野(WOE)限制賽初探 — 魅附奇譚(WOT)'
 date: 2023-09-05 17:39:08
 tags: 
- - cephille
- - 豬鼻子的mtg世界
- - WOE
- - Limited
-categories: WOE-Limit
+  - cephille
+  - WOE
+  - Limited
+categories:
+  - Limited
+  - WOE-Limited
 excerpt: "艾卓荒野(WOE)限制賽中最令人驚喜也驚嚇的63張惡名昭彰的結界們，你值得擁有！來看看魅附奇譚(WOT)這些結界牌在限制賽中的評分與介紹吧！"
 ---
 

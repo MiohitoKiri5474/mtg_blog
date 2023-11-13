@@ -7,6 +7,8 @@ tags:
 cover: "https://i.imgur.com/CdTbQjv.png"
 thumbnail: "https://i.imgur.com/9ggraDh.png"
 excerpt: "回合結構大部分解開始！"
+categories:
+  - MTG-Rules
 ---
 
 ## Before We Start

@@ -7,6 +7,10 @@ tags:
 cover: "https://i.imgur.com/yDv5Oty.png"
 thumbnail: "https://i.imgur.com/yDv5Oty.png"
 excerpt: "三回犀牛，康康康康康康…結束，好玩遊戲每天玩"
+
+categories:
+  - Construct
+  - Modern
 ---
 ## 前言
 第五季的RCQ （Regional Championship Qualifer, 台灣區稱為MIT）已經開始一段時間了，我也將在這一週開始到處跑卡店、爭戰RCQ。因為我曾經在個人版上分享過一篇自稱全台灣最詳細的先驅紅黑中速的文章，所以這次收到[Guildmages' Forum](https://www.facebook.com/guildmagesforumtw)團隊的邀請，希望我可以用當時的一半功力，來介紹這套我打了快一年、在美國贏到快爛掉的近代套牌。

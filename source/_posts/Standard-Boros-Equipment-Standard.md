@@ -2,8 +2,8 @@
 title: '巧手神兵：標準紅白武具'
 date: 2023-09-19 16:23:42
 tags: 
- - JerobaMTG
- - Standard
+  - JerobaMTG
+  - Standard
 
 excerpt: '想正面擊破啟示天災希歐蕊嗎？
 喜歡神裝割草的無雙快感嗎？
@@ -12,6 +12,9 @@ excerpt: '想正面擊破啟示天災希歐蕊嗎？
 cover: "https://i.imgur.com/k7KGwmH.jpg"
 thumbnail: "https://i.imgur.com/k7KGwmH.jpg"
 
+categories:
+  - Construct
+  - Standard
 ---
 
 ## Before We Start

@@ -5,14 +5,15 @@ date: 2023-09-12 19:31:13
 
 tags: 
 
- - JruMTG
- - MTG Rule
+  - JruMTG
+  - MTG Rule
 
 cover: "https://i.imgur.com/KqhdXXK.png"
 thumbnail: "https://i.imgur.com/zgTvE56.png"
 
 excerpt: "來談談 If you do 與 When you do 差一個字所產生的規則差異"
-
+categories: 
+  - MTG-Rules
 ---
 
 這次來聊聊一個比較刁鑽的文字話題，If you do 與 When you do的差別究竟在哪? 

@@ -7,6 +7,8 @@ tags:
 cover: "https://i.imgur.com/1xH08bF.png"
 thumbnail: "https://i.imgur.com/1xH08bF.png"
 excerpt: "套牌要怎麼組才會順？其實是有訣竅的。"
+categories: 
+  - Others
 ---
 ## Before We Start
 

@@ -10,6 +10,8 @@ tags:
 cover: "https://i.imgur.com/ycIvzuf.jpg"
 thumbnail: "https://i.imgur.com/ycIvzuf.jpg"
 excerpt: "2024年二月起的Murders at Karlov Manor系列發售後我們將告別既有的系列補充包以及輪抽補充包，取而代之的是新式的Play Booster，讓我們來看看這對我們可能會有什麼影響吧！"
+categories:
+  - Others
 
 ---
 

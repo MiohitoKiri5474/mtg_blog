@@ -13,6 +13,9 @@ thumbnail: "https://i.imgur.com/74agayt.png"
 
 excerpt: "為甚麼用迅咒法師返照FOW時無法選擇替費施放呢？"
 
+
+categories:
+  - MTG-Rules
 ---
 
 ## Before We Start

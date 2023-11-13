@@ -8,6 +8,9 @@ tags:
  - Legacy
 categories: MTG-Rules
 excerpt: '我只是拍個血月，克薩傳怎麼就自己爆掉了'
+
+categories:
+  - MTG-Rules
 ---
 
 要問起近代新篇2中哪張牌讓裁判收到了最多次的規則諮詢，那我想非[克撒傳](https://scryfall.com/card/mh2/259/zht/%E5%85%8B%E6%92%92%E5%82%B3)莫屬了，不僅是史上第一張結界地，更是前無古人(可能也後無來者)的傳紀地，這也讓它的規則Q&A異常精彩。

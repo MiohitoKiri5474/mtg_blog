@@ -8,6 +8,10 @@ tags:
 cover: "https://i.imgur.com/sC7dAsF.png"
 thumbnail: "https://i.imgur.com/sC7dAsF.png"
 excerpt: "說到限制賽就不能不從十張多色的U卡來看起，讓我們從多色進入LCI限制賽的大觀園吧！"
+
+categories:
+  - Limited
+  - LCI-Limited
 ---
 
 依夏蘭迷窟（The Lost Caverns of Ixalan, LCI）將於2023年11月10日舉行售前賽活動，而於隔一週2023年11月17日正式發行，想更了解單卡在限制賽的單卡評分與一些可能的有趣搭配嗎？那就來看看這一系列的LCI限制賽介紹吧！

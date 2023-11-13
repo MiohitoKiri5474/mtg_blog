@@ -2,17 +2,16 @@
 title: '豬鼻子的艾卓荒野(WOE)限制賽初探 — 藍色'
 date: 2023-09-05 17:30:21
 tags:
- - cephille
- - 豬鼻子的mtg世界
- - WOE
- - Limited
-categories: WOE-Limit
+  - cephille
+  - WOE
+  - Limited
+categories:
+  - Limited
+  - WOE-Limited
 excerpt: "仙靈與倒楣鬼、術士與冰霜魔法...艾卓荒野(WOE)限制賽中藍色牌的評分與介紹看這邊！"
 ---
 
 本文採用LSV以及Reid Duke兩位大神發表在Channelfireball(CFB)網站上的魔戒：中土世界傳奇 (LOTR)的限制賽評分標準以及行文格式。
-
-<!--more-->
 
 ## 評分標準 (Grading Scale)
 

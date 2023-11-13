@@ -2,11 +2,12 @@
 title: "豬鼻子的艾卓荒野(WOE)限制賽初探 — 白色"
 date: 2023-09-05 17:24:13
 tags: 
- - cephille
- - 豬鼻子的mtg世界
- - WOE
- - Limited
-categories: WOE-Limit
+  - cephille
+  - WOE
+  - Limited
+categories:
+  - Limited
+  - WOE-Limited
 cover: 'https://guildmagesforum.tw/images/WOE-White.jpg'
 thumbnail: 'https://guildmagesforum.tw/images/WOE-White.jpg'
 excerpt: "騎士與城堡、皇族與獅鷲...艾卓荒野(WOE)限制賽中白色牌的評分與介紹看這邊！"

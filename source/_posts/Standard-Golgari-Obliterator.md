@@ -2,9 +2,12 @@
 title: "艾卓仙蹤標準初探 : 葛加理互鬥抹煞獸"
 date: 2023-09-05 17:48:11
 tags: 
- - JruMTG
- - WOE
- - Standard
+  - JruMTG
+  - Standard
+
+categories:
+  - Construct
+  - Standard
 ---
 
 雖然標題寫著標準初探，但不是依靠艾卓新牌而成立的牌型，而是對現有牌表的改良。

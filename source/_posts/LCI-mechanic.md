@@ -6,10 +6,13 @@ tags:
   - "JruMTG"
   - "MTG Rule"
   - "LCI"
-  - "Standard"
 cover: "https://i.imgur.com/szsk2tj.png"
 thumbnail: "https://i.imgur.com/szsk2tj.png"
 excerpt: "來看看依夏蘭迷窟中出現了哪些新機制吧！"
+
+categories:
+  - Limited
+  - LCI-Limited
 ---
 
 ## Before We Start

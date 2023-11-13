@@ -5,13 +5,16 @@ title: '器械進擊：標準潔思凱合體'
 
 tags: 
  - JerobaMTG
- - WOE
  - Standard
 
 excerpt: '大哥，現在怎麼辦？那還用說嗎？當然是合體啊。'
 
 cover: "https://i.imgur.com/ITmNCfU.jpg"
 thumbnail: "https://i.imgur.com/ITmNCfU.jpg"
+
+categories:
+  - Construct
+  - Standard
 
 ---
 

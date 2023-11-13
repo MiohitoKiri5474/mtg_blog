@@ -3,14 +3,16 @@ title: '轉化式雙面牌與複製效應'
 date: 2023-09-28 12:00:00
 tags: 
 
- - JruMTG
- - MTG Rule
+  - JruMTG
+  - MTG Rule
 
 cover: "https://i.imgur.com/NwTeh61.png"
 thumbnail: "https://i.imgur.com/NwTeh61.png"
 
 excerpt: "當我嘗試複製一個轉化式雙面牌時會得到甚麼?"
 
+categories: 
+  - MTG-Rules
 ---
 
 ## Before We Start

@@ -2,12 +2,16 @@
 title: "Modern 環境考察 2023/09/11"
 date: 2023-09-11 16:59:23
 tags:
- - MiohitoKiri5474
- - Modern
- - Inspection
+  - MiohitoKiri5474
+  - Modern
+  - Inspection
 thumbnail: 'https://guildmagesforum.tw/images/not-dead-after-all.jpg'
 cover: 'https://guildmagesforum.tw/images/not-dead-after-all.jpg'
 excerpt: 'MITQ#5 開打啦，是時候來更新一點資訊囉。'
+
+categories:
+  - Construct
+  - Modern
 ---
 
 ## Before We Start

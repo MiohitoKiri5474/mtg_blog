@@ -2,10 +2,11 @@
 title: "如何施放無費用咒語"
 date: 2023-09-05 17:13:27
 tags:
- - JruMTG
- - MTG Rule
- - Modern
-categories: MTG-Rules
+  - JruMTG
+  - MTG Rule
+  - Modern
+categories:
+  - MTG-Rules
 ---
 
 MTG的咒語中存在著一種特殊異類，它們沒有正常的施放費用，也無法像一般咒語一樣直接從手上施放，想要施放它們只能使用某些特殊手段。

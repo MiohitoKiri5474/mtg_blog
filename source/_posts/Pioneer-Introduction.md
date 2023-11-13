@@ -12,6 +12,9 @@ excerpt: '給新加入的玩家、或是想要入坑先驅賽制的玩家的一�
 cover: "https://www.wargamer.com/wp-content/sites/wargamer/2023/06/mtg-pioneer.jpg"
 thumbnail: "https://guildmagesforum.tw/images/mtg-pioneer.jpg"
 
+categories:
+  - Construct
+  - Pioneer
 ---
 
 >本文原刊載於[巴哈姆特魔法風雲會哈拉區](https://forum.gamer.com.tw/C.php?bsn=857&snA=5443)，經原作者同意後發布於Guildmages' Forum。雖然是搬運的文章，但套牌類型也根據目前最新的金魚先驅賽制meta做調整，非常歡迎看過這篇的人再來看一次。

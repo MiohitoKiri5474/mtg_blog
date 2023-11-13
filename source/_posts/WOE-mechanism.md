@@ -2,11 +2,12 @@
 title: '豬鼻子的艾卓荒野(WOE)限制賽初探 — 機制介紹'
 date: 2023-08-29 16:40:06
 tags:
- - cephille
- - 豬鼻子的mtg世界
- - WOE
- - Limited
-categories: WOE-Limit
+  - cephille
+  - WOE
+  - Limited
+categories:
+  - Limited
+  - WOE-Limited
 cover: 'https://media.wizards.com/2023/images/daily/nNjKmcrleh.jpg'
 thumbnail: 'https://guildmagesforum.tw/images/WOE-Cover.jpg'
 excerpt: '要了解新系列限制賽一定要從它的機制來認識起，來看看艾卓荒野(WOE)的機制介紹吧！'

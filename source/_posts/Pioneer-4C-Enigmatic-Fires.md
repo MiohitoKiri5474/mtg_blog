@@ -7,6 +7,10 @@ tags:
 excerpt: "想叫大怪卻又不想好好支費用嗎?"
 cover: "https://guildmagesforum.tw/images/Enigmatic-Incarnation.jpg"
 thumbnail: "https://guildmagesforum.tw/images/Enigmatic-Incarnation.jpg"
+
+categories:
+  - Construct
+  - Pioneer
 ---
 
 ## 前言

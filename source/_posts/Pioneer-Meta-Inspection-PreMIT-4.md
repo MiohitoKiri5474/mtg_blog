@@ -8,6 +8,10 @@ tags:
 cover: '/images/Thoughtseize.jpg'
 thumbnail: '/images/Thoughtseize.jpg'
 excerpt: '週末就是 MIT #4 的決賽了，大家決定好套牌了嗎？'
+
+categories:
+  - Construct
+  - Pioneer
 ---
 
 ## Before We Start
