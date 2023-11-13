@@ -78,6 +78,9 @@
 </blockquote>
 <p>說白了，這只是個遊戲，願意投入多少錢與心力來玩，除了量力而為，更是見仁見智。我當然是會繼續玩下去，但投入的程度不免也是會受到影響。希望這篇文章可以讓讀者了解到一些可預見的影響，也歡迎你們回覆你們的見解給我，謝謝。</p>
 ]]></content>
+      <categories>
+        <category>Others</category>
+      </categories>
       <tags>
         <tag>cephille</tag>
         <tag>MTG Anecdote</tag>
@@ -172,6 +175,9 @@
 <p><a class="link"   href="https://scryfall.com/card/mom/230/invasion-of-alara-awaken-the-maelstrom" >進軍阿拉若 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>與<a class="link"   href="https://scryfall.com/card/woe/164/bramble-familiar-fetch-quest" >刺藤傭獸 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>則是一個充分利用歷險牌雙特徵的Combo，進軍阿拉若進場時展示牌庫頂直到兩張總魔法力值小於等於4的 <strong>牌</strong> ，你可以從中施放一張牌且不需要支付魔法力費用。</p>
 <p>這段能力唯一的檢查條件是 <strong>魔法力值小於等於4的牌</strong> ，刺藤傭獸是個二費的生物牌，滿足此條件。接著你可以施放此牌且不需要支付魔法力費用，這時歷險牌才會問你想要施放生物端的刺藤傭獸，還是歷險巫術端的尋得標的，無論你選擇哪一邊都可以成功施放，進軍阿拉若不會過問你最後施放了一個幾費的咒語。</p>
 ]]></content>
+      <categories>
+        <category>MTG-Rules</category>
+      </categories>
       <tags>
         <tag>JruMTG</tag>
         <tag>MTG Rule</tag>
@@ -321,6 +327,9 @@
 <h2 id="釐清規則定義"><a href="#釐清規則定義" class="headerlink" title="釐清規則定義"></a>釐清規則定義</h2><p>轉化式雙面牌與複製效應運作的底層邏輯其實並不複雜，但卻十分考驗對規則基本定義的理解度，本文所提及規則條目與情境，大致可包辦實戰中可能遇到的規則問題，只要理解了本文情境題中的規則處理原則，即使遇到更複雜的問題也可由底層邏輯逐步分析來破解。</p>
 <p>這次為了收斂問題，我們只專注探討了如何辨別正反面狀態，諸如Layer等其他細節就容我在此挖個坑，相信總有一天我會把這個坑填上，徹底的來聊聊Layer究竟該如何解析。</p>
 ]]></content>
+      <categories>
+        <category>MTG-Rules</category>
+      </categories>
       <tags>
         <tag>JruMTG</tag>
         <tag>MTG Rule</tag>
@@ -381,9 +390,140 @@
                 ></p>
 <p>完成了原型牌表後，你的套牌就可以拿出來跟別人測試遊玩了，勝率或許不怎麼高，只要好好洗牌，運作起來大致會是順暢的。<strong>但是</strong>，如果有認真依照本文內容計算的讀者，應該可以發現範例套牌<strong>地牌數量是有問題的</strong>。如果我們二回使用<a class="link"   href="https://cards.scryfall.io/large/front/1/9/19f20c0a-22be-4a9c-96ce-4047f7a2d424.jpg" >豆莖亞龍 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>的歷險加速下地、三回<a class="link"   href="https://cards.scryfall.io/large/front/8/f/8fed056f-a8f5-41ec-a7d2-a80a238872d1.jpg" >進軍贊迪卡 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>、四回拍出<a class="link"   href="https://cards.scryfall.io/large/front/a/9/a9ec900f-1e31-4440-a75a-20b256734d5b.jpg" >戈厄塔與馬仁 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>，那我們需要在第四回合抽到五張地，24地顯然是達不到這個需求。除此之外還有一個情況，當我們先手時三回會抽到3.6張地，如果二回使用<a class="link"   href="https://cards.scryfall.io/large/front/1/9/19f20c0a-22be-4a9c-96ce-4047f7a2d424.jpg" >豆莖亞龍 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>加速下地，那麼三回就很可能發生沒第四張地可下的窘境，在構築上勢必得做出相應的調整。而在我們增加地牌的同時，也意味著得削減非地牌的數量，很多數字得從頭算起。覺得很麻煩不想再繼續細算也沒關係，我們已經有原型牌表了，憑藉試打的感覺來做牌表調整與備牌設計完全是可行的，說不定你的獨特創意會成為賽場新星，拿著原創套牌打出成績，絕對是無與倫比的爽快！</p>
 ]]></content>
+      <categories>
+        <category>Others</category>
+      </categories>
       <tags>
         <tag>JerobaMTG</tag>
         <tag>Beginner</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>依夏蘭迷窟機制解析</title>
+    <url>/LCI-mechanic/</url>
+    <content><![CDATA[<h2 id="Before-We-Start"><a href="#Before-We-Start" class="headerlink" title="Before We Start"></a>Before We Start</h2><p><a class="link"   href="https://magic.wizards.com/en/news/feature/the-lost-caverns-of-ixalan-mechanics" >依夏蘭迷窟機制介紹 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>已於MTG官網公開了，有鑑於官網可能不會做繁體中文翻譯，以及本系列機制出現了幾個容易使人混淆的規則敘述，因此決定以個人的方式重新整理一次依夏蘭迷窟的機制並分享給各位讀者。</p>
+<hr>
+<h2 id="復出機制：轉化式雙面牌"><a href="#復出機制：轉化式雙面牌" class="headerlink" title="復出機制：轉化式雙面牌"></a>復出機制：轉化式雙面牌</h2><p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.imgur.com/1jMChMy.jpg"
+                      alt="轉化式雙面牌"
+                ></p>
+<p>其實我也不知道這該稱為復出機制還半長青機制了，轉化式雙面牌在依夏蘭時便是系列特色之一，本次依夏蘭迷窟也沒缺席，並且轉化後的牌張類別更加豐富，不過這次並未改變任何有關轉化式雙面牌的規則，在此就不贅述了，對更多有關轉化式雙面牌規則感興趣的讀者可以參閱這篇文章：<a href="https://guildmagesforum.tw/DFC-Copy/">轉化式雙面牌與複製效應</a>。</p>
+<h2 id="復出機制：勘察（Explore）"><a href="#復出機制：勘察（Explore）" class="headerlink" title="復出機制：勘察（Explore）"></a>復出機制：勘察（Explore）</h2><p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.imgur.com/6GpUCBk.jpg"
+                      alt="勘察"
+                ></p>
+<p>勘察是本次登場的另一個復出機制，也是過去依夏蘭的招牌機制。當你令一個生物勘察時，展示你牌庫頂的一張牌，如果展示到地牌便將該牌置於手上，如果沒以此法展示出地牌（展示了一張非地牌或是牌庫沒牌）則在勘察的生物上放一個+1&#x2F;+1指示物，然後你可以決定將牌庫頂展示的非地牌留在牌庫頂或是置於墳場。</p>
+<p>另外假設勘察異能結算時，負責勘察的生物已經不見了，勘察也會照常運作，展示到非地牌時依舊能決定是否放到墳場，唯一的差別是你沒有生物會因此獲得+1&#x2F;+1指示物。<br>（假若是一個咒語或異能令目標生物勘察，但在結算前目標生物消失的情況，這會導致規則反擊，勘察完全不會執行。）</p>
+<h2 id="地圖衍生物（Map-Token）"><a href="#地圖衍生物（Map-Token）" class="headerlink" title="地圖衍生物（Map Token）"></a>地圖衍生物（Map Token）</h2><p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.imgur.com/SdC4XVM.jpg"
+                      alt="地圖"
+                ></p>
+<p>地圖衍生物是一種新定義的神器衍生物，效果為勘察的延伸應用，地圖衍生物都是無色神器，且具有以下能力：<br>「{一}，{橫置}，犧牲此神器：令目標由你操控的生物勘察，此異能只能於巫術時機起動。」</p>
+<h2 id="化煉（Craft）"><a href="#化煉（Craft）" class="headerlink" title="化煉（Craft）"></a>化煉（Craft）</h2><p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.imgur.com/uNJUN3V.jpg"
+                      alt="化煉1"
+                ><br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.imgur.com/JsG7rma.png"
+                      alt="化煉2"
+                ></p>
+<p>化煉是一個基於轉化式雙面牌的的新起動式異能，皆出在轉化式雙面牌的正面，並且能夠幫助該牌轉化至背面。</p>
+<p>化煉的起動費用都會包含三者：</p>
+<ul>
+<li>支付指定的魔法力費用</li>
+<li>放逐此卡</li>
+<li>從戰場或墳場放逐其他指定條件與數量的永久物&#x2F;永久物牌</li>
+</ul>
+<p>化煉異能成功結算時，起動化煉異能的那張牌便會以已轉化（背面）的狀態放進戰場。</p>
+<p>有些牌的化煉費用會要求你放逐複數張永久物&#x2F;永久物牌，以<a class="link"   href="https://scryfall.com/card/lci/55/the-enigma-jewel-locus-of-enlightenment" >謎奇珠寶 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>為例子，它要求你放逐4張或更多具有起動式異能的非地牌，你只要從場上跟墳場放逐的總數大於等於4就好，比例可以是 0：4 、 2：2 、 3：1，由於這張牌只寫了至少，你想從場上放逐3個+墳場放逐4個來起動也沒有任何問題。另外從戰場上放逐的條件僅為「由你操控的永久物」，你要將Token或是從對手那獲得操控權的永久物做為化煉材料都不是問題。</p>
+<h2 id="傾探（Discover）"><a href="#傾探（Discover）" class="headerlink" title="傾探（Discover）"></a>傾探（Discover）</h2><p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.imgur.com/qnaAT9n.jpg"
+                      alt="傾探"
+                ></p>
+<p>終於來到本期文章的重頭戲了，傾探異能的卡面規則敘述正是我決定寫這篇文章的最大主因。</p>
+<p>傾探從命名到效果都顯然在致敬 <strong>傾曳（Cascade）</strong> ，讓我們來看看傾探具體的效果：</p>
+<ul>
+<li>傾探後面都會跟著一個數字，這個數字就是你能找到之牌的最大魔法力值。當有效應讓你傾探時，從你的牌庫頂開始逐張放逐牌，直到你放逐一張魔法力值等於小於該數字的非地牌為止，然後你可以施放該牌且不需支付其魔法力費用、或是將該牌置於你手上。之後將你放逐的其他牌以隨機順序置於牌庫底。</li>
+<li><strong>（雖然卡片上沒有寫）</strong> 用傾探所施放的咒語，其魔法力值也必須等於小於傾探後面所規定的數字。</li>
+</ul>
+<p>傾探可以說是傾曳的靈活升級版，你所翻出來的牌如果是當下不適用或是沒法用的，也可以選擇上手，不像原本傾曳只能默默地塞回牌庫底，法力值判斷門檻改成異能用數字來指定也讓設計空間靈活很多，好比這次就把這異能做在地牌上了，雖然不再是施放觸發效應代表對<a class="link"   href="https://scryfall.com/card/mh2/267/counterspell" >反擊咒語 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>的抗性降低，不過以筆者個人對對局平衡性的理解來看，施放觸發類效應確實是少做為妙，改成起動式異能或觸發式異能（在場上）後，或許也能搭配<a class="link"   href="https://scryfall.com/card/2x2/310/panharmonicon" >萬和琴 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>類效應玩出新的配合，不是施放觸發未必是壞事。</p>
+<p>但接下來這點就讓筆者非常不解了，那就是傾探的卡面敘述跟實際效果之間有落差，以上圖<a class="link"   href="https://scryfall.com/card/lci/150/geological-appraiser" >探地人 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>為例，他只檢查了「牌（Card）」的魔法力值，這項檢查通過就可以施放之，但實際上後面還有一條規則補充要求了該「咒語（Spell）」的魔法力值也要符合條件，這在某些牌張中會產生巨大的差異。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.imgur.com/iLwRRg6.jpg"
+                      alt="提勃"
+                ></p>
+<p>好比說<a class="link"   href="https://scryfall.com/card/khm/114/valki-god-of-lies-tibalt-cosmic-impostor" >謊言神瓦爾基 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>，他是張模式雙面牌，正面是2費生物、背面是7費鵬洛客（提勃），如果只檢查到「牌（Card）」的話謊言神瓦爾基符合條件，而讓你免費施放此卡時你可以選擇想要施放哪一面，但如果連同「咒語（Spell）」都一同檢查就不行了，因為它的背面是一個7費的咒語。<a class="link"   href="https://scryfall.com/card/woe/164/bramble-familiar-fetch-quest" >刺藤傭獸 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>的歷險也是同樣的原理，是否檢查「咒語（Spell）」費用會是完全不同的結果，各賽制中均有實例。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.imgur.com/B4jq2Dj.jpg"
+                      alt="作弊"
+                ></p>
+<p><a class="link"   href="https://scryfall.com/card/mom/230/invasion-of-alara-awaken-the-maelstrom" >進軍阿拉若 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>+<a class="link"   href="https://scryfall.com/card/woe/164/bramble-familiar-fetch-quest" >刺藤傭獸 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>的Combo就是標準的現在進行式，具體細節可以參考<a href="https://guildmagesforum.tw/Adventure-and-Lier/">列爾如何與歷險牌互動</a>這篇文章。</p>
+<p><a class="link"   href="https://scryfall.com/card/2x2/188/bring-to-light" >得見天光 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>+<a class="link"   href="https://scryfall.com/card/khm/114/valki-god-of-lies-tibalt-cosmic-impostor" >謊言神瓦爾基 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>在先驅中並不算罕見，得見天光同樣只檢查這張「牌」的費用，不會關心你最後施放了幾費的「咒語」。</p>
+<p>Cascade（如<a class="link"   href="https://scryfall.com/card/mh2/292/shardless-agent" >無斷片密探 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>）+<a class="link"   href="https://scryfall.com/card/khm/114/valki-god-of-lies-tibalt-cosmic-impostor" >謊言神瓦爾基 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>原本是與得見天光相同的運作邏輯，那時的近代充斥著大量的三回甚至二回Cascade提勃牌組，不過在2021年2月15日時官方隨著<a class="link"   href="https://magic.wizards.com/en/news/announcements/february-15-2021-banned-and-restricted-announcement" >禁牌表更新 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>，非常罕見的修改了異能規則定義，Cascade新的規則為「牌」的費用檢查通過後要再檢查一次「咒語」的費用，兩者皆合格才能施放，因此Cascade提勃這個戰術便從規則上消失了，不過這項規則修改是針對Cascade的，其他像是得見天光等戰術依然成立。</p>
+<p>從這點來說傾探（Discover）真的是非常致敬傾曳（Cascade），甚至連卡面上沒有寫但我會檢查咒語費用這點都一樣，可是人家傾曳是被後天修改了規則，原本規則確實與現在不同，卡面自然是跟不上現在的規則，傾探做為完全的新牌卻出現這種現象著實讓人不解。</p>
+<p>不過對「咒語」的費用門檻做限制這點本身筆者認為是良性的，這樣設計比較不會出現太破壞遊戲平衡的超展開牌型，只是如果僅閱讀了傾探在卡面上的規則敘述，就會產生非常大的規則歧義，這點請各位讀者務必多加留意。</p>
+<h2 id="落墳（Descend）"><a href="#落墳（Descend）" class="headerlink" title="落墳（Descend）"></a>落墳（Descend）</h2><p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.imgur.com/ql2vBGe.jpg"
+                      alt="落墳"
+                ></p>
+<p>落墳會關注本回合是否有永久物牌從任何區域進入你的墳場，無論是從戰場死去、從手牌棄掉、從牌庫磨掉都行，並且這張永久物牌也不用停留在墳場，只要曾經進入過墳場就行，即使那張牌後來因為其他原因又離開了墳場也絲毫不影響落墳的運作。</p>
+<p><a class="link"   href="https://scryfall.com/card/lci/95/broodrage-mycoid" >巢怒智蕈 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>只關心本回合是否有永久物牌進入過墳場，只要曾經有一張永久物牌進入墳場，這回合便算是有落墳過了。</p>
+<p><a class="link"   href="https://scryfall.com/card/lci/235/the-mycotyrant" >智蕈暴君 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>則稍微複雜點，它會計算你本回合落墳了幾次，也就是本回合永久物牌進入你墳場幾次，同樣的，只會計算這些牌進入墳場的總次數，是否停留在墳場並不重要，同一張牌也有機會貢獻多次落墳累積數。</p>
+<h2 id="落墳4（Descend-4）、落墳8（Descend-8）、落墳無邊（Fathomless-Descent）"><a href="#落墳4（Descend-4）、落墳8（Descend-8）、落墳無邊（Fathomless-Descent）" class="headerlink" title="落墳4（Descend 4）、落墳8（Descend 8）、落墳無邊（Fathomless Descent）"></a>落墳4（Descend 4）、落墳8（Descend 8）、落墳無邊（Fathomless Descent）</h2><p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.imgur.com/SfJPfjg.jpg"
+                      alt="落墳X"
+                ></p>
+<p>這是推動筆者寫出此文章的第二動力，與上面傾探的狀況不同，落墳並沒有規則解讀上的歧義，而是在文字閱讀上相當不直觀，容易使人混淆。</p>
+<p>落墳4、落墳8、落墳無邊皆會關心你墳場的 <strong>永久物牌數量</strong> ，根據你墳場的永久物牌數量會產生不同效果或是追加額外效果，落墳4代表墳場要有4張永久物牌、落墳8代表墳場要有8張永久物牌、落墳無邊不會要求你的墳場要有幾張永久物牌，而是多多益善，有越多張牌就能發揮越大的效果。</p>
+<p>看到這篇可以發現，<strong>落墳（Descend）</strong> 以及 <strong>落墳N（Descend N）</strong> 根本是兩個截然不同的能力，但兩者措辭極為相近，英文有可能只差了一個時態，中文甚至完全沒差，在不理解兩者規則差異的情況下，很有可能將含義混淆。</p>
+<p>最簡單的判別法就是去看這張牌有沒有要求關注墳場中永久物牌的數量，有的話就是 <strong>落墳N（Descend N）</strong> 或 <strong>落墳無邊（Fathomless Descent）</strong> ，如果只寫個了 <strong>落墳（Descend）</strong> 但文本沒給出Descend是指啥；或是出現 <strong>「If you descended this turn」</strong> 這種檢查此回合有沒有落墳過的字句，那就是在指關心是否有永久物牌進入過墳場的那個異能（某些高稀有度或高版本牌張中不會完整寫出關鍵字定義）。</p>
+<p>嚴格來講落墳4、落墳8、落墳無邊不是真正的關鍵字，而是<a class="link"   href="https://mtg.fandom.com/wiki/Ability_word" >異能提示文字 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>，在英文卡面會會以 <em><strong>斜體字</strong></em> 書寫，其他語言卡面未必有足夠辨識度，如果字體清晰可辨時這也是個辨識方案。異能提示表示即使不加這段字其實也不影響卡片的完整規則，一般來說提示文字會便於玩家閱讀規則，不過在這次卻因為兩種實際運作截然不同的能力共用了一個單字而造成玩家混淆。</p>
+<h2 id="終命指示物（Finality-Counter）"><a href="#終命指示物（Finality-Counter）" class="headerlink" title="終命指示物（Finality Counter）"></a>終命指示物（Finality Counter）</h2><p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.imgur.com/ObSAErz.jpg"
+                      alt="終命指示物"
+                ></p>
+<p>終命指示物雖然是新的指示物，但能力卻是舊有能力的新表現方式， <strong>身上擁有終命指示物的生物將死去時會改為放逐</strong>，未來MTG在設計死去改為放逐這類效應新牌時，可能會使用終命指示物這個全新的工具，就好比一些不能重置效應後來改用暈眩指示物（Stun Counter）設計一樣。</p>
+<p>當然，既然作為指示物就代表他有一些新的操作空間，好比說移除自己生物上的指示物，甚至是把指示物轉移給對手的生物等等。</p>
+<p>本系列使用終命指示物的牌張極少，但可以預期今後將會不斷出現使用終命指示物的新牌張。</p>
+<hr>
+<h2 id="準備迎接依夏蘭迷窟"><a href="#準備迎接依夏蘭迷窟" class="headerlink" title="準備迎接依夏蘭迷窟"></a>準備迎接依夏蘭迷窟</h2><p>截至本文完稿時間點，官方並未給出繁體中文版機制介紹文章，本文引用所有中文翻譯皆來自簡體中文版，未來繁中正式翻譯或許會與本文有所出入。</p>
+<p>依夏蘭迷窟的售前現開賽將於2023年11月10日開始，準備好展開新的探險吧！</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.imgur.com/t3lpIXr.jpg"
+                      alt="MR"
+                ></p>
+]]></content>
+      <categories>
+        <category>Limited</category>
+        <category>LCI-Limited</category>
+      </categories>
+      <tags>
+        <tag>JruMTG</tag>
+        <tag>MTG Rule</tag>
+        <tag>LCI</tag>
       </tags>
   </entry>
   <entry>
@@ -472,10 +612,14 @@
 </blockquote>
 <h2 id="六、結語"><a href="#六、結語" class="headerlink" title="六、結語"></a>六、結語</h2><p>其實在預覽的時候，周遭朋友覺得鍋子在醫生套牌跟鬼一樣，但我一開始對這張牌的評價是不好的，我一直在思考我要怎麼樣把東西弄到墳場給他吃掉，感覺就很麻煩；實際上用起來我馬上就後悔，從一開始的一張到現在直接收滿四張套牌放三張。我有朋友提到說，先不論鍋子為醫生帶來多少強度，但他為醫生帶來了許多樂趣，我也這樣覺得。鍋子真的是一張很有趣的牌，我也很期待未來會有什麼新的組合技出現，如果有人有更好的鍋子配合歡迎再跟我分享。</p>
 ]]></content>
+      <categories>
+        <category>Construct</category>
+        <category>Modern</category>
+      </categories>
       <tags>
         <tag>T1BloodMoon</tag>
         <tag>Modern</tag>
-        <tag>Card Tech</tag>
+        <tag>Deck Tech</tag>
       </tags>
   </entry>
   <entry>
@@ -582,6 +726,10 @@
 <p>而南部……這兩週沒比賽而且套牌分佈什麼都有什麼都不奇怪，但如果為了九月底以及十月初的比賽，是可以考慮 Rhinos 以及 Scam 這種綜合勝率比較高、沒有重大弱點的套牌，如果覺得練習量太高也可以轉打 Merfloks 或 Hammer Time 這些只要有一些底子就能打得不錯的套牌。</p>
 <h2 id="Epilogue"><a href="#Epilogue" class="headerlink" title="Epilogue"></a>Epilogue</h2><p>這週我們回顧一下過去兩週近代賽場的變動，如果要我選出最近適合打 RCQ 的套牌，我會推薦 4C Rhinos，他打的比較 aggressive 一些，但如果確定會有 Living End 玩家參賽而且比例較高的話，會推薦打 Omnath, Burn, Tron 或是比較 meta 邊緣的牌組，賭對手沒有做好應對（不過這是建立在有練好牌的前提）。<br>下週預計會是回顧先驅賽場，雖然 MIT 要等到十一月才打，不過先做點準備肯定是不錯的，先開始收牌、調整牌組，加減做一些練習。<br>希望這個系列可以作為常態性的文章一路寫下去，如果有什麼意見或是想討論的，都歡迎在下方留言，我們下週見！</p>
 ]]></content>
+      <categories>
+        <category>Construct</category>
+        <category>Modern</category>
+      </categories>
       <tags>
         <tag>Modern</tag>
         <tag>MiohitoKiri5474</tag>
@@ -665,10 +813,14 @@
 <h3 id="結語"><a href="#結語" class="headerlink" title="結語"></a>結語</h3><p>純黑柯幫金庫是一套自己打過一次就會很想組的套牌，自從之前跟朋友借來打到 Q 之後，現在正認真思考要不要把 scam 那邊多的料出一出，換成四張戒指和卡恩工具箱。<br>LTR 之前的版本還會帶 <a class="link"   href="https://cards.scryfall.io/large/front/3/5/35af9d5c-4449-4549-b549-c3ba4a67dee0.jpg?1685368727" >Invoke Despair <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>，不過自從多了三張 Swampcycling 、四張弓箭手、三張戒指之後可說是完全沒空間放這些東西了呢……<br>總之目前我也打到四張 SLD Showdown 的 <a class="link"   href="https://cards.scryfall.io/large/front/b/f/bf954e31-015a-4646-8333-40225c847bcc.jpg?1687348300" >Death’s Shadow <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 了，所以接下來的 MITQ 應該只有起床有空 + 有香菇需求 + 沒有懶懶病發作才會去打了吧w<br>目前還在物色 MIT #4 的 Modern Open 要打什麼，目前還是考慮借這套來打，不過套牌主人可能需要把部分的料移動到先驅那邊。</p>
 <p>最後希望大家都能在接下來的 MITQ 中斬獲資格！</p>
 ]]></content>
+      <categories>
+        <category>Construct</category>
+        <category>Modern</category>
+      </categories>
       <tags>
         <tag>Modern</tag>
-        <tag>MiohitoKiri5474</tag>
         <tag>Deck Tech</tag>
+        <tag>MiohitoKiri5474</tag>
       </tags>
   </entry>
   <entry>
@@ -730,6 +882,9 @@
 <p>整個過程中只看金錢支出的話我毫無疑問是虧損的（雖然卡條庫存過剩下可能也不算實質影響），但我希望我所處的本地環境能有個更健全的牌友互動空間，我也心甘情願為此付出。店家通常見你願意這般付出也不會虧待你，實則會形成一個雙贏的局面。</p>
 <p>一個遊戲要長久運營下去，新血的加入是不可或缺的一環，我的方法僅是一個供參考的故事，不同的社群下有不同的方法，我的方法也有地域的侷限性，但希望看過此文的讀者們，以後在面對新手時能多一點耐心，逐步引導新手們踏入這個美妙而精深的MTG世界。</p>
 ]]></content>
+      <categories>
+        <category>Others</category>
+      </categories>
       <tags>
         <tag>JruMTG</tag>
       </tags>
@@ -836,9 +991,13 @@
 <p>如同白藍蓮花田控制一樣，在有兩點法力下蓮花田時，可以回應蓮花田的 etb 切回合，這時候蓮花田進場犧牲兩塊地的異能會直接從堆疊上被放逐，便不需要犧牲兩塊地了。<br>同時已經有六點法力時，也可以在對手的維持階段切他的回合、或是回應他的咒語切回合，可以躲掉一些威脅。</p>
 <p>這種構築在過去一個月中的使用率逐漸上升中，加上歐洲冠軍也有投入使用，預計在接下來的環境中會有許多類似的構築。</p>
 ]]></content>
+      <categories>
+        <category>Construct</category>
+        <category>Pioneer</category>
+      </categories>
       <tags>
-        <tag>MiohitoKiri5474</tag>
         <tag>Deck Tech</tag>
+        <tag>MiohitoKiri5474</tag>
         <tag>Pioneer</tag>
       </tags>
   </entry>
@@ -965,6 +1124,10 @@
 <h3 id="Jeskai-Ascendancy"><a href="#Jeskai-Ascendancy" class="headerlink" title="Jeskai Ascendancy"></a>Jeskai Ascendancy</h3><p>最後來說說在過去大改版的傑斯凱霸權。<br>傳統的傑斯凱霸權，是藉由 <a class="link"   href="https://cards.scryfall.io/large/front/9/3/93ac4d3d-064e-459d-b3a4-6c0872a2da8c.jpg?1591104718" >Sylvan Awakening <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 運作的套牌，有四費且場上已經有 Jeskai Ascendancy 之後用 Sylvan Awakening 把所有地變成生物（馬那頭），接著用大量的低費咒語使得場面屯超過 20 點，全推對手收工。<br>但現在是更偏向純組合技了，用兩張 <a class="link"   href="https://cards.scryfall.io/large/front/6/6/66024e69-ad60-4c9a-a0ca-da138d33ad80.jpg?1685554120" >Mox Amber <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 和 <a class="link"   href="https://cards.scryfall.io/large/front/2/0/20fec02d-77af-4975-b410-7097c7c28e7e.jpg?1651655696" >Emry, Lurker of the Loch <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 做無限組合技，或是用 <a class="link"   href="https://cards.scryfall.io/large/front/7/a/7aa3fdd0-34d8-47b3-9753-d2929838732e.jpg?1562437109" >Retraction Helix <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 加上任意一張零點神器，做出無限場面後收工。</p>
 <h3 id="Epilogue"><a href="#Epilogue" class="headerlink" title="Epilogue"></a>Epilogue</h3><p>這週我們回顧了 WOE 發售之後的環境改變，不過沒有改變太多的 meta 結構，不少牌組都有獲得一些補強，但不足以影響整個環境。<br>最近練習近代以外還有空閒的朋友，可以試著先組出來測一下牌，減少下個月的練習負擔喔XD。<br>如果有什麼想討論的，一樣歡迎留言與我們分享，我們下週近代賽場見！</p>
 ]]></content>
+      <categories>
+        <category>Construct</category>
+        <category>Pioneer</category>
+      </categories>
       <tags>
         <tag>MiohitoKiri5474</tag>
         <tag>Inspection</tag>
@@ -1053,6 +1216,10 @@
                 ></p>
 <p>看到這裡客倌您有發現了嗎？這副套牌有一半的組件都是標準內的新牌，除了<a class="link"   href="https://cards.scryfall.io/large/front/7/e/7ea65011-233b-44d1-95ec-305abfda8f34.jpg" >萬獵霸虎斯達茲 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>不會出現在《依夏蘭迷窟》外，M20以前的元件都相當有機會在下個系列復刻，再加上<a class="link"   href="https://cards.scryfall.io/large/front/3/9/3977a2f0-5949-460a-aab4-2e79d7aa031d.jpg" >靈魂洞窟 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>即將回歸，屆時是有機會在標準重現這副套牌，覺得大恐龍很浪漫、有興趣的玩家可以參考看看這個思路構築看看。期待《依夏蘭迷窟》的推出可以進一步完善這副套牌。</p>
 ]]></content>
+      <categories>
+        <category>Construct</category>
+        <category>Pioneer</category>
+      </categories>
       <tags>
         <tag>JerobaMTG</tag>
         <tag>Pioneer</tag>
@@ -1121,6 +1288,10 @@
 <p>另外紅黑中速的 token 非常之多，完全不用擔心 Bargain 會無法觸發，再不濟就把奇奇或是劫庫械吃掉去找牌，總比什麼事都不能做來的好。</p>
 <p>不過以上的測試都要等到 WOE 上 MTGA 後才能測試，也要經過 meta 的洗禮，等十月底前再來看看要怎麼改牌吧。</p>
 ]]></content>
+      <categories>
+        <category>Construct</category>
+        <category>Pioneer</category>
+      </categories>
       <tags>
         <tag>MiohitoKiri5474</tag>
         <tag>Pioneer</tag>
@@ -1209,205 +1380,13 @@
 <p>備牌策略上保留四張常用的課程<a class="link"   href="https://cards.scryfall.io/large/front/3/2/32715660-ff59-4b36-859b-aa47c49f40da.jpg" >環境科學 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>、<a class="link"   href="https://cards.scryfall.io/large/front/2/c/2c88683e-d672-4923-b049-6c3e8fe59019.jpg" >古旅人教誨 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>、<a class="link"   href="https://cards.scryfall.io/large/front/f/e/fee207da-1151-4901-a278-6f92043df583.jpg" >從頭開始 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>、<a class="link"   href="https://cards.scryfall.io/large/front/a/a/aa27694c-5c55-43b7-92cc-290f4f057c0a.jpg" >苑像展示 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>給<a class="link"   href="https://cards.scryfall.io/large/front/3/a/3a0a12a6-154d-4d68-a8f3-f2af3725ba92.jpg" >除數歸零 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>去學習，並備上吃得到增殖效果的<a class="link"   href="https://cards.scryfall.io/large/front/f/e/febaaeae-5c0d-45fa-8169-b27b4996f18e.jpg" >鉻亮兵團運種鯊 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>以應對對手的墳場針對策略，剩下來的位置則置入<a class="link"   href="https://cards.scryfall.io/large/front/9/e/9e327903-eb0a-48e6-ba16-783a0fd232ba.jpg" >眾神之怒 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>、<a class="link"   href="https://cards.scryfall.io/large/front/1/a/1ae9261b-e4c3-458a-999f-9e7a9e53bbb1.jpg" >神秘干擾 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>、<a class="link"   href="https://cards.scryfall.io/large/front/f/c/fc864845-04fd-4879-bdd3-e9b405d20b09.jpg" >失效 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>、<a class="link"   href="https://cards.scryfall.io/large/front/1/5/15127b5b-d118-4483-ac06-4de38140bdab.jpg" >倨傲擊 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>、<a class="link"   href="https://cards.scryfall.io/large/front/e/9/e98db9ed-b43f-4bc1-b7a9-ce03a534d992.jpg" >改變等式 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>、<a class="link"   href="https://cards.scryfall.io/large/front/5/5/558ff014-6eb5-471b-ab9e-33553cc71d9e.jpg" >試煉才能 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>、<a class="link"   href="https://cards.scryfall.io/large/front/d/0/d0e82be9-7053-4357-babb-071e69ae11b2.jpg" >乙太勁風 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>等因應各式對局替換去除的反擊與掃場。</p>
 <h2 id="結語"><a href="#結語" class="headerlink" title="結語"></a>結語</h2><p>其實就筆者個人來說，肯理斯雙子的故事是一條相當吸引人的支線，每當他們在新故事登場時都相當期待這兩人的成長與活躍。威世智讓她們失去火花的理由與其說是故事需要，不如說是已經不知道如何設計出這對雙子旅法的新型態。或許未來他們有機會以融合的形式取回旅法身分，但很難想像後續如何繼續出成雙人組型式，這邊僅以這副套牌紀念他們姊弟倆在故事中的美好時光。</p>
 ]]></content>
+      <categories>
+        <category>Construct</category>
+        <category>Pioneer</category>
+      </categories>
       <tags>
         <tag>JerobaMTG</tag>
         <tag>Pioneer</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>依夏蘭迷窟機制解析</title>
-    <url>/Rule-LCI-Mechanic-Guide/</url>
-    <content><![CDATA[<h2 id="Before-We-Start"><a href="#Before-We-Start" class="headerlink" title="Before We Start"></a>Before We Start</h2><p><a class="link"   href="https://magic.wizards.com/en/news/feature/the-lost-caverns-of-ixalan-mechanics" >依夏蘭迷窟機制介紹 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>已於MTG官網公開了，有鑑於官網可能不會做繁體中文翻譯，以及本系列機制出現了幾個容易使人混淆的規則敘述，因此決定以個人的方式重新整理一次依夏蘭迷窟的機制並分享給各位讀者。</p>
-<hr>
-<h2 id="復出機制：轉化式雙面牌"><a href="#復出機制：轉化式雙面牌" class="headerlink" title="復出機制：轉化式雙面牌"></a>復出機制：轉化式雙面牌</h2><p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://i.imgur.com/1jMChMy.jpg"
-                      alt="轉化式雙面牌"
-                ></p>
-<p>其實我也不知道這該稱為復出機制還半長青機制了，轉化式雙面牌在依夏蘭時便是系列特色之一，本次依夏蘭迷窟也沒缺席，並且轉化後的牌張類別更加豐富，不過這次並未改變任何有關轉化式雙面牌的規則，在此就不贅述了，對更多有關轉化式雙面牌規則感興趣的讀者可以參閱這篇文章：<a href="https://guildmagesforum.tw/DFC-Copy/">轉化式雙面牌與複製效應</a>。</p>
-<h2 id="復出機制：勘察（Explore）"><a href="#復出機制：勘察（Explore）" class="headerlink" title="復出機制：勘察（Explore）"></a>復出機制：勘察（Explore）</h2><p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://i.imgur.com/6GpUCBk.jpg"
-                      alt="勘察"
-                ></p>
-<p>勘察是本次登場的另一個復出機制，也是過去依夏蘭的招牌機制。當你令一個生物勘察時，展示你牌庫頂的一張牌，如果展示到地牌便將該牌置於手上，如果沒以此法展示出地牌（展示了一張非地牌或是牌庫沒牌）則在勘察的生物上放一個+1&#x2F;+1指示物，然後你可以決定將牌庫頂展示的非地牌留在牌庫頂或是置於墳場。</p>
-<p>另外假設勘察異能結算時，負責勘察的生物已經不見了，勘察也會照常運作，展示到非地牌時依舊能決定是否放到墳場，唯一的差別是你沒有生物會因此獲得+1&#x2F;+1指示物。<br>（假若是一個咒語或異能令目標生物勘察，但在結算前目標生物消失的情況，這會導致規則反擊，勘察完全不會執行。）</p>
-<h2 id="地圖衍生物（Map-Token）"><a href="#地圖衍生物（Map-Token）" class="headerlink" title="地圖衍生物（Map Token）"></a>地圖衍生物（Map Token）</h2><p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://i.imgur.com/SdC4XVM.jpg"
-                      alt="地圖"
-                ></p>
-<p>地圖衍生物是一種新定義的神器衍生物，效果為勘察的延伸應用，地圖衍生物都是無色神器，且具有以下能力：<br>「{一}，{橫置}，犧牲此神器：令目標由你操控的生物勘察，此異能只能於巫術時機起動。」</p>
-<h2 id="化煉（Craft）"><a href="#化煉（Craft）" class="headerlink" title="化煉（Craft）"></a>化煉（Craft）</h2><p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://i.imgur.com/uNJUN3V.jpg"
-                      alt="化煉1"
-                ><br><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://i.imgur.com/JsG7rma.png"
-                      alt="化煉2"
-                ></p>
-<p>化煉是一個基於轉化式雙面牌的的新起動式異能，皆出在轉化式雙面牌的正面，並且能夠幫助該牌轉化至背面。</p>
-<p>化煉的起動費用都會包含三者：</p>
-<ul>
-<li>支付指定的魔法力費用</li>
-<li>放逐此卡</li>
-<li>從戰場或墳場放逐其他指定條件與數量的永久物&#x2F;永久物牌</li>
-</ul>
-<p>化煉異能成功結算時，起動化煉異能的那張牌便會以已轉化（背面）的狀態放進戰場。</p>
-<p>有些牌的化煉費用會要求你放逐複數張永久物&#x2F;永久物牌，以<a class="link"   href="https://scryfall.com/card/lci/55/the-enigma-jewel-locus-of-enlightenment" >謎奇珠寶 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>為例子，它要求你放逐4張或更多具有起動式異能的非地牌，你只要從場上跟墳場放逐的總數大於等於4就好，比例可以是 0：4 、 2：2 、 3：1，由於這張牌只寫了至少，你想從場上放逐3個+墳場放逐4個來起動也沒有任何問題。另外從戰場上放逐的條件僅為「由你操控的永久物」，你要將Token或是從對手那獲得操控權的永久物做為化煉材料都不是問題。</p>
-<h2 id="傾探（Discover）"><a href="#傾探（Discover）" class="headerlink" title="傾探（Discover）"></a>傾探（Discover）</h2><p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://i.imgur.com/qnaAT9n.jpg"
-                      alt="傾探"
-                ></p>
-<p>終於來到本期文章的重頭戲了，傾探異能的卡面規則敘述正是我決定寫這篇文章的最大主因。</p>
-<p>傾探從命名到效果都顯然在致敬 <strong>傾曳（Cascade）</strong> ，讓我們來看看傾探具體的效果：</p>
-<ul>
-<li>傾探後面都會跟著一個數字，這個數字就是你能找到之牌的最大魔法力值。當有效應讓你傾探時，從你的牌庫頂開始逐張放逐牌，直到你放逐一張魔法力值等於小於該數字的非地牌為止，然後你可以施放該牌且不需支付其魔法力費用、或是將該牌置於你手上。之後將你放逐的其他牌以隨機順序置於牌庫底。</li>
-<li><strong>（雖然卡片上沒有寫）</strong> 用傾探所施放的咒語，其魔法力值也必須等於小於傾探後面所規定的數字。</li>
-</ul>
-<p>傾探可以說是傾曳的靈活升級版，你所翻出來的牌如果是當下不適用或是沒法用的，也可以選擇上手，不像原本傾曳只能默默地塞回牌庫底，法力值判斷門檻改成異能用數字來指定也讓設計空間靈活很多，好比這次就把這異能做在地牌上了，雖然不再是施放觸發效應代表對<a class="link"   href="https://scryfall.com/card/mh2/267/counterspell" >反擊咒語 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>的抗性降低，不過以筆者個人對對局平衡性的理解來看，施放觸發類效應確實是少做為妙，改成起動式異能或觸發式異能（在場上）後，或許也能搭配<a class="link"   href="https://scryfall.com/card/2x2/310/panharmonicon" >萬和琴 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>類效應玩出新的配合，不是施放觸發未必是壞事。</p>
-<p>但接下來這點就讓筆者非常不解了，那就是傾探的卡面敘述跟實際效果之間有落差，以上圖<a class="link"   href="https://scryfall.com/card/lci/150/geological-appraiser" >探地人 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>為例，他只檢查了「牌（Card）」的魔法力值，這項檢查通過就可以施放之，但實際上後面還有一條規則補充要求了該「咒語（Spell）」的魔法力值也要符合條件，這在某些牌張中會產生巨大的差異。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://i.imgur.com/iLwRRg6.jpg"
-                      alt="提勃"
-                ></p>
-<p>好比說<a class="link"   href="https://scryfall.com/card/khm/114/valki-god-of-lies-tibalt-cosmic-impostor" >謊言神瓦爾基 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>，他是張模式雙面牌，正面是2費生物、背面是7費鵬洛客（提勃），如果只檢查到「牌（Card）」的話謊言神瓦爾基符合條件，而讓你免費施放此卡時你可以選擇想要施放哪一面，但如果連同「咒語（Spell）」都一同檢查就不行了，因為它的背面是一個7費的咒語。<a class="link"   href="https://scryfall.com/card/woe/164/bramble-familiar-fetch-quest" >刺藤傭獸 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>的歷險也是同樣的原理，是否檢查「咒語（Spell）」費用會是完全不同的結果，各賽制中均有實例。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://i.imgur.com/B4jq2Dj.jpg"
-                      alt="作弊"
-                ></p>
-<p><a class="link"   href="https://scryfall.com/card/mom/230/invasion-of-alara-awaken-the-maelstrom" >進軍阿拉若 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>+<a class="link"   href="https://scryfall.com/card/woe/164/bramble-familiar-fetch-quest" >刺藤傭獸 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>的Combo就是標準的現在進行式，具體細節可以參考<a href="https://guildmagesforum.tw/Adventure-and-Lier/">列爾如何與歷險牌互動</a>這篇文章。</p>
-<p><a class="link"   href="https://scryfall.com/card/2x2/188/bring-to-light" >得見天光 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>+<a class="link"   href="https://scryfall.com/card/khm/114/valki-god-of-lies-tibalt-cosmic-impostor" >謊言神瓦爾基 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>在先驅中並不算罕見，得見天光同樣只檢查這張「牌」的費用，不會關心你最後施放了幾費的「咒語」。</p>
-<p>Cascade（如<a class="link"   href="https://scryfall.com/card/mh2/292/shardless-agent" >無斷片密探 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>）+<a class="link"   href="https://scryfall.com/card/khm/114/valki-god-of-lies-tibalt-cosmic-impostor" >謊言神瓦爾基 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>原本是與得見天光相同的運作邏輯，那時的近代充斥著大量的三回甚至二回Cascade提勃牌組，不過在2021年2月15日時官方隨著<a class="link"   href="https://magic.wizards.com/en/news/announcements/february-15-2021-banned-and-restricted-announcement" >禁牌表更新 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>，非常罕見的修改了異能規則定義，Cascade新的規則為「牌」的費用檢查通過後要再檢查一次「咒語」的費用，兩者皆合格才能施放，因此Cascade提勃這個戰術便從規則上消失了，不過這項規則修改是針對Cascade的，其他像是得見天光等戰術依然成立。</p>
-<p>從這點來說傾探（Discover）真的是非常致敬傾曳（Cascade），甚至連卡面上沒有寫但我會檢查咒語費用這點都一樣，可是人家傾曳是被後天修改了規則，原本規則確實與現在不同，卡面自然是跟不上現在的規則，傾探做為完全的新牌卻出現這種現象著實讓人不解。</p>
-<p>不過對「咒語」的費用門檻做限制這點本身筆者認為是良性的，這樣設計比較不會出現太破壞遊戲平衡的超展開牌型，只是如果僅閱讀了傾探在卡面上的規則敘述，就會產生非常大的規則歧義，這點請各位讀者務必多加留意。</p>
-<h2 id="落墳（Descend）"><a href="#落墳（Descend）" class="headerlink" title="落墳（Descend）"></a>落墳（Descend）</h2><p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://i.imgur.com/ql2vBGe.jpg"
-                      alt="落墳"
-                ></p>
-<p>落墳會關注本回合是否有永久物牌從任何區域進入你的墳場，無論是從戰場死去、從手牌棄掉、從牌庫磨掉都行，並且這張永久物牌也不用停留在墳場，只要曾經進入過墳場就行，即使那張牌後來因為其他原因又離開了墳場也絲毫不影響落墳的運作。</p>
-<p><a class="link"   href="https://scryfall.com/card/lci/95/broodrage-mycoid" >巢怒智蕈 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>只關心本回合是否有永久物牌進入過墳場，只要曾經有一張永久物牌進入墳場，這回合便算是有落墳過了。</p>
-<p><a class="link"   href="https://scryfall.com/card/lci/235/the-mycotyrant" >智蕈暴君 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>則稍微複雜點，它會計算你本回合落墳了幾次，也就是本回合永久物牌進入你墳場幾次，同樣的，只會計算這些牌進入墳場的總次數，是否停留在墳場並不重要，同一張牌也有機會貢獻多次落墳累積數。</p>
-<h2 id="落墳4（Descend-4）、落墳8（Descend-8）、落墳無邊（Fathomless-Descent）"><a href="#落墳4（Descend-4）、落墳8（Descend-8）、落墳無邊（Fathomless-Descent）" class="headerlink" title="落墳4（Descend 4）、落墳8（Descend 8）、落墳無邊（Fathomless Descent）"></a>落墳4（Descend 4）、落墳8（Descend 8）、落墳無邊（Fathomless Descent）</h2><p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://i.imgur.com/SfJPfjg.jpg"
-                      alt="落墳X"
-                ></p>
-<p>這是推動筆者寫出此文章的第二動力，與上面傾探的狀況不同，落墳並沒有規則解讀上的歧義，而是在文字閱讀上相當不直觀，容易使人混淆。</p>
-<p>落墳4、落墳8、落墳無邊皆會關心你墳場的 <strong>永久物牌數量</strong> ，根據你墳場的永久物牌數量會產生不同效果或是追加額外效果，落墳4代表墳場要有4張永久物牌、落墳8代表墳場要有8張永久物牌、落墳無邊不會要求你的墳場要有幾張永久物牌，而是多多益善，有越多張牌就能發揮越大的效果。</p>
-<p>看到這篇可以發現，<strong>落墳（Descend）</strong> 以及 <strong>落墳N（Descend N）</strong> 根本是兩個截然不同的能力，但兩者措辭極為相近，英文有可能只差了一個時態，中文甚至完全沒差，在不理解兩者規則差異的情況下，很有可能將含義混淆。</p>
-<p>最簡單的判別法就是去看這張牌有沒有要求關注墳場中永久物牌的數量，有的話就是 <strong>落墳N（Descend N）</strong> 或 <strong>落墳無邊（Fathomless Descent）</strong> ，如果只寫個了 <strong>落墳（Descend）</strong> 但文本沒給出Descend是指啥；或是出現 <strong>「If you descended this turn」</strong> 這種檢查此回合有沒有落墳過的字句，那就是在指關心是否有永久物牌進入過墳場的那個異能（某些高稀有度或高版本牌張中不會完整寫出關鍵字定義）。</p>
-<p>嚴格來講落墳4、落墳8、落墳無邊不是真正的關鍵字，而是<a class="link"   href="https://mtg.fandom.com/wiki/Ability_word" >異能提示文字 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>，在英文卡面會會以 <em><strong>斜體字</strong></em> 書寫，其他語言卡面未必有足夠辨識度，如果字體清晰可辨時這也是個辨識方案。異能提示表示即使不加這段字其實也不影響卡片的完整規則，一般來說提示文字會便於玩家閱讀規則，不過在這次卻因為兩種實際運作截然不同的能力共用了一個單字而造成玩家混淆。</p>
-<h2 id="終命指示物（Finality-Counter）"><a href="#終命指示物（Finality-Counter）" class="headerlink" title="終命指示物（Finality Counter）"></a>終命指示物（Finality Counter）</h2><p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://i.imgur.com/ObSAErz.jpg"
-                      alt="終命指示物"
-                ></p>
-<p>終命指示物雖然是新的指示物，但能力卻是舊有能力的新表現方式， <strong>身上擁有終命指示物的生物將死去時會改為放逐</strong>，未來MTG在設計死去改為放逐這類效應新牌時，可能會使用終命指示物這個全新的工具，就好比一些不能重置效應後來改用暈眩指示物（Stun Counter）設計一樣。</p>
-<p>當然，既然作為指示物就代表他有一些新的操作空間，好比說移除自己生物上的指示物，甚至是把指示物轉移給對手的生物等等。</p>
-<p>本系列使用終命指示物的牌張極少，但可以預期今後將會不斷出現使用終命指示物的新牌張。</p>
-<hr>
-<h2 id="準備迎接依夏蘭迷窟"><a href="#準備迎接依夏蘭迷窟" class="headerlink" title="準備迎接依夏蘭迷窟"></a>準備迎接依夏蘭迷窟</h2><p>截至本文完稿時間點，官方並未給出繁體中文版機制介紹文章，本文引用所有中文翻譯皆來自簡體中文版，未來繁中正式翻譯或許會與本文有所出入。</p>
-<p>依夏蘭迷窟的售前現開賽將於2023年11月10日開始，準備好展開新的探險吧！</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://i.imgur.com/t3lpIXr.jpg"
-                      alt="MR"
-                ></p>
-]]></content>
-      <tags>
-        <tag>JruMTG</tag>
-        <tag>MTG Rule</tag>
-        <tag>Standard</tag>
-        <tag>LCI</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>克撒傳怎麼自爆了</title>
-    <url>/Saga-and-Moon/</url>
-    <content><![CDATA[<p>要問起近代新篇2中哪張牌讓裁判收到了最多次的規則諮詢，那我想非<a class="link"   href="https://scryfall.com/card/mh2/259/zht/%E5%85%8B%E6%92%92%E5%82%B3" >克撒傳 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>莫屬了，不僅是史上第一張結界地，更是前無古人(可能也後無來者)的傳紀地，這也讓它的規則Q&amp;A異常精彩。</p>
-<p>其中最常見的問題便是與<a class="link"   href="https://scryfall.com/card/2xm/118/blood-moon" >腥紅之月 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>、<a class="link"   href="https://scryfall.com/card/zen/70/spreading-seas" >海域蔓延 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>等單卡的互動如何導致<a class="link"   href="https://scryfall.com/card/mh2/259/zht/%E5%85%8B%E6%92%92%E5%82%B3" >克撒傳 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>自爆，今天就來聊聊有關傳紀的一些規則話題。</p>
-<p>(備註 : 為便於閱讀理解，以下引用規則文時會適當忽略部分規則描述，完整規則請以連結原文為主。)</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cards.scryfall.io/large/front/0/7/076eeade-0788-4c93-9770-d9c566bda730.jpg?1646280424"
-                      alt="克撒傳"
-                ></p>
-<hr>
-<h2 id="傳紀甚麼時候會主動犧牲"><a href="#傳紀甚麼時候會主動犧牲" class="headerlink" title="傳紀甚麼時候會主動犧牲"></a>傳紀甚麼時候會主動犧牲</h2><p>在討論比較複雜的<a class="link"   href="https://scryfall.com/card/mh2/259/zht/%E5%85%8B%E6%92%92%E5%82%B3" >克撒傳 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>之前，我們先來看看一般的傳紀是如何運作的。在<a class="link"   href="https://mtg.fandom.com/wiki/Saga" >傳紀規則714.4 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>中是如此規範的 : </p>
-<ul>
-<li>714.4<br>如果傳紀上的學問指示物(lore counters)數量大於等於該傳紀最終章節編號，且該傳紀不是已觸發且尚未離開堆疊的章節觸發式異能來源，則犧牲該傳紀，這是一個不使用堆疊的狀態檢查機制。</li>
-</ul>
-<p>這也是為甚麼我們在傳紀抵達最終章節時，可以在傳紀犧牲前回應最後的章節觸發式異能，例如啟動<a class="link"   href="https://scryfall.com/card/mh2/259/zht/%E5%85%8B%E6%92%92%E5%82%B3" >克撒傳 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>章節II的效果派出一個Token，或是使用<a class="link"   href="https://scryfall.com/card/thb/16/zht/%E6%98%8E%E6%BB%85%E5%91%BD%E9%81%8B" >明滅命運 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>這類的牌回應章節III異能(異能上堆疊且尚未結算時)雲移傳紀，讓傳紀重新進場免於犧牲。</p>
-<p>神河霓朝紀中的雙面傳紀(如<a class="link"   href="https://scryfall.com/card/neo/141/fable-of-the-mirror-breaker-reflection-of-kiki-jiki" >破鏡奇譚 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>)也是利用此規則，當最終章異能結算時，這個傳紀已經被放逐並作為一個新物件以轉化後的形式進場了，自然不會因為傳紀本來的規則而被犧牲掉。</p>
-<hr>
-<h2 id="腥紅之月做了甚麼"><a href="#腥紅之月做了甚麼" class="headerlink" title="腥紅之月做了甚麼"></a>腥紅之月做了甚麼</h2><p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://i.imgur.com/ktdCln2.jpg"
-                      alt="紅月"
-                ></p>
-<p><a class="link"   href="https://scryfall.com/card/2xm/118/blood-moon" >腥紅之月 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>會將所有非基本地改為山脈，這時<a class="link"   href="https://mtg.fandom.com/wiki/Land" >規則305.7 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>將生效 : </p>
-<ul>
-<li>305.7<br>將一塊地的子類別設置為一種或數種基本地類別時，它將失去原有的地類別，也失去的從原有規則文本、類別所獲得的所有能力，並獲得產出與現有基本地類別對應顏色魔法力的能力。設置地的子類別並不會導致其失去其他卡牌類別(生物、結界)或超類別(基本、傳奇、雪境等)</li>
-</ul>
-<p>當<a class="link"   href="https://scryfall.com/card/2xm/118/blood-moon" >腥紅之月 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>在場時，<a class="link"   href="https://scryfall.com/card/mh2/259/zht/%E5%85%8B%E6%92%92%E5%82%B3" >克撒傳 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>會失去原本所擁有的全部能力，但沒有失去結界類別，以及作為結界子類別的傳紀類別，傳紀類別帶來的規則依然生效。而當一個傳紀失去能力時，<a class="link"   href="https://mtg.fandom.com/wiki/Saga" >規則714.2d <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>是這麼規範的 : </p>
-<ul>
-<li>714.2d<br>傳紀的最終章節編號為其章節能力中數字最大的值，如果傳紀因為某些原因沒有章節能力，則最終章節編號為0。</li>
-</ul>
-<p>也就是說，<a class="link"   href="https://scryfall.com/card/2xm/118/blood-moon" >腥紅之月 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>在會使<a class="link"   href="https://scryfall.com/card/mh2/259/zht/%E5%85%8B%E6%92%92%E5%82%B3" >克撒傳 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>成為一個沒有能力、最終章節為0的傳紀(簡化後的示意圖如下)，這時根據前面<a class="link"   href="https://mtg.fandom.com/wiki/Saga" >714.4 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>的規則，狀態檢查會發現這是一個<strong>學問指示物大於等於最終章節編號、且沒有尚未結算的觸發式異能</strong>的傳紀，進而犧牲此傳紀。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://i.imgur.com/zl1qSzR.png"
-                      alt="克撒山脈"
-                ></p>
-<hr>
-<h2 id="克撒傳自爆大禮包"><a href="#克撒傳自爆大禮包" class="headerlink" title="克撒傳自爆大禮包"></a>克撒傳自爆大禮包</h2><p>除了上文提到的<a class="link"   href="https://scryfall.com/card/2xm/118/blood-moon" >腥紅之月 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>與<a class="link"   href="https://scryfall.com/card/tsr/175/magus-of-the-moon" >紅月賢者 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>外還有許多牌可以令克撒傳自爆，例如<a class="link"   href="https://scryfall.com/card/m19/128/alpine-moon" >月輪山影 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>、<a class="link"   href="https://scryfall.com/card/rix/92/blood-sun" >腥紅之日 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>、<a class="link"   href="https://scryfall.com/card/zen/70/spreading-seas" >海域蔓延 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>，這些牌究竟如何令克撒傳自爆的，都可以用上述規則解釋。以後在看牌表如果看到這些消除地牌能力效應的牌，都別忘了可以用來讓克撒傳自爆。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://i.imgur.com/gUlLwPV.jpg"
-                      alt="克撒傳對策，持續更新中"
-                ></p>
-<hr>
-<h2 id="傳紀學問失去指示物會如何"><a href="#傳紀學問失去指示物會如何" class="headerlink" title="傳紀學問失去指示物會如何"></a>傳紀學問失去指示物會如何</h2><p>最後再附上一個與傳紀的小搭配，上面我們知道了傳紀的學問指示物如果大於等於最終章節編號就會犧牲，但如果傳紀單純的失去學問指示物會如何呢? </p>
-<p>答案是甚麼都不會發生，傳紀不會犧牲，也不會有任何章節異能在此時觸發，傳紀只會等到下次獲得學問指示物時執行對應章節的能力，因此搭配上<a class="link"   href="https://scryfall.com/card/ncc/376/power-conduit" >力量渠道 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>、<a class="link"   href="https://scryfall.com/card/one/202/glissa-sunslayer" >戮日者格莉莎 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>等移除指示物的能力，可以將傳紀的執行進度倒車，把前面已經執行過的章節再利用一遍。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://i.imgur.com/qAuPqq6.jpg"
-                      alt="戮日者格莉莎"
-                ></p>
-<p>其中如<a class="link"   href="https://scryfall.com/card/ncc/376/power-conduit" >力量渠道 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>這類瞬間時機移除指示物的能力，還可以與傳紀達成更精妙的配合。</p>
-<p>在你的傳紀最終章節異能觸發時，可以回應堆疊上的異能移除傳紀的學問指示物，由於此時傳紀的觸發式異能尚未離開堆疊，不滿足<a class="link"   href="https://mtg.fandom.com/wiki/Saga" >714.4 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>中犧牲傳紀的條件，而在該章節異能結算時，由於傳紀的學問指示物已經被移除，並非大於等於最終章節編號的狀態，因此也不用犧牲傳紀。最終就是你白嫖了一次傳紀的最終章異能，但傳紀依舊留在場上。</p>
-]]></content>
-      <categories>
-        <category>MTG-Rules</category>
-      </categories>
-      <tags>
-        <tag>JruMTG</tag>
-        <tag>MTG Rule</tag>
-        <tag>Modern</tag>
-        <tag>Legacy</tag>
       </tags>
   </entry>
   <entry>
@@ -1534,6 +1513,10 @@
 <p>值得討論的是，爐疆劍反紅保護的效果在使用上會是雙面刃，雖然可以讓你的生物無法被燒牌去除而且可以打穿紅底套牌的防線，但同樣也會讓紅色的武具無法被佩帶，在適合的meta中可以嘗試，但記得如果要使用的話也勢必要調整一些主牌的紅色武具數量。</p>
 </blockquote>
 ]]></content>
+      <categories>
+        <category>Construct</category>
+        <category>Standard</category>
+      </categories>
       <tags>
         <tag>Standard</tag>
         <tag>JerobaMTG</tag>
@@ -1654,6 +1637,10 @@
                 ></p>
 <p>就如前文所敘，NEO忍者將浪客也納入種族支援的一環，讓套牌成長不受限於神河環境，以標準牌池來說，<a class="link"   href="https://cards.scryfall.io/large/front/c/f/cf28c75d-1fb3-44cc-b651-5b2830e22add.jpg" >善變舞咒客 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>、<a class="link"   href="https://cards.scryfall.io/large/front/e/d/edb5f0cc-c826-4e7b-882c-63f6e51fa932.jpg" >金圓蒐集靈 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>皆能獲得種族加成，<a class="link"   href="https://cards.scryfall.io/large/front/2/c/2c76f7e0-37e7-4e87-93a3-a25ba0674645.jpg" >約格莫夫判官基克斯 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>雖然不是浪客，但在小飛兵眾多的忍者套牌中很容易抽到牌，也可以直接挪位置放入<a class="link"   href="https://cards.scryfall.io/large/front/d/6/d67be074-cdd4-41d9-ac89-0a0456c4e4b2.jpg" >啟示天災希歐蕊 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>、<a class="link"   href="https://cards.scryfall.io/large/front/6/2/62a6b452-c796-45c6-b4d1-0ae3d675e38e.jpg" >仁慈仙王塔萊恩 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>等旗艦生物，改強的方式要多少有多少，找出最適合自己的打法才是正途。筆者衷心希望每位玩家都能打得開心、玩得快樂。</p>
 ]]></content>
+      <categories>
+        <category>Construct</category>
+        <category>Standard</category>
+      </categories>
       <tags>
         <tag>Standard</tag>
         <tag>JerobaMTG</tag>
@@ -1755,10 +1742,13 @@
 
 <h2 id="結語"><a href="#結語" class="headerlink" title="結語"></a>結語</h2><p>如同影片所示，這副套牌的運作方式是前期一邊用<a class="link"   href="https://cards.scryfall.io/large/front/5/4/544a707d-4090-4a74-91aa-60fbd8a4ae96.jpg" >強顎裁斷僧 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>向對手施壓一邊開礦種<a class="link"   href="https://cards.scryfall.io/large/front/d/4/d45fe4b6-aeaf-4f84-b660-c7b482ed8512.jpg" >魔力石 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>，<a class="link"   href="https://cards.scryfall.io/large/front/a/1/a169612e-f5de-4653-bc31-9ede8c5bdc75.jpg" >掘古爆破 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>、<a class="link"   href="https://cards.scryfall.io/large/front/e/7/e72e0ddb-3dd4-4db3-aa05-dec8691432a0.jpg" >索藍蜘蛛 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>、<a class="link"   href="https://cards.scryfall.io/large/front/0/2/02aea379-b444-46a3-82f4-3038f698d4f4.jpg" >強能石與弱能石 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>阻撓對手的展開兼加速，等到湊到元件即可請對手吃一套合體技，打到殘血後通常再補一發<a class="link"   href="https://cards.scryfall.io/large/front/a/1/a169612e-f5de-4653-bc31-9ede8c5bdc75.jpg" >掘古爆破 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>或<a class="link"   href="https://cards.scryfall.io/large/front/5/0/5026b875-40db-4379-be45-127dd30bd01f.jpg" >雙箭神射手 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>就能結束遊戲。覺得這個套路很酷、喜愛超級機器人的讀者可以組來玩看看，強度或許見仁見智，樂趣肯定不會少。</p>
 ]]></content>
+      <categories>
+        <category>Construct</category>
+        <category>Standard</category>
+      </categories>
       <tags>
         <tag>Standard</tag>
         <tag>JerobaMTG</tag>
-        <tag>WOE</tag>
       </tags>
   </entry>
   <entry>
@@ -1871,10 +1861,13 @@
                 ></p>
 <p>「既然都混白了，正編放個<a class="link"   href="https://cards.scryfall.io/large/front/2/c/2c3ddb1f-a1de-4fea-9042-5e9caa16ceb2.jpg" >成婚佳訊 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>會不會更好？」確實，無論從犧牲還是從生物橫向展開的角度來看，<a class="link"   href="https://cards.scryfall.io/large/front/2/c/2c3ddb1f-a1de-4fea-9042-5e9caa16ceb2.jpg" >成婚佳訊 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>除了速度慢了點外的確無可挑剔，但三費已經相當擁擠，而且要比資源的話<a class="link"   href="https://cards.scryfall.io/large/front/f/1/f16e282d-8941-46c7-a974-c05b6f73c964.jpg" >鼠王卡魯蒙 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>可以做得更好更及時，如果減少老鼠牌去放成婚也會影響卡魯蒙的效益，還會讓主題往一般黑白犧牲中速偏移，這麼一來就失去本意了。如果不介意這點的話當然可以這麼改或作為備牌使用，玩遊戲就是要自己能開心，不是嗎？</p>
 ]]></content>
+      <categories>
+        <category>Construct</category>
+        <category>Standard</category>
+      </categories>
       <tags>
         <tag>Standard</tag>
         <tag>JerobaMTG</tag>
-        <tag>WOE</tag>
       </tags>
   </entry>
   <entry>
@@ -2135,12 +2128,12 @@
 <p>魅附奇譚將讓你夢想成真！</p>
 ]]></content>
       <categories>
-        <category>WOE-Limit</category>
+        <category>Limited</category>
+        <category>WOE-Limited</category>
       </categories>
       <tags>
         <tag>cephille</tag>
         <tag>WOE</tag>
-        <tag>豬鼻子的mtg世界</tag>
         <tag>Limited</tag>
       </tags>
   </entry>
@@ -2253,6 +2246,9 @@
 <hr>
 <h2 id="結語"><a href="#結語" class="headerlink" title="結語"></a>結語</h2><p><strong>「<a href="#%E4%BB%BB%E4%BD%95%E5%92%92%E8%AA%9E%E9%83%BD%E5%8F%AA%E5%8F%AF%E4%BB%A5%E4%BD%BF%E7%94%A8%E4%B8%80%E5%80%8B%E6%9B%BF%E4%BB%A3%E6%80%A7%E8%B2%BB%E7%94%A8">任何咒語都只可以使用一個替代性費用</a>」</strong> 只要記得這句話，今天的文章你就讀懂了，剩下的就是面對某些只寫關鍵字不寫完整說明的牌張時，要懂得這個關鍵字的定義是甚麼，釐清這些後再面對「為甚麼用迅咒法師返照FOW時無法選擇替費施放」這類問題時，相信你已經可以很清晰地回答了。</p>
 ]]></content>
+      <categories>
+        <category>MTG-Rules</category>
+      </categories>
       <tags>
         <tag>JruMTG</tag>
         <tag>MTG Rule</tag>
@@ -2446,6 +2442,9 @@
 <p>在閱讀卡片效果時不妨多想一點，試問自己能否完整地答出這張牌敘述的完整內容？甚麼是上堆疊前要做的選擇？甚麼是結算時做的選擇？堆疊上的內容為何？結算後還有後續效應跟新堆疊嗎？確實這些細節規則啃起來並非易事，但嘗試將這些規則理解清楚後，會看見一個海闊天空的世界。</p>
 <p>許多原本只會乾瞪眼看著對手操作的情境，現在在你眼中處處都是可以出手干預的時機點；反之也有可能因為這麼一點規則的細節理解不足而輸掉本來可以贏的比賽。上文的兩個情境題皆是如此，這些都是筆者在參與競爭級別賽事時，親眼看到裁判被選手呼喚處理的問題；而在這兩個故事中，正是優勢方由於對規則的不熟悉而做出錯誤對應，進而被對方逆風翻盤。</p>
 ]]></content>
+      <categories>
+        <category>MTG-Rules</category>
+      </categories>
       <tags>
         <tag>JruMTG</tag>
         <tag>MTG Rule</tag>
@@ -2685,8 +2684,13 @@
 <p>值得一提的是因為新系列剛發售，在多數玩家依然在摸索的狀態下，套牌的構成有很高的多變性和可嘗試性，目前玩家所構成的牌張數量都在60-80張之間徘徊，有取得好成績的、也有慘遭滑鐵盧的（<del>比如我</del>），但相信再經過一陣子賽場的洗禮和測試後，這套牌的構築會逐漸穩定下來。</p>
 <p>如果有什麼意見都歡迎在下面留言，也祝各位在這一季的近代MITQ都能有不錯的成績，我們下次見！</p>
 ]]></content>
+      <categories>
+        <category>Construct</category>
+        <category>Modern</category>
+      </categories>
       <tags>
         <tag>Modern</tag>
+        <tag>Deck Tech</tag>
         <tag>Enki</tag>
       </tags>
   </entry>
@@ -3204,10 +3208,14 @@
 </tbody></table>
 <h2 id="Epilogue"><a href="#Epilogue" class="headerlink" title="Epilogue"></a>Epilogue</h2><p>這兩週龍侯因為 Preordain 的解禁，重新回到一線，僅次於 Rakdos Scam 的使用量。<br>但也因此重新成為其他牌組的狙擊目標，近期可能會為了打 MITQ 改成 Death’s Shadow，或是改成有 Dreadhorde Arcanist 的紅藍中速看看。<br>希望明年春天可以在 MIT 會場看到大家。</p>
 ]]></content>
+      <categories>
+        <category>Construct</category>
+        <category>Modern</category>
+      </categories>
       <tags>
         <tag>Modern</tag>
+        <tag>Deck Tech</tag>
         <tag>MiohitoKiri5474</tag>
-        <tag>Decktech</tag>
       </tags>
   </entry>
   <entry>
@@ -3493,6 +3501,10 @@
 </tbody></table>
 <h2 id="結語"><a href="#結語" class="headerlink" title="結語"></a>結語</h2><p>我很高興這次<a class="link"   href="https://www.facebook.com/guildmagesforumtw" >Guildmages’ Forum <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>團隊的邀請，好久沒有花這麼多時間來分析一套我熟悉的套牌了，前陣子我也終於選上了第五季的RC資格，我可是試了6次啊～而且有5次進八強另1次是小分不夠。這一次我只介紹了我認為環境中最容易遇到的5個對局，等哪天學校的事情沒那麼忙以後，我會再補上的。<br>如果真的很想提早知道我對特定對局的想法以及換被策略，也可以到FB搜尋「<a class="link"   href="https://www.facebook.com/DreamOnStudio1560" >夢續工作室DreamOn Studio <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>」並私訊我們，我們可以在那裡為你解惑，也希望大家可以聽聽我們的Podcast:「<a class="link"   href="https://podcasts.apple.com/us/podcast/%E9%BE%8D%E5%B0%8A%E8%88%87%E8%8D%92%E9%87%8E%E9%A8%8E%E5%A3%AB%E7%9A%84%E7%8E%84%E5%A2%83%E4%B9%8B%E8%AB%87/id1680452807" >龍尊與荒野騎士的玄境之談 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>」現在在<a class="link"   href="https://open.spotify.com/show/0bnxC5SBsGN8bBh3n4Af18?si=c24b9a0b169245ac&nd=1" >Spotify <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>以及<a class="link"   href="https://podcasts.apple.com/us/podcast/%E9%BE%8D%E5%B0%8A%E8%88%87%E8%8D%92%E9%87%8E%E9%A8%8E%E5%A3%AB%E7%9A%84%E7%8E%84%E5%A2%83%E4%B9%8B%E8%AB%87/id1680452807" >Apple Podcast <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>上都聽得到喔～</p>
 ]]></content>
+      <categories>
+        <category>Construct</category>
+        <category>Modern</category>
+      </categories>
       <tags>
         <tag>Modern</tag>
         <tag>ClarkShih</tag>
@@ -3647,6 +3659,10 @@
 <p>可以看到除了藍黑色以外，綠白紅色法力的配置上是高出許多且相當平均的。<br>會這樣配置主要是因為，前面兩Turn我們會希望有白、綠色法力來讓我們施放便宜的1費解場和2費的抽濾結界，到了3、4Turn會希望有紅色法力做<a class="link"   href="https://scryfall.com/card/neo/141/fable-of-the-mirror-breaker-reflection-of-kiki-jiki" >破鏡奇譚 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>或<a class="link"   href="https://scryfall.com/card/eld/125/zht/%E5%89%B5%E6%96%B0%E7%83%88%E7%84%B0" >創新烈焰 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>，又或是產出藍綠色法力出<a class="link"   href="https://scryfall.com/card/thb/215/zht/%E7%A7%98%E6%85%8B%E8%BD%89%E7%94%9F" >秘態轉生 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>。<br>基於以上原因，我們先是為了保持前期節奏穩定，而選擇投入了各4張能夠產出白綠色的三色地<a class="link"   href="https://scryfall.com/card/snc/250/zht/%E5%82%91%E7%B1%B3%E7%88%BE%E7%9A%84%E8%8A%B1%E5%9C%92" >傑米爾的花園 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>與<a class="link"   href="https://scryfall.com/card/snc/257/zht/%E6%96%AF%E5%B8%95%E6%8B%89%E7%9A%84%E7%B8%BD%E9%83%A8" >斯帕拉的總部 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>。<br>且為了避免<a class="link"   href="https://scryfall.com/card/ths/4/zht/%E9%8F%88%E9%8E%96%E5%B2%A9%E4%B8%8A" >鎖鏈岩上 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>在沒有山脈的狀況下變成一張廢卡，我們也盡可能的投入有山脈類別的三色地和電震地，其中包括4張的<a class="link"   href="https://scryfall.com/card/grn/254/zht/%E8%81%96%E6%BD%94%E9%8D%9B%E7%88%90" >聖潔鍛爐 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>(1Turn就可以用<a class="link"   href="https://scryfall.com/card/ths/4/zht/%E9%8F%88%E9%8E%96%E5%B2%A9%E4%B8%8A" >鎖鏈岩上 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>)，和為了產出綠藍色法力而投入的<a class="link"   href="https://scryfall.com/card/iko/250/zht/%E5%85%8B%E5%B4%94%E4%BA%9E%E7%BE%A4%E7%B3%BB" >克崔亞群系 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>、<a class="link"   href="https://scryfall.com/card/grn/257/zht/%E8%92%B8%E6%B0%A3%E5%99%B4%E7%99%BC%E5%8F%A3" >蒸氣噴發口 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>和<a class="link"   href="https://scryfall.com/card/rna/259/zht/%E6%99%83%E5%8B%95%E5%A4%A7%E5%9C%B0" >晃動大地 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>。<br>如此一來，我們幾乎能夠確保在大部分的前期對局，每一輪都能有事情做，在節奏相當緊湊的先驅賽制當中這一點尤其重要。<br>Manabase基本上是大部分4-5色的牌組需要面對的共同問題，因為法力顏色錯誤而空過輪次是相當難受的，而這也是為什麼多色牌組比起其他單色、2色牌組要更靠賽一點，那就是Mana base相對的比較不穩定且不一定想湊就湊到。</p>
 <h2 id="結語"><a href="#結語" class="headerlink" title="結語"></a>結語</h2><p>總地來說，雖然套牌的運作方式很有趣、順起來的時候壓制力很足夠，但作為賽場牌依然存在著一些老問題，Manabase老問題、對付快攻和組合技苦手，雖然這些可以依靠備牌解決，但80張的厚度會導致上手率降低，在打到特定對局的時候會很需要調度也是個小缺點。<br>但除去上述的問題之外，它依舊是一套能夠應付不同局面的套牌，工具箱的性質使它能夠在處理對手威脅的同時還能執行遊戲計畫、並且賦予了套牌構築的自由度，在面對許多中慢速的對局很容易取得優勢。</p>
 ]]></content>
+      <categories>
+        <category>Construct</category>
+        <category>Pioneer</category>
+      </categories>
       <tags>
         <tag>Pioneer</tag>
         <tag>Enki</tag>
@@ -3966,6 +3982,10 @@
                 ></p>
 <h2 id="結語"><a href="#結語" class="headerlink" title="結語"></a>結語</h2><p>先驅目前的環境總地來說我認為還算平衡，牌組的使用率分布不會到太誇張的地步且擁有多樣性，而每周的meta都會出現一些新科技。雖然不能否認以數據來看的話確實有些牌組會擁有較高的勝率（<a href="#%E7%B4%94%E7%B6%A0%E7%8D%BB%E5%8A%9B-Mono-Green-Devotion">大綠</a>、<a href="#%E7%B4%85%E9%BB%91%E7%8A%A7%E7%89%B2-Rakdos-Sacrifice">犧牲</a>與<a href="#%E8%97%8D%E7%99%BD%E7%B2%BE%E9%9D%88-Azorious-Spirits">精靈</a>等等），但我認為這是每個卡牌遊戲都會經歷的過程，每過一個時期一定會有所謂的<strong>版本解答</strong>存在，這些所謂的<strong>版本解答</strong>其實也不全然是沒有破解方法，正因為他們被認為是解答，所以會被研究找出弱點、被備牌針對、會遇到劣勢對局、也會有無法如願完成遊戲計畫的時候。<br>小弟我呢也使用過非上述的牌組拿下過國外資格賽的冠軍，也是經過了一定時間的練習、對對局的研究和思考備牌的選擇才終於成功，而這些激盪腦力的爽快過程對我來說是非常特別的體驗也是驅使我繼續打牌的動力，總之希望大家打牌的樂趣不要被meta給消磨，也祝各位在進入先驅賽制後能在這個多樣的環境中找到屬於自己的快樂。</p>
 ]]></content>
+      <categories>
+        <category>Construct</category>
+        <category>Pioneer</category>
+      </categories>
       <tags>
         <tag>Pioneer</tag>
         <tag>Enki</tag>
@@ -4833,6 +4853,10 @@
 <p>最後整合我這禮拜打 MA Explorer Event 的感覺，應該也是從紅黑犧牲還有紅黑中速這兩套在選，還在觀望中。</p>
 <p>最後希望各位都能找到各自喜歡的套牌，大家十一月賽場見！</p>
 ]]></content>
+      <categories>
+        <category>Construct</category>
+        <category>Pioneer</category>
+      </categories>
       <tags>
         <tag>MiohitoKiri5474</tag>
         <tag>Inspection</tag>
@@ -5520,6 +5544,10 @@
 <h2 id="結語"><a href="#結語" class="headerlink" title="結語"></a>結語</h2><p>今天我們趁著 MIT #4 前來回顧一下賽場，順便整理一下資料。<br>沒意外的話 MIT #4 完我們會寫一篇回顧文章，如果我的成績還行應該也會寫個新的紅黑中速文章，主要是關於現在環境中的 sideboard guide 和 card choose 吧。</p>
 <p>那麼，我們大家週末賽場見！</p>
 ]]></content>
+      <categories>
+        <category>Construct</category>
+        <category>Pioneer</category>
+      </categories>
       <tags>
         <tag>MiohitoKiri5474</tag>
         <tag>Inspection</tag>
@@ -5772,6 +5800,9 @@
 <hr>
 <h2 id="結語：先造成傷害，然後才會失去生命"><a href="#結語：先造成傷害，然後才會失去生命" class="headerlink" title="結語：先造成傷害，然後才會失去生命"></a>結語：先造成傷害，然後才會失去生命</h2><p>傷害事件的核心觀念，便是把 <strong>傷害造成</strong> 與 <strong>傷害轉變為結果</strong> 兩步驟獨立釐清，只要這個觀念打通，在處理是否造成傷害 &amp; 是否失去生命的問題時基本都能迎刃而解了。</p>
 ]]></content>
+      <categories>
+        <category>MTG-Rules</category>
+      </categories>
       <tags>
         <tag>JruMTG</tag>
         <tag>MTG Rule</tag>
@@ -5936,10 +5967,13 @@
 <p>我目前的構築正編算是去除特化型，現環境中對上大多數快攻與生物中速應對能力皆可，但遇到幾乎不帶前中期生物的傳統控制、生物都是小東西橫向展開且帶有大量放逐殺的白底中速、以及善於懲罰速度不快中速的藍節奏時，正編局會十分難打，若各位讀者所處環境這類套牌比例較高，可以嘗試正編減少去除，增加棄牌、資源補充卡等。若是以成婚佳訊為主的橫向鋪場牌型較多，導致點殺效益過低，也能斟酌將掃場調為正編。</p>
 <p>這些細微的改動都是根據當下環境而定，並且不同玩家所處的本地環境可能也有所出入，究竟哪些工作該給正編、那些工作備牌來處理即可，都可依您對所處環境的理解來調整。</p>
 ]]></content>
+      <categories>
+        <category>Construct</category>
+        <category>Standard</category>
+      </categories>
       <tags>
         <tag>JruMTG</tag>
         <tag>Standard</tag>
-        <tag>WOE</tag>
       </tags>
   </entry>
   <entry>
@@ -6086,10 +6120,13 @@
 <hr>
 <h2 id="保持彈性思維"><a href="#保持彈性思維" class="headerlink" title="保持彈性思維"></a>保持彈性思維</h2><p>格利極戰役的操作思維沒有任何定式，根據對手牌型、當前手牌都會讓遊戲計畫產生劇烈變化，甚至是同樣的手牌也會因不同的決策路線變成完全不同風格的對局，在操作當下與覆盤時，皆要嘗試思考不同路線的操作思維，哪個是最適用當下的對局的，這種豐富的思考空間也是我喜歡這副牌的原因。</p>
 ]]></content>
+      <categories>
+        <category>Construct</category>
+        <category>Standard</category>
+      </categories>
       <tags>
         <tag>JruMTG</tag>
         <tag>Standard</tag>
-        <tag>WOE</tag>
       </tags>
   </entry>
   <entry>
@@ -6224,6 +6261,10 @@
 <p>優缺點前面都提過了就不再贅述，但Simon Nielson新的構築方式也讓這副套牌從士兵的框架中釋放出來，缺乏領主的部分在以成婚佳訊取代並保留哈賓的爆發力下，打法變得比以前更加靈活且多變。備牌的部分目前只是列一個參考用，還是需要依照當前meta去做微調，這是每個賽制、每一種套路都必須去做的，並沒有一個固定的形式；當然，這也體現了每位玩家的偏好以及思慮的獨到之處。</p>
 <p>希望這篇文章能幫助到對這個主題有興趣的玩家們，也歡迎告訴我你們的想法與見解，那就下次再見囉！</p>
 ]]></content>
+      <categories>
+        <category>Construct</category>
+        <category>Standard</category>
+      </categories>
       <tags>
         <tag>cephille</tag>
         <tag>Standard</tag>
@@ -6233,8 +6274,6 @@
     <title>豬鼻子的艾卓荒野(WOE)限制賽初探 — 黑色</title>
     <url>/WOE-Black/</url>
     <content><![CDATA[<p>本文採用LSV以及Reid Duke兩位大神發表在Channelfireball(CFB)網站上的魔戒：中土世界傳奇 (LOTR)的限制賽評分標準以及行文格式。</p>
-<!--more-->
-
 <h2 id="評分標準-Grading-Scale"><a href="#評分標準-Grading-Scale" class="headerlink" title="評分標準 (Grading Scale)"></a>評分標準 (Grading Scale)</h2><p>已退休但榮登限制賽炸彈名人堂的霸者們: <a class="link"   href="https://cdn1.mtggoldfish.com/images/h/Pack-Rat-RTR-672.jpg" >Pack Rat <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>, <a class="link"   href="https://cdn1.mtggoldfish.com/images/h/Umezawas-Jitte-BOK-672.jpg" >Umezawa’s Jitte <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>, <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0353_MTGCMM_Main.png" >The Scarab God <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</p>
 <ul>
 <li>5.0: <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0051_MTGMOM_Main.png" >Chrome Host Seedshark <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>. <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0094_MTGMOM_Main.png" >Breach the Multiverse <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>. <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0040_MTGMOM_Main.png" >Sunfall <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</li>
@@ -6623,12 +6662,12 @@
 <p>以上就是這次WOE黑色的限制賽分析，希望大家都能在接下來的現開與輪抽賽中找到屬於自己的樂趣！</p>
 ]]></content>
       <categories>
-        <category>WOE-Limit</category>
+        <category>Limited</category>
+        <category>WOE-Limited</category>
       </categories>
       <tags>
         <tag>cephille</tag>
         <tag>WOE</tag>
-        <tag>豬鼻子的mtg世界</tag>
         <tag>Limited</tag>
       </tags>
   </entry>
@@ -6636,8 +6675,6 @@
     <title>豬鼻子的艾卓荒野(WOE)限制賽初探 — 藍色</title>
     <url>/WOE-Blue/</url>
     <content><![CDATA[<p>本文採用LSV以及Reid Duke兩位大神發表在Channelfireball(CFB)網站上的魔戒：中土世界傳奇 (LOTR)的限制賽評分標準以及行文格式。</p>
-<!--more-->
-
 <h2 id="評分標準-Grading-Scale"><a href="#評分標準-Grading-Scale" class="headerlink" title="評分標準 (Grading Scale)"></a>評分標準 (Grading Scale)</h2><p>已退休但榮登限制賽炸彈名人堂的霸者們: <a class="link"   href="https://cdn1.mtggoldfish.com/images/h/Pack-Rat-RTR-672.jpg" >Pack Rat <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>, <a class="link"   href="https://cdn1.mtggoldfish.com/images/h/Umezawas-Jitte-BOK-672.jpg" >Umezawa’s Jitte <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>, <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0353_MTGCMM_Main.png" >The Scarab God <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</p>
 <ul>
 <li>5.0: <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0051_MTGMOM_Main.png" >Chrome Host Seedshark <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>. <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0094_MTGMOM_Main.png" >Breach the Multiverse <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>. <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0040_MTGMOM_Main.png" >Sunfall <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</li>
@@ -6955,12 +6992,12 @@
 <p>以上就是這次WOE藍色的限制賽分析，希望大家都能在接下來的現開與輪抽賽中找到屬於自己的樂趣！</p>
 ]]></content>
       <categories>
-        <category>WOE-Limit</category>
+        <category>Limited</category>
+        <category>WOE-Limited</category>
       </categories>
       <tags>
         <tag>cephille</tag>
         <tag>WOE</tag>
-        <tag>豬鼻子的mtg世界</tag>
         <tag>Limited</tag>
       </tags>
   </entry>
@@ -7320,12 +7357,12 @@
 <p>以上就是這次WOE綠色的限制賽分析，希望大家都能在接下來的現開與輪抽賽中找到屬於自己的樂趣！</p>
 ]]></content>
       <categories>
-        <category>WOE-Limit</category>
+        <category>Limited</category>
+        <category>WOE-Limited</category>
       </categories>
       <tags>
         <tag>cephille</tag>
         <tag>WOE</tag>
-        <tag>豬鼻子的mtg世界</tag>
         <tag>Limited</tag>
       </tags>
   </entry>
@@ -7694,12 +7731,12 @@
 <p>以上就是這次WOE紅色的限制賽分析，希望大家都能在接下來的現開與輪抽賽中找到屬於自己的樂趣！</p>
 ]]></content>
       <categories>
-        <category>WOE-Limit</category>
+        <category>Limited</category>
+        <category>WOE-Limited</category>
       </categories>
       <tags>
         <tag>cephille</tag>
         <tag>WOE</tag>
-        <tag>豬鼻子的mtg世界</tag>
         <tag>Limited</tag>
       </tags>
   </entry>
@@ -8265,12 +8302,12 @@
 </blockquote>
 ]]></content>
       <categories>
-        <category>WOE-Limit</category>
+        <category>Limited</category>
+        <category>WOE-Limited</category>
       </categories>
       <tags>
         <tag>cephille</tag>
         <tag>WOE</tag>
-        <tag>豬鼻子的mtg世界</tag>
         <tag>Limited</tag>
       </tags>
   </entry>
@@ -8648,12 +8685,12 @@
 <p>以上就是這次WOE白色的限制賽分析，希望大家都能在接下來的現開與輪抽賽中找到屬於自己的樂趣！</p>
 ]]></content>
       <categories>
-        <category>WOE-Limit</category>
+        <category>Limited</category>
+        <category>WOE-Limited</category>
       </categories>
       <tags>
         <tag>cephille</tag>
         <tag>WOE</tag>
-        <tag>豬鼻子的mtg世界</tag>
         <tag>Limited</tag>
       </tags>
   </entry>
@@ -9201,6 +9238,10 @@
                 ></p>
 <p><strong>cephille</strong>：1.0<br>新的炸非基本地的無色功能地，跟前輩<a class="link"   href="https://cards.scryfall.io/large/front/0/f/0fd1bd3f-8182-4d02-ac65-7cbff275b8ef.jpg?1646260611" >戰場遺跡 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>、<a class="link"   href="https://cards.scryfall.io/large/front/d/9/d9c88546-13c9-4d7e-a618-cb2ccd1dbc0f.jpg?1674422181" >頹垣廢址 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>相比少了一點起動費用，但自己沒辦法找基本地而是換成一個珍寶作為補償。在限制賽中因為多了一個洞窟的類別所以可能可以放在自己的套牌中增加洞窟數量來獲得加成，同時他是一張滿足落墳以及神器進場的觸發來源，所以在適合的時機應該可以放入套牌中。當然，對手非基本地不多的情況他就只是一張產無色的地牌，有時候他還是會卡住你自己，但這樣的狀況應該不多。</p>
 ]]></content>
+      <categories>
+        <category>Limited</category>
+        <category>LCI-Limited</category>
+      </categories>
       <tags>
         <tag>cephille</tag>
         <tag>LCI</tag>
@@ -9591,6 +9632,9 @@
 <hr>
 <h2 id="結語"><a href="#結語" class="headerlink" title="結語"></a>結語</h2><p>今天我們花了稍微多一點的篇幅講解了一個回合的結構是怎樣的，但實際上這還僅是冰山一角，諸如多人局處理原則等進階規則這次被我有意省略了，因為我在整理資料的過程中發現這些規則細項真的是怎麼講都講不完，把內容無限上綱的擴充的話反而大幅降低可閱讀性，最後決定篩選出最為基礎的核心概念整理成本文章，若是有心想更進一步理解完整規則的讀者可以參閱：<a class="link"   href="https://mtg.fandom.com/wiki/Turn_structure" >回合結構規則 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>。</p>
 ]]></content>
+      <categories>
+        <category>MTG-Rules</category>
+      </categories>
       <tags>
         <tag>JruMTG</tag>
         <tag>MTG Rule</tag>
@@ -9792,10 +9836,13 @@
 <h3 id="基於本地環境的調整"><a href="#基於本地環境的調整" class="headerlink" title="基於本地環境的調整"></a>基於本地環境的調整</h3><p>雖然上面說了不用在正編過於針對，但不代表正編就是一成不變的，您依舊可以根據所處的本地環境適度微調，例如所處環境中節奏較快、非生物神器結界或墳場利用皆較少，那<a class="link"   href="https://scryfall.com/card/neo/13/farewell" >告別 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>就顯得過於笨重，可以改為更多的<a class="link"   href="https://scryfall.com/card/mom/40/sunfall" >烈日墮威 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>，甚至是<a class="link"   href="https://scryfall.com/card/snc/10/depopulate" >掃除人口 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>；康牌覺得<a class="link"   href="https://scryfall.com/card/mid/48/devious-cover-up" >暗地掩飾 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>在所處環境過於笨重且天長地久對局極為罕見時，就調整為3費正康或2費軟康，或者將康改為去除，這些細微的調整都能在保持主架構的前提下強化對本地環境的適應力，如何定義本地環境的特徵也是門值得磨練的技術。</p>
 <p>而備牌的調整相對於正編就精彩許多了，在上文介紹備牌與未選用單卡時，我都給出了不少單卡的定位，根據對環境的理解選用對應定位的備牌也是構築的有趣之處，而我的備牌設計不只是根據當下本地環境的抉擇，也融入了個人了習慣與喜好，不同的玩家在不同的環境下，都會有各自的解答，對於本套白藍控有興趣且有打算實踐的讀者，也不妨融入自己的個人理解來真正的駕馭本套牌。</p>
 ]]></content>
+      <categories>
+        <category>Construct</category>
+        <category>Standard</category>
+      </categories>
       <tags>
         <tag>JruMTG</tag>
         <tag>Standard</tag>
-        <tag>WOE</tag>
       </tags>
   </entry>
   <entry>
@@ -10410,12 +10457,12 @@
 <p>以上就是這次WOE多色、神器及地的限制賽分析，希望大家都能在接下來的現開與輪抽賽中找到屬於自己的樂趣！</p>
 ]]></content>
       <categories>
-        <category>WOE-Limit</category>
+        <category>Limited</category>
+        <category>WOE-Limited</category>
       </categories>
       <tags>
         <tag>cephille</tag>
         <tag>WOE</tag>
-        <tag>豬鼻子的mtg世界</tag>
         <tag>Limited</tag>
       </tags>
   </entry>
