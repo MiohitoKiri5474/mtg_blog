@@ -9,7 +9,7 @@ date: 2023-09-05 15:18:20
 
 下面是我們常駐工作人員的介紹：
 
-## MiohitoKiri5474
+## [MiohitoKiri5474](/tags/Miohitokiri5474/)
 
 aka [台南猴王的耍猴日常](http://facebook.com/TainanMonkeyKin)，為網站共同創辦人之一、網站技術人員。
 ~~前 cEDH 老害，~~ 現為認份的構築賽玩家。
@@ -19,39 +19,39 @@ aka [台南猴王的耍猴日常](http://facebook.com/TainanMonkeyKin)，為網�
 
 至於標準屬於佛系打，有什麼打什麼，而純普沒比賽打屬於放生狀態。
 
-## cephille
+## [cephille](/tags/cephille/)
 
 aka [豬鼻子的mtg世界](https://www.facebook.com/Pignosemtgworld)，為網站共同創辦人之一。
 喜歡所有MTG的競爭級別賽制，構築與限制賽都打。
-希望能透過這個網站讓更多喜歡MTG的玩家們一同聚集並分享各自的想法。
+希望能透過這個網站讓更多喜歡 MTG 的玩家們一同聚集並分享各自的想法。
 
-## JruMTG
+## [JruMTG](/tags/JruMTG/)
 
 構築與限制賽皆打，構築有玩賽制 : 標準、先驅、近代、EDH（海怪禁單挑、官禁多人休閒向），薪傳與純普也有研究但身邊沒環境。
 主力賽制為標準，喜歡打重視去除與資源的慢節奏套牌。
 
-##  JerobaMTG
+##  [JerobaMTG](/tags/JerobaMTG/)
 
 半休閒玩家，喜歡構築娛樂主題套牌，再拿它們參加比賽，享受被META洗臉的過程。
 構築限制皆有接觸，構築有玩賽制︰標準、先驅、近代、指揮官（多人休閒官禁、單人海怪禁）
 構築傾向上偏好中速及種族套牌，著重有來有往的互動遊戲體驗。
 
-## Enki
+## [Enki](/tags/Enki/)
 
 專攻構築賽的賽場玩家，標準、先驅和近代賽制皆有涉略。
 擅長打中速和偏控制類的套牌，打法相當保守（~~隨時都覺得對面要開搞~~）。
 對多色主題情有獨鍾，尤其是五色構築，也經常用這些套牌參賽。
 
-## T1BloodMoon
+## [T1BloodMoon](/tags/T1BloodMoon/)
 
 aka.[炸地·血月·組合技](https://www.facebook.com/T1BloodMoon)、夸寶終曲，喜歡打構築賽的~~賽場~~休閒玩家，從標準一路到薪傳都有套牌，指揮官休閒及C的都有組，構築上最愛玩組合技套牌及有血月的套牌，曾經被嗆不玩組合技就不會打魔風。
 
-## Kappa
+## [Kappa](/tags/Kappa/)
 
 拉麵型玩家（？），比賽可以輸，但打完一定要去吃拉麵（謎）。
-標準、先驅、近代、娛樂向的指揮官以及認真向的指揮官、到薪傳、papuer也有卡組（雖然後兩者問題是找不到人），不過最擅長還是限制賽，可以選一定優先打輪抽。
+標準、先驅、近代、娛樂向的指揮官以及認真向的指揮官、到薪傳、papuer 也有卡組（雖然後兩者問題是找不到人），不過最擅長還是限制賽，可以選一定優先打輪抽。
 只要那個卡組可以抽牌就懂得打魔風了，還有偏愛墳場卡組，最愛的卡是掠魂魔及殘酷統領。
 
-## ClarkShih
+## [ClarkShih](/tags/ClarkShih/)
 
-aka荒野騎士，專攻構築賽的賽場玩家，最近主要都在先驅和近代賽制中打滾，擅長的是中速以及強攻類型的套牌。前陣子創立了「[夢續工作室DreamOn Studio](https://www.facebook.com/DreamOnStudio1560)」並開始錄製Podcast「[龍尊與荒野騎士的玄境之談](https://podcasts.apple.com/us/podcast/%E9%BE%8D%E5%B0%8A%E8%88%87%E8%8D%92%E9%87%8E%E9%A8%8E%E5%A3%AB%E7%9A%84%E7%8E%84%E5%A2%83%E4%B9%8B%E8%AB%87/id1680452807)」分享魔風每週發生的大小事以及閒聊，歡迎大家追蹤我們IG以及[FB粉絲團](https://www.facebook.com/DreamOnStudio1560)，以及去聽聽我們的Podcast喔～～
+aka荒野騎士，專攻構築賽的賽場玩家，最近主要都在先驅和近代賽制中打滾，擅長的是中速以及強攻類型的套牌。前陣子創立了「[夢續工作室DreamOn Studio](https://www.facebook.com/DreamOnStudio1560)」並開始錄製 Podcast「[龍尊與荒野騎士的玄境之談](https://podcasts.apple.com/us/podcast/%E9%BE%8D%E5%B0%8A%E8%88%87%E8%8D%92%E9%87%8E%E9%A8%8E%E5%A3%AB%E7%9A%84%E7%8E%84%E5%A2%83%E4%B9%8B%E8%AB%87/id1680452807)」分享魔風每週發生的大小事以及閒聊，歡迎大家追蹤我們 I G以及 [FB 粉絲團](https://www.facebook.com/DreamOnStudio1560)，以及去聽聽我們的 Podcast 喔～～
