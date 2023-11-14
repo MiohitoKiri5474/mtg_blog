@@ -8,6 +8,9 @@ tags:
 cover: "https://i.imgur.com/rdkjPci.png"
 thumbnail: "https://i.imgur.com/rdkjPci.png"
 excerpt: "萬眾矚目的白長老恐龍始輝澤塔帕要重出江湖了嗎？喔不！這個系列是神器環境..."
+categories:
+  - Limited
+  - LCI-Limited
 ---
 
 依夏蘭迷窟（The Lost Caverns of Ixalan, LCI）將於2023年11月10日舉行售前賽活動，而於隔一週2023年11月17日正式發行，想更了解單卡在限制賽的單卡評分與一些可能的有趣搭配嗎？那就來看看這一系列的LCI限制賽介紹吧！
