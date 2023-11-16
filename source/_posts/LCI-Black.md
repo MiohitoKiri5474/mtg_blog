@@ -9,6 +9,9 @@ tags:
 cover: "https://i.imgur.com/xeahZSr.png"
 thumbnail: "https://i.imgur.com/xeahZSr.png"
 excerpt: "黑色除了「一言不合就去除」的優良傳統外，也挑起本系列墳場主題的大樑。"
+categories:
+  - Limited
+  - LCI-Limited
 ---
 
 依夏蘭迷窟（The Lost Caverns of Ixalan, LCI）將於2023年11月10日舉行售前賽活動，而於隔一週2023年11月17日正式發行，想更了解單卡在限制賽的單卡評分與一些可能的有趣搭配嗎？那就來看看這一系列的LCI限制賽介紹吧！
