@@ -146,7 +146,7 @@
   </url>
   
   <url>
-    <loc>https://guildmagesforum.tw/WOE-Green/</loc>
+    <loc>https://guildmagesforum.tw/WOE-Blue/</loc>
     
     <lastmod>2023-11-17</lastmod>
     
@@ -155,7 +155,7 @@
   </url>
   
   <url>
-    <loc>https://guildmagesforum.tw/WOE-Blue/</loc>
+    <loc>https://guildmagesforum.tw/WOE-Green/</loc>
     
     <lastmod>2023-11-17</lastmod>
     
@@ -219,15 +219,6 @@
   
   <url>
     <loc>https://guildmagesforum.tw/categories/index.html</loc>
-    
-    <lastmod>2023-11-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://guildmagesforum.tw/About-Play-Boosters/</loc>
     
     <lastmod>2023-11-17</lastmod>
     
@@ -308,7 +299,7 @@
   </url>
   
   <url>
-    <loc>https://guildmagesforum.tw/Pioneer-Meta-Inspection-20230918/</loc>
+    <loc>https://guildmagesforum.tw/Pioneer-Lotus-Field/</loc>
     
     <lastmod>2023-11-17</lastmod>
     
@@ -317,7 +308,7 @@
   </url>
   
   <url>
-    <loc>https://guildmagesforum.tw/Pioneer-Lotus-Field/</loc>
+    <loc>https://guildmagesforum.tw/Pioneer-Meta-Inspection-20230918/</loc>
     
     <lastmod>2023-11-17</lastmod>
     
@@ -371,7 +362,7 @@
   </url>
   
   <url>
-    <loc>https://guildmagesforum.tw/LCI-Red/</loc>
+    <loc>https://guildmagesforum.tw/LCI-Green/</loc>
     
     <lastmod>2023-11-17</lastmod>
     
@@ -380,7 +371,7 @@
   </url>
   
   <url>
-    <loc>https://guildmagesforum.tw/LCI-Green/</loc>
+    <loc>https://guildmagesforum.tw/LCI-Red/</loc>
     
     <lastmod>2023-11-17</lastmod>
     
@@ -480,6 +471,15 @@
   
   <url>
     <loc>https://guildmagesforum.tw/Round-Process/</loc>
+    
+    <lastmod>2023-11-17</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://guildmagesforum.tw/About-Play-Boosters/</loc>
     
     <lastmod>2023-11-17</lastmod>
     
