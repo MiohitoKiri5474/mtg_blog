@@ -17,7 +17,7 @@ categories:
 
 依夏蘭迷窟（The Lost Caverns of Ixalan, LCI）將於2023年11月10日舉行售前賽活動，而於隔一週2023年11月17日正式發行，想更了解單卡在限制賽的單卡評分與一些可能的有趣搭配嗎？那就來看看這一系列的LCI限制賽介紹吧！
 
-機制介紹請看這篇：[依夏蘭迷窟機制解析](https://guildmagesforum.tw/Rule-LCI-Mechanic-Guide/)
+機制介紹請看這篇：[依夏蘭迷窟機制解析](https://guildmagesforum.tw/LCI-mechanic/)
 
 ## 評分標準
 
