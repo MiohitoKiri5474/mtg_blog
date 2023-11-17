@@ -69,9 +69,12 @@ categories:
 
 ## 套牌目標：一回 Scam!
 
-一回 Scam 可以說是套牌的主要目標，藉由 [Grief](https://cards.scryfall.io/large/front/e/6/e6befbc4-1320-4f26-bd9f-b1814fedda10.jpg?1626095577) 和 [Fury](https://cards.scryfall.io/large/front/b/d/bd281158-8180-40b9-a5b7-03cfc712d81a.jpg?1626096626) 用 evoke 費用（放逐一張同色手牌）進場會馬上犧牲（死掉）的特性，搭配假死術可以直接回場。
+![](/images/Modern-Rakdos-Scam/elementals.jpg)
+
+一回 Scam 可以說是套牌的主要目標，藉由 Grief 和 Fury 用 evoke 費用（放逐一張同色手牌）進場會馬上犧牲（死掉）的特性，搭配假死術可以直接回場。
 除了生物會回場以外，更重要的是還會重新觸發一次進場異能。
 
+> ![](/images/Modern-Rakdos-Scam/undying.jpg)
 > 這邊的 `假死術` 指的是這幾張牌（因為有太多張了所以都統稱假死術）：
 > * Undying Evil
 > * Not Dead After All
@@ -115,7 +118,7 @@ categories:
 2. Dauthi 只有放逐「牌」，所以 token 不會，有貼 Wicked 皮的生物死掉即便對手有 Dauthi 還是會被打一，這點跟 [Rest in Peace](https://cards.scryfall.io/large/front/9/f/9f2b39be-0fec-4647-ade1-8e1626dc5470.jpg?1562439074) 不太一樣，RIP 有註明包含 token
 3. Dauthi 選擇的牌為「由對手擁有、已放逐且其上有虛空指示物的牌」，所以後面的 Dauthi 能用被前面 Dauthi 放逐的牌
 4. 因為 Dauthi 的第三條異能為「選擇」沒有目標，所以等到異能結算後才需要選哪張牌；也因為啟動時不需要選目標，Dauthi 的第三條異能也能在放逐區沒有牌的時候啟動
-5. 當 Dauthi 要被消滅時，如果對手是使用 [Lightning Bolt](https://cards.scryfall.io/large/front/f/2/f29ba16f-c8fb-42fe-aabf-87089cb214a7.jpg?1673147852) 或 [Dismember](https://cards.scryfall.io/large/front/3/d/3d286cf6-3e16-4941-9326-1818b1e06d69.jpg?1562261132) 這類型、使得其血量低於 0 的咒語，牌會被 Dauthi 放逐，因為咒語結算後會馬上進墳且會會被 Dauthi 改為丟去放逐區，在這之後才是 State-Based Action (SBA) 檢查 Dauthi 是否活著；如果是使用 [Fatal Push](https://cards.scryfall.io/large/front/6/e/6e9d8fe4-fd9b-4923-92bf-7dd6b8fa02e7.jpg?1598304715) 這種直接消滅的咒語則不會，因為在 Fatal Push 結算要進入墳場時， Dauthi 已經不在場上了
+5. 當 Dauthi 要被消滅時，如果對手是使用 [Lightning Bolt](https://cards.scryfall.io/large/front/f/2/f29ba16f-c8fb-42fe-aabf-87089cb214a7.jpg?1673147852) 或 [Dismember](https://cards.scryfall.io/large/front/3/d/3d286cf6-3e16-4941-9326-1818b1e06d69.jpg?1562261132) 這類型、使得其血量低於 0 的咒語，牌會被 Dauthi 放逐，因為咒語結算後會馬上進墳且會會被 Dauthi 改為丟去放逐區，在這之後才是 State-Based Action (SBA) 檢查 Dauthi 是否活著；如果是使用 [Fatal Push](https://cards.scryfall.io/large/front/6/e/6e9d8fe4-fd9b-4923-92bf-7dd6b8fa02e7.jpg?1598304715) 這種直接消滅的咒語則不會，因為在 Fatal Push 結算完要進入墳場時， Dauthi 已經不在場上了
 6. 吃掃場的時候對手的生物會一起被 Dauthi 放逐
 7. 如果給 Dauthi 先上 `假死術` 的話，犧牲 Dauthi 時他會先回場，然後才結算啟動式異能選要用哪張牌，等到異能結算之後才能施放（然後那張是咒語且要進墳的話也會被 Dauthi 改為放逐）
 8. 遇到對手施放 [Living End](https://cards.scryfall.io/large/front/b/1/b1eede29-17a4-437f-a5c2-e24cccbc6a33.jpg?1619395625) 時可以回應先犧牲 Dauthi（有沒有目標不重要），等 Living End 結算時 Dauthi 也在墳場會一起被拉回來，這時 Living End 結算完了準備進墳會被 Dauthi 改為放逐，等到我們的回合就能犧牲 Dauthi 施放放逐區中的 Living End，而且因為 Dauthi 這時在墳場了所以又會被拉回來，Living End 還是在放逐區，我們只要永遠留一隻 Dauthi 就能無限解掉對手的場面
@@ -129,23 +132,23 @@ categories:
 
 最後是一些牌張之間的互動小細節和對局重點：
 
-1. 可以回應自己的 Fable Chapter 2 回應點掉對手的 Dauthi 或是 Bowmasters。
-2. 注意備牌局如果同時有 [Chalice of the Void](https://cards.scryfall.io/large/front/1/f/1f0d2e8e-c8f2-4b31-a6ba-6283fc8740d4.jpg?1562433485) 和 [Engineered Explosives](https://cards.scryfall.io/large/front/4/2/420bf1e9-f2ec-4dff-b540-e64de71e58be.jpg?1599709112) 時，如果先拍 Chalice 才拍 X = 0 的 EE，那 EE 會被 Chalice 康掉。
-3. [Nihil Spellbomb](https://cards.scryfall.io/large/front/e/5/e5892a23-efae-4731-9b8f-41c87960fe93.jpg?1562442193) 如果在對手有 Dauthi 之類的時候犧牲，沒辦法付一點黑抽牌。
-4. 內戰的時候先手 **絕對不能** Fury scam，Fury scam 是內戰中少數的優勢殺牌（不是單純的一換一）。而且內戰時的 Push 很重要，除了 Fury 殺不死以外都可以觸發反抗之後殺掉。
-5. 打紅燒要拼一回 Grief scam 掉兩張，通常來說就是補六點血（丟三張手牌補六點血 + 場上有一張 4/3 威懾，賺爛了賺爛了）。
-6. **對手有放墳永久物（RIP, LtoV, Dauthi）的時候別丟假死術**。
+1. 可以回應自己的 Fable Chapter 2 回應點掉對手的 Dauthi 或是 Bowmasters
+2. 注意備牌局如果同時有 [Chalice of the Void](https://cards.scryfall.io/large/front/1/f/1f0d2e8e-c8f2-4b31-a6ba-6283fc8740d4.jpg?1562433485) 和 [Engineered Explosives](https://cards.scryfall.io/large/front/4/2/420bf1e9-f2ec-4dff-b540-e64de71e58be.jpg?1599709112) 時，如果先拍 Chalice 才拍 X = 0 的 EE，那 EE 會被 Chalice 康掉
+3. [Nihil Spellbomb](https://cards.scryfall.io/large/front/e/5/e5892a23-efae-4731-9b8f-41c87960fe93.jpg?1562442193) 如果在對手有 Dauthi, LotV 之類的時候犧牲，沒辦法付一點黑抽牌
+4. 內戰的時候先手 **絕對不能** Fury scam，Fury scam 是內戰中少數的優勢殺牌（不是單純的一換一）。而且內戰時的 Push 很重要，除了 Fury 殺不死以外都可以觸發反抗之後殺掉
+5. 打紅燒要拼一回 Grief scam 掉兩張，通常來說就是補六點血（丟三張手牌補六點血 + 場上有一張 4/3 威懾，賺爛了賺爛了），而且對手可能會想要消耗一張燒去燒他
+6. **對手有放墳永久物（RIP, LtoV, Dauthi）的時候別丟假死術**，生物直接進入放逐區並不會觸發假死的效果
 
 再更多的內容幾乎都要靠練習去補足了，很多小細節的東西要遇到才知道要怎麼處理，每一個都細講這篇文章寫不完@@
 
 
 ## Sideboarding
 
-最後附上我目前的 sideboard guide，有參考 Misplacedginger 的 sideboard guide。
+最後附上我目前的 sideboard guide，有參考 Misplacedginger 的 sideboard guide，和綜合其他人的一些意見寫成。
 不過他的 list 感覺有點微妙，感覺還要多測一下，所以這邊沒有採用。
 
 如果想要列印下來的話，這邊有提供精簡版的 PDF 版本，一張 A4 紙雙面印刷、一面放兩頁應該放得下。
-[Rakdos Scam Sideboard Guide PDF](/documents/Modern-Rakdos-Scam-Sideboard-Guide.pdf)
+[Rakdos Scam Sideboard Guide PDF](/documents/Modern-Rakdos-Scam-Sideboarding-Guide.pdf)
 
 ### Rakdos Scam
  
@@ -317,7 +320,7 @@ Sheoldred 準時拍很舒服，另外 Thoughtseize 兩點血換三點血我覺�
 
 關於 Rakdos Scam 的內容大概就是這樣，多數時候 Scam 的對局很無聊（不管是遇到 Scam 還是打 Scam），要嘛看對手起手掉你兩張、要嘛對手看你起手掉他兩張，然後一直被 4/3 威懾白嫖。
 而且最近 Scam 的 top 8 數量真的太多了，reddit 上面每週末固定會有人出來哀嚎一次這禮拜上位的 Scam 有幾套、還有過去一個月的歷史資訊。
-我現在還是認為老威錯過禁牌時機了，當初 PT LTR 後的那一次禁牌就應該要動刀了，現在反而很尷尬，不管怎麼做都會是笑話，動刀的話自己之前說一年動一次永恆賽制就是一個笑話，不動刀的話會則是讓近代這個賽制就是一個笑話。
+我現在還是認為老威錯過禁牌時機，當初 PT LTR 後的那一次禁牌就應該要動刀了，現在反而很尷尬，不管怎麼做都會是笑話，動刀的話自己之前說一年動一次永恆賽制就是一個笑話，不動刀的話會則是讓近代這個賽制就是一個笑話。
 不知道老威打算怎麼做，最好的方法應該是在主系列出一張能康特 Grief scam 的牌，但說真的非常難出，目前想不到任何除了起手 LotV 以外效率更好的作法。
 總之目前看起來這是一套值得投資的套牌（如果近期有打算打 MITQ & MIT 的話），短時間內應該是不會被動刀。
 
