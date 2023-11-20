@@ -20,15 +20,6 @@
   </url>
   
   <url>
-    <loc>https://guildmagesforum.tw/Standard-Orzhov-Sacrifice-Nezumi/</loc>
-    
-    <lastmod>2023-11-20</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://guildmagesforum.tw/WOE-mechanism/</loc>
     
     <lastmod>2023-11-20</lastmod>
@@ -57,15 +48,6 @@
   
   <url>
     <loc>https://guildmagesforum.tw/if-you-do-and-when-you-do/</loc>
-    
-    <lastmod>2023-11-20</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://guildmagesforum.tw/Standard-UW-Solider/</loc>
     
     <lastmod>2023-11-20</lastmod>
     
@@ -110,15 +92,6 @@
   </url>
   
   <url>
-    <loc>https://guildmagesforum.tw/WOE-WOT/</loc>
-    
-    <lastmod>2023-11-20</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://guildmagesforum.tw/WOE-White/</loc>
     
     <lastmod>2023-11-20</lastmod>
@@ -128,7 +101,7 @@
   </url>
   
   <url>
-    <loc>https://guildmagesforum.tw/Standard-UW-Control/</loc>
+    <loc>https://guildmagesforum.tw/WOE-WOT/</loc>
     
     <lastmod>2023-11-20</lastmod>
     
@@ -263,7 +236,7 @@
   </url>
   
   <url>
-    <loc>https://guildmagesforum.tw/Standard-Dimir-Ninja/</loc>
+    <loc>https://guildmagesforum.tw/Standard-Boros-Equipment-Standard/</loc>
     
     <lastmod>2023-11-20</lastmod>
     
@@ -272,7 +245,7 @@
   </url>
   
   <url>
-    <loc>https://guildmagesforum.tw/Standard-Boros-Equipment-Standard/</loc>
+    <loc>https://guildmagesforum.tw/Standard-Dimir-Ninja/</loc>
     
     <lastmod>2023-11-20</lastmod>
     
@@ -299,34 +272,7 @@
   </url>
   
   <url>
-    <loc>https://guildmagesforum.tw/LCI-Black/</loc>
-    
-    <lastmod>2023-11-20</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://guildmagesforum.tw/LCI-Blue/</loc>
-    
-    <lastmod>2023-11-20</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://guildmagesforum.tw/LCI-Green/</loc>
-    
-    <lastmod>2023-11-20</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://guildmagesforum.tw/LCI-Red/</loc>
+    <loc>https://guildmagesforum.tw/Standard-Orzhov-Sacrifice-Nezumi/</loc>
     
     <lastmod>2023-11-20</lastmod>
     
@@ -443,6 +389,15 @@
   </url>
   
   <url>
+    <loc>https://guildmagesforum.tw/Standard-UW-Solider/</loc>
+    
+    <lastmod>2023-11-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://guildmagesforum.tw/LCI-multicolors/</loc>
     
     <lastmod>2023-11-20</lastmod>
@@ -453,6 +408,15 @@
   
   <url>
     <loc>https://guildmagesforum.tw/Round-Process/</loc>
+    
+    <lastmod>2023-11-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://guildmagesforum.tw/Standard-UW-Control/</loc>
     
     <lastmod>2023-11-20</lastmod>
     
@@ -489,6 +453,42 @@
   
   <url>
     <loc>https://guildmagesforum.tw/Deck-Building-Basic/</loc>
+    
+    <lastmod>2023-11-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://guildmagesforum.tw/LCI-Black/</loc>
+    
+    <lastmod>2023-11-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://guildmagesforum.tw/LCI-Blue/</loc>
+    
+    <lastmod>2023-11-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://guildmagesforum.tw/LCI-Green/</loc>
+    
+    <lastmod>2023-11-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://guildmagesforum.tw/LCI-Red/</loc>
     
     <lastmod>2023-11-20</lastmod>
     
