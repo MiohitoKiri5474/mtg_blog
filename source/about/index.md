@@ -56,3 +56,7 @@ aka.[炸地·血月·組合技](https://www.facebook.com/T1BloodMoon)、夸寶�
 ## [ClarkShih](/tags/ClarkShih/)
 
 aka荒野騎士，專攻構築賽的賽場玩家，最近主要都在先驅和近代賽制中打滾，擅長的是中速以及強攻類型的套牌。前陣子創立了「[夢續工作室DreamOn Studio](https://www.facebook.com/DreamOnStudio1560)」並開始錄製 Podcast「[龍尊與荒野騎士的玄境之談](https://podcasts.apple.com/us/podcast/%E9%BE%8D%E5%B0%8A%E8%88%87%E8%8D%92%E9%87%8E%E9%A8%8E%E5%A3%AB%E7%9A%84%E7%8E%84%E5%A2%83%E4%B9%8B%E8%AB%87/id1680452807)」分享魔風每週發生的大小事以及閒聊，歡迎大家追蹤我們 I G以及 [FB 粉絲團](https://www.facebook.com/DreamOnStudio1560)，以及去聽聽我們的 Podcast 喔～～
+
+## [jeffchen](/tags/jeffchen/)
+艾卓入坑的玩家，一開始打輪抽居多，之後開始投入構築賽，主要玩以藍黑底的牌型，喜歡參加各店的競爭賽事。
+打完大賽通常會去吃火鍋或壽喜燒，沒吃到心情會不好，打比賽期間都靠朋友買食物救援。
