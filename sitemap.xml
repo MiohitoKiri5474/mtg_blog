@@ -2,15 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://guildmagesforum.tw/tags/index.html</loc>
-    
-    <lastmod>2023-11-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://guildmagesforum.tw/others/index.html</loc>
     
     <lastmod>2023-11-23</lastmod>
@@ -20,52 +11,7 @@
   </url>
   
   <url>
-    <loc>https://guildmagesforum.tw/casting-spell-without-mana-cost/</loc>
-    
-    <lastmod>2023-11-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://guildmagesforum.tw/if-you-do-and-when-you-do/</loc>
-    
-    <lastmod>2023-11-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://guildmagesforum.tw/Whats-Wrong-Modern/</loc>
-    
-    <lastmod>2023-11-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://guildmagesforum.tw/about/index.html</loc>
-    
-    <lastmod>2023-11-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://guildmagesforum.tw/categories/index.html</loc>
-    
-    <lastmod>2023-11-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://guildmagesforum.tw/New-Players-Guide/</loc>
+    <loc>https://guildmagesforum.tw/tags/index.html</loc>
     
     <lastmod>2023-11-23</lastmod>
     
@@ -92,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://guildmagesforum.tw/Pioneer-Naya-Dinosaurs/</loc>
+    <loc>https://guildmagesforum.tw/Pioneer-Rakdos-Midrange/</loc>
     
     <lastmod>2023-11-23</lastmod>
     
@@ -101,7 +47,7 @@
   </url>
   
   <url>
-    <loc>https://guildmagesforum.tw/Pioneer-Rakdos-Midrange/</loc>
+    <loc>https://guildmagesforum.tw/Pioneer-Naya-Dinosaurs/</loc>
     
     <lastmod>2023-11-23</lastmod>
     
@@ -191,7 +137,7 @@
   </url>
   
   <url>
-    <loc>https://guildmagesforum.tw/Modern-Rakdos-Scam/</loc>
+    <loc>https://guildmagesforum.tw/casting-spell-without-mana-cost/</loc>
     
     <lastmod>2023-11-23</lastmod>
     
@@ -200,25 +146,7 @@
   </url>
   
   <url>
-    <loc>https://guildmagesforum.tw/Modern-Temur-Crashing-Footballs/</loc>
-    
-    <lastmod>2023-11-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://guildmagesforum.tw/Pioneer-4C-Enigmatic-Fires/</loc>
-    
-    <lastmod>2023-11-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://guildmagesforum.tw/Pioneer-Introduction/</loc>
+    <loc>https://guildmagesforum.tw/if-you-do-and-when-you-do/</loc>
     
     <lastmod>2023-11-23</lastmod>
     
@@ -281,15 +209,6 @@
   </url>
   
   <url>
-    <loc>https://guildmagesforum.tw/WOE-Blue/</loc>
-    
-    <lastmod>2023-11-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://guildmagesforum.tw/WOE-Black/</loc>
     
     <lastmod>2023-11-23</lastmod>
@@ -300,6 +219,15 @@
   
   <url>
     <loc>https://guildmagesforum.tw/WOE-Green/</loc>
+    
+    <lastmod>2023-11-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://guildmagesforum.tw/WOE-Blue/</loc>
     
     <lastmod>2023-11-23</lastmod>
     
@@ -335,6 +263,15 @@
   </url>
   
   <url>
+    <loc>https://guildmagesforum.tw/Whats-Wrong-Modern/</loc>
+    
+    <lastmod>2023-11-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://guildmagesforum.tw/Round-Process/</loc>
     
     <lastmod>2023-11-23</lastmod>
@@ -354,6 +291,24 @@
   
   <url>
     <loc>https://guildmagesforum.tw/WOE-multicolors/</loc>
+    
+    <lastmod>2023-11-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://guildmagesforum.tw/categories/index.html</loc>
+    
+    <lastmod>2023-11-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://guildmagesforum.tw/about/index.html</loc>
     
     <lastmod>2023-11-23</lastmod>
     
@@ -434,6 +389,15 @@
   </url>
   
   <url>
+    <loc>https://guildmagesforum.tw/New-Players-Guide/</loc>
+    
+    <lastmod>2023-11-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://guildmagesforum.tw/LCI-Black/</loc>
     
     <lastmod>2023-11-23</lastmod>
@@ -461,7 +425,7 @@
   </url>
   
   <url>
-    <loc>https://guildmagesforum.tw/LCI-Red/</loc>
+    <loc>https://guildmagesforum.tw/LCI-Standard-Preliminary/</loc>
     
     <lastmod>2023-11-23</lastmod>
     
@@ -470,7 +434,7 @@
   </url>
   
   <url>
-    <loc>https://guildmagesforum.tw/LCI-Standard-Preliminary/</loc>
+    <loc>https://guildmagesforum.tw/LCI-Red/</loc>
     
     <lastmod>2023-11-23</lastmod>
     
@@ -498,6 +462,42 @@
   
   <url>
     <loc>https://guildmagesforum.tw/Modern-Izzet-Murktide/</loc>
+    
+    <lastmod>2023-11-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://guildmagesforum.tw/Modern-Rakdos-Scam/</loc>
+    
+    <lastmod>2023-11-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://guildmagesforum.tw/Modern-Temur-Crashing-Footballs/</loc>
+    
+    <lastmod>2023-11-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://guildmagesforum.tw/Pioneer-4C-Enigmatic-Fires/</loc>
+    
+    <lastmod>2023-11-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://guildmagesforum.tw/Pioneer-Introduction/</loc>
     
     <lastmod>2023-11-23</lastmod>
     
