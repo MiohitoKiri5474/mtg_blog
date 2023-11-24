@@ -9,7 +9,7 @@ date: 2023-09-05 15:18:20
 
 下面是我們常駐工作人員的介紹：
 
-## [MiohitoKiri5474](/tags/Miohitokiri5474/)
+## [MiohitoKiri5474](/tags/MiohitoKiri5474/)
 
 aka [台南猴王的耍猴日常](http://facebook.com/TainanMonkeyKin)，為網站共同創辦人之一、網站技術人員。
 ~~前 cEDH 老害，~~ 現為認份的構築賽玩家，最喜歡的賽制是近代和純普。
