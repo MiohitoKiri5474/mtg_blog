@@ -226,7 +226,8 @@ Sheoldred 準時拍很舒服，另外 Thoughtseize 兩點血換三點血我覺�
 | :-: | :-: |
 | +1 Bonecrusher Giant | -1 Kroxa, Titan of the Death's Hunger |
 | +1 Magus of the Moon | -2 Lightning Bolt |
-| +2 Sheoldred, the Apocalypse | -2 Terminate |
+| +1 Kolaghan's Command | -2 Terminate |
+| +2 Sheoldred, the Apocalypse | |
 
 有血月基本上就會贏的對局，或是用 Dauthi 將對手的 Karn/Ulamog 抓過來用
 另外要注意一下，用 Bonecrusher Giant 的歷險邊（Stopm），可以讓這回合的傷害不會被防止，所以即便有 The One Ring 的 Protection from Everything 還是可以打傷害上去
