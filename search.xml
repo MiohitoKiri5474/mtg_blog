@@ -1327,79 +1327,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Something About Rakdos Midrange</title>
-    <url>/Pioneer-Rakdos-Midrange/</url>
-    <content><![CDATA[<h2 id="Before-We-Start"><a href="#Before-We-Start" class="headerlink" title="Before We Start"></a>Before We Start</h2><p>開始之前先簡單的談談為什麼會想寫這篇文章。<br>首先，作為一個 MTG 有在打比賽的玩家，會對於現在官方正在推的賽制較為熟悉，以過去一年來看就會是標準以及先驅。<br>標準我一直都是愛打不打的，反正先把便宜的純藍拼出來，剩下再說，大不了跟朋友借牌來打，主要是我對於一套要價 500 鎂的牌組，最多只能打一年多有點賭爛，而且還要一直追新系列更新牌表。<br>因此比起標準，我更喜歡永恆賽制。</p>
-<!--more-->
-
-<p>剛好那陣子老威要重推 Pro Tour，而國內的選拔賽也準備要開始了，於是準備投入先驅的懷抱中。<br>最一開始我是組蓮花田 Combo，就是拚早點做蓮花田 + 悲劇舞台，然後一直重置那兩塊地來賺法力最後做組合技收工的那一套，因為只要收一套 Pioneer Challenger 再加一點東西就組完了，而且我一直都很想嘗試看看構築賽制中的組合技，所以就組了。<br>後來因為他的練習量有點高，而且說實在打久了有點膩（都在做相同的事），而且容易被自己卡手搞到，所以後來有打算再組另一套靈技。<br>……然後在賽場自己平衡完畢之後才把 Winota ban 掉，為了處理鳳凰也順便把展現迭代關進去了，睡個覺起來我快組好的靈技也中了一槍。<br>雖然說少了迭代還是能打，但被 ban 牌就是很不爽，直到台灣的 MITQ 快要開始前我才又組了一套班特人類出來。<br>……接著就在一場 win-in 的對局中空翻了兩次徵招軍伍，謝囉<br>後來打了一陣子的成績都不是太好，我開始思考是不是不適合打這種牌組，中間陸續借了另外幾套牌來打但感覺都不太對，所以最後還是拿著蓮花田渾渾噩噩的過完第一季 MITQ。</p>
-<p>（第二季 MITQ 是打標準，這邊就不關先驅的事了先跳過。）</p>
-<p>第三季開始的時候我也是先拿蓮花田出來，但是在打的第一場還是第二場 MITQ 整個大爆炸，一直卡手，導致我最後下定決心要拆掉蓮花田。<br>於是又開始找牌了，徵招軍伍牌型在當時的環境中只剩下天使，而且因為之前的空翻陰影所以我不是很想碰類似的牌組，綠獻也因為這個原因被我排除了。<br>中間也打過控制，也打過脂牙，反正幾乎所有上位牌組我都碰過了，最後因為我使用紅黑中速在某次約 2X 人的比賽中拿到八強，隔週又拿到四強於是決定組紅黑中速，便一路打到現在。</p>
-<h2 id="Decklist"><a href="#Decklist" class="headerlink" title="Decklist"></a>Decklist</h2><p>首先有部分的構築應該是無論如何都不會變的：<br>4x Bloodtithe Harvister<br>首先是優秀的一換多生物，可以作為殺牌&#x2F;濾牌&#x2F;攻擊者使用。<br>4x Bonecrusher Giant<br>除了是一發 Shock 以外還附帶傷害不能被防止的效果（這個蠻重要的，可以阻止反色保護之類的效果），同時也是一隻體質優秀的生物。<br>4x Fatal Push<br>環境內最強一費殺。<br>4x Thoughtseize<br>環境內最強掉手。<br>4x Fable of the Mirror-Breaker<br>這種在標準強到被禁的牌也是沒有理由的滿四，能濾能生仔能生珍寶同時又是 win con 蒿吐露絲。<br>25x ~ 26x Lands<br>地的部分晚點再繼續細寫。</p>
-<p>再來是其他的生物，我目前是選用以下幾隻額外的生物<br>1x Kroxa, Titan of Death’s Hunger<br>在內戰以及打控制的對局中很舒服，打浪客也有用（有沒有結算沒差，我先把墳場數量壓下來）。<br>1x Misery’s Shadow<br>目的是讓犧牲的貓爐轉不起來以及卡住見證人的翻二用一、還有綠獻的綠騎以及巨魔死去效果。<br>2x Graveyard Trespasser<br>有點小尷尬的牌，主要是在現在環境中的放墳大多數都希望能全部放逐，但是是他的補血在某些對局（內戰、快攻）中又十份重要，暫時找不到更好的替代品。<br>2x Sheoldread, the Apocalypse + 2x Archfiend of the Dross<br>數量偏多的 4 drop 生物們，其中 Archfiend of the Dross 是最近這一兩個月才出現的黑科技，為了是打那一狗票的快攻以及生物 deck，打綠獻也有奇效（雖然還會被綠騎擋住但至少他不會死），加上我們本來就是殺牌偏多的牌組，他的扣血效果可以加速遊戲的進行，但缺點是會壓縮 Sheoldread 的位置，看環境再做調整，如果他的效益不高的話我會把這邊改回三張 Sheoldread 加上一張黑召現或一張雲威號。</p>
-<blockquote>
-<p>Edit(July 12, 2023):<br>我後來改成 3x Sheoldread, the Apocalypse + 1x Kalitas, Traitor of Ghet，我們快一年不見的老朋友。<br>主要原因現在環境 convoke 很多，打雖然 Archfiend of the Dross 打犧牲會比較舒服，但說實在台中以南打犧牲而且打的好的玩家數跟 convoke 比起來真的太少，而且現在不少人紅黑中速都顧慮 Archfiend of the Dross 不放 Power Word Kill 改放 Heartless Act 了，Kalitas 有機會以犧牲一隻殭屍 or 吸血鬼躲掉 Heartless Act 所以選擇放回老朋友。<br>而我也是在台中諾亞用這樣的構築拿到資格。</p>
-</blockquote>
-<p>再來是剩下的牌：<br>4x 2 drop Instant Speed Removal Spell<br>這邊選擇四張二費殺牌各一以應付各種不同的牌型，每張殺牌都有缺點，為了彌補這些缺點就每種都來一點吧（攤。<br>1x Liliana of the Veil<br>壓制控制、組合技或是綠獻這種會囤手牌優勢的牌組，逼對手一起加入 top deck 的行列，而且我們可以先使用手上的牌之後才開她的 +1 異能，造成資源差。<br>2x Reckoner Bankbuster<br>劫庫械我本來只有正一備一，多的位置擺一張殺，但發覺目前的環境（至少南部的環境是這樣）多一張抽牌車好像會好一點，改成正二備一。</p>
-<p>最後是地的部分，目前主流的配置大致分成兩種：八十岡在費城 PT 用的 26 地三地窖配置 &amp; Misplacedginger 的 25 地三洛溫斯堡配置，我這邊大致上是跟隨 Misplacedginger 的配置，不過有做一些微調。<br>當然有部分的牌一定不會動：<br>4x Blood Crypt<br>4x Haunted Ridge<br>剩下都是按照個人喜好做調整：<br>2x Blackcleave Cliffs + 2x Blightstep Pathway + 1x Sulfurous Springs<br>其他調色用的地，個人沒有很喜歡雙面地，主要是對於後期不夠靈活，而 Blackcleave Cliffs 曾經是三張，但太容易在第四回合卡著沒辦法準時正拍 Sheoldread 很尷尬所以改成兩張，多的位置放了 Sulfurous Springs 頂著<br>1x Den of the Bugbear + 2x Hive of the Eye Tyrant + 1x Mutavault<br>過去曾是 2x Den of the Bugbear + 2x Hive of the Eye Tyrant，但說實在 Den of the Bugbear 並不是那麼適合紅黑，雖然打擊力比 Hive of the Eye Tyrant 好，但本身沒有穿透也沒辦法取得任何資源上的優勢，至少 Hive of the Eye Tyrant 有帶威懾以及放墳，但四費的啟動太重了，所以改了一張 Mutavalut，之所以沒有像八十岡放三張是想要避免前期的卡色，以期備牌換上來的黑召現。<br>1x Takenuma + 1x Sokenzan<br>目前對於這兩張的使用都還算滿意，所以留著。<br>1x Urborg + 2x Castle Locthwain<br>烏爾伯格本來有考慮踢掉，想要減少帶黑對局中對面卡色的機率，但想了一下多數帶黑的對局好像也不會因為一張烏爾伯格輸掉，所以留著，而兩張洛溫斯堡則是提供上手率，雖然有些時候根本沒有空開（四費好貴），但在需要的時候相當重要，沒放更多的理由是沼澤太少（即便我已經放三張基本沼澤了），不想要前期卡著下不來。<br>3x Swamp<br>本來是 2x Swamp + 1x Mountain，但說真的多數時候會看著手上的山脈想著「你為什麼不帶黑」，後來乾脆改放沼澤了。</p>
-<p>而備牌的部分則是參考就好，紅黑中速是一套非常吃對局理解以及牌手操作的套牌，找十個紅黑玩家來討論會有十一種備牌策略（認真），所以這邊只會給點我的看法。<br>2x Duress<br>有些人會正編一張 Duress，這樣的話我會把備牌的 Duress 只放一張，大多數對局都用不到那麼多張掉手。反正總之正 + 備共兩張。<br>1x Reckoner Bankbuster<br>剛剛提過了略過。<br>1x Rending Volley + 1x Noxious Grasp<br>兩張剋色牌各一，之前有陣子是打 1x Rending Volley + 2x Noxious Grasp 的版本，不過打起來感覺有點多餘所以改少一張了。<br>1 The Meathook Massacre + 3x Extinction Event<br>掃場掃好掃滿，之所以不放煤煙儀式是為了躲兩費的白色戰役，打快攻沒有那麼有效了，現在徵招軍伍牌型也不多，找不太到帶煤煙儀式的理由。放一張肉勾是為了打犧牲以及掃波洛斯召集用的。<br>2x Invoke Despair<br>打內戰、控制、組合技用的，一換多好強。<br>1x Hidetsugu Consumes All<br>帶一張 HCA 打犧牲、召集跟老鼠車，生一排 token 之後直接掃下去慢走不送。<br>1x Kolaghan’s Command<br>有些人會把這張放正編，不過個人沒有那麼喜歡他三費的費用，所以放在備牌。<br>2x Go Blank<br>打控制、組合技這種會被囤手牌資源的牌或是會用墳場的牌用的。個人沒有很喜歡但是好像不得不放。</p>
-<p>以前還會再帶一張無牌靈車，但最近的對局中幾乎沒有帶上場的機會，所以改成 Go Blank。</p>
-<p>最後這邊放個<a class="link"   href="https://www.mtggoldfish.com/deck/5713356#paper" >套牌連結 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="/images/Rakdos_Midrange-min.jpg"
-                     
-                ></p>
-<h2 id="Starting-Hands-Countermeasures-and-Mulligan"><a href="#Starting-Hands-Countermeasures-and-Mulligan" class="headerlink" title="Starting Hands, Countermeasures and Mulligan"></a>Starting Hands, Countermeasures and Mulligan</h2><p>先說說起手，如果不論對手的話會希望起手長這樣：<br>2-3x Lands 且不卡色（一塊能產紅另一塊能產黑）<br>0-2x 1 drop 節奏<br>1-3x 2 drop 節奏<br>0-1x 3+ drop 節奏<br>其中的 1 drop 以及 2 drop 至少有一到兩張殺。</p>
-<p>這邊舉個例子：<br>2x Lands<br>1x Thoughtseize<br>1x Fable of the Mirror-Breaker<br>1x Power Word Kill<br>1x Reckoner Bankbuster<br>1x Random Card<br>以上就算是一個挺舒服的起手，對於大多數對局（除了遇到控制、組合技、快攻會有點不舒服）都算是可以接的起手。</p>
-<p>但如果確定對手是組合技或控制就要調度了，控制跟組合技會比較偏向壓力比較大的起手，例如：<br>3x Lands<br>1x Thoughtseize<br>1x Bloodtithe Harvester<br>1x Bonecrusher Giant<br>1x Fable of the Mirrir-Breaker<br>像是這種的起手給的檯面壓力大很多，另外如果對手是控制我會考慮先拍 Fable of the Mirror-Breaker 再來才拍 Bonecrusher Giant 來躲掃場，且巨人的歷險可以拿來點掉飄萍皇本人或是她生出來的 2&#x2F;2。</p>
-<p>而打快攻（如純白人類、古魯載具）就會考慮比較多殺的起手，例如：<br>3x Lands<br>1x Fatal Push<br>1x Abrade<br>1x Bloodtithe Harvester<br>1x Bonecrusher Giant<br>這種起手，先穩住前期對手的場面壓力，再來談後續要摸什麼才能贏。</p>
-<h2 id="Epilogue"><a href="#Epilogue" class="headerlink" title="Epilogue"></a>Epilogue</h2><p>其實本來有打算寫對上各種牌型的策略以及換備，不過現在 meta 變太快了，之前寫到一半的內容也因為我不斷地調整牌表以及 meta 又轉了一圈，只能忍痛作廢。<br>看什麼時候有空再把這部分的內容一口氣寫完吧。</p>
-<p>另外最近也在研究格利極的構築，目前測過</p>
-<ol>
-<li>複製皮惡魔</li>
-<li>純格利極中速</li>
-<li>格利極約利昂 80 張</li>
-<li>格利極亞崔夏轉蛋</li>
-</ol>
-<p>但目前都還沒有測出一個比較喜歡的型，至於 MIT #4 要帶什麼去打目前還不確定，不過沒意外一樣是紅黑底的套牌。<br>理由也與其他紅黑玩家差不多：紅黑中速是一套可以對於對手牌型安排 game plain 的套牌，看完牌表在決定先後手、洗牌時就能夠開始想計畫，不用按照起手來決定要怎麼打，並且對於大多數套牌（創火例外 &#x3D; &#x3D;）都有相對應的手段。</p>
-<p>第四季 MITQ 還沒結束，希望這篇文章能提供給仍在奮戰的紅黑玩家一點新的想法。<br>或許對於其中部分的說法不認同也沒關係，至少提出了另一種看法可以參考。<br>大家會場見！</p>
-<h2 id="Edit-Post-WOE"><a href="#Edit-Post-WOE" class="headerlink" title="Edit: Post WOE"></a>Edit: Post WOE</h2><p>這篇是當時我在自己的部落格發的<a class="link"   href="https://miohitokiri5474.github.io/game/Rakdos-Midrange/" >文章 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> <del>我絕對不會說是為了湊網站初期的文章數才搬運過來的</del>。<br>不過距離撰文當下也過了蠻久的，中間一度使用量跌落至二線套牌的水準，但在八月底後又慢慢爬回一線。<br>另外既然 WOE 準備要發售了，這邊順便寫一下在 WOE 後我會想要怎麼改善套牌。進入我眼中的牌有兩張：<br>2. <a class="link"   href="https://cards.scryfall.io/large/front/b/1/b18402dc-c4ab-417c-92d1-5e4d9cfb840d.jpg" >The End <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
-<ol>
-<li><a class="link"   href="https://cards.scryfall.io/large/front/1/8/18c59776-e1f1-4197-a128-db1d603f56b7.jpg" >Beseech the Mirror <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-</ol>
-<h3 id="The-End"><a href="#The-End" class="headerlink" title="The End"></a>The End</h3><p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cards.scryfall.io/large/front/b/1/b18402dc-c4ab-417c-92d1-5e4d9cfb840d.jpg"
-                      alt="The End"
-                ></p>
-<p>The End 不用說，當然是要打綠獻的，直接把綠騎或卡恩放逐，我們的壓力會變小很多。<br>拿來殺控制的大泰或是藍鋼彈創新的藍鋼彈，甚至是老鼠車的脂牙也很舒服（雖然四費殺打老鼠好像有點太慢了，不過還是可以試試）。<br>沒意外會在正編投入一張，可能會取代一張殺或是莉莉的位置，這部分還要再測試和調整看看。</p>
-<h3 id="Beseech-the-Mirror"><a href="#Beseech-the-Mirror" class="headerlink" title="Beseech the Mirror"></a>Beseech the Mirror</h3><p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cards.scryfall.io/large/front/1/8/18c59776-e1f1-4197-a128-db1d603f56b7.jpg"
-                      alt="Beseech the Mirror"
-                ></p>
-<p>Beseech the Mirror 則是用來取代掉第三張 Sheoldred 或是 Kalitas 的位置，很少對局會用到第三張 Sheoldred，通常用到也快要輸了。<br>與其這樣不如把其中一張的位置換成 Beseech the Mirror 這種比較靈活的牌，可以視情況找 Sheoldred，或是在備牌局去找換進來的針對備牌。</p>
-<blockquote>
-<p>像是在打綠獻的時候，Extinction Event 有時會比 Sheoldred 來的更重要，而且也能減少備牌中重複單卡的數量，把位置給其他備牌。</p>
-</blockquote>
-<p>另外紅黑中速的 token 非常之多，完全不用擔心 Bargain 會無法觸發，再不濟就把奇奇或是劫庫械吃掉去找牌，總比什麼事都不能做來的好。</p>
-<p>不過以上的測試都要等到 WOE 上 MTGA 後才能測試，也要經過 meta 的洗禮，等十月底前再來看看要怎麼改牌吧。</p>
-]]></content>
-      <categories>
-        <category>Construct</category>
-        <category>Pioneer</category>
-      </categories>
-      <tags>
-        <tag>Pioneer</tag>
-        <tag>MiohitoKiri5474</tag>
-        <tag>Decktech</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>二元之聲：先驅粹麗雙子</title>
     <url>/Pioneer-Twins-Choices/</url>
     <content><![CDATA[<h2 id="Before-We-Start"><a href="#Before-We-Start" class="headerlink" title="Before We Start"></a>Before We Start</h2><div class="video-container"><iframe src="https://www.youtube.com/embed/hDm0hwnKm-Q" frameborder="0" loading="lazy" allowfullscreen></iframe></div>
@@ -1488,6 +1415,79 @@
       <tags>
         <tag>JerobaMTG</tag>
         <tag>Pioneer</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Something About Rakdos Midrange</title>
+    <url>/Pioneer-Rakdos-Midrange/</url>
+    <content><![CDATA[<h2 id="Before-We-Start"><a href="#Before-We-Start" class="headerlink" title="Before We Start"></a>Before We Start</h2><p>開始之前先簡單的談談為什麼會想寫這篇文章。<br>首先，作為一個 MTG 有在打比賽的玩家，會對於現在官方正在推的賽制較為熟悉，以過去一年來看就會是標準以及先驅。<br>標準我一直都是愛打不打的，反正先把便宜的純藍拼出來，剩下再說，大不了跟朋友借牌來打，主要是我對於一套要價 500 鎂的牌組，最多只能打一年多有點賭爛，而且還要一直追新系列更新牌表。<br>因此比起標準，我更喜歡永恆賽制。</p>
+<!--more-->
+
+<p>剛好那陣子老威要重推 Pro Tour，而國內的選拔賽也準備要開始了，於是準備投入先驅的懷抱中。<br>最一開始我是組蓮花田 Combo，就是拚早點做蓮花田 + 悲劇舞台，然後一直重置那兩塊地來賺法力最後做組合技收工的那一套，因為只要收一套 Pioneer Challenger 再加一點東西就組完了，而且我一直都很想嘗試看看構築賽制中的組合技，所以就組了。<br>後來因為他的練習量有點高，而且說實在打久了有點膩（都在做相同的事），而且容易被自己卡手搞到，所以後來有打算再組另一套靈技。<br>……然後在賽場自己平衡完畢之後才把 Winota ban 掉，為了處理鳳凰也順便把展現迭代關進去了，睡個覺起來我快組好的靈技也中了一槍。<br>雖然說少了迭代還是能打，但被 ban 牌就是很不爽，直到台灣的 MITQ 快要開始前我才又組了一套班特人類出來。<br>……接著就在一場 win-in 的對局中空翻了兩次徵招軍伍，謝囉<br>後來打了一陣子的成績都不是太好，我開始思考是不是不適合打這種牌組，中間陸續借了另外幾套牌來打但感覺都不太對，所以最後還是拿著蓮花田渾渾噩噩的過完第一季 MITQ。</p>
+<p>（第二季 MITQ 是打標準，這邊就不關先驅的事了先跳過。）</p>
+<p>第三季開始的時候我也是先拿蓮花田出來，但是在打的第一場還是第二場 MITQ 整個大爆炸，一直卡手，導致我最後下定決心要拆掉蓮花田。<br>於是又開始找牌了，徵招軍伍牌型在當時的環境中只剩下天使，而且因為之前的空翻陰影所以我不是很想碰類似的牌組，綠獻也因為這個原因被我排除了。<br>中間也打過控制，也打過脂牙，反正幾乎所有上位牌組我都碰過了，最後因為我使用紅黑中速在某次約 2X 人的比賽中拿到八強，隔週又拿到四強於是決定組紅黑中速，便一路打到現在。</p>
+<h2 id="Decklist"><a href="#Decklist" class="headerlink" title="Decklist"></a>Decklist</h2><p>首先有部分的構築應該是無論如何都不會變的：<br>4x Bloodtithe Harvister<br>首先是優秀的一換多生物，可以作為殺牌&#x2F;濾牌&#x2F;攻擊者使用。<br>4x Bonecrusher Giant<br>除了是一發 Shock 以外還附帶傷害不能被防止的效果（這個蠻重要的，可以阻止反色保護之類的效果），同時也是一隻體質優秀的生物。<br>4x Fatal Push<br>環境內最強一費殺。<br>4x Thoughtseize<br>環境內最強掉手。<br>4x Fable of the Mirror-Breaker<br>這種在標準強到被禁的牌也是沒有理由的滿四，能濾能生仔能生珍寶同時又是 win con 蒿吐露絲。<br>25x ~ 26x Lands<br>地的部分晚點再繼續細寫。</p>
+<p>再來是其他的生物，我目前是選用以下幾隻額外的生物<br>1x Kroxa, Titan of Death’s Hunger<br>在內戰以及打控制的對局中很舒服，打浪客也有用（有沒有結算沒差，我先把墳場數量壓下來）。<br>1x Misery’s Shadow<br>目的是讓犧牲的貓爐轉不起來以及卡住見證人的翻二用一、還有綠獻的綠騎以及巨魔死去效果。<br>2x Graveyard Trespasser<br>有點小尷尬的牌，主要是在現在環境中的放墳大多數都希望能全部放逐，但是是他的補血在某些對局（內戰、快攻）中又十份重要，暫時找不到更好的替代品。<br>2x Sheoldread, the Apocalypse + 2x Archfiend of the Dross<br>數量偏多的 4 drop 生物們，其中 Archfiend of the Dross 是最近這一兩個月才出現的黑科技，為了是打那一狗票的快攻以及生物 deck，打綠獻也有奇效（雖然還會被綠騎擋住但至少他不會死），加上我們本來就是殺牌偏多的牌組，他的扣血效果可以加速遊戲的進行，但缺點是會壓縮 Sheoldread 的位置，看環境再做調整，如果他的效益不高的話我會把這邊改回三張 Sheoldread 加上一張黑召現或一張雲威號。</p>
+<blockquote>
+<p>Edit(July 12, 2023):<br>我後來改成 3x Sheoldread, the Apocalypse + 1x Kalitas, Traitor of Ghet，我們快一年不見的老朋友。<br>主要原因現在環境 convoke 很多，打雖然 Archfiend of the Dross 打犧牲會比較舒服，但說實在台中以南打犧牲而且打的好的玩家數跟 convoke 比起來真的太少，而且現在不少人紅黑中速都顧慮 Archfiend of the Dross 不放 Power Word Kill 改放 Heartless Act 了，Kalitas 有機會以犧牲一隻殭屍 or 吸血鬼躲掉 Heartless Act 所以選擇放回老朋友。<br>而我也是在台中諾亞用這樣的構築拿到資格。</p>
+</blockquote>
+<p>再來是剩下的牌：<br>4x 2 drop Instant Speed Removal Spell<br>這邊選擇四張二費殺牌各一以應付各種不同的牌型，每張殺牌都有缺點，為了彌補這些缺點就每種都來一點吧（攤。<br>1x Liliana of the Veil<br>壓制控制、組合技或是綠獻這種會囤手牌優勢的牌組，逼對手一起加入 top deck 的行列，而且我們可以先使用手上的牌之後才開她的 +1 異能，造成資源差。<br>2x Reckoner Bankbuster<br>劫庫械我本來只有正一備一，多的位置擺一張殺，但發覺目前的環境（至少南部的環境是這樣）多一張抽牌車好像會好一點，改成正二備一。</p>
+<p>最後是地的部分，目前主流的配置大致分成兩種：八十岡在費城 PT 用的 26 地三地窖配置 &amp; Misplacedginger 的 25 地三洛溫斯堡配置，我這邊大致上是跟隨 Misplacedginger 的配置，不過有做一些微調。<br>當然有部分的牌一定不會動：<br>4x Blood Crypt<br>4x Haunted Ridge<br>剩下都是按照個人喜好做調整：<br>2x Blackcleave Cliffs + 2x Blightstep Pathway + 1x Sulfurous Springs<br>其他調色用的地，個人沒有很喜歡雙面地，主要是對於後期不夠靈活，而 Blackcleave Cliffs 曾經是三張，但太容易在第四回合卡著沒辦法準時正拍 Sheoldread 很尷尬所以改成兩張，多的位置放了 Sulfurous Springs 頂著<br>1x Den of the Bugbear + 2x Hive of the Eye Tyrant + 1x Mutavault<br>過去曾是 2x Den of the Bugbear + 2x Hive of the Eye Tyrant，但說實在 Den of the Bugbear 並不是那麼適合紅黑，雖然打擊力比 Hive of the Eye Tyrant 好，但本身沒有穿透也沒辦法取得任何資源上的優勢，至少 Hive of the Eye Tyrant 有帶威懾以及放墳，但四費的啟動太重了，所以改了一張 Mutavalut，之所以沒有像八十岡放三張是想要避免前期的卡色，以期備牌換上來的黑召現。<br>1x Takenuma + 1x Sokenzan<br>目前對於這兩張的使用都還算滿意，所以留著。<br>1x Urborg + 2x Castle Locthwain<br>烏爾伯格本來有考慮踢掉，想要減少帶黑對局中對面卡色的機率，但想了一下多數帶黑的對局好像也不會因為一張烏爾伯格輸掉，所以留著，而兩張洛溫斯堡則是提供上手率，雖然有些時候根本沒有空開（四費好貴），但在需要的時候相當重要，沒放更多的理由是沼澤太少（即便我已經放三張基本沼澤了），不想要前期卡著下不來。<br>3x Swamp<br>本來是 2x Swamp + 1x Mountain，但說真的多數時候會看著手上的山脈想著「你為什麼不帶黑」，後來乾脆改放沼澤了。</p>
+<p>而備牌的部分則是參考就好，紅黑中速是一套非常吃對局理解以及牌手操作的套牌，找十個紅黑玩家來討論會有十一種備牌策略（認真），所以這邊只會給點我的看法。<br>2x Duress<br>有些人會正編一張 Duress，這樣的話我會把備牌的 Duress 只放一張，大多數對局都用不到那麼多張掉手。反正總之正 + 備共兩張。<br>1x Reckoner Bankbuster<br>剛剛提過了略過。<br>1x Rending Volley + 1x Noxious Grasp<br>兩張剋色牌各一，之前有陣子是打 1x Rending Volley + 2x Noxious Grasp 的版本，不過打起來感覺有點多餘所以改少一張了。<br>1 The Meathook Massacre + 3x Extinction Event<br>掃場掃好掃滿，之所以不放煤煙儀式是為了躲兩費的白色戰役，打快攻沒有那麼有效了，現在徵招軍伍牌型也不多，找不太到帶煤煙儀式的理由。放一張肉勾是為了打犧牲以及掃波洛斯召集用的。<br>2x Invoke Despair<br>打內戰、控制、組合技用的，一換多好強。<br>1x Hidetsugu Consumes All<br>帶一張 HCA 打犧牲、召集跟老鼠車，生一排 token 之後直接掃下去慢走不送。<br>1x Kolaghan’s Command<br>有些人會把這張放正編，不過個人沒有那麼喜歡他三費的費用，所以放在備牌。<br>2x Go Blank<br>打控制、組合技這種會被囤手牌資源的牌或是會用墳場的牌用的。個人沒有很喜歡但是好像不得不放。</p>
+<p>以前還會再帶一張無牌靈車，但最近的對局中幾乎沒有帶上場的機會，所以改成 Go Blank。</p>
+<p>最後這邊放個<a class="link"   href="https://www.mtggoldfish.com/deck/5713356#paper" >套牌連結 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/images/Rakdos_Midrange-min.jpg"
+                     
+                ></p>
+<h2 id="Starting-Hands-Countermeasures-and-Mulligan"><a href="#Starting-Hands-Countermeasures-and-Mulligan" class="headerlink" title="Starting Hands, Countermeasures and Mulligan"></a>Starting Hands, Countermeasures and Mulligan</h2><p>先說說起手，如果不論對手的話會希望起手長這樣：<br>2-3x Lands 且不卡色（一塊能產紅另一塊能產黑）<br>0-2x 1 drop 節奏<br>1-3x 2 drop 節奏<br>0-1x 3+ drop 節奏<br>其中的 1 drop 以及 2 drop 至少有一到兩張殺。</p>
+<p>這邊舉個例子：<br>2x Lands<br>1x Thoughtseize<br>1x Fable of the Mirror-Breaker<br>1x Power Word Kill<br>1x Reckoner Bankbuster<br>1x Random Card<br>以上就算是一個挺舒服的起手，對於大多數對局（除了遇到控制、組合技、快攻會有點不舒服）都算是可以接的起手。</p>
+<p>但如果確定對手是組合技或控制就要調度了，控制跟組合技會比較偏向壓力比較大的起手，例如：<br>3x Lands<br>1x Thoughtseize<br>1x Bloodtithe Harvester<br>1x Bonecrusher Giant<br>1x Fable of the Mirrir-Breaker<br>像是這種的起手給的檯面壓力大很多，另外如果對手是控制我會考慮先拍 Fable of the Mirror-Breaker 再來才拍 Bonecrusher Giant 來躲掃場，且巨人的歷險可以拿來點掉飄萍皇本人或是她生出來的 2&#x2F;2。</p>
+<p>而打快攻（如純白人類、古魯載具）就會考慮比較多殺的起手，例如：<br>3x Lands<br>1x Fatal Push<br>1x Abrade<br>1x Bloodtithe Harvester<br>1x Bonecrusher Giant<br>這種起手，先穩住前期對手的場面壓力，再來談後續要摸什麼才能贏。</p>
+<h2 id="Epilogue"><a href="#Epilogue" class="headerlink" title="Epilogue"></a>Epilogue</h2><p>其實本來有打算寫對上各種牌型的策略以及換備，不過現在 meta 變太快了，之前寫到一半的內容也因為我不斷地調整牌表以及 meta 又轉了一圈，只能忍痛作廢。<br>看什麼時候有空再把這部分的內容一口氣寫完吧。</p>
+<p>另外最近也在研究格利極的構築，目前測過</p>
+<ol>
+<li>複製皮惡魔</li>
+<li>純格利極中速</li>
+<li>格利極約利昂 80 張</li>
+<li>格利極亞崔夏轉蛋</li>
+</ol>
+<p>但目前都還沒有測出一個比較喜歡的型，至於 MIT #4 要帶什麼去打目前還不確定，不過沒意外一樣是紅黑底的套牌。<br>理由也與其他紅黑玩家差不多：紅黑中速是一套可以對於對手牌型安排 game plain 的套牌，看完牌表在決定先後手、洗牌時就能夠開始想計畫，不用按照起手來決定要怎麼打，並且對於大多數套牌（創火例外 &#x3D; &#x3D;）都有相對應的手段。</p>
+<p>第四季 MITQ 還沒結束，希望這篇文章能提供給仍在奮戰的紅黑玩家一點新的想法。<br>或許對於其中部分的說法不認同也沒關係，至少提出了另一種看法可以參考。<br>大家會場見！</p>
+<h2 id="Edit-Post-WOE"><a href="#Edit-Post-WOE" class="headerlink" title="Edit: Post WOE"></a>Edit: Post WOE</h2><p>這篇是當時我在自己的部落格發的<a class="link"   href="https://miohitokiri5474.github.io/game/Rakdos-Midrange/" >文章 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> <del>我絕對不會說是為了湊網站初期的文章數才搬運過來的</del>。<br>不過距離撰文當下也過了蠻久的，中間一度使用量跌落至二線套牌的水準，但在八月底後又慢慢爬回一線。<br>另外既然 WOE 準備要發售了，這邊順便寫一下在 WOE 後我會想要怎麼改善套牌。進入我眼中的牌有兩張：<br>2. <a class="link"   href="https://cards.scryfall.io/large/front/b/1/b18402dc-c4ab-417c-92d1-5e4d9cfb840d.jpg" >The End <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+<ol>
+<li><a class="link"   href="https://cards.scryfall.io/large/front/1/8/18c59776-e1f1-4197-a128-db1d603f56b7.jpg" >Beseech the Mirror <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+</ol>
+<h3 id="The-End"><a href="#The-End" class="headerlink" title="The End"></a>The End</h3><p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cards.scryfall.io/large/front/b/1/b18402dc-c4ab-417c-92d1-5e4d9cfb840d.jpg"
+                      alt="The End"
+                ></p>
+<p>The End 不用說，當然是要打綠獻的，直接把綠騎或卡恩放逐，我們的壓力會變小很多。<br>拿來殺控制的大泰或是藍鋼彈創新的藍鋼彈，甚至是老鼠車的脂牙也很舒服（雖然四費殺打老鼠好像有點太慢了，不過還是可以試試）。<br>沒意外會在正編投入一張，可能會取代一張殺或是莉莉的位置，這部分還要再測試和調整看看。</p>
+<h3 id="Beseech-the-Mirror"><a href="#Beseech-the-Mirror" class="headerlink" title="Beseech the Mirror"></a>Beseech the Mirror</h3><p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cards.scryfall.io/large/front/1/8/18c59776-e1f1-4197-a128-db1d603f56b7.jpg"
+                      alt="Beseech the Mirror"
+                ></p>
+<p>Beseech the Mirror 則是用來取代掉第三張 Sheoldred 或是 Kalitas 的位置，很少對局會用到第三張 Sheoldred，通常用到也快要輸了。<br>與其這樣不如把其中一張的位置換成 Beseech the Mirror 這種比較靈活的牌，可以視情況找 Sheoldred，或是在備牌局去找換進來的針對備牌。</p>
+<blockquote>
+<p>像是在打綠獻的時候，Extinction Event 有時會比 Sheoldred 來的更重要，而且也能減少備牌中重複單卡的數量，把位置給其他備牌。</p>
+</blockquote>
+<p>另外紅黑中速的 token 非常之多，完全不用擔心 Bargain 會無法觸發，再不濟就把奇奇或是劫庫械吃掉去找牌，總比什麼事都不能做來的好。</p>
+<p>不過以上的測試都要等到 WOE 上 MTGA 後才能測試，也要經過 meta 的洗禮，等十月底前再來看看要怎麼改牌吧。</p>
+]]></content>
+      <categories>
+        <category>Construct</category>
+        <category>Pioneer</category>
+      </categories>
+      <tags>
+        <tag>Pioneer</tag>
+        <tag>MiohitoKiri5474</tag>
+        <tag>Decktech</tag>
       </tags>
   </entry>
   <entry>
@@ -6932,697 +6932,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Pioneer 環境考察 preMIT #4</title>
-    <url>/Pioneer-Meta-Inspection-PreMIT-4/</url>
-    <content><![CDATA[<h2 id="Before-We-Start"><a href="#Before-We-Start" class="headerlink" title="Before We Start"></a>Before We Start</h2><p>這禮拜的環境考察，是 RC 資料整合。<br>除了<a href="https://guildmagesforum.tw/Pioneer-Meta-Inspection-20231007">上一篇</a>寫到的歐洲和加拿大 RC，這次我們加入了澳洲&#x2F;紐西蘭 RC 的結果，在看完澳洲&#x2F;紐西蘭的結果後再來整合資料。</p>
-<h2 id="Open-List-的好處"><a href="#Open-List-的好處" class="headerlink" title="Open List 的好處"></a>Open List 的好處</h2><p>或許有部分玩家是第一次參加 open list 的比賽（例如我），或是單純想要了解 open list 帶來的優勢，所以在開始之前我們先來提一下 open list 的比賽究竟與普通的比賽有什麼差別。<br>最主要的點是我們可以在調度時知道對手玩什麼套牌，例如知道對面是快攻我們就能接一個很多去除的起手，知道對手是打組合技則是改成接有手牌破壞和場面壓力較大的起手，不會因為接錯起手導致正編局輸爛，後面還要追兩盤回來。</p>
-<p>以先驅紅黑中速為例，之前在我的一篇文章 <a href="https://guildmagesforum.tw/Pioneer-Rakdos-Midrange/#Starting-Hands-Countermeasures-and-Mulligan">Something About Rakdos Midrange</a> 中有提到，如果對上組合技、控制等套牌速度較慢的對局，我們會比較傾向打快一點避免將對局時間拉長，而打快攻則是要想辦法拖到後期戰打場面&#x2F;資源差。</p>
-<p>或是這邊舉一個朋友的例子，他在之前某一次 MIT 拿純綠獻力，最後一輪 pairing 坐在第四還第五桌有點忘了，在看完牌表之後知道對手是帶四張反色保護的純白人類，考慮到純綠很難打這種對局（一回 2&#x2F;1、二回人類王、三回艾德琳、四回副官 + 反色，全推回應阻擋前丟反色保護反綠），所以跟對手 ID 和局了，雖然知道和局可能沒辦法進八強，但總比打下去然後輸爛摔車、沒辦法賭看看有沒有機會進八強好。</p>
-<p>所以這也是為什麼很多先驅紅黑的構築會正編什麼東西都帶一點，多帶一張靈車、生靈絕滅之類的，對局不對摸到了就當作調度一，大不了餵給奇奇或血滴過一張牌，其他手牌真的很差就乖乖調度。<br>同時先驅是一個很吃對應的賽制，很多東西基本上不能拖超過兩回合才處理，例如希歐蕊拖兩回合 + 被打一拳等於多了至少 10 點血量差（本體傷害 4 + 兩次抽牌階段扣血 4 + 對手抽牌階段補血 2），開牌表的對局多就能多做一些準備。<br>而且現在先驅的環境也是很標準的剪刀石頭布一套吃一套（大綠吃紅黑、紅黑中速吃控制、控制吃大綠之類的，雖然現在控制比較少），很多時候坐下看完卡表來丟完骰子調度完遊戲就已經結束了（這邊不談中了兩地陷阱之類運氣很差的狀況），所以對環境和套牌的理解相當重要。</p>
-<h2 id="我如何準備MIT-4"><a href="#我如何準備MIT-4" class="headerlink" title="我如何準備MIT #4"></a>我如何準備MIT #4</h2><p>我的比賽準備大致上流程是這樣：</p>
-<ol>
-<li><strong>縮限套牌選擇</strong><br>我只選擇我有打過、知道怎麼運作的套牌</li>
-<li><strong>預測環境 meta</strong><br>按照我對環境的理解，哪些套牌打起來會比較舒服，同時將某兩三套套牌當作假想敵</li>
-<li><strong>牌組構築選擇</strong><br>按照預測環境的準備牌表構築，哪些針對牌可以直接塞到正編抓環境、哪些正編沒有處理到的對局備牌要放什麼</li>
-<li><strong>實戰測試</strong><br>最後是實戰測試，測試的同時調整換備策略</li>
-</ol>
-<p>以這次 MIT #4 為例，我的狀況是：</p>
-<ol>
-<li><strong>縮限套牌選擇</strong>：<ol>
-<li>紅黑中速算是打的最久的套牌，從 Magic Arena (MA) Explorer 賽制上面開始打應該已經過快一年了，練習量也是最多的</li>
-<li>紅黑犧牲也算是在 MA Explorer 賽制上面有一點練習量的套牌</li>
-<li>古魯載具我在 MA 上也有組，但打起來就是感覺不太對，算斬殺很容易算錯</li>
-</ol>
-</li>
-<li><strong>預測環境 meta</strong><br>沒有意外的話環境會是紅黑中速、犧牲、鳳凰、大綠、紅白快攻（Convoke、勇行、Pia）為大宗，混合老鼠車、控制、古魯、蓮花田組合技、蘿娜組合技，這個部分我們最後會再深入分析<br>基本上到這裡選擇套牌只剩下一個選項了：紅黑中速<br>犧牲打鳳凰之難打，mtgdecks 上面的數據顯示勝率只有 36%，而且我還沒太多時間練牌；古魯則是我一直算錯斬殺所以不考慮</li>
-<li><strong>牌組構築選擇</strong><br>然後按照環境修一下構築，可能會把部分的針對性牌張（例如剋墳用的靈車）放到正編</li>
-<li><strong>實戰測試</strong><br>最後就是週末測了一整天的牌，目前構築確定了但還在做微調</li>
-</ol>
-<blockquote>
-<p>還在等我的牌表嗎？想得美，等 11&#x2F;4 09:00 牌表上傳截止以後再說吧</p>
-</blockquote>
-<h2 id="ANZ-Super-Series-Cycle-4-Reginal-Championship"><a href="#ANZ-Super-Series-Cycle-4-Reginal-Championship" class="headerlink" title="ANZ Super Series Cycle 4: Reginal Championship"></a>ANZ Super Series Cycle 4: Reginal Championship</h2><p>澳洲&#x2F;紐西蘭的 RC 在上週末結束了，參賽人數 156 人，八輪之後取八強單淘汰。</p>
-<p>一樣我們先上套牌統計，使用比例皆四捨五入到小數點下第一位，加總可能不為 100%，另外只有列出使用數量高於 5 套的牌組。</p>
-<table>
-<thead>
-<tr>
-<th align="center">Archetype</th>
-<th align="center">Deck Count</th>
-<th align="center">% of Field</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="center">Rakdos Midrange</td>
-<td align="center">25</td>
-<td align="center">16.0%</td>
-</tr>
-<tr>
-<td align="center">Mono-White Humans</td>
-<td align="center">16</td>
-<td align="center">10.3%</td>
-</tr>
-<tr>
-<td align="center">Izzet Phoenix</td>
-<td align="center">14</td>
-<td align="center">9.0%</td>
-</tr>
-<tr>
-<td align="center">Mono-Green Devotion</td>
-<td align="center">14</td>
-<td align="center">9.0%</td>
-</tr>
-<tr>
-<td align="center">Boros Convoke</td>
-<td align="center">10</td>
-<td align="center">6.4%</td>
-</tr>
-<tr>
-<td align="center">Abzan Greasefang</td>
-<td align="center">10</td>
-<td align="center">6.4%</td>
-</tr>
-<tr>
-<td align="center">Rakdos Sacrifice</td>
-<td align="center">9</td>
-<td align="center">5.8%</td>
-</tr>
-<tr>
-<td align="center">Lotus Field Combo</td>
-<td align="center">7</td>
-<td align="center">4.5%</td>
-</tr>
-<tr>
-<td align="center">Azorius Spirits</td>
-<td align="center">6</td>
-<td align="center">3.8%</td>
-</tr>
-<tr>
-<td align="center">Azorius Control</td>
-<td align="center">5</td>
-<td align="center">3.2%</td>
-</tr>
-<tr>
-<td align="center">Boros Heroic</td>
-<td align="center">5</td>
-<td align="center">3.2%</td>
-</tr>
-<tr>
-<td align="center">Others</td>
-<td align="center">35</td>
-<td align="center">22.4%</td>
-</tr>
-</tbody></table>
-<p>環境整體偏向快攻，如何頂住場面壓力會是對局重點。</p>
-<p>然後是單卡使用統計前十：</p>
-<table>
-<thead>
-<tr>
-<th align="center"></th>
-<th align="center">Card</th>
-<th align="center">Cpoies</th>
-<th align="center">Decks</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="center">1</td>
-<td align="center"><a class="link"   href="https://cards.scryfall.io/large/front/b/2/b281a308-ab6b-47b6-bec7-632c9aaecede.jpg?1599706001" >Thoughtseize <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
-<td align="center">208</td>
-<td align="center">34%</td>
-</tr>
-<tr>
-<td align="center">2</td>
-<td align="center"><a class="link"   href="https://cards.scryfall.io/large/front/6/e/6e9d8fe4-fd9b-4923-92bf-7dd6b8fa02e7.jpg?1598304715" >Fatal Push <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
-<td align="center">193</td>
-<td align="center">33%</td>
-</tr>
-<tr>
-<td align="center">3</td>
-<td align="center"><a class="link"   href="https://cards.scryfall.io/large/front/2/4/24c0d87b-0049-4beb-b9cb-6f813b7aa7dc.jpg?1691108103" >Fable of the Mirror-Breaker <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
-<td align="center">181</td>
-<td align="center">30%</td>
-</tr>
-<tr>
-<td align="center">4</td>
-<td align="center"><a class="link"   href="https://cards.scryfall.io/large/front/f/0/f0192cf7-3391-4720-b9c8-72dec5dde01e.jpg?1643593808" >Bloodtithe Harvester <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
-<td align="center">143</td>
-<td align="center">30%</td>
-</tr>
-<tr>
-<td align="center">5</td>
-<td align="center"><a class="link"   href="https://cards.scryfall.io/large/front/b/5/b5b71cd2-de35-451f-b16e-2e3936169407.jpg?1674141884" >Bonecrusher Giant <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
-<td align="center">116</td>
-<td align="center">20%</td>
-</tr>
-<tr>
-<td align="center">6</td>
-<td align="center"><a class="link"   href="https://cards.scryfall.io/large/front/3/5/3557e601-9b71-4ce9-9047-1a8baa72e574.jpg?1675957024" >Duress <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
-<td align="center">114</td>
-<td align="center">31%</td>
-</tr>
-<tr>
-<td align="center">7</td>
-<td align="center"><a class="link"   href="https://cards.scryfall.io/large/front/8/0/80fca8c0-ae3e-439e-b202-228b9f360e9a.jpg?1627702369" >Portable Hole <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
-<td align="center">102</td>
-<td align="center">19%</td>
-</tr>
-<tr>
-<td align="center">8</td>
-<td align="center"><a class="link"   href="https://cards.scryfall.io/large/front/8/2/8234090e-9df1-4915-90ef-8a4bc6212655.jpg?1562789104" >Rending Volley <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
-<td align="center">101</td>
-<td align="center">28%</td>
-</tr>
-<tr>
-<td align="center">9</td>
-<td align="center"><a class="link"   href="https://cards.scryfall.io/large/front/c/9/c9f8b8fb-1cd8-450e-a1fe-892e7a323479.jpg?1643587106" >Thalia, Guardian of Thraben <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
-<td align="center">94</td>
-<td align="center">17%</td>
-</tr>
-<tr>
-<td align="center">10</td>
-<td align="center"><a class="link"   href="https://cards.scryfall.io/large/front/d/6/d67be074-cdd4-41d9-ac89-0a0456c4e4b2.jpg?1674057568" >Sheoldred, the Apocalypse <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
-<td align="center">92</td>
-<td align="center">25%</td>
-</tr>
-</tbody></table>
-<p>一如往常的由 Thougheseize, Fatal Push, Fable of the Mirror-Breaker 使用量前三。</p>
-<p>八強套牌，成績取自預賽：</p>
-<table>
-<thead>
-<tr>
-<th align="center">Rank</th>
-<th align="center">Player</th>
-<th align="center">Decklist</th>
-<th align="center">Record</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="center">1</td>
-<td align="center">Brett Girvan</td>
-<td align="center"><a class="link"   href="https://melee.gg/Decklist/View/336446" >Boros Heroic <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
-<td align="center">6-0-2</td>
-</tr>
-<tr>
-<td align="center">2</td>
-<td align="center">Josh Bradbury</td>
-<td align="center"><a class="link"   href="https://melee.gg/Decklist/View/336573" >Abzan Greasefang <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
-<td align="center">6-1-1</td>
-</tr>
-<tr>
-<td align="center">4</td>
-<td align="center">James Larsen-Scott</td>
-<td align="center"><a class="link"   href="https://melee.gg/Decklist/View/336079" >Lotus Field Combo <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
-<td align="center">7-0-1</td>
-</tr>
-<tr>
-<td align="center">4</td>
-<td align="center">Matthew Giudes</td>
-<td align="center"><a class="link"   href="https://melee.gg/Decklist/View/336569" >Rakdos Midrange <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
-<td align="center">6-1-1</td>
-</tr>
-<tr>
-<td align="center">8</td>
-<td align="center">Jose Gabriel Hilario</td>
-<td align="center"><a class="link"   href="https://melee.gg/Decklist/View/336517" >Boros Convoke <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
-<td align="center">6-1-1</td>
-</tr>
-<tr>
-<td align="center">8</td>
-<td align="center">Dillon Kikkawa</td>
-<td align="center"><a class="link"   href="https://melee.gg/Decklist/View/336534" >Gruul Vehicles <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
-<td align="center">7-1</td>
-</tr>
-<tr>
-<td align="center">8</td>
-<td align="center">Y0ungsterDenis</td>
-<td align="center"><a class="link"   href="https://melee.gg/Decklist/View/336523" >Rakdos Midrange <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
-<td align="center">6-0-2</td>
-</tr>
-<tr>
-<td align="center">8</td>
-<td align="center">WilM16</td>
-<td align="center"><a class="link"   href="https://melee.gg/Decklist/View/336500" >Boros Convoke <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
-<td align="center">6-2-1</td>
-</tr>
-</tbody></table>
-<p>跟另外三場已經結束的 RC 相比，這場八強由相當大量的快攻組成，讓人有點意外。</p>
-<h3 id="Boros-Heroic"><a href="#Boros-Heroic" class="headerlink" title="Boros Heroic"></a>Boros Heroic</h3><p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cdn.melee.gg/decklists/4f52169f-9a2b-4ace-be7e-c637e5dcafa6.jpg?v=1"
-                     
-                ></p>
-<p>勇行現在環境挺不錯的，基本上二回準時出連擊籌謀人都要給尊重殺掉，不然一不小心就有可能被三回殺。</p>
-<h3 id="Abzan-Greasefang"><a href="#Abzan-Greasefang" class="headerlink" title="Abzan Greasefang"></a>Abzan Greasefang</h3><p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cdn.melee.gg/decklists/8b1db925-8833-4893-8843-5cea8554cb9f.jpg?v=1"
-                     
-                ></p>
-<p>老鼠車整體構築也沒有太多變動，這個構築正編有 <a class="link"   href="https://cards.scryfall.io/large/front/c/b/cb94a02f-4660-45b6-8a39-941b710cf8f3.jpg?1576384285" >Collective Brutality <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>、<a class="link"   href="https://cards.scryfall.io/large/front/3/5/3557e601-9b71-4ce9-9047-1a8baa72e574.jpg?1675957024" >Duress <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>、<a class="link"   href="https://cards.scryfall.io/large/front/d/6/d67be074-cdd4-41d9-ac89-0a0456c4e4b2.jpg?1674057568" >Sheoldred, the Apocalypse <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>、<a class="link"   href="https://cards.scryfall.io/large/front/d/1/d12c8c97-6491-452c-811d-943441a7ef9f.jpg?1673307126" >Liliana of the Veil <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 各一張，應該是想保留打成 Abzan Midrange 的可能性。</p>
-<h3 id="Lotus-Field-Combo"><a href="#Lotus-Field-Combo" class="headerlink" title="Lotus Field Combo"></a>Lotus Field Combo</h3><p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cdn.melee.gg/decklists/3fa01e82-8eae-4f81-96e3-08f950f0b76f.jpg?v=2"
-                     
-                ></p>
-<p>這一套蓮花田跟歐洲冠軍的牌表大同小異，不過選擇少帶一張 <a class="link"   href="https://cards.scryfall.io/large/front/b/3/b33ba0a8-04e9-4df6-af20-a3ca4470cdcc.jpg?1594735451" >Discontinuity <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 換成放 <a class="link"   href="https://cards.scryfall.io/large/front/2/b/2b0c111a-236f-449a-95b1-274a1dfa546d.jpg?1673483878" >Dig Through Time <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>，應該是想要在中後期做更多的找資源。</p>
-<h3 id="Rakdos-Midrange"><a href="#Rakdos-Midrange" class="headerlink" title="Rakdos Midrange"></a>Rakdos Midrange</h3><p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cdn.melee.gg/decklists/05b4c898-b9a2-4464-a930-b21c32895b41.jpg?v=1"
-                     
-                ><br><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cdn.melee.gg/decklists/ce268ce3-f4ae-4b77-8132-b476b94317e9.jpg?v=1"
-                     
-                ></p>
-<p>我猜澳洲&#x2F;紐西蘭人比較不喜歡綠獻、打的人比較少，因此看到蠻多紅黑都選擇不帶 <a class="link"   href="https://cards.scryfall.io/large/front/5/1/514c5e77-9ecc-41c9-b104-76343601fafb.jpg?1674420938" >Misery’s Shadow <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>，放更多的內戰優勢牌。</p>
-<p>不過台灣的環境應該會有不少的綠獻、犧牲，個人還是會帶著以防萬一。</p>
-<h3 id="Boros-Convoke"><a href="#Boros-Convoke" class="headerlink" title="Boros Convoke"></a>Boros Convoke</h3><p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cdn.melee.gg/decklists/d4f79146-c2fb-47de-b034-931895d5944f.jpg?v=1"
-                     
-                ></p>
-<p>Convoke 也是跟之前沒有太多的變動，不過這個構築應該是想要衝一下上限，看有沒有機會一回生三隻二回丟 <a class="link"   href="https://cards.scryfall.io/large/front/d/d/ddb96645-44d2-426c-90cb-3186297a8728.jpg?1576382362" >Ornithopter <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 和 <a class="link"   href="https://cards.scryfall.io/large/front/0/4/0405b1b9-976a-4aaf-bec6-fa006decea74.jpg?1562895780" >Reckless Bushwhacker <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 打九點，所以還是有一張 Reckless Bushwhacker，另外選擇放 <a class="link"   href="https://cards.scryfall.io/large/front/c/9/c9f8b8fb-1cd8-450e-a1fe-892e7a323479.jpg?1643587106" >Thalia, Guardian of Thraben <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 而不是 <a class="link"   href="https://cards.scryfall.io/large/front/8/6/86a4c348-1012-4339-960a-c7bc7fd84fbb.jpg?1631045559" >Clarion Spirit <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>，應該是為了卡對手的掃場，多一回合的 cycle 幾乎確定可以斬掉控制。<br>另外帶兩張 <a class="link"   href="https://cards.scryfall.io/large/front/7/5/75754468-2850-42e6-ab22-61ff7b9d1214.jpg?1572489685" >Giant Killer <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 應該是為了針對那些生物體質比較大的套牌，這個構築可以說是很針對賽場環境調整的版本。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cdn.melee.gg/decklists/d2e9dd5e-8228-454b-a0b3-0cdcd61747fe.jpg?v=1"
-                     
-                ></p>
-<p>而另一個八強構築則是比較常見，針對牌幾乎都在備編。</p>
-<h3 id="Gruul-Vehicles"><a href="#Gruul-Vehicles" class="headerlink" title="Gruul Vehicles"></a>Gruul Vehicles</h3><p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cdn.melee.gg/decklists/ace5439e-ed88-44ff-a573-50d282e77d4b.jpg?v=1"
-                     
-                ></p>
-<p>之前好像沒有提到古魯載具在 WOE 後的變化。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cards.scryfall.io/large/front/2/7/27003577-e276-4ad5-b3e9-8523b166ad49.jpg?1692938904"
-                     
-                ></p>
-<p>簡單來說，多了一張新牌的傳記，這張傳記在現在的構築中非常重要，進場生 3&#x2F;3 不虧節奏、第二章可以犧牲一個生物找牌庫中任意一張生物牌上手、第三章給至多兩隻生物 +2&#x2F;+2 和踐踏到回合結束。<br>因為其工具箱的特性，可以將很多通常只會用到一次的生物（例如 <a class="link"   href="https://cards.scryfall.io/large/front/1/d/1dbcd466-fb99-4388-a118-4534b85544f0.jpg?1682204582" >Voldaren Thrillseeker <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 通常只要找一張出來對手就要死了）數量降低，不用像以往為了抽到而放兩三張甚至四張、重複抽上手的時候會卡自己節奏；同時也能將一些只對特定對局有用的牌正編掛個一張，需要用時再去找就好。<br>同理也能大幅度降低備牌的生物數量，某些針對生物只要一張給傳記找就夠了，可以將更多的備牌空間讓給非生物牌如 <a class="link"   href="https://cards.scryfall.io/large/front/a/5/a5c7d16b-8f4e-42b9-be24-3cb091932d7c.jpg?1562740759" >Damping Sphere <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>。</p>
-<p>另外這個構築比較特別，只有帶四張貓車（所以我說那個載具元素呢？）但是卻帶了 11 張傳記，感覺是想要在給壓力的同時保持較高的資源量吧。</p>
-<h2 id="龍盾杯-MTG-China-Open-S4-Regional-Championship"><a href="#龍盾杯-MTG-China-Open-S4-Regional-Championship" class="headerlink" title="龍盾杯 MTG China Open S4 Regional Championship"></a>龍盾杯 MTG China Open S4 Regional Championship</h2><p>中國的 RC 和澳洲&#x2F;紐西蘭那邊同時展開，也是在上週末結束了。<br>參賽人數 215 人，在 Day 1 八輪瑞士制之後取八強到 Day 2 單淘汰。</p>
-<p>老規矩先上套牌統計，使用比例皆四捨五入到小數點下第一位，加總可能不為 100%，另外只有列出使用數量高於 5 套的牌組。</p>
-<table>
-<thead>
-<tr>
-<th align="center">Archetype</th>
-<th align="center">Deck Count</th>
-<th align="center">% of Field</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="center">Rakdos Midrange</td>
-<td align="center">30</td>
-<td align="center">14.0%</td>
-</tr>
-<tr>
-<td align="center">Izzet Phoenix</td>
-<td align="center">22</td>
-<td align="center">10.2%</td>
-</tr>
-<tr>
-<td align="center">Lotus Field Combo</td>
-<td align="center">19</td>
-<td align="center">8.8%</td>
-</tr>
-<tr>
-<td align="center">Mono-Green Devotion</td>
-<td align="center">17</td>
-<td align="center">7.9%</td>
-</tr>
-<tr>
-<td align="center">Rona Lukka Combo</td>
-<td align="center">14</td>
-<td align="center">6.5%</td>
-</tr>
-<tr>
-<td align="center">Boros Convoke</td>
-<td align="center">12</td>
-<td align="center">5.6%</td>
-</tr>
-<tr>
-<td align="center">Azorius Control</td>
-<td align="center">10</td>
-<td align="center">4.7%</td>
-</tr>
-<tr>
-<td align="center">Enigmatic Fires</td>
-<td align="center">9</td>
-<td align="center">4.2%</td>
-</tr>
-<tr>
-<td align="center">Azorius Spirits</td>
-<td align="center">8</td>
-<td align="center">3.7%</td>
-</tr>
-<tr>
-<td align="center">Abzan Greasefang</td>
-<td align="center">8</td>
-<td align="center">3.7%</td>
-</tr>
-<tr>
-<td align="center">Boros Heroic</td>
-<td align="center">7</td>
-<td align="center">3.3%</td>
-</tr>
-<tr>
-<td align="center">Mono-White Humans</td>
-<td align="center">6</td>
-<td align="center">2.8%</td>
-</tr>
-<tr>
-<td align="center">Rakdos Sacrifice</td>
-<td align="center">6</td>
-<td align="center">2.8%</td>
-</tr>
-<tr>
-<td align="center">Gruul Vehicles</td>
-<td align="center">6</td>
-<td align="center">2.8%</td>
-</tr>
-<tr>
-<td align="center">Atarka Red</td>
-<td align="center">5</td>
-<td align="center">2.3%</td>
-</tr>
-<tr>
-<td align="center">Omnath to Light</td>
-<td align="center">5</td>
-<td align="center">2.3%</td>
-</tr>
-<tr>
-<td align="center">Others</td>
-<td align="center">32</td>
-<td align="center">14.9%</td>
-</tr>
-</tbody></table>
-<p>綜合看起來比例還算正常，但犧牲、綠獻較少一些，另外 Rona Lukka Combo 從歐洲 RC 後有變多的趨勢。</p>
-<p>然後是單卡使用量：</p>
-<table>
-<thead>
-<tr>
-<th align="center"></th>
-<th align="center">Card</th>
-<th align="center">Cpoies</th>
-<th align="center">Decks</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="center">1</td>
-<td align="center"><a class="link"   href="https://cards.scryfall.io/large/front/6/e/6e9d8fe4-fd9b-4923-92bf-7dd6b8fa02e7.jpg?1598304715" >Fatal Push <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
-<td align="center">252</td>
-<td align="center">33%</td>
-</tr>
-<tr>
-<td align="center">2</td>
-<td align="center"><a class="link"   href="https://cards.scryfall.io/large/front/b/2/b281a308-ab6b-47b6-bec7-632c9aaecede.jpg?1599706001" >Thoughtseize <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
-<td align="center">236</td>
-<td align="center">29%</td>
-</tr>
-<tr>
-<td align="center">3</td>
-<td align="center"><a class="link"   href="https://cards.scryfall.io/large/front/2/4/24c0d87b-0049-4beb-b9cb-6f813b7aa7dc.jpg?1691108103" >Fable of the Mirror-Breaker <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
-<td align="center">232</td>
-<td align="center">27%</td>
-</tr>
-<tr>
-<td align="center">4</td>
-<td align="center"><a class="link"   href="https://cards.scryfall.io/large/front/f/0/f0192cf7-3391-4720-b9c8-72dec5dde01e.jpg?1643593808" >Bloodtithe Harvester <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
-<td align="center">156</td>
-<td align="center">18%</td>
-</tr>
-<tr>
-<td align="center">5</td>
-<td align="center"><a class="link"   href="https://cards.scryfall.io/large/front/7/5/75918859-c93f-41b4-9ad0-a4a96c389f0d.jpg?1689998466" >Elvish Mystic <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
-<td align="center">153</td>
-<td align="center">19%</td>
-</tr>
-<tr>
-<td align="center">6</td>
-<td align="center"><a class="link"   href="https://cards.scryfall.io/large/front/b/5/b5b71cd2-de35-451f-b16e-2e3936169407.jpg?1674141884" >Bonecrusher Giant <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
-<td align="center">152</td>
-<td align="center">20%</td>
-</tr>
-<tr>
-<td align="center">7</td>
-<td align="center"><a class="link"   href="https://cards.scryfall.io/large/front/8/b/8bbcfb77-daa1-4ce5-b5f9-48d0a8edbba9.jpg?1592765148" >Llanowar Elves <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
-<td align="center">150</td>
-<td align="center">19%</td>
-</tr>
-<tr>
-<td align="center">8</td>
-<td align="center"><a class="link"   href="https://cards.scryfall.io/large/front/8/2/8234090e-9df1-4915-90ef-8a4bc6212655.jpg?1562789104" >Rending Volley <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
-<td align="center">146</td>
-<td align="center">30%</td>
-</tr>
-<tr>
-<td align="center">9</td>
-<td align="center"><a class="link"   href="https://cards.scryfall.io/large/front/3/5/3557e601-9b71-4ce9-9047-1a8baa72e574.jpg?1675957024" >Duress <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
-<td align="center">135</td>
-<td align="center">26%</td>
-</tr>
-<tr>
-<td align="center">10</td>
-<td align="center"><a class="link"   href="https://cards.scryfall.io/large/front/d/6/d67be074-cdd4-41d9-ac89-0a0456c4e4b2.jpg?1674057568" >Sheoldred, the Apocalypse <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
-<td align="center">130</td>
-<td align="center">23%</td>
-</tr>
-</tbody></table>
-<p>還是那幾個老面孔。</p>
-<p>八強套牌如下，成績取自預賽：</p>
-<table>
-<thead>
-<tr>
-<th align="center">Rank</th>
-<th align="center">Player</th>
-<th align="center">Decklist</th>
-<th align="center">Record</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="center">1</td>
-<td align="center">Fu Yu</td>
-<td align="center"><a class="link"   href="https://melee.gg/Decklist/View/336319" >Rakdos Sacrifice <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
-<td align="center">7-1-0</td>
-</tr>
-<tr>
-<td align="center">2</td>
-<td align="center">徐 堉程</td>
-<td align="center"><a class="link"   href="https://melee.gg/Decklist/View/336627" >Rakdos Midrange <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
-<td align="center">6-1-1</td>
-</tr>
-<tr>
-<td align="center">4</td>
-<td align="center">于 音</td>
-<td align="center"><a class="link"   href="https://melee.gg/Decklist/View/336406" >Waste Not <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
-<td align="center">6-0-2</td>
-</tr>
-<tr>
-<td align="center">4</td>
-<td align="center">望洋 曾</td>
-<td align="center"><a class="link"   href="https://melee.gg/Decklist/View/336486" >Boros Convoke <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
-<td align="center">6-0-2</td>
-</tr>
-<tr>
-<td align="center">8</td>
-<td align="center">Chengyi Wei</td>
-<td align="center"><a class="link"   href="https://melee.gg/Decklist/View/336719" >Izzet Phoenix <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
-<td align="center">6-0-2</td>
-</tr>
-<tr>
-<td align="center">8</td>
-<td align="center">CptNixon</td>
-<td align="center"><a class="link"   href="https://melee.gg/Decklist/View/336073" >Izzet Phoenix <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
-<td align="center">6-0-2</td>
-</tr>
-<tr>
-<td align="center">8</td>
-<td align="center">Hongtao Zhang</td>
-<td align="center"><a class="link"   href="https://melee.gg/Decklist/View/336386" >Rona Lukka Combo <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
-<td align="center">6-1-1</td>
-</tr>
-<tr>
-<td align="center">8</td>
-<td align="center">Beenew</td>
-<td align="center"><a class="link"   href="https://melee.gg/Decklist/View/336613" >Abzan Greasefang <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
-<td align="center">7-1-0</td>
-</tr>
-</tbody></table>
-<h3 id="Rakdos-Sacrifice"><a href="#Rakdos-Sacrifice" class="headerlink" title="Rakdos Sacrifice"></a>Rakdos Sacrifice</h3><p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cdn.melee.gg/decklists/66f98972-05b9-48e6-9abd-7b6ca14b1f0f.jpg?v=1"
-                     
-                ></p>
-<p>犧牲還是一如往常的樣子，不過備牌的判刑選擇帶 <a class="link"   href="https://cards.scryfall.io/large/front/7/8/78161e60-878a-45a2-aced-40b739bd0a07.jpg?1674141847" >The Akroan War <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 應該是想要避免抓過來沒事情做，至少還能多打&#x2F;擋一拳之後再看看要怎麼做。</p>
-<h3 id="Rakdos-Midrange-1"><a href="#Rakdos-Midrange-1" class="headerlink" title="Rakdos Midrange"></a>Rakdos Midrange</h3><p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cdn.melee.gg/decklists/b39ec077-cb4c-451f-8b22-7dedfaff12ea.jpg?v=1"
-                     
-                ></p>
-<p>這一套中速構築選擇帶第四張 Sheoldred，並且備牌有三張 <a class="link"   href="https://cards.scryfall.io/large/front/a/5/a5c7d16b-8f4e-42b9-be24-3cb091932d7c.jpg?1562740759" >Damping Sphere <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 和三張 <a class="link"   href="https://cards.scryfall.io/large/front/0/4/04d5d429-e0c6-42cc-a477-da7dabb1c295.jpg?1592516724" >Leyline of the Void <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 應該是很討厭鳳凰（雖然看他的 pairing 一場都沒遇到）。</p>
-<h3 id="Waste-Not"><a href="#Waste-Not" class="headerlink" title="Waste Not"></a>Waste Not</h3><p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cdn.melee.gg/decklists/e5501b1b-9d77-4927-b50a-fc017030d206.jpg?v=4"
-                     
-                ></p>
-<p>這個 Waste Not 居然是 6-0 開局我超意外。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cards.scryfall.io/large/front/2/f/2f5500a2-c6d6-40d7-b586-59b854733160.jpg?1562393909"
-                     
-                ></p>
-<p>替不知道這套牌在做什麼的人解釋一下好了，簡單來說只要對手棄牌就會有相對應的效果，棄掉生物會生一隻 2&#x2F;2 殭屍、棄掉地會產兩點黑、其餘則是抽一張牌，也就是將以往 <code>掉手牌</code> 這種一換一沒有賺資源的效應加強。<br>所以套牌中除了標準的四張 Thoughtseize 以外，還額外帶了兩張 Duress、三張 <a class="link"   href="https://cards.scryfall.io/large/front/8/4/846e8657-7435-44c6-a997-b8b156d0cd2c.jpg?1624590993" >Go Blank <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>、三張 <a class="link"   href="https://cards.scryfall.io/large/front/d/1/d12c8c97-6491-452c-811d-943441a7ef9f.jpg?1673307126" >Liliana of the Veil <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 等掉手牌。<br>基本上可以理解為純黑手控，或是可以想成有點類似近代的 8-Rack，藉由大量掉手賺效果的套牌。</p>
-<p>多帶兩張黑白雙面地是為了讓 <a class="link"   href="https://cards.scryfall.io/large/front/f/0/f0c5449a-d63b-4b22-9432-8f0365c3c4d9.jpg?1643590080" >Path of Peril <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 可以用貫通施放，來解掉一些場面（例如綠獻爆開的場面）。</p>
-<h3 id="Boros-Convoke-1"><a href="#Boros-Convoke-1" class="headerlink" title="Boros Convoke"></a>Boros Convoke</h3><p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cdn.melee.gg/decklists/a664bc0b-d0de-477c-8aac-fb7f1d75938d.jpg?v=2"
-                     
-                ></p>
-<p>很標準的 Convoke 構築。</p>
-<h3 id="Izzet-Phoenix"><a href="#Izzet-Phoenix" class="headerlink" title="Izzet Phoenix"></a>Izzet Phoenix</h3><p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cdn.melee.gg/decklists/bca27125-8591-49ad-bb72-1c41f6a08cb3.jpg?v=1"
-                     
-                ><br><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cdn.melee.gg/decklists/cb401461-50c3-49b7-b4a7-3e2e24a83bbd.jpg?v=1"
-                     
-                ></p>
-<p>兩套的 list 看起來差不多有 87% 像，比較需要注意的是現在會多帶 <a class="link"   href="https://cards.scryfall.io/large/front/5/e/5ebac73a-1ecf-4e6d-87b1-ea560bfeb064.jpg?1692937214" >Picklock Prankster <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>，而 <a class="link"   href="https://cards.scryfall.io/large/front/9/8/98291778-2ec2-47e2-ac99-5f8cfbb3cf24.jpg?1562560509" >Chart a Course <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 已經幾乎沒有人在帶了。</p>
-<h3 id="Rona-Lukka-Combo"><a href="#Rona-Lukka-Combo" class="headerlink" title="Rona Lukka Combo"></a>Rona Lukka Combo</h3><p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cdn.melee.gg/decklists/50b9cc63-e817-41d9-816e-26652486d034.jpg?v=2"
-                     
-                ></p>
-<p>跟之前歐洲 RC 的牌表大同小異，詳細的內容可以看<a href="https://guildmagesforum.tw/Pioneer-Meta-Inspection-20231007/#Fire-Color-Combo">那一篇文章</a>。<br>不過這套牌選擇帶更多的去除來抗快攻，掃場和掉手都沒帶了。</p>
-<h3 id="Abzan-Greasefang-1"><a href="#Abzan-Greasefang-1" class="headerlink" title="Abzan Greasefang"></a>Abzan Greasefang</h3><p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cdn.melee.gg/decklists/05a877e4-8af9-4e55-bf23-5fd7fb3a087d.jpg?v=1"
-                     
-                ></p>
-<p>老鼠車標準構築，不過備牌帶了兩張新的歷險牌 <a class="link"   href="https://cards.scryfall.io/large/front/9/8/9869ac70-5907-45fa-952c-31aef70c5066.jpg?1692939707" >Mosswood Dreadknight <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>，應該是用來打備牌局的資源戰；還有兩張 <a class="link"   href="https://cards.scryfall.io/large/front/6/0/6072d9b0-d3c7-46f4-bd24-095bb13c4dea.jpg?1572489660" >Deafening Silence <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 應該是用來打鳳凰用的。</p>
-<h2 id="目前的-RC-資料整合"><a href="#目前的-RC-資料整合" class="headerlink" title="目前的 RC 資料整合"></a>目前的 RC 資料整合</h2><p>先來統計一下八強的套牌數量總計：</p>
-<table>
-<thead>
-<tr>
-<th align="center">Archetype</th>
-<th align="center">Deck Count</th>
-<th align="center">% of Data</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="center">Rakdos Midrange</td>
-<td align="center">5</td>
-<td align="center">15.6%</td>
-</tr>
-<tr>
-<td align="center">Abzan Greasefang</td>
-<td align="center">3</td>
-<td align="center">9.4%</td>
-</tr>
-<tr>
-<td align="center">Lotus Field Combo</td>
-<td align="center">3</td>
-<td align="center">9.4%</td>
-</tr>
-<tr>
-<td align="center">Boros Convoke</td>
-<td align="center">3</td>
-<td align="center">9.4%</td>
-</tr>
-<tr>
-<td align="center">Gruul Vehicles</td>
-<td align="center">3</td>
-<td align="center">9.4%</td>
-</tr>
-<tr>
-<td align="center">Rakdos Sacrifice</td>
-<td align="center">3</td>
-<td align="center">9.4%</td>
-</tr>
-<tr>
-<td align="center">Izzet Phoenix</td>
-<td align="center">3</td>
-<td align="center">9.4%</td>
-</tr>
-<tr>
-<td align="center">Boros Heroic</td>
-<td align="center">2</td>
-<td align="center">6.2%</td>
-</tr>
-<tr>
-<td align="center">Rona Lukka Combo</td>
-<td align="center">2</td>
-<td align="center">6.2%</td>
-</tr>
-<tr>
-<td align="center">Enigmatic Fires</td>
-<td align="center">2</td>
-<td align="center">6.2%</td>
-</tr>
-<tr>
-<td align="center">Wast Not</td>
-<td align="center">1</td>
-<td align="center">3.1%</td>
-</tr>
-<tr>
-<td align="center">UW Control</td>
-<td align="center">1</td>
-<td align="center">3.1%</td>
-</tr>
-<tr>
-<td align="center">Mono-Green Devotion</td>
-<td align="center">1</td>
-<td align="center">3.1%</td>
-</tr>
-</tbody></table>
-<p>從統計結果中我們可以發現在所有八強套牌中，使用套牌數量最終還是由紅黑中速拔得頭籌。<br>這說明了紅黑中速在目前的 meta 中的表現還是相當不錯，其優異的單卡價值，加上 Thoughtseize, Fatal Push 等低費的干擾&#x2F;去除手段，也有一定的手牌調度性，在開卡表的對局中真的很舒服，知道需要提防什麼、哪些牌不重要可以餵給奇奇&#x2F;血滴濾資源。<br>也因為如此，賽場中的綠獻、創火不少，作為環境中 counter 紅黑中速最好的套牌還是有不少的使用量。</p>
-<p>同時純白人類、Convoke 等快攻套牌又是攻破綠獻、創火的好選擇，反正只要趁著場面養起來之前先敲破你的頭就好了。<br>但這兩套牌某方面來說又很怕紅黑中速&#x2F;犧牲，兩套作為幾乎沒有補手牌資源的套牌，很容易被連續的掉手、點殺之後造成套牌無法順利運轉，同時紅黑中速在備牌局會有掃場、犧牲有貓爐組合可以降低傷害，並且只要站出關鍵生物（Sheoldred 或 Mayhem Devil）後基本上就是慢性死亡。</p>
-<p>因此先驅環境有點剪刀石頭布的感覺，外加最近因為種種原因重返農藥的鳳凰、快要從賽場消失的控制和無畏創新、會被颱風尾掃到的老鼠車、被鳳凰壓在地上摩擦的精靈等等。</p>
-<hr>
-<p>鳳凰回歸的主要原因是 WOE 補強，Sleight of Hand 和 Picklock Prankster 組合實在是太強大了，不過也因此造成環境中的剋墳變多，老鼠車、形體一新套牌會因此被颱風尾掃到。<br>另外鳳凰的數量上升則近一步壓縮精靈、無畏創新的生存空間。無畏創新應該很好理解，就是因為速度太慢了；而精靈則是對於場面的干擾偏少，先不提 <a class="link"   href="https://cards.scryfall.io/large/front/3/5/359d1b13-6156-43b0-a9a7-6bfff36c1a91.jpg?1576384282" >Thing in the Ice <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 翻面吹所有非海怪生物反打這點，鳳凰即便跟你 trade 掉了過一陣子他還是可以爬回場上，更不用說那八張點燒幾乎能燒穿所有精靈。<br>而控制近期表現沒有很好，個人認為最主要的理由是環境太多變且威脅太多，控制已經快要無心處理各種狀況了。</p>
-<h2 id="MIT-4-環境分析"><a href="#MIT-4-環境分析" class="headerlink" title="MIT #4 環境分析"></a>MIT #4 環境分析</h2><h3 id="鳳凰、純白人類、Convoke-應該會最多"><a href="#鳳凰、純白人類、Convoke-應該會最多" class="headerlink" title="鳳凰、純白人類、Convoke 應該會最多"></a>鳳凰、純白人類、Convoke 應該會最多</h3><p>鳳凰一直以來在台灣就是很熱門的套牌，即便前陣子環境表現沒有很好還是有不少的玩家選擇用這個套牌來打 MITQ，所以我相信在經過強化之後會有不少玩家把長灰塵的鳳凰挖出來。<br>而純白人類和 Convoke 則是打起來較為輕鬆的套牌，在一個目前目光所及至少七輪的比賽中，選一個比較不需要絞盡腦汁、對局時間較短的套牌還是比較舒服一些。</p>
-<p>這邊我預估會有 30～40 套甚至更多。</p>
-<h3 id="綠獻、紅黑中速、紅黑犧牲、古魯載具數量不會太少"><a href="#綠獻、紅黑中速、紅黑犧牲、古魯載具數量不會太少" class="headerlink" title="綠獻、紅黑中速、紅黑犧牲、古魯載具數量不會太少"></a>綠獻、紅黑中速、紅黑犧牲、古魯載具數量不會太少</h3><p>再往下應該會是綠獻、紅黑中速、紅黑犧牲，作為環境表現最穩定的套牌應該還是會有不少人選擇用他們出戰。<br>但數量不會太多的原因有幾點：</p>
-<ol>
-<li>綠獻多數時間都是靠右手，不喜歡拚 top deck 的玩家（例如我）就不會選擇</li>
-<li>紅黑系統真的很貴、而且練習量都很高</li>
-<li>有著很明顯的劣勢對局</li>
-</ol>
-<p>而古魯載具則是近期表現不錯，且加入了工具箱傳記能更加貼合賽場環境，使用數量應該會比 MIT #3 多。</p>
-<p>基於以上幾點，這邊我估計會有個 25 套左右。</p>
-<h3 id="勇行、控制、蓮花田-Combo、精靈、蘿娜-Combo、創火會零星出現但不會太多"><a href="#勇行、控制、蓮花田-Combo、精靈、蘿娜-Combo、創火會零星出現但不會太多" class="headerlink" title="勇行、控制、蓮花田 Combo、精靈、蘿娜 Combo、創火會零星出現但不會太多"></a>勇行、控制、蓮花田 Combo、精靈、蘿娜 Combo、創火會零星出現但不會太多</h3><p>最後是賽場中有零星拿到八強，且仍舊有一定強度的套牌。<br>而蘿娜 Combo 近期在賽場的崛起，應該會成為環境中不可忽視的一部分。</p>
-<h2 id="結語"><a href="#結語" class="headerlink" title="結語"></a>結語</h2><p>今天我們趁著 MIT #4 前來回顧一下賽場，順便整理一下資料。<br>沒意外的話 MIT #4 完我們會寫一篇回顧文章，如果我的成績還行應該也會寫個新的紅黑中速文章，主要是關於現在環境中的 sideboard guide 和 card choose 吧。</p>
-<p>那麼，我們大家週末賽場見！</p>
-]]></content>
-      <categories>
-        <category>Construct</category>
-        <category>Pioneer</category>
-      </categories>
-      <tags>
-        <tag>Pioneer</tag>
-        <tag>MiohitoKiri5474</tag>
-        <tag>Inspection</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Pioneer 環境考察 2023/10/07</title>
     <url>/Pioneer-Meta-Inspection-20231007/</url>
     <content><![CDATA[<h2 id="Before-We-Start"><a href="#Before-We-Start" class="headerlink" title="Before We Start"></a>Before We Start</h2><p>各地區的 RC 在十月陸續展開，開始之前先提一下各個地區的比賽時間：</p>
@@ -8483,6 +7792,697 @@
 <p>也許會有人打黑綠中速，但預期不會太多，還有待環境測試，看卡表雲一下，感覺最後還是不如去打紅黑中速，所有的多抽牌都要額外痛一，對面有希歐蕊不就是痛三，即便自己有希歐蕊也是不斷的掉血。除非環境中的結界多到爆炸，不然個人是幾乎不考慮。<br>而且即便要混綠應該還是會以勇德為主，奇奇跟血稅這兩張牌太難被捨棄了。</p>
 <p>最後整合我這禮拜打 MA Explorer Event 的感覺，應該也是從紅黑犧牲還有紅黑中速這兩套在選，還在觀望中。</p>
 <p>最後希望各位都能找到各自喜歡的套牌，大家十一月賽場見！</p>
+]]></content>
+      <categories>
+        <category>Construct</category>
+        <category>Pioneer</category>
+      </categories>
+      <tags>
+        <tag>Pioneer</tag>
+        <tag>MiohitoKiri5474</tag>
+        <tag>Inspection</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Pioneer 環境考察 preMIT #4</title>
+    <url>/Pioneer-Meta-Inspection-PreMIT-4/</url>
+    <content><![CDATA[<h2 id="Before-We-Start"><a href="#Before-We-Start" class="headerlink" title="Before We Start"></a>Before We Start</h2><p>這禮拜的環境考察，是 RC 資料整合。<br>除了<a href="https://guildmagesforum.tw/Pioneer-Meta-Inspection-20231007">上一篇</a>寫到的歐洲和加拿大 RC，這次我們加入了澳洲&#x2F;紐西蘭 RC 的結果，在看完澳洲&#x2F;紐西蘭的結果後再來整合資料。</p>
+<h2 id="Open-List-的好處"><a href="#Open-List-的好處" class="headerlink" title="Open List 的好處"></a>Open List 的好處</h2><p>或許有部分玩家是第一次參加 open list 的比賽（例如我），或是單純想要了解 open list 帶來的優勢，所以在開始之前我們先來提一下 open list 的比賽究竟與普通的比賽有什麼差別。<br>最主要的點是我們可以在調度時知道對手玩什麼套牌，例如知道對面是快攻我們就能接一個很多去除的起手，知道對手是打組合技則是改成接有手牌破壞和場面壓力較大的起手，不會因為接錯起手導致正編局輸爛，後面還要追兩盤回來。</p>
+<p>以先驅紅黑中速為例，之前在我的一篇文章 <a href="https://guildmagesforum.tw/Pioneer-Rakdos-Midrange/#Starting-Hands-Countermeasures-and-Mulligan">Something About Rakdos Midrange</a> 中有提到，如果對上組合技、控制等套牌速度較慢的對局，我們會比較傾向打快一點避免將對局時間拉長，而打快攻則是要想辦法拖到後期戰打場面&#x2F;資源差。</p>
+<p>或是這邊舉一個朋友的例子，他在之前某一次 MIT 拿純綠獻力，最後一輪 pairing 坐在第四還第五桌有點忘了，在看完牌表之後知道對手是帶四張反色保護的純白人類，考慮到純綠很難打這種對局（一回 2&#x2F;1、二回人類王、三回艾德琳、四回副官 + 反色，全推回應阻擋前丟反色保護反綠），所以跟對手 ID 和局了，雖然知道和局可能沒辦法進八強，但總比打下去然後輸爛摔車、沒辦法賭看看有沒有機會進八強好。</p>
+<p>所以這也是為什麼很多先驅紅黑的構築會正編什麼東西都帶一點，多帶一張靈車、生靈絕滅之類的，對局不對摸到了就當作調度一，大不了餵給奇奇或血滴過一張牌，其他手牌真的很差就乖乖調度。<br>同時先驅是一個很吃對應的賽制，很多東西基本上不能拖超過兩回合才處理，例如希歐蕊拖兩回合 + 被打一拳等於多了至少 10 點血量差（本體傷害 4 + 兩次抽牌階段扣血 4 + 對手抽牌階段補血 2），開牌表的對局多就能多做一些準備。<br>而且現在先驅的環境也是很標準的剪刀石頭布一套吃一套（大綠吃紅黑、紅黑中速吃控制、控制吃大綠之類的，雖然現在控制比較少），很多時候坐下看完卡表來丟完骰子調度完遊戲就已經結束了（這邊不談中了兩地陷阱之類運氣很差的狀況），所以對環境和套牌的理解相當重要。</p>
+<h2 id="我如何準備MIT-4"><a href="#我如何準備MIT-4" class="headerlink" title="我如何準備MIT #4"></a>我如何準備MIT #4</h2><p>我的比賽準備大致上流程是這樣：</p>
+<ol>
+<li><strong>縮限套牌選擇</strong><br>我只選擇我有打過、知道怎麼運作的套牌</li>
+<li><strong>預測環境 meta</strong><br>按照我對環境的理解，哪些套牌打起來會比較舒服，同時將某兩三套套牌當作假想敵</li>
+<li><strong>牌組構築選擇</strong><br>按照預測環境的準備牌表構築，哪些針對牌可以直接塞到正編抓環境、哪些正編沒有處理到的對局備牌要放什麼</li>
+<li><strong>實戰測試</strong><br>最後是實戰測試，測試的同時調整換備策略</li>
+</ol>
+<p>以這次 MIT #4 為例，我的狀況是：</p>
+<ol>
+<li><strong>縮限套牌選擇</strong>：<ol>
+<li>紅黑中速算是打的最久的套牌，從 Magic Arena (MA) Explorer 賽制上面開始打應該已經過快一年了，練習量也是最多的</li>
+<li>紅黑犧牲也算是在 MA Explorer 賽制上面有一點練習量的套牌</li>
+<li>古魯載具我在 MA 上也有組，但打起來就是感覺不太對，算斬殺很容易算錯</li>
+</ol>
+</li>
+<li><strong>預測環境 meta</strong><br>沒有意外的話環境會是紅黑中速、犧牲、鳳凰、大綠、紅白快攻（Convoke、勇行、Pia）為大宗，混合老鼠車、控制、古魯、蓮花田組合技、蘿娜組合技，這個部分我們最後會再深入分析<br>基本上到這裡選擇套牌只剩下一個選項了：紅黑中速<br>犧牲打鳳凰之難打，mtgdecks 上面的數據顯示勝率只有 36%，而且我還沒太多時間練牌；古魯則是我一直算錯斬殺所以不考慮</li>
+<li><strong>牌組構築選擇</strong><br>然後按照環境修一下構築，可能會把部分的針對性牌張（例如剋墳用的靈車）放到正編</li>
+<li><strong>實戰測試</strong><br>最後就是週末測了一整天的牌，目前構築確定了但還在做微調</li>
+</ol>
+<blockquote>
+<p>還在等我的牌表嗎？想得美，等 11&#x2F;4 09:00 牌表上傳截止以後再說吧</p>
+</blockquote>
+<h2 id="ANZ-Super-Series-Cycle-4-Reginal-Championship"><a href="#ANZ-Super-Series-Cycle-4-Reginal-Championship" class="headerlink" title="ANZ Super Series Cycle 4: Reginal Championship"></a>ANZ Super Series Cycle 4: Reginal Championship</h2><p>澳洲&#x2F;紐西蘭的 RC 在上週末結束了，參賽人數 156 人，八輪之後取八強單淘汰。</p>
+<p>一樣我們先上套牌統計，使用比例皆四捨五入到小數點下第一位，加總可能不為 100%，另外只有列出使用數量高於 5 套的牌組。</p>
+<table>
+<thead>
+<tr>
+<th align="center">Archetype</th>
+<th align="center">Deck Count</th>
+<th align="center">% of Field</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center">Rakdos Midrange</td>
+<td align="center">25</td>
+<td align="center">16.0%</td>
+</tr>
+<tr>
+<td align="center">Mono-White Humans</td>
+<td align="center">16</td>
+<td align="center">10.3%</td>
+</tr>
+<tr>
+<td align="center">Izzet Phoenix</td>
+<td align="center">14</td>
+<td align="center">9.0%</td>
+</tr>
+<tr>
+<td align="center">Mono-Green Devotion</td>
+<td align="center">14</td>
+<td align="center">9.0%</td>
+</tr>
+<tr>
+<td align="center">Boros Convoke</td>
+<td align="center">10</td>
+<td align="center">6.4%</td>
+</tr>
+<tr>
+<td align="center">Abzan Greasefang</td>
+<td align="center">10</td>
+<td align="center">6.4%</td>
+</tr>
+<tr>
+<td align="center">Rakdos Sacrifice</td>
+<td align="center">9</td>
+<td align="center">5.8%</td>
+</tr>
+<tr>
+<td align="center">Lotus Field Combo</td>
+<td align="center">7</td>
+<td align="center">4.5%</td>
+</tr>
+<tr>
+<td align="center">Azorius Spirits</td>
+<td align="center">6</td>
+<td align="center">3.8%</td>
+</tr>
+<tr>
+<td align="center">Azorius Control</td>
+<td align="center">5</td>
+<td align="center">3.2%</td>
+</tr>
+<tr>
+<td align="center">Boros Heroic</td>
+<td align="center">5</td>
+<td align="center">3.2%</td>
+</tr>
+<tr>
+<td align="center">Others</td>
+<td align="center">35</td>
+<td align="center">22.4%</td>
+</tr>
+</tbody></table>
+<p>環境整體偏向快攻，如何頂住場面壓力會是對局重點。</p>
+<p>然後是單卡使用統計前十：</p>
+<table>
+<thead>
+<tr>
+<th align="center"></th>
+<th align="center">Card</th>
+<th align="center">Cpoies</th>
+<th align="center">Decks</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center">1</td>
+<td align="center"><a class="link"   href="https://cards.scryfall.io/large/front/b/2/b281a308-ab6b-47b6-bec7-632c9aaecede.jpg?1599706001" >Thoughtseize <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
+<td align="center">208</td>
+<td align="center">34%</td>
+</tr>
+<tr>
+<td align="center">2</td>
+<td align="center"><a class="link"   href="https://cards.scryfall.io/large/front/6/e/6e9d8fe4-fd9b-4923-92bf-7dd6b8fa02e7.jpg?1598304715" >Fatal Push <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
+<td align="center">193</td>
+<td align="center">33%</td>
+</tr>
+<tr>
+<td align="center">3</td>
+<td align="center"><a class="link"   href="https://cards.scryfall.io/large/front/2/4/24c0d87b-0049-4beb-b9cb-6f813b7aa7dc.jpg?1691108103" >Fable of the Mirror-Breaker <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
+<td align="center">181</td>
+<td align="center">30%</td>
+</tr>
+<tr>
+<td align="center">4</td>
+<td align="center"><a class="link"   href="https://cards.scryfall.io/large/front/f/0/f0192cf7-3391-4720-b9c8-72dec5dde01e.jpg?1643593808" >Bloodtithe Harvester <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
+<td align="center">143</td>
+<td align="center">30%</td>
+</tr>
+<tr>
+<td align="center">5</td>
+<td align="center"><a class="link"   href="https://cards.scryfall.io/large/front/b/5/b5b71cd2-de35-451f-b16e-2e3936169407.jpg?1674141884" >Bonecrusher Giant <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
+<td align="center">116</td>
+<td align="center">20%</td>
+</tr>
+<tr>
+<td align="center">6</td>
+<td align="center"><a class="link"   href="https://cards.scryfall.io/large/front/3/5/3557e601-9b71-4ce9-9047-1a8baa72e574.jpg?1675957024" >Duress <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
+<td align="center">114</td>
+<td align="center">31%</td>
+</tr>
+<tr>
+<td align="center">7</td>
+<td align="center"><a class="link"   href="https://cards.scryfall.io/large/front/8/0/80fca8c0-ae3e-439e-b202-228b9f360e9a.jpg?1627702369" >Portable Hole <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
+<td align="center">102</td>
+<td align="center">19%</td>
+</tr>
+<tr>
+<td align="center">8</td>
+<td align="center"><a class="link"   href="https://cards.scryfall.io/large/front/8/2/8234090e-9df1-4915-90ef-8a4bc6212655.jpg?1562789104" >Rending Volley <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
+<td align="center">101</td>
+<td align="center">28%</td>
+</tr>
+<tr>
+<td align="center">9</td>
+<td align="center"><a class="link"   href="https://cards.scryfall.io/large/front/c/9/c9f8b8fb-1cd8-450e-a1fe-892e7a323479.jpg?1643587106" >Thalia, Guardian of Thraben <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
+<td align="center">94</td>
+<td align="center">17%</td>
+</tr>
+<tr>
+<td align="center">10</td>
+<td align="center"><a class="link"   href="https://cards.scryfall.io/large/front/d/6/d67be074-cdd4-41d9-ac89-0a0456c4e4b2.jpg?1674057568" >Sheoldred, the Apocalypse <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
+<td align="center">92</td>
+<td align="center">25%</td>
+</tr>
+</tbody></table>
+<p>一如往常的由 Thougheseize, Fatal Push, Fable of the Mirror-Breaker 使用量前三。</p>
+<p>八強套牌，成績取自預賽：</p>
+<table>
+<thead>
+<tr>
+<th align="center">Rank</th>
+<th align="center">Player</th>
+<th align="center">Decklist</th>
+<th align="center">Record</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center">1</td>
+<td align="center">Brett Girvan</td>
+<td align="center"><a class="link"   href="https://melee.gg/Decklist/View/336446" >Boros Heroic <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
+<td align="center">6-0-2</td>
+</tr>
+<tr>
+<td align="center">2</td>
+<td align="center">Josh Bradbury</td>
+<td align="center"><a class="link"   href="https://melee.gg/Decklist/View/336573" >Abzan Greasefang <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
+<td align="center">6-1-1</td>
+</tr>
+<tr>
+<td align="center">4</td>
+<td align="center">James Larsen-Scott</td>
+<td align="center"><a class="link"   href="https://melee.gg/Decklist/View/336079" >Lotus Field Combo <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
+<td align="center">7-0-1</td>
+</tr>
+<tr>
+<td align="center">4</td>
+<td align="center">Matthew Giudes</td>
+<td align="center"><a class="link"   href="https://melee.gg/Decklist/View/336569" >Rakdos Midrange <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
+<td align="center">6-1-1</td>
+</tr>
+<tr>
+<td align="center">8</td>
+<td align="center">Jose Gabriel Hilario</td>
+<td align="center"><a class="link"   href="https://melee.gg/Decklist/View/336517" >Boros Convoke <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
+<td align="center">6-1-1</td>
+</tr>
+<tr>
+<td align="center">8</td>
+<td align="center">Dillon Kikkawa</td>
+<td align="center"><a class="link"   href="https://melee.gg/Decklist/View/336534" >Gruul Vehicles <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
+<td align="center">7-1</td>
+</tr>
+<tr>
+<td align="center">8</td>
+<td align="center">Y0ungsterDenis</td>
+<td align="center"><a class="link"   href="https://melee.gg/Decklist/View/336523" >Rakdos Midrange <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
+<td align="center">6-0-2</td>
+</tr>
+<tr>
+<td align="center">8</td>
+<td align="center">WilM16</td>
+<td align="center"><a class="link"   href="https://melee.gg/Decklist/View/336500" >Boros Convoke <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
+<td align="center">6-2-1</td>
+</tr>
+</tbody></table>
+<p>跟另外三場已經結束的 RC 相比，這場八強由相當大量的快攻組成，讓人有點意外。</p>
+<h3 id="Boros-Heroic"><a href="#Boros-Heroic" class="headerlink" title="Boros Heroic"></a>Boros Heroic</h3><p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cdn.melee.gg/decklists/4f52169f-9a2b-4ace-be7e-c637e5dcafa6.jpg?v=1"
+                     
+                ></p>
+<p>勇行現在環境挺不錯的，基本上二回準時出連擊籌謀人都要給尊重殺掉，不然一不小心就有可能被三回殺。</p>
+<h3 id="Abzan-Greasefang"><a href="#Abzan-Greasefang" class="headerlink" title="Abzan Greasefang"></a>Abzan Greasefang</h3><p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cdn.melee.gg/decklists/8b1db925-8833-4893-8843-5cea8554cb9f.jpg?v=1"
+                     
+                ></p>
+<p>老鼠車整體構築也沒有太多變動，這個構築正編有 <a class="link"   href="https://cards.scryfall.io/large/front/c/b/cb94a02f-4660-45b6-8a39-941b710cf8f3.jpg?1576384285" >Collective Brutality <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>、<a class="link"   href="https://cards.scryfall.io/large/front/3/5/3557e601-9b71-4ce9-9047-1a8baa72e574.jpg?1675957024" >Duress <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>、<a class="link"   href="https://cards.scryfall.io/large/front/d/6/d67be074-cdd4-41d9-ac89-0a0456c4e4b2.jpg?1674057568" >Sheoldred, the Apocalypse <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>、<a class="link"   href="https://cards.scryfall.io/large/front/d/1/d12c8c97-6491-452c-811d-943441a7ef9f.jpg?1673307126" >Liliana of the Veil <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 各一張，應該是想保留打成 Abzan Midrange 的可能性。</p>
+<h3 id="Lotus-Field-Combo"><a href="#Lotus-Field-Combo" class="headerlink" title="Lotus Field Combo"></a>Lotus Field Combo</h3><p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cdn.melee.gg/decklists/3fa01e82-8eae-4f81-96e3-08f950f0b76f.jpg?v=2"
+                     
+                ></p>
+<p>這一套蓮花田跟歐洲冠軍的牌表大同小異，不過選擇少帶一張 <a class="link"   href="https://cards.scryfall.io/large/front/b/3/b33ba0a8-04e9-4df6-af20-a3ca4470cdcc.jpg?1594735451" >Discontinuity <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 換成放 <a class="link"   href="https://cards.scryfall.io/large/front/2/b/2b0c111a-236f-449a-95b1-274a1dfa546d.jpg?1673483878" >Dig Through Time <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>，應該是想要在中後期做更多的找資源。</p>
+<h3 id="Rakdos-Midrange"><a href="#Rakdos-Midrange" class="headerlink" title="Rakdos Midrange"></a>Rakdos Midrange</h3><p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cdn.melee.gg/decklists/05b4c898-b9a2-4464-a930-b21c32895b41.jpg?v=1"
+                     
+                ><br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cdn.melee.gg/decklists/ce268ce3-f4ae-4b77-8132-b476b94317e9.jpg?v=1"
+                     
+                ></p>
+<p>我猜澳洲&#x2F;紐西蘭人比較不喜歡綠獻、打的人比較少，因此看到蠻多紅黑都選擇不帶 <a class="link"   href="https://cards.scryfall.io/large/front/5/1/514c5e77-9ecc-41c9-b104-76343601fafb.jpg?1674420938" >Misery’s Shadow <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>，放更多的內戰優勢牌。</p>
+<p>不過台灣的環境應該會有不少的綠獻、犧牲，個人還是會帶著以防萬一。</p>
+<h3 id="Boros-Convoke"><a href="#Boros-Convoke" class="headerlink" title="Boros Convoke"></a>Boros Convoke</h3><p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cdn.melee.gg/decklists/d4f79146-c2fb-47de-b034-931895d5944f.jpg?v=1"
+                     
+                ></p>
+<p>Convoke 也是跟之前沒有太多的變動，不過這個構築應該是想要衝一下上限，看有沒有機會一回生三隻二回丟 <a class="link"   href="https://cards.scryfall.io/large/front/d/d/ddb96645-44d2-426c-90cb-3186297a8728.jpg?1576382362" >Ornithopter <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 和 <a class="link"   href="https://cards.scryfall.io/large/front/0/4/0405b1b9-976a-4aaf-bec6-fa006decea74.jpg?1562895780" >Reckless Bushwhacker <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 打九點，所以還是有一張 Reckless Bushwhacker，另外選擇放 <a class="link"   href="https://cards.scryfall.io/large/front/c/9/c9f8b8fb-1cd8-450e-a1fe-892e7a323479.jpg?1643587106" >Thalia, Guardian of Thraben <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 而不是 <a class="link"   href="https://cards.scryfall.io/large/front/8/6/86a4c348-1012-4339-960a-c7bc7fd84fbb.jpg?1631045559" >Clarion Spirit <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>，應該是為了卡對手的掃場，多一回合的 cycle 幾乎確定可以斬掉控制。<br>另外帶兩張 <a class="link"   href="https://cards.scryfall.io/large/front/7/5/75754468-2850-42e6-ab22-61ff7b9d1214.jpg?1572489685" >Giant Killer <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 應該是為了針對那些生物體質比較大的套牌，這個構築可以說是很針對賽場環境調整的版本。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cdn.melee.gg/decklists/d2e9dd5e-8228-454b-a0b3-0cdcd61747fe.jpg?v=1"
+                     
+                ></p>
+<p>而另一個八強構築則是比較常見，針對牌幾乎都在備編。</p>
+<h3 id="Gruul-Vehicles"><a href="#Gruul-Vehicles" class="headerlink" title="Gruul Vehicles"></a>Gruul Vehicles</h3><p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cdn.melee.gg/decklists/ace5439e-ed88-44ff-a573-50d282e77d4b.jpg?v=1"
+                     
+                ></p>
+<p>之前好像沒有提到古魯載具在 WOE 後的變化。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cards.scryfall.io/large/front/2/7/27003577-e276-4ad5-b3e9-8523b166ad49.jpg?1692938904"
+                     
+                ></p>
+<p>簡單來說，多了一張新牌的傳記，這張傳記在現在的構築中非常重要，進場生 3&#x2F;3 不虧節奏、第二章可以犧牲一個生物找牌庫中任意一張生物牌上手、第三章給至多兩隻生物 +2&#x2F;+2 和踐踏到回合結束。<br>因為其工具箱的特性，可以將很多通常只會用到一次的生物（例如 <a class="link"   href="https://cards.scryfall.io/large/front/1/d/1dbcd466-fb99-4388-a118-4534b85544f0.jpg?1682204582" >Voldaren Thrillseeker <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 通常只要找一張出來對手就要死了）數量降低，不用像以往為了抽到而放兩三張甚至四張、重複抽上手的時候會卡自己節奏；同時也能將一些只對特定對局有用的牌正編掛個一張，需要用時再去找就好。<br>同理也能大幅度降低備牌的生物數量，某些針對生物只要一張給傳記找就夠了，可以將更多的備牌空間讓給非生物牌如 <a class="link"   href="https://cards.scryfall.io/large/front/a/5/a5c7d16b-8f4e-42b9-be24-3cb091932d7c.jpg?1562740759" >Damping Sphere <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>。</p>
+<p>另外這個構築比較特別，只有帶四張貓車（所以我說那個載具元素呢？）但是卻帶了 11 張傳記，感覺是想要在給壓力的同時保持較高的資源量吧。</p>
+<h2 id="龍盾杯-MTG-China-Open-S4-Regional-Championship"><a href="#龍盾杯-MTG-China-Open-S4-Regional-Championship" class="headerlink" title="龍盾杯 MTG China Open S4 Regional Championship"></a>龍盾杯 MTG China Open S4 Regional Championship</h2><p>中國的 RC 和澳洲&#x2F;紐西蘭那邊同時展開，也是在上週末結束了。<br>參賽人數 215 人，在 Day 1 八輪瑞士制之後取八強到 Day 2 單淘汰。</p>
+<p>老規矩先上套牌統計，使用比例皆四捨五入到小數點下第一位，加總可能不為 100%，另外只有列出使用數量高於 5 套的牌組。</p>
+<table>
+<thead>
+<tr>
+<th align="center">Archetype</th>
+<th align="center">Deck Count</th>
+<th align="center">% of Field</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center">Rakdos Midrange</td>
+<td align="center">30</td>
+<td align="center">14.0%</td>
+</tr>
+<tr>
+<td align="center">Izzet Phoenix</td>
+<td align="center">22</td>
+<td align="center">10.2%</td>
+</tr>
+<tr>
+<td align="center">Lotus Field Combo</td>
+<td align="center">19</td>
+<td align="center">8.8%</td>
+</tr>
+<tr>
+<td align="center">Mono-Green Devotion</td>
+<td align="center">17</td>
+<td align="center">7.9%</td>
+</tr>
+<tr>
+<td align="center">Rona Lukka Combo</td>
+<td align="center">14</td>
+<td align="center">6.5%</td>
+</tr>
+<tr>
+<td align="center">Boros Convoke</td>
+<td align="center">12</td>
+<td align="center">5.6%</td>
+</tr>
+<tr>
+<td align="center">Azorius Control</td>
+<td align="center">10</td>
+<td align="center">4.7%</td>
+</tr>
+<tr>
+<td align="center">Enigmatic Fires</td>
+<td align="center">9</td>
+<td align="center">4.2%</td>
+</tr>
+<tr>
+<td align="center">Azorius Spirits</td>
+<td align="center">8</td>
+<td align="center">3.7%</td>
+</tr>
+<tr>
+<td align="center">Abzan Greasefang</td>
+<td align="center">8</td>
+<td align="center">3.7%</td>
+</tr>
+<tr>
+<td align="center">Boros Heroic</td>
+<td align="center">7</td>
+<td align="center">3.3%</td>
+</tr>
+<tr>
+<td align="center">Mono-White Humans</td>
+<td align="center">6</td>
+<td align="center">2.8%</td>
+</tr>
+<tr>
+<td align="center">Rakdos Sacrifice</td>
+<td align="center">6</td>
+<td align="center">2.8%</td>
+</tr>
+<tr>
+<td align="center">Gruul Vehicles</td>
+<td align="center">6</td>
+<td align="center">2.8%</td>
+</tr>
+<tr>
+<td align="center">Atarka Red</td>
+<td align="center">5</td>
+<td align="center">2.3%</td>
+</tr>
+<tr>
+<td align="center">Omnath to Light</td>
+<td align="center">5</td>
+<td align="center">2.3%</td>
+</tr>
+<tr>
+<td align="center">Others</td>
+<td align="center">32</td>
+<td align="center">14.9%</td>
+</tr>
+</tbody></table>
+<p>綜合看起來比例還算正常，但犧牲、綠獻較少一些，另外 Rona Lukka Combo 從歐洲 RC 後有變多的趨勢。</p>
+<p>然後是單卡使用量：</p>
+<table>
+<thead>
+<tr>
+<th align="center"></th>
+<th align="center">Card</th>
+<th align="center">Cpoies</th>
+<th align="center">Decks</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center">1</td>
+<td align="center"><a class="link"   href="https://cards.scryfall.io/large/front/6/e/6e9d8fe4-fd9b-4923-92bf-7dd6b8fa02e7.jpg?1598304715" >Fatal Push <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
+<td align="center">252</td>
+<td align="center">33%</td>
+</tr>
+<tr>
+<td align="center">2</td>
+<td align="center"><a class="link"   href="https://cards.scryfall.io/large/front/b/2/b281a308-ab6b-47b6-bec7-632c9aaecede.jpg?1599706001" >Thoughtseize <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
+<td align="center">236</td>
+<td align="center">29%</td>
+</tr>
+<tr>
+<td align="center">3</td>
+<td align="center"><a class="link"   href="https://cards.scryfall.io/large/front/2/4/24c0d87b-0049-4beb-b9cb-6f813b7aa7dc.jpg?1691108103" >Fable of the Mirror-Breaker <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
+<td align="center">232</td>
+<td align="center">27%</td>
+</tr>
+<tr>
+<td align="center">4</td>
+<td align="center"><a class="link"   href="https://cards.scryfall.io/large/front/f/0/f0192cf7-3391-4720-b9c8-72dec5dde01e.jpg?1643593808" >Bloodtithe Harvester <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
+<td align="center">156</td>
+<td align="center">18%</td>
+</tr>
+<tr>
+<td align="center">5</td>
+<td align="center"><a class="link"   href="https://cards.scryfall.io/large/front/7/5/75918859-c93f-41b4-9ad0-a4a96c389f0d.jpg?1689998466" >Elvish Mystic <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
+<td align="center">153</td>
+<td align="center">19%</td>
+</tr>
+<tr>
+<td align="center">6</td>
+<td align="center"><a class="link"   href="https://cards.scryfall.io/large/front/b/5/b5b71cd2-de35-451f-b16e-2e3936169407.jpg?1674141884" >Bonecrusher Giant <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
+<td align="center">152</td>
+<td align="center">20%</td>
+</tr>
+<tr>
+<td align="center">7</td>
+<td align="center"><a class="link"   href="https://cards.scryfall.io/large/front/8/b/8bbcfb77-daa1-4ce5-b5f9-48d0a8edbba9.jpg?1592765148" >Llanowar Elves <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
+<td align="center">150</td>
+<td align="center">19%</td>
+</tr>
+<tr>
+<td align="center">8</td>
+<td align="center"><a class="link"   href="https://cards.scryfall.io/large/front/8/2/8234090e-9df1-4915-90ef-8a4bc6212655.jpg?1562789104" >Rending Volley <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
+<td align="center">146</td>
+<td align="center">30%</td>
+</tr>
+<tr>
+<td align="center">9</td>
+<td align="center"><a class="link"   href="https://cards.scryfall.io/large/front/3/5/3557e601-9b71-4ce9-9047-1a8baa72e574.jpg?1675957024" >Duress <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
+<td align="center">135</td>
+<td align="center">26%</td>
+</tr>
+<tr>
+<td align="center">10</td>
+<td align="center"><a class="link"   href="https://cards.scryfall.io/large/front/d/6/d67be074-cdd4-41d9-ac89-0a0456c4e4b2.jpg?1674057568" >Sheoldred, the Apocalypse <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
+<td align="center">130</td>
+<td align="center">23%</td>
+</tr>
+</tbody></table>
+<p>還是那幾個老面孔。</p>
+<p>八強套牌如下，成績取自預賽：</p>
+<table>
+<thead>
+<tr>
+<th align="center">Rank</th>
+<th align="center">Player</th>
+<th align="center">Decklist</th>
+<th align="center">Record</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center">1</td>
+<td align="center">Fu Yu</td>
+<td align="center"><a class="link"   href="https://melee.gg/Decklist/View/336319" >Rakdos Sacrifice <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
+<td align="center">7-1-0</td>
+</tr>
+<tr>
+<td align="center">2</td>
+<td align="center">徐 堉程</td>
+<td align="center"><a class="link"   href="https://melee.gg/Decklist/View/336627" >Rakdos Midrange <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
+<td align="center">6-1-1</td>
+</tr>
+<tr>
+<td align="center">4</td>
+<td align="center">于 音</td>
+<td align="center"><a class="link"   href="https://melee.gg/Decklist/View/336406" >Waste Not <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
+<td align="center">6-0-2</td>
+</tr>
+<tr>
+<td align="center">4</td>
+<td align="center">望洋 曾</td>
+<td align="center"><a class="link"   href="https://melee.gg/Decklist/View/336486" >Boros Convoke <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
+<td align="center">6-0-2</td>
+</tr>
+<tr>
+<td align="center">8</td>
+<td align="center">Chengyi Wei</td>
+<td align="center"><a class="link"   href="https://melee.gg/Decklist/View/336719" >Izzet Phoenix <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
+<td align="center">6-0-2</td>
+</tr>
+<tr>
+<td align="center">8</td>
+<td align="center">CptNixon</td>
+<td align="center"><a class="link"   href="https://melee.gg/Decklist/View/336073" >Izzet Phoenix <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
+<td align="center">6-0-2</td>
+</tr>
+<tr>
+<td align="center">8</td>
+<td align="center">Hongtao Zhang</td>
+<td align="center"><a class="link"   href="https://melee.gg/Decklist/View/336386" >Rona Lukka Combo <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
+<td align="center">6-1-1</td>
+</tr>
+<tr>
+<td align="center">8</td>
+<td align="center">Beenew</td>
+<td align="center"><a class="link"   href="https://melee.gg/Decklist/View/336613" >Abzan Greasefang <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
+<td align="center">7-1-0</td>
+</tr>
+</tbody></table>
+<h3 id="Rakdos-Sacrifice"><a href="#Rakdos-Sacrifice" class="headerlink" title="Rakdos Sacrifice"></a>Rakdos Sacrifice</h3><p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cdn.melee.gg/decklists/66f98972-05b9-48e6-9abd-7b6ca14b1f0f.jpg?v=1"
+                     
+                ></p>
+<p>犧牲還是一如往常的樣子，不過備牌的判刑選擇帶 <a class="link"   href="https://cards.scryfall.io/large/front/7/8/78161e60-878a-45a2-aced-40b739bd0a07.jpg?1674141847" >The Akroan War <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 應該是想要避免抓過來沒事情做，至少還能多打&#x2F;擋一拳之後再看看要怎麼做。</p>
+<h3 id="Rakdos-Midrange-1"><a href="#Rakdos-Midrange-1" class="headerlink" title="Rakdos Midrange"></a>Rakdos Midrange</h3><p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cdn.melee.gg/decklists/b39ec077-cb4c-451f-8b22-7dedfaff12ea.jpg?v=1"
+                     
+                ></p>
+<p>這一套中速構築選擇帶第四張 Sheoldred，並且備牌有三張 <a class="link"   href="https://cards.scryfall.io/large/front/a/5/a5c7d16b-8f4e-42b9-be24-3cb091932d7c.jpg?1562740759" >Damping Sphere <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 和三張 <a class="link"   href="https://cards.scryfall.io/large/front/0/4/04d5d429-e0c6-42cc-a477-da7dabb1c295.jpg?1592516724" >Leyline of the Void <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 應該是很討厭鳳凰（雖然看他的 pairing 一場都沒遇到）。</p>
+<h3 id="Waste-Not"><a href="#Waste-Not" class="headerlink" title="Waste Not"></a>Waste Not</h3><p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cdn.melee.gg/decklists/e5501b1b-9d77-4927-b50a-fc017030d206.jpg?v=4"
+                     
+                ></p>
+<p>這個 Waste Not 居然是 6-0 開局我超意外。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cards.scryfall.io/large/front/2/f/2f5500a2-c6d6-40d7-b586-59b854733160.jpg?1562393909"
+                     
+                ></p>
+<p>替不知道這套牌在做什麼的人解釋一下好了，簡單來說只要對手棄牌就會有相對應的效果，棄掉生物會生一隻 2&#x2F;2 殭屍、棄掉地會產兩點黑、其餘則是抽一張牌，也就是將以往 <code>掉手牌</code> 這種一換一沒有賺資源的效應加強。<br>所以套牌中除了標準的四張 Thoughtseize 以外，還額外帶了兩張 Duress、三張 <a class="link"   href="https://cards.scryfall.io/large/front/8/4/846e8657-7435-44c6-a997-b8b156d0cd2c.jpg?1624590993" >Go Blank <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>、三張 <a class="link"   href="https://cards.scryfall.io/large/front/d/1/d12c8c97-6491-452c-811d-943441a7ef9f.jpg?1673307126" >Liliana of the Veil <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 等掉手牌。<br>基本上可以理解為純黑手控，或是可以想成有點類似近代的 8-Rack，藉由大量掉手賺效果的套牌。</p>
+<p>多帶兩張黑白雙面地是為了讓 <a class="link"   href="https://cards.scryfall.io/large/front/f/0/f0c5449a-d63b-4b22-9432-8f0365c3c4d9.jpg?1643590080" >Path of Peril <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 可以用貫通施放，來解掉一些場面（例如綠獻爆開的場面）。</p>
+<h3 id="Boros-Convoke-1"><a href="#Boros-Convoke-1" class="headerlink" title="Boros Convoke"></a>Boros Convoke</h3><p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cdn.melee.gg/decklists/a664bc0b-d0de-477c-8aac-fb7f1d75938d.jpg?v=2"
+                     
+                ></p>
+<p>很標準的 Convoke 構築。</p>
+<h3 id="Izzet-Phoenix"><a href="#Izzet-Phoenix" class="headerlink" title="Izzet Phoenix"></a>Izzet Phoenix</h3><p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cdn.melee.gg/decklists/bca27125-8591-49ad-bb72-1c41f6a08cb3.jpg?v=1"
+                     
+                ><br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cdn.melee.gg/decklists/cb401461-50c3-49b7-b4a7-3e2e24a83bbd.jpg?v=1"
+                     
+                ></p>
+<p>兩套的 list 看起來差不多有 87% 像，比較需要注意的是現在會多帶 <a class="link"   href="https://cards.scryfall.io/large/front/5/e/5ebac73a-1ecf-4e6d-87b1-ea560bfeb064.jpg?1692937214" >Picklock Prankster <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>，而 <a class="link"   href="https://cards.scryfall.io/large/front/9/8/98291778-2ec2-47e2-ac99-5f8cfbb3cf24.jpg?1562560509" >Chart a Course <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 已經幾乎沒有人在帶了。</p>
+<h3 id="Rona-Lukka-Combo"><a href="#Rona-Lukka-Combo" class="headerlink" title="Rona Lukka Combo"></a>Rona Lukka Combo</h3><p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cdn.melee.gg/decklists/50b9cc63-e817-41d9-816e-26652486d034.jpg?v=2"
+                     
+                ></p>
+<p>跟之前歐洲 RC 的牌表大同小異，詳細的內容可以看<a href="https://guildmagesforum.tw/Pioneer-Meta-Inspection-20231007/#Fire-Color-Combo">那一篇文章</a>。<br>不過這套牌選擇帶更多的去除來抗快攻，掃場和掉手都沒帶了。</p>
+<h3 id="Abzan-Greasefang-1"><a href="#Abzan-Greasefang-1" class="headerlink" title="Abzan Greasefang"></a>Abzan Greasefang</h3><p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cdn.melee.gg/decklists/05a877e4-8af9-4e55-bf23-5fd7fb3a087d.jpg?v=1"
+                     
+                ></p>
+<p>老鼠車標準構築，不過備牌帶了兩張新的歷險牌 <a class="link"   href="https://cards.scryfall.io/large/front/9/8/9869ac70-5907-45fa-952c-31aef70c5066.jpg?1692939707" >Mosswood Dreadknight <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>，應該是用來打備牌局的資源戰；還有兩張 <a class="link"   href="https://cards.scryfall.io/large/front/6/0/6072d9b0-d3c7-46f4-bd24-095bb13c4dea.jpg?1572489660" >Deafening Silence <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 應該是用來打鳳凰用的。</p>
+<h2 id="目前的-RC-資料整合"><a href="#目前的-RC-資料整合" class="headerlink" title="目前的 RC 資料整合"></a>目前的 RC 資料整合</h2><p>先來統計一下八強的套牌數量總計：</p>
+<table>
+<thead>
+<tr>
+<th align="center">Archetype</th>
+<th align="center">Deck Count</th>
+<th align="center">% of Data</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center">Rakdos Midrange</td>
+<td align="center">5</td>
+<td align="center">15.6%</td>
+</tr>
+<tr>
+<td align="center">Abzan Greasefang</td>
+<td align="center">3</td>
+<td align="center">9.4%</td>
+</tr>
+<tr>
+<td align="center">Lotus Field Combo</td>
+<td align="center">3</td>
+<td align="center">9.4%</td>
+</tr>
+<tr>
+<td align="center">Boros Convoke</td>
+<td align="center">3</td>
+<td align="center">9.4%</td>
+</tr>
+<tr>
+<td align="center">Gruul Vehicles</td>
+<td align="center">3</td>
+<td align="center">9.4%</td>
+</tr>
+<tr>
+<td align="center">Rakdos Sacrifice</td>
+<td align="center">3</td>
+<td align="center">9.4%</td>
+</tr>
+<tr>
+<td align="center">Izzet Phoenix</td>
+<td align="center">3</td>
+<td align="center">9.4%</td>
+</tr>
+<tr>
+<td align="center">Boros Heroic</td>
+<td align="center">2</td>
+<td align="center">6.2%</td>
+</tr>
+<tr>
+<td align="center">Rona Lukka Combo</td>
+<td align="center">2</td>
+<td align="center">6.2%</td>
+</tr>
+<tr>
+<td align="center">Enigmatic Fires</td>
+<td align="center">2</td>
+<td align="center">6.2%</td>
+</tr>
+<tr>
+<td align="center">Wast Not</td>
+<td align="center">1</td>
+<td align="center">3.1%</td>
+</tr>
+<tr>
+<td align="center">UW Control</td>
+<td align="center">1</td>
+<td align="center">3.1%</td>
+</tr>
+<tr>
+<td align="center">Mono-Green Devotion</td>
+<td align="center">1</td>
+<td align="center">3.1%</td>
+</tr>
+</tbody></table>
+<p>從統計結果中我們可以發現在所有八強套牌中，使用套牌數量最終還是由紅黑中速拔得頭籌。<br>這說明了紅黑中速在目前的 meta 中的表現還是相當不錯，其優異的單卡價值，加上 Thoughtseize, Fatal Push 等低費的干擾&#x2F;去除手段，也有一定的手牌調度性，在開卡表的對局中真的很舒服，知道需要提防什麼、哪些牌不重要可以餵給奇奇&#x2F;血滴濾資源。<br>也因為如此，賽場中的綠獻、創火不少，作為環境中 counter 紅黑中速最好的套牌還是有不少的使用量。</p>
+<p>同時純白人類、Convoke 等快攻套牌又是攻破綠獻、創火的好選擇，反正只要趁著場面養起來之前先敲破你的頭就好了。<br>但這兩套牌某方面來說又很怕紅黑中速&#x2F;犧牲，兩套作為幾乎沒有補手牌資源的套牌，很容易被連續的掉手、點殺之後造成套牌無法順利運轉，同時紅黑中速在備牌局會有掃場、犧牲有貓爐組合可以降低傷害，並且只要站出關鍵生物（Sheoldred 或 Mayhem Devil）後基本上就是慢性死亡。</p>
+<p>因此先驅環境有點剪刀石頭布的感覺，外加最近因為種種原因重返農藥的鳳凰、快要從賽場消失的控制和無畏創新、會被颱風尾掃到的老鼠車、被鳳凰壓在地上摩擦的精靈等等。</p>
+<hr>
+<p>鳳凰回歸的主要原因是 WOE 補強，Sleight of Hand 和 Picklock Prankster 組合實在是太強大了，不過也因此造成環境中的剋墳變多，老鼠車、形體一新套牌會因此被颱風尾掃到。<br>另外鳳凰的數量上升則近一步壓縮精靈、無畏創新的生存空間。無畏創新應該很好理解，就是因為速度太慢了；而精靈則是對於場面的干擾偏少，先不提 <a class="link"   href="https://cards.scryfall.io/large/front/3/5/359d1b13-6156-43b0-a9a7-6bfff36c1a91.jpg?1576384282" >Thing in the Ice <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 翻面吹所有非海怪生物反打這點，鳳凰即便跟你 trade 掉了過一陣子他還是可以爬回場上，更不用說那八張點燒幾乎能燒穿所有精靈。<br>而控制近期表現沒有很好，個人認為最主要的理由是環境太多變且威脅太多，控制已經快要無心處理各種狀況了。</p>
+<h2 id="MIT-4-環境分析"><a href="#MIT-4-環境分析" class="headerlink" title="MIT #4 環境分析"></a>MIT #4 環境分析</h2><h3 id="鳳凰、純白人類、Convoke-應該會最多"><a href="#鳳凰、純白人類、Convoke-應該會最多" class="headerlink" title="鳳凰、純白人類、Convoke 應該會最多"></a>鳳凰、純白人類、Convoke 應該會最多</h3><p>鳳凰一直以來在台灣就是很熱門的套牌，即便前陣子環境表現沒有很好還是有不少的玩家選擇用這個套牌來打 MITQ，所以我相信在經過強化之後會有不少玩家把長灰塵的鳳凰挖出來。<br>而純白人類和 Convoke 則是打起來較為輕鬆的套牌，在一個目前目光所及至少七輪的比賽中，選一個比較不需要絞盡腦汁、對局時間較短的套牌還是比較舒服一些。</p>
+<p>這邊我預估會有 30～40 套甚至更多。</p>
+<h3 id="綠獻、紅黑中速、紅黑犧牲、古魯載具數量不會太少"><a href="#綠獻、紅黑中速、紅黑犧牲、古魯載具數量不會太少" class="headerlink" title="綠獻、紅黑中速、紅黑犧牲、古魯載具數量不會太少"></a>綠獻、紅黑中速、紅黑犧牲、古魯載具數量不會太少</h3><p>再往下應該會是綠獻、紅黑中速、紅黑犧牲，作為環境表現最穩定的套牌應該還是會有不少人選擇用他們出戰。<br>但數量不會太多的原因有幾點：</p>
+<ol>
+<li>綠獻多數時間都是靠右手，不喜歡拚 top deck 的玩家（例如我）就不會選擇</li>
+<li>紅黑系統真的很貴、而且練習量都很高</li>
+<li>有著很明顯的劣勢對局</li>
+</ol>
+<p>而古魯載具則是近期表現不錯，且加入了工具箱傳記能更加貼合賽場環境，使用數量應該會比 MIT #3 多。</p>
+<p>基於以上幾點，這邊我估計會有個 25 套左右。</p>
+<h3 id="勇行、控制、蓮花田-Combo、精靈、蘿娜-Combo、創火會零星出現但不會太多"><a href="#勇行、控制、蓮花田-Combo、精靈、蘿娜-Combo、創火會零星出現但不會太多" class="headerlink" title="勇行、控制、蓮花田 Combo、精靈、蘿娜 Combo、創火會零星出現但不會太多"></a>勇行、控制、蓮花田 Combo、精靈、蘿娜 Combo、創火會零星出現但不會太多</h3><p>最後是賽場中有零星拿到八強，且仍舊有一定強度的套牌。<br>而蘿娜 Combo 近期在賽場的崛起，應該會成為環境中不可忽視的一部分。</p>
+<h2 id="結語"><a href="#結語" class="headerlink" title="結語"></a>結語</h2><p>今天我們趁著 MIT #4 前來回顧一下賽場，順便整理一下資料。<br>沒意外的話 MIT #4 完我們會寫一篇回顧文章，如果我的成績還行應該也會寫個新的紅黑中速文章，主要是關於現在環境中的 sideboard guide 和 card choose 吧。</p>
+<p>那麼，我們大家週末賽場見！</p>
 ]]></content>
       <categories>
         <category>Construct</category>
@@ -9942,371 +9942,6 @@
       </tags>
   </entry>
   <entry>
-    <title>豬鼻子的艾卓荒野(WOE)限制賽初探 — 綠色</title>
-    <url>/WOE-Green/</url>
-    <content><![CDATA[<p>本文採用LSV以及Reid Duke兩位大神發表在Channelfireball(CFB)網站上的魔戒：中土世界傳奇 (LOTR)的限制賽評分標準以及行文格式。</p>
-<!--more-->
-
-<h2 id="評分標準-Grading-Scale"><a href="#評分標準-Grading-Scale" class="headerlink" title="評分標準 (Grading Scale)"></a>評分標準 (Grading Scale)</h2><p>已退休但榮登限制賽炸彈名人堂的霸者們: <a class="link"   href="https://cdn1.mtggoldfish.com/images/h/Pack-Rat-RTR-672.jpg" >Pack Rat <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>, <a class="link"   href="https://cdn1.mtggoldfish.com/images/h/Umezawas-Jitte-BOK-672.jpg" >Umezawa’s Jitte <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>, <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0353_MTGCMM_Main.png" >The Scarab God <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</p>
-<ul>
-<li>5.0: <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0051_MTGMOM_Main.png" >Chrome Host Seedshark <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>. <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0094_MTGMOM_Main.png" >Breach the Multiverse <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>. <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0040_MTGMOM_Main.png" >Sunfall <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</li>
-<li>4.5: <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0185_MTGMOM_Main.png" >Doomskar Warrior <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>. <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0089_MTGMOM_Main.png" >Archpriest of Shadows <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>. <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0219_MTGMOM_Main.png" >Borborygmos and Fblthp <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</li>
-<li>4.0: <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0073_MTGMOM_Main.png" >Preening Champion <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>. <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0093_MTGMOM_Main.png" >Bloated Processor <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>. <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0231a_MTGMOM_Mai.png" >Invasion of Amonkhet <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</li>
-<li>3.5: <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0104_MTGMOM_Main.png" >Final Flourish <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>. <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0055_MTGMOM_Main.png" >Ephara’s Dispersal <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>. <a class="link"   href="https://hackmd.io/_uploads/rySkpHd63.png" >Stormclaw Rager <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</li>
-<li>3.0: <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0129_MTGMOM_Main.png" >Vanquish the Weak <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>. <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0057_MTGMOM_Main.png" >Eyes of Gitaxias <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>. <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0045_MTGMOM_Main.png" >Zhalfirin Lancer <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</li>
-<li>2.5: <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0071_MTGMOM_Main.png" >Oracle of Tragedy <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>. <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0111_MTGMOM_Main.png" >Ichor Drinker <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>. <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0153_MTGMOM_Main.png" >Marauding Dreadship <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</li>
-<li>2.0: <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0214_MTGMOM_Main.png" >War Historian <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>. <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0108_MTGMOM_Main.png" >Gloomfang Mauler <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>. <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0072a_MTGMOM_Mai.png" >Order of the Mirror <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</li>
-<li>1.5: <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0056_MTGMOM_Main.png" >Expedition Lookout <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>. <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0130_MTGMOM_Main.png" >Akki Scrapchomper <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>. <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0018_MTGMOM_Main.png" >Infected Defector <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</li>
-<li>1.0: <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0054_MTGMOM_Main.png" >Disturbing Conversion <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>. <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0126_MTGMOM_Main.png" >Tenured Oilcaster <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>. <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0136_MTGMOM_Main.png" >Coming In Hot <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</li>
-<li>0.0: <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0061a_MTGMOM_Mai.png" >Invasion of Arcavios <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>. <a class="link"   href="https://cdn1.mtggoldfish.com/images/h/One-with-Nothing-SOK-672.jpg" >One with Nothing <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</li>
-</ul>
-<hr>
-<h2 id="綠色-Green"><a href="#綠色-Green" class="headerlink" title="綠色 (Green)"></a>綠色 (Green)</h2><p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0160_MTGWOE_Main.png"
-                      alt="Agatha&#39;s Champion"
-                ></p>
-<p><strong>限制賽評分：4.0</strong></p>
-<p>五費4&#x2F;4踐踏就很厲害了，加碼進場還可互鬥。這張基本上一定要加碼出，綠色也常常有食物或有得沒的可以餵給加碼。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0161_MTGWOE_Main.png"
-                      alt="Beanstalk Wurm"
-                ></p>
-<p><strong>限制賽評分：3.0</strong></p>
-<p>歷險那邊可以多使用一塊地算是半張加速，生物這邊五費5&#x2F;4延勢蠻好的，當然我還是比較喜歡4&#x2F;5 (想太多)。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0162_MTGWOE_Main.png"
-                      alt="Bestial Bloodline"
-                ></p>
-<p><strong>限制賽評分：2.5</strong></p>
-<p>本系列少有的靈氣牌，二費給+2&#x2F;+2，五費還可以撿回來再用一次。如果有穩定的犧牲源的話，也許後期可以拿來穩定觸發結界進場&#x2F;進墳的效果。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0163_MTGWOE_Main.png"
-                      alt="Blossoming Tortoise"
-                ></p>
-<p><strong>限制賽評分：2.5</strong></p>
-<p>四費3&#x2F;3再給一個不太穩定的加速，而第二跟第三項異能基本上都沒用，如果你還有雙色變人地的話也只是個win more。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0164_MTGWOE_Main.png"
-                      alt="Bramble Familiar"
-                ></p>
-<p><strong>限制賽評分：3.5</strong></p>
-<p>二費的加速人，後期或是要自救還可以棄一張牌把自己回手，接著做七費歷險那邊蠻好的。不過自磨七張在限制賽也是不小的副作用，如果你找進來的生物&#x2F;結界&#x2F;地不夠關鍵的話，可能會給對手抓到耗光你牌庫來取勝的機會。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0165_MTGWOE_Main.png"
-                      alt="Brave the Wilds"
-                ></p>
-<p><strong>限制賽評分：2.5</strong></p>
-<p>如果前期有可以加碼出的機會的話地變成的3&#x2F;3敏捷蠻厲害的，至少是一張一費找地上手，只要有打到三色的必要都可以放一張。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0166_MTGWOE_Main.png"
-                      alt="Commune with Nature"
-                ></p>
-<p><strong>限制賽評分：2.0</strong></p>
-<p><a class="link"   href="https://cards.scryfall.io/large/front/c/e/ce0b706e-017d-4f82-b280-cf9fdf75aef8.jpg?1562764639" >重印 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>之後這張也進入先驅賽制了，不過這不是這邊要討論的重點。一費看五拿一張生物其它放牌庫底，這個異能在限制賽中蠻厲害的了，而且還有許多歷險生物可以拿，在WOE限制賽中命中的機率應該蠻高的。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0167_MTGWOE_Main.png"
-                      alt="Curse of the Werefox"
-                ></p>
-<p><strong>限制賽評分：3.5</strong></p>
-<p>這張應該是綠色最好的C卡解牌了，集灌大與互鬥於一身。<a class="link"   href="https://cards.scryfall.io/large/front/6/a/6a75d579-7705-470e-a5fa-bdab5126cc71.jpg?1646102831" >獵捕弱者 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>你還是安心地去吧。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0168_MTGWOE_Main.png"
-                      alt="Elvish Archivist"
-                ></p>
-<p><strong>限制賽評分：3.5</strong></p>
-<p>二費0&#x2F;1的身材雖然很弱，但只要你能派出食品或這類的神器就能讓他變成2&#x2F;3及格的身材，雖然每回合只會觸發變大一次，但如果你有很多神器進場的來源是很值得使用的。而結界進場可以讓你每回合因此抽一張牌，只要你神器跟結界的來源都不少，這是一張很值得投資的單卡；當然他的強度取決於與其他牌張的搭配，所以沒辦法給到4.0以上的分數</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0169_MTGWOE_Main.png"
-                      alt="Feral Encounter"
-                ></p>
-<p><strong>限制賽評分：4.0</strong></p>
-<p>這張牌如果不是二回做應該大多是一換二：在我的戰前主階段施放這張牌我看牌庫頂五張牌然後放逐一張本回合叫得出來的生物，接著施放他；然後在選擇一個我操控的生物單向對另一個不由我操控的生物造成傷害。在二費使用做一個單向生物打傷害也是可以，但因為你盲看五張直接放下去，也許你會失去一些使用其它炸彈的可能。基本上我不會空場使用這張，畢竟還是有沒辦法翻中、或翻出生物不夠費用叫的風險，至少場上有一個傷害足夠解掉另一個對手的生物再做會好很多。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0170_MTGWOE_Main.png"
-                      alt="Ferocious Werefox"
-                ></p>
-<p><strong>限制賽評分：3.5</strong></p>
-<p>二費先歷險給你的生物結附一個怪物角色；四費再叫一個4&#x2F;3踐踏的生物，在進攻上節奏很不錯。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0171_MTGWOE_Main.png"
-                      alt="Graceful Takedown"
-                ></p>
-<p><strong>限制賽評分：3.0</strong></p>
-<p>綠色生物不講武德都打群架是不是！又是一張單向生物造成傷害，而你操控越多被結附的生物效果就越好，大部分都會是一張巫術時機的正殺，但同樣擺脫不了綠色的解牌你沒有生物就沒用的問題。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0172_MTGWOE_Main.png"
-                      alt="Gruff Triplets"
-                ></p>
-<p><strong>限制賽評分：5.0</strong></p>
-<p>六費叫三隻3&#x2F;3踐踏已經非常誇張了，然後其中一隻死掉還會把等同於他力量的指示物放到每一個其它同名的生物上去。也是臉上就寫著<strong>請灌大我我會讓你贏</strong>的牌。在任何有機會複製衍生物的色組都非常的強大(當然，複製出來的衍生物不會觸發進場一帶三，但死掉會讓你其它的羊蹄人都至少放三個+1&#x2F;+1)，或是可以撿墳來反覆正拍他。總之就是大炸彈一枚。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0173_MTGWOE_Main.png"
-                      alt="Hamlet Glutton"
-                ></p>
-<p><strong>限制賽評分：3.5</strong></p>
-<p>七費6&#x2F;6踐踏進場補3點生命覺得太慢不想用的話，你還可以加碼五費出，而五費6&#x2F;6踐踏是非常誇張的限制賽身材。只要你確定可以五費加碼出它的話，他至少值4.0分。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0174_MTGWOE_Main.png"
-                      alt="Hollow Scavenger"
-                ></p>
-<p><strong>限制賽評分：3.0</strong></p>
-<p>看成是四費分期付款叫一隻3&#x2F;2然後派出一個食品，這隻狼還可以在你的回合吃一個食品變成5&#x2F;4，有越多食品的可以變更大。是怪物角色優質的結附對象。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0175_MTGWOE_Main.png"
-                      alt="Howling Galefang"
-                ></p>
-<p><strong>限制賽評分：3.5</strong></p>
-<p>只要你放逐區有歷險中的牌，牠就會額外有敏捷異能。哇這根本是異能比較少(少了四個應該不能用比較少來形容…)的<a class="link"   href="https://cards.scryfall.io/large/front/a/6/a6d2280a-1254-41fd-9f46-06d0b35c3cca.jpg?1645797342" >尋水獸 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>吧！正拍不虧，可以敏捷進更好。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0176_MTGWOE_Main.png"
-                      alt="The Huntsman&#39;s Redemption"
-                ></p>
-<p><strong>限制賽評分：4.5</strong></p>
-<p>三費的傳記章節I生3&#x2F;3值回費用，章節II可以犧牲小生物換隻大的進來(卡地也可以找地喔)，章節III讓至多兩個你操控的生物+2&#x2F;+2並獲得踐踏直到回合結束。這張唯一的缺點是空場岀章節II跟III會變得比較差，但可以讓你的場面從均勢變成大勝這一點還是值得給很高的分數。</p>
-<blockquote>
-<p>而這張牌中文翻譯為獵人懺罪道我覺得也很有意思，而賈路在這個系列中並沒有出成旅法而是以傳記的形式登場，基本上未來還是很有機會看到他以旅法師的身分登場的，讓我們繼續期待吧！</p>
-</blockquote>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0177_MTGWOE_Main.png"
-                      alt="Leaping Ambush"
-                ></p>
-<p><strong>限制賽評分：2.0</strong></p>
-<p>一費給目標生物+1&#x2F;+3給延勢再重置，是個陰招。可以重置這一點用得好可以賺到不少價值。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0178_MTGWOE_Main.png"
-                      alt="Night of the Sweets&#39; Revenge"
-                ></p>
-<p><strong>限制賽評分：3.5</strong></p>
-<blockquote>
-<p>食物們的復仇！</p>
-</blockquote>
-<p>四費的結界進場生一個食品，每個你操控的食品會變成<a class="link"   href="https://cards.scryfall.io/large/front/f/4/f4168ae4-32c2-4104-86c8-3968a7f7ea04.jpg?1562796983" >妖精秘教徒 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>，然後七費你可以在巫術時機犧牲這個結界，讓你的生物獲得+X&#x2F;+X，X等同於你操控的食物總數。基本上如果你打藍綠五費咒語的思路的話，這張結界會是你很棒的中間曲線，既能加速又給了你後期反打的機會。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0179_MTGWOE_Main.png"
-                      alt="Redtooth Genealogist"
-                ></p>
-<p><strong>限制賽評分：3.0</strong></p>
-<p>三費2&#x2F;3進場給另一個生物皇族角色，合理的曲線生物。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0180_MTGWOE_Main.png"
-                      alt="Redtooth Vanguard"
-                ></p>
-<p><strong>限制賽評分：3.5</strong><br>二費3&#x2F;1踐踏前期可以持續輸出傷害，而這個系列結界應該不少，各種角色衍生物進場都可以觸發支付二將他撿回手的效果，中後期拿來換其他的資源也很不錯。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0181_MTGWOE_Main.png"
-                      alt="Return from the Wilds"
-                ></p>
-<p><strong>限制賽評分：3.0</strong></p>
-<p>三選二基本上都會選找一塊地 + 生1&#x2F;1人類或產食品，藍綠五費咒語的好朋友。在之前的限制賽中三費找完地就會空過多被打一拳，落後時真的是非常痛苦；但到了WOE就不一樣啦，多一個阻擋者幫你坦一拳後下回合三跳五真是舒服啊！</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0182_MTGWOE_Main.png"
-                      alt="Rootrider Faun"
-                ></p>
-<p><strong>限制賽評分：3.5</strong></p>
-<p>二費1&#x2F;3 mana頭，還可以調色沒什麼好挑剔了。藍綠或紅綠大費咒語的key card。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0183_MTGWOE_Main.png"
-                      alt="Royal Treatment"
-                ></p>
-<p><strong>限制賽評分：2.5</strong></p>
-<p>更厲害一點的<a class="link"   href="https://cards.scryfall.io/large/front/4/d/4dce7ff4-c30c-467e-9832-2595b973a9e8.jpg?1619503804" >蛇皮簾幕 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>！</p>
-<blockquote>
-<p>圖片上的人物雖然他披風上已經中了很多箭，但他在這張咒語的保護下安然無損。接著他緩緩轉過身來說出：「<a class="link"   href="https://www.mtgct.com/card/7403" >各位平民，刀下留情。 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>」，皇族角色加持的霸王色霸氣展露無遺，頓時讓圍攻他的半狐人都驚呆了！</p>
-</blockquote>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0184_MTGWOE_Main.png"
-                      alt="Sentinel of Lost Lore"
-                ></p>
-<p><strong>限制賽評分：4.0</strong></p>
-<p>三費3&#x2F;4身材很頂了，進場還有三選一或多選的異能讓我們來看一下：</p>
-<ul>
-<li>將目標在你放逐區的歷險牌移回你手上 –&gt; 基本上讓你可以在做一次歷險咒語那邊</li>
-<li>將目標在非你操控的的放逐區中的歷險牌放到其擁有者的牌庫底 –&gt; 美德系列的五秘稀，再貪啊XDD</li>
-<li>放逐目標玩家的墳場</li>
-</ul>
-<p>這三個異能前兩個都著重在歷險的資源賺取與防堵，非常有趣；而第三項移墳如果有需要的話也可以用一下。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0185_MTGWOE_Main.png"
-                      alt="Skybeast Tracker"
-                ></p>
-<p><strong>限制賽評分：2.5</strong></p>
-<p>四費2&#x2F;4延勢的身材太偏防守取向了，而施放五費以上咒語可以派出一個食品，基本上是多多益善。</p>
-<blockquote>
-<p>在看到綠色這邊的牌後，我漸漸覺得藍綠五費這個Ramp思路是可以打的，前期有加速、高防禦力的阻擋者、以及強而能賺牌差的大招，這三者的連鎖越來越清晰，藍綠這個色組應該沒有一開始想得那麼笨重，至少在現開賽是一定可以打的。</p>
-</blockquote>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0186_MTGWOE_Main.png"
-                      alt="Spider Food"
-                ></p>
-<p><strong>限制賽評分：3.0</strong></p>
-<p><a class="link"   href="https://cards.scryfall.io/large/front/d/3/d3ecf116-f1cc-4d8f-a4b2-0ef2260c348a.jpg?1651574723" >翅翼斷裂 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>改巫術然後送你一個食品，我覺得三個異能中比較常用到的應該是拆結界跟殺飛兵，剛好都是綠色蠻需要的功能。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0187_MTGWOE_Main.png"
-                      alt="Stormkeld Vanguard"
-                ></p>
-<p><strong>限制賽評分：3.5</strong></p>
-<p>六費6&#x2F;7不能被二攻以下的生物阻擋，歷險那邊可以二費巫術拆神器跟結界。基本上前中期拆個東西，後期拍下來當終結者還行。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0188_MTGWOE_Main.png"
-                      alt="Tanglespan Lookout"
-                ></p>
-<p><strong>限制賽評分：3.5</strong></p>
-<p>三費2&#x2F;3而在有靈氣進場後可以抽一張牌，只要你的套牌生角色的牌夠多(至少6-7)張，這張牌就很有機會可以賺到一到兩張牌，很不錯的投資。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0189_MTGWOE_Main.png"
-                      alt="Territorial Witchstalker"
-                ></p>
-<p><strong>限制賽評分：2.0</strong></p>
-<p>二費2&#x2F;3守軍，等你戰階開始時有其它的四攻生物後就變成3&#x2F;3可以攻擊。嗯…其實最好用的方式應該就是讓他貼<a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0162_MTGWOE_Main.png" >+2&#x2F;+2皮 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>這類的灌大然後牠己可以開始變5&#x2F;5揍人吧？求人不如求己的概念。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0190_MTGWOE_Main.png"
-                      alt="Thunderous Debut"
-                ></p>
-<p><strong>限制賽評分：3.0</strong><br><strong>限制賽評分：4.0 (有辦法加速的話)</strong></p>
-<p>加碼後基本上很接近<a class="link"   href="https://cards.scryfall.io/normal/front/0/2/02f0067c-2d38-46bd-b52e-070c2ce424f0.jpg?1562134199" >尖牙銳爪 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>的效果了，牌庫頂看20張牌找兩隻上手或進場還翻不到你需要的怪的話，要不是你太衰不然就是你根本沒放吧？這張牌應該會是Ramp系的藍綠或紅綠的大殺招，盡可能要加碼出不然加速到八費還要再空過一回合有點太拖沓了。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0191_MTGWOE_Main.png"
-                      alt="Titanic Growth"
-                ></p>
-<p><strong>限制賽評分：2.0</strong></p>
-<p><a class="link"   href="https://cards.scryfall.io/normal/front/8/8/88baef8e-49cc-40f2-aa8a-73c3f35bda53.jpg?1645827030" >重印牌 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>但換新圖囉！+4&#x2F;+4還是很大的，灌給有踐踏的生物可以爆打一波。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0192_MTGWOE_Main.png"
-                      alt="Toadstool Admirer"
-                ></p>
-<p><strong>限制賽評分：1.0</strong></p>
-<p>呃，你笑得這麼開心我還是只會給你這個分數啦…。原因前面看到一費1&#x2F;1的生物都說過了，不再贅述。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0193_MTGWOE_Main.png"
-                      alt="Tough Cookie"
-                ></p>
-<p><strong>限制賽評分：3.0</strong></p>
-<p>進場一帶二兩個食品讓你吃個夠，而三費還可以讓目標非生物神器變成4&#x2F;4的生物直到回合結束，有他在缺怪的時候就變一隻4&#x2F;4出來，非常有意思。而當然，食品都是可以吃的，缺血就把它們吃掉吧(如果你牙口夠好的話)。</p>
-<blockquote>
-<p>我超喜歡這張卡圖的！Tough Cookie除了勇敢堅忍的意思外，也是物理上這塊餅乾真的很硬的意思喔！敢咬我你試試看！</p>
-</blockquote>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0194_MTGWOE_Main.png"
-                      alt="Troublemaker Ouphe"
-                ></p>
-<p><strong>限制賽評分：2.5</strong></p>
-<p>二費的<a class="link"   href="https://cards.scryfall.io/large/front/4/0/409f9b88-f03e-40b6-9883-68c14c37c0de.jpg?1562546736" >熊 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>還是很重要的，而當你需要拆神器結界時可以加碼出他，很不錯的曲線生物而且中後期也能發揮價值。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0195_MTGWOE_Main.png"
-                      alt="Up the Beanstalk"
-                ></p>
-<p><strong>限制賽評分：2.0</strong></p>
-<p>等到你要因為這張牌而開始賺牌有點慢了，有抽牌咒語的話還是別放它了吧。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0196_MTGWOE_Main.png"
-                      alt="Verdant Outrider"
-                ></p>
-<p><strong>限制賽評分：3.0</strong></p>
-<p>三費4&#x2F;2普通，但多給一個二費的啟動式異能可以讓他不能被二攻的生物阻擋就不一樣了，不是穩穩地打到對手4點傷害、逼對手要把解牌用在他身上、或至少可以換掉一個3&#x2F;3以上的生物。當然，對手生物都比他大的話就不要打就好。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0197_MTGWOE_Main.png"
-                      alt="Virtue of Strength"
-                ></p>
-<p><strong>限制賽評分：3.0</strong></p>
-<p>分數基本上都是給一費歷險的，可以撿墳場的生物或地蠻不錯的；而七費的結界這邊我只能給0.5分…都到七費了可以不要再給加速的效果了好嗎？這個系列沒有<a class="link"   href="https://cards.scryfall.io/large/front/6/7/67600383-bbb8-411c-b8e6-2296650bc747.jpg?1562704588" >萬世創傷伊莫庫 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>這種牌耶…。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0198_MTGWOE_Main.png"
-                      alt="Welcome to Sweettooth"
-                ></p>
-<p><strong>限制賽評分：2.5</strong></p>
-<p>二費的傳記進場章節I先生個1&#x2F;1人類，章節II生個食品，章節III至少可以再加兩個+1&#x2F;+1指示物。但整體的優勢有點來得太慢了，除非我缺食物不然我可能不太想放。</p>
-<hr>
-<p>以上就是這次WOE綠色的限制賽分析，希望大家都能在接下來的現開與輪抽賽中找到屬於自己的樂趣！</p>
-]]></content>
-      <categories>
-        <category>Limited</category>
-        <category>WOE-Limited</category>
-      </categories>
-      <tags>
-        <tag>cephille</tag>
-        <tag>WOE</tag>
-        <tag>Limited</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>豬鼻子的艾卓荒野(WOE)限制賽初探 — 紅色</title>
     <url>/WOE-Red/</url>
     <content><![CDATA[<p>本文採用LSV以及Reid Duke兩位大神發表在Channelfireball(CFB)網站上的魔戒：中土世界傳奇 (LOTR)的限制賽評分標準以及行文格式。</p>
@@ -10669,6 +10304,371 @@
 <p>四費瞬間打5可以解決掉九成以上的生物，三隻以上的生物攻擊還可以減到一費施放，感覺在紅底套牌裡並不會很難達成。不過重點還是打5太厲害了！</p>
 <hr>
 <p>以上就是這次WOE紅色的限制賽分析，希望大家都能在接下來的現開與輪抽賽中找到屬於自己的樂趣！</p>
+]]></content>
+      <categories>
+        <category>Limited</category>
+        <category>WOE-Limited</category>
+      </categories>
+      <tags>
+        <tag>cephille</tag>
+        <tag>WOE</tag>
+        <tag>Limited</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>豬鼻子的艾卓荒野(WOE)限制賽初探 — 綠色</title>
+    <url>/WOE-Green/</url>
+    <content><![CDATA[<p>本文採用LSV以及Reid Duke兩位大神發表在Channelfireball(CFB)網站上的魔戒：中土世界傳奇 (LOTR)的限制賽評分標準以及行文格式。</p>
+<!--more-->
+
+<h2 id="評分標準-Grading-Scale"><a href="#評分標準-Grading-Scale" class="headerlink" title="評分標準 (Grading Scale)"></a>評分標準 (Grading Scale)</h2><p>已退休但榮登限制賽炸彈名人堂的霸者們: <a class="link"   href="https://cdn1.mtggoldfish.com/images/h/Pack-Rat-RTR-672.jpg" >Pack Rat <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>, <a class="link"   href="https://cdn1.mtggoldfish.com/images/h/Umezawas-Jitte-BOK-672.jpg" >Umezawa’s Jitte <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>, <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0353_MTGCMM_Main.png" >The Scarab God <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</p>
+<ul>
+<li>5.0: <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0051_MTGMOM_Main.png" >Chrome Host Seedshark <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>. <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0094_MTGMOM_Main.png" >Breach the Multiverse <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>. <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0040_MTGMOM_Main.png" >Sunfall <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</li>
+<li>4.5: <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0185_MTGMOM_Main.png" >Doomskar Warrior <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>. <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0089_MTGMOM_Main.png" >Archpriest of Shadows <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>. <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0219_MTGMOM_Main.png" >Borborygmos and Fblthp <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</li>
+<li>4.0: <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0073_MTGMOM_Main.png" >Preening Champion <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>. <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0093_MTGMOM_Main.png" >Bloated Processor <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>. <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0231a_MTGMOM_Mai.png" >Invasion of Amonkhet <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</li>
+<li>3.5: <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0104_MTGMOM_Main.png" >Final Flourish <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>. <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0055_MTGMOM_Main.png" >Ephara’s Dispersal <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>. <a class="link"   href="https://hackmd.io/_uploads/rySkpHd63.png" >Stormclaw Rager <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</li>
+<li>3.0: <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0129_MTGMOM_Main.png" >Vanquish the Weak <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>. <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0057_MTGMOM_Main.png" >Eyes of Gitaxias <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>. <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0045_MTGMOM_Main.png" >Zhalfirin Lancer <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</li>
+<li>2.5: <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0071_MTGMOM_Main.png" >Oracle of Tragedy <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>. <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0111_MTGMOM_Main.png" >Ichor Drinker <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>. <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0153_MTGMOM_Main.png" >Marauding Dreadship <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</li>
+<li>2.0: <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0214_MTGMOM_Main.png" >War Historian <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>. <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0108_MTGMOM_Main.png" >Gloomfang Mauler <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>. <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0072a_MTGMOM_Mai.png" >Order of the Mirror <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</li>
+<li>1.5: <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0056_MTGMOM_Main.png" >Expedition Lookout <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>. <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0130_MTGMOM_Main.png" >Akki Scrapchomper <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>. <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0018_MTGMOM_Main.png" >Infected Defector <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</li>
+<li>1.0: <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0054_MTGMOM_Main.png" >Disturbing Conversion <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>. <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0126_MTGMOM_Main.png" >Tenured Oilcaster <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>. <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0136_MTGMOM_Main.png" >Coming In Hot <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</li>
+<li>0.0: <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0061a_MTGMOM_Mai.png" >Invasion of Arcavios <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>. <a class="link"   href="https://cdn1.mtggoldfish.com/images/h/One-with-Nothing-SOK-672.jpg" >One with Nothing <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</li>
+</ul>
+<hr>
+<h2 id="綠色-Green"><a href="#綠色-Green" class="headerlink" title="綠色 (Green)"></a>綠色 (Green)</h2><p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0160_MTGWOE_Main.png"
+                      alt="Agatha&#39;s Champion"
+                ></p>
+<p><strong>限制賽評分：4.0</strong></p>
+<p>五費4&#x2F;4踐踏就很厲害了，加碼進場還可互鬥。這張基本上一定要加碼出，綠色也常常有食物或有得沒的可以餵給加碼。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0161_MTGWOE_Main.png"
+                      alt="Beanstalk Wurm"
+                ></p>
+<p><strong>限制賽評分：3.0</strong></p>
+<p>歷險那邊可以多使用一塊地算是半張加速，生物這邊五費5&#x2F;4延勢蠻好的，當然我還是比較喜歡4&#x2F;5 (想太多)。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0162_MTGWOE_Main.png"
+                      alt="Bestial Bloodline"
+                ></p>
+<p><strong>限制賽評分：2.5</strong></p>
+<p>本系列少有的靈氣牌，二費給+2&#x2F;+2，五費還可以撿回來再用一次。如果有穩定的犧牲源的話，也許後期可以拿來穩定觸發結界進場&#x2F;進墳的效果。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0163_MTGWOE_Main.png"
+                      alt="Blossoming Tortoise"
+                ></p>
+<p><strong>限制賽評分：2.5</strong></p>
+<p>四費3&#x2F;3再給一個不太穩定的加速，而第二跟第三項異能基本上都沒用，如果你還有雙色變人地的話也只是個win more。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0164_MTGWOE_Main.png"
+                      alt="Bramble Familiar"
+                ></p>
+<p><strong>限制賽評分：3.5</strong></p>
+<p>二費的加速人，後期或是要自救還可以棄一張牌把自己回手，接著做七費歷險那邊蠻好的。不過自磨七張在限制賽也是不小的副作用，如果你找進來的生物&#x2F;結界&#x2F;地不夠關鍵的話，可能會給對手抓到耗光你牌庫來取勝的機會。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0165_MTGWOE_Main.png"
+                      alt="Brave the Wilds"
+                ></p>
+<p><strong>限制賽評分：2.5</strong></p>
+<p>如果前期有可以加碼出的機會的話地變成的3&#x2F;3敏捷蠻厲害的，至少是一張一費找地上手，只要有打到三色的必要都可以放一張。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0166_MTGWOE_Main.png"
+                      alt="Commune with Nature"
+                ></p>
+<p><strong>限制賽評分：2.0</strong></p>
+<p><a class="link"   href="https://cards.scryfall.io/large/front/c/e/ce0b706e-017d-4f82-b280-cf9fdf75aef8.jpg?1562764639" >重印 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>之後這張也進入先驅賽制了，不過這不是這邊要討論的重點。一費看五拿一張生物其它放牌庫底，這個異能在限制賽中蠻厲害的了，而且還有許多歷險生物可以拿，在WOE限制賽中命中的機率應該蠻高的。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0167_MTGWOE_Main.png"
+                      alt="Curse of the Werefox"
+                ></p>
+<p><strong>限制賽評分：3.5</strong></p>
+<p>這張應該是綠色最好的C卡解牌了，集灌大與互鬥於一身。<a class="link"   href="https://cards.scryfall.io/large/front/6/a/6a75d579-7705-470e-a5fa-bdab5126cc71.jpg?1646102831" >獵捕弱者 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>你還是安心地去吧。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0168_MTGWOE_Main.png"
+                      alt="Elvish Archivist"
+                ></p>
+<p><strong>限制賽評分：3.5</strong></p>
+<p>二費0&#x2F;1的身材雖然很弱，但只要你能派出食品或這類的神器就能讓他變成2&#x2F;3及格的身材，雖然每回合只會觸發變大一次，但如果你有很多神器進場的來源是很值得使用的。而結界進場可以讓你每回合因此抽一張牌，只要你神器跟結界的來源都不少，這是一張很值得投資的單卡；當然他的強度取決於與其他牌張的搭配，所以沒辦法給到4.0以上的分數</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0169_MTGWOE_Main.png"
+                      alt="Feral Encounter"
+                ></p>
+<p><strong>限制賽評分：4.0</strong></p>
+<p>這張牌如果不是二回做應該大多是一換二：在我的戰前主階段施放這張牌我看牌庫頂五張牌然後放逐一張本回合叫得出來的生物，接著施放他；然後在選擇一個我操控的生物單向對另一個不由我操控的生物造成傷害。在二費使用做一個單向生物打傷害也是可以，但因為你盲看五張直接放下去，也許你會失去一些使用其它炸彈的可能。基本上我不會空場使用這張，畢竟還是有沒辦法翻中、或翻出生物不夠費用叫的風險，至少場上有一個傷害足夠解掉另一個對手的生物再做會好很多。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0170_MTGWOE_Main.png"
+                      alt="Ferocious Werefox"
+                ></p>
+<p><strong>限制賽評分：3.5</strong></p>
+<p>二費先歷險給你的生物結附一個怪物角色；四費再叫一個4&#x2F;3踐踏的生物，在進攻上節奏很不錯。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0171_MTGWOE_Main.png"
+                      alt="Graceful Takedown"
+                ></p>
+<p><strong>限制賽評分：3.0</strong></p>
+<p>綠色生物不講武德都打群架是不是！又是一張單向生物造成傷害，而你操控越多被結附的生物效果就越好，大部分都會是一張巫術時機的正殺，但同樣擺脫不了綠色的解牌你沒有生物就沒用的問題。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0172_MTGWOE_Main.png"
+                      alt="Gruff Triplets"
+                ></p>
+<p><strong>限制賽評分：5.0</strong></p>
+<p>六費叫三隻3&#x2F;3踐踏已經非常誇張了，然後其中一隻死掉還會把等同於他力量的指示物放到每一個其它同名的生物上去。也是臉上就寫著<strong>請灌大我我會讓你贏</strong>的牌。在任何有機會複製衍生物的色組都非常的強大(當然，複製出來的衍生物不會觸發進場一帶三，但死掉會讓你其它的羊蹄人都至少放三個+1&#x2F;+1)，或是可以撿墳來反覆正拍他。總之就是大炸彈一枚。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0173_MTGWOE_Main.png"
+                      alt="Hamlet Glutton"
+                ></p>
+<p><strong>限制賽評分：3.5</strong></p>
+<p>七費6&#x2F;6踐踏進場補3點生命覺得太慢不想用的話，你還可以加碼五費出，而五費6&#x2F;6踐踏是非常誇張的限制賽身材。只要你確定可以五費加碼出它的話，他至少值4.0分。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0174_MTGWOE_Main.png"
+                      alt="Hollow Scavenger"
+                ></p>
+<p><strong>限制賽評分：3.0</strong></p>
+<p>看成是四費分期付款叫一隻3&#x2F;2然後派出一個食品，這隻狼還可以在你的回合吃一個食品變成5&#x2F;4，有越多食品的可以變更大。是怪物角色優質的結附對象。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0175_MTGWOE_Main.png"
+                      alt="Howling Galefang"
+                ></p>
+<p><strong>限制賽評分：3.5</strong></p>
+<p>只要你放逐區有歷險中的牌，牠就會額外有敏捷異能。哇這根本是異能比較少(少了四個應該不能用比較少來形容…)的<a class="link"   href="https://cards.scryfall.io/large/front/a/6/a6d2280a-1254-41fd-9f46-06d0b35c3cca.jpg?1645797342" >尋水獸 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>吧！正拍不虧，可以敏捷進更好。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0176_MTGWOE_Main.png"
+                      alt="The Huntsman&#39;s Redemption"
+                ></p>
+<p><strong>限制賽評分：4.5</strong></p>
+<p>三費的傳記章節I生3&#x2F;3值回費用，章節II可以犧牲小生物換隻大的進來(卡地也可以找地喔)，章節III讓至多兩個你操控的生物+2&#x2F;+2並獲得踐踏直到回合結束。這張唯一的缺點是空場岀章節II跟III會變得比較差，但可以讓你的場面從均勢變成大勝這一點還是值得給很高的分數。</p>
+<blockquote>
+<p>而這張牌中文翻譯為獵人懺罪道我覺得也很有意思，而賈路在這個系列中並沒有出成旅法而是以傳記的形式登場，基本上未來還是很有機會看到他以旅法師的身分登場的，讓我們繼續期待吧！</p>
+</blockquote>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0177_MTGWOE_Main.png"
+                      alt="Leaping Ambush"
+                ></p>
+<p><strong>限制賽評分：2.0</strong></p>
+<p>一費給目標生物+1&#x2F;+3給延勢再重置，是個陰招。可以重置這一點用得好可以賺到不少價值。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0178_MTGWOE_Main.png"
+                      alt="Night of the Sweets&#39; Revenge"
+                ></p>
+<p><strong>限制賽評分：3.5</strong></p>
+<blockquote>
+<p>食物們的復仇！</p>
+</blockquote>
+<p>四費的結界進場生一個食品，每個你操控的食品會變成<a class="link"   href="https://cards.scryfall.io/large/front/f/4/f4168ae4-32c2-4104-86c8-3968a7f7ea04.jpg?1562796983" >妖精秘教徒 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>，然後七費你可以在巫術時機犧牲這個結界，讓你的生物獲得+X&#x2F;+X，X等同於你操控的食物總數。基本上如果你打藍綠五費咒語的思路的話，這張結界會是你很棒的中間曲線，既能加速又給了你後期反打的機會。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0179_MTGWOE_Main.png"
+                      alt="Redtooth Genealogist"
+                ></p>
+<p><strong>限制賽評分：3.0</strong></p>
+<p>三費2&#x2F;3進場給另一個生物皇族角色，合理的曲線生物。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0180_MTGWOE_Main.png"
+                      alt="Redtooth Vanguard"
+                ></p>
+<p><strong>限制賽評分：3.5</strong><br>二費3&#x2F;1踐踏前期可以持續輸出傷害，而這個系列結界應該不少，各種角色衍生物進場都可以觸發支付二將他撿回手的效果，中後期拿來換其他的資源也很不錯。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0181_MTGWOE_Main.png"
+                      alt="Return from the Wilds"
+                ></p>
+<p><strong>限制賽評分：3.0</strong></p>
+<p>三選二基本上都會選找一塊地 + 生1&#x2F;1人類或產食品，藍綠五費咒語的好朋友。在之前的限制賽中三費找完地就會空過多被打一拳，落後時真的是非常痛苦；但到了WOE就不一樣啦，多一個阻擋者幫你坦一拳後下回合三跳五真是舒服啊！</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0182_MTGWOE_Main.png"
+                      alt="Rootrider Faun"
+                ></p>
+<p><strong>限制賽評分：3.5</strong></p>
+<p>二費1&#x2F;3 mana頭，還可以調色沒什麼好挑剔了。藍綠或紅綠大費咒語的key card。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0183_MTGWOE_Main.png"
+                      alt="Royal Treatment"
+                ></p>
+<p><strong>限制賽評分：2.5</strong></p>
+<p>更厲害一點的<a class="link"   href="https://cards.scryfall.io/large/front/4/d/4dce7ff4-c30c-467e-9832-2595b973a9e8.jpg?1619503804" >蛇皮簾幕 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>！</p>
+<blockquote>
+<p>圖片上的人物雖然他披風上已經中了很多箭，但他在這張咒語的保護下安然無損。接著他緩緩轉過身來說出：「<a class="link"   href="https://www.mtgct.com/card/7403" >各位平民，刀下留情。 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>」，皇族角色加持的霸王色霸氣展露無遺，頓時讓圍攻他的半狐人都驚呆了！</p>
+</blockquote>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0184_MTGWOE_Main.png"
+                      alt="Sentinel of Lost Lore"
+                ></p>
+<p><strong>限制賽評分：4.0</strong></p>
+<p>三費3&#x2F;4身材很頂了，進場還有三選一或多選的異能讓我們來看一下：</p>
+<ul>
+<li>將目標在你放逐區的歷險牌移回你手上 –&gt; 基本上讓你可以在做一次歷險咒語那邊</li>
+<li>將目標在非你操控的的放逐區中的歷險牌放到其擁有者的牌庫底 –&gt; 美德系列的五秘稀，再貪啊XDD</li>
+<li>放逐目標玩家的墳場</li>
+</ul>
+<p>這三個異能前兩個都著重在歷險的資源賺取與防堵，非常有趣；而第三項移墳如果有需要的話也可以用一下。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0185_MTGWOE_Main.png"
+                      alt="Skybeast Tracker"
+                ></p>
+<p><strong>限制賽評分：2.5</strong></p>
+<p>四費2&#x2F;4延勢的身材太偏防守取向了，而施放五費以上咒語可以派出一個食品，基本上是多多益善。</p>
+<blockquote>
+<p>在看到綠色這邊的牌後，我漸漸覺得藍綠五費這個Ramp思路是可以打的，前期有加速、高防禦力的阻擋者、以及強而能賺牌差的大招，這三者的連鎖越來越清晰，藍綠這個色組應該沒有一開始想得那麼笨重，至少在現開賽是一定可以打的。</p>
+</blockquote>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0186_MTGWOE_Main.png"
+                      alt="Spider Food"
+                ></p>
+<p><strong>限制賽評分：3.0</strong></p>
+<p><a class="link"   href="https://cards.scryfall.io/large/front/d/3/d3ecf116-f1cc-4d8f-a4b2-0ef2260c348a.jpg?1651574723" >翅翼斷裂 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>改巫術然後送你一個食品，我覺得三個異能中比較常用到的應該是拆結界跟殺飛兵，剛好都是綠色蠻需要的功能。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0187_MTGWOE_Main.png"
+                      alt="Stormkeld Vanguard"
+                ></p>
+<p><strong>限制賽評分：3.5</strong></p>
+<p>六費6&#x2F;7不能被二攻以下的生物阻擋，歷險那邊可以二費巫術拆神器跟結界。基本上前中期拆個東西，後期拍下來當終結者還行。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0188_MTGWOE_Main.png"
+                      alt="Tanglespan Lookout"
+                ></p>
+<p><strong>限制賽評分：3.5</strong></p>
+<p>三費2&#x2F;3而在有靈氣進場後可以抽一張牌，只要你的套牌生角色的牌夠多(至少6-7)張，這張牌就很有機會可以賺到一到兩張牌，很不錯的投資。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0189_MTGWOE_Main.png"
+                      alt="Territorial Witchstalker"
+                ></p>
+<p><strong>限制賽評分：2.0</strong></p>
+<p>二費2&#x2F;3守軍，等你戰階開始時有其它的四攻生物後就變成3&#x2F;3可以攻擊。嗯…其實最好用的方式應該就是讓他貼<a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0162_MTGWOE_Main.png" >+2&#x2F;+2皮 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>這類的灌大然後牠己可以開始變5&#x2F;5揍人吧？求人不如求己的概念。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0190_MTGWOE_Main.png"
+                      alt="Thunderous Debut"
+                ></p>
+<p><strong>限制賽評分：3.0</strong><br><strong>限制賽評分：4.0 (有辦法加速的話)</strong></p>
+<p>加碼後基本上很接近<a class="link"   href="https://cards.scryfall.io/normal/front/0/2/02f0067c-2d38-46bd-b52e-070c2ce424f0.jpg?1562134199" >尖牙銳爪 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>的效果了，牌庫頂看20張牌找兩隻上手或進場還翻不到你需要的怪的話，要不是你太衰不然就是你根本沒放吧？這張牌應該會是Ramp系的藍綠或紅綠的大殺招，盡可能要加碼出不然加速到八費還要再空過一回合有點太拖沓了。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0191_MTGWOE_Main.png"
+                      alt="Titanic Growth"
+                ></p>
+<p><strong>限制賽評分：2.0</strong></p>
+<p><a class="link"   href="https://cards.scryfall.io/normal/front/8/8/88baef8e-49cc-40f2-aa8a-73c3f35bda53.jpg?1645827030" >重印牌 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>但換新圖囉！+4&#x2F;+4還是很大的，灌給有踐踏的生物可以爆打一波。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0192_MTGWOE_Main.png"
+                      alt="Toadstool Admirer"
+                ></p>
+<p><strong>限制賽評分：1.0</strong></p>
+<p>呃，你笑得這麼開心我還是只會給你這個分數啦…。原因前面看到一費1&#x2F;1的生物都說過了，不再贅述。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0193_MTGWOE_Main.png"
+                      alt="Tough Cookie"
+                ></p>
+<p><strong>限制賽評分：3.0</strong></p>
+<p>進場一帶二兩個食品讓你吃個夠，而三費還可以讓目標非生物神器變成4&#x2F;4的生物直到回合結束，有他在缺怪的時候就變一隻4&#x2F;4出來，非常有意思。而當然，食品都是可以吃的，缺血就把它們吃掉吧(如果你牙口夠好的話)。</p>
+<blockquote>
+<p>我超喜歡這張卡圖的！Tough Cookie除了勇敢堅忍的意思外，也是物理上這塊餅乾真的很硬的意思喔！敢咬我你試試看！</p>
+</blockquote>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0194_MTGWOE_Main.png"
+                      alt="Troublemaker Ouphe"
+                ></p>
+<p><strong>限制賽評分：2.5</strong></p>
+<p>二費的<a class="link"   href="https://cards.scryfall.io/large/front/4/0/409f9b88-f03e-40b6-9883-68c14c37c0de.jpg?1562546736" >熊 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>還是很重要的，而當你需要拆神器結界時可以加碼出他，很不錯的曲線生物而且中後期也能發揮價值。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0195_MTGWOE_Main.png"
+                      alt="Up the Beanstalk"
+                ></p>
+<p><strong>限制賽評分：2.0</strong></p>
+<p>等到你要因為這張牌而開始賺牌有點慢了，有抽牌咒語的話還是別放它了吧。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0196_MTGWOE_Main.png"
+                      alt="Verdant Outrider"
+                ></p>
+<p><strong>限制賽評分：3.0</strong></p>
+<p>三費4&#x2F;2普通，但多給一個二費的啟動式異能可以讓他不能被二攻的生物阻擋就不一樣了，不是穩穩地打到對手4點傷害、逼對手要把解牌用在他身上、或至少可以換掉一個3&#x2F;3以上的生物。當然，對手生物都比他大的話就不要打就好。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0197_MTGWOE_Main.png"
+                      alt="Virtue of Strength"
+                ></p>
+<p><strong>限制賽評分：3.0</strong></p>
+<p>分數基本上都是給一費歷險的，可以撿墳場的生物或地蠻不錯的；而七費的結界這邊我只能給0.5分…都到七費了可以不要再給加速的效果了好嗎？這個系列沒有<a class="link"   href="https://cards.scryfall.io/large/front/6/7/67600383-bbb8-411c-b8e6-2296650bc747.jpg?1562704588" >萬世創傷伊莫庫 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>這種牌耶…。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0198_MTGWOE_Main.png"
+                      alt="Welcome to Sweettooth"
+                ></p>
+<p><strong>限制賽評分：2.5</strong></p>
+<p>二費的傳記進場章節I先生個1&#x2F;1人類，章節II生個食品，章節III至少可以再加兩個+1&#x2F;+1指示物。但整體的優勢有點來得太慢了，除非我缺食物不然我可能不太想放。</p>
+<hr>
+<p>以上就是這次WOE綠色的限制賽分析，希望大家都能在接下來的現開與輪抽賽中找到屬於自己的樂趣！</p>
 ]]></content>
       <categories>
         <category>Limited</category>
@@ -11632,6 +11632,167 @@
         <tag>cephille</tag>
         <tag>WOE</tag>
         <tag>Limited</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>最近的近代怎麼了？</title>
+    <url>/Whats-Wrong-Modern/</url>
+    <content><![CDATA[<h2 id="Before-We-Start"><a href="#Before-We-Start" class="headerlink" title="Before We Start"></a>Before We Start</h2><p>近期開始有些人在討論「<a class="link"   href="https://www.iyingdi.com/tz/post/5334798" >為什麼近代沒有以前好玩了 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>」，尤其在 PT LTR 之後我們發現賽場上幾乎可以分成三種類型的牌組：</p>
+<ol>
+<li>Scam：一回掉你兩張好蒿爽爽</li>
+<li>Cascade：誰說牌組裡面一張牌只能放四張的？</li>
+<li>你做你的、我做我的：反正我就自閉，看誰先贏</li>
+</ol>
+<p>先說說 Scam，在 LTR 出了一張 <a class="link"   href="https://cards.scryfall.io/large/front/7/c/7c024bae-5631-4e20-ac69-df392ac9e109.jpg?1686968669" >Orcish Bowmasters <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 後強勢登頂，以往最怕對手中期爆發拉開的資源差，現在對手在利用抽牌手段拉開資源時還要承受著比以往多的風險，抽越多痛越多越早被對手 call game。</p>
+<p>而 Cascade 則是另一個極端，找出最暴力的場面（Shardless Agent 轉出 Crashing Footfalls）或是找出大量抽牌的元件（轉出 Up the Beanstalk），靠對手沒辦法追上的場面差&#x2F;資源差壓死對手。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/images/Whats-Wrong-Modern/cascade.jpg"
+                     
+                ></p>
+<p>最後則是自閉套牌，反正我做我的事，被你影響那就被你影響吧，反正我繼續拚 top deck（例如綠創、泰坦護身符），摸到對的東西就是要搞死你。</p>
+<h2 id="究竟發生什麼事？"><a href="#究竟發生什麼事？" class="headerlink" title="究竟發生什麼事？"></a>究竟發生什麼事？</h2><p>的確，並不是所有對局都一樣無聊，即便是這些 meta 頂端的套牌，一樣有不少細節需要注意、高手之間的過招依然很精彩，華麗的 Kiki + Dauthi 操作，cascade Rhinos 在會玩的玩家操控下就是贏更快的龍侯，尤其是在上完備牌之後更加明顯。</p>
+<p>但更多時候並不是這樣，很多時候是<br><strong>對手三回丟一個密探，然後我試圖反抗一次吃康，然後就沒有然後了。</strong><br>或是<br><strong>對手一回丟 Grief + 假死術丟了我兩張手牌，然後多拍一支猴子賺資源又解了我一次生物，我就輸了。</strong></p>
+<p>雖然並不是所有打 Scam 或是 Rhinos 的對局都這麼極端，但這側面反映出一個問題：單卡價值過於膨脹，連帶的影響「有沒有針對牌」比起「資源差」、「操作正確」更加重要。</p>
+<p>以前勇得中速當道時，透過各種操作、場面交換打出的一張或半張牌差取勝，現在可能隨便開 The One Ring 抽一次牌、Up the Beanstalk 一次 trigger，就補上了，更別說後續每回合更多的資源。</p>
+<blockquote>
+<p>之前有陣子在我們朋友圈還有個笑話，現在組牌是先塞四張 Up the Beanstalk，再來想有什麼作弊的高費牌可以塞進去的嗎？</p>
+</blockquote>
+<p>說簡單直白一點就是：現在的牌都太強了，有時候放水讓你幾招都不一定會輸。<br>再說的詳細一點就是現在的牌容錯率都太高了，比較不會出現之前打錯一動被嚴重懲罰直接輸掉對局的狀況發生。</p>
+<h2 id="大人，時代變了"><a href="#大人，時代變了" class="headerlink" title="大人，時代變了"></a>大人，時代變了</h2><p>一直以來免費咒語都是薪傳的權利，縱使近代中還是有免費咒語，但依舊是少部分牌組才有辦法使用的牌。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/images/Whats-Wrong-Modern/MH1_Forces.jpg"
+                     
+                ></p>
+<p>直到 Modern Horizon 1 (MH1) 發售之後，一個強力的免費咒語循環加入到環境之中。<br>這些咒語之強力（特別是 <a class="link"   href="https://cards.scryfall.io/large/front/1/8/1825a719-1b2a-4af9-9cd2-7cb497cd0317.jpg?1673147298" >Force of Negation <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 和 <a class="link"   href="https://cards.scryfall.io/large/front/0/1/017c415b-d635-43c6-92b8-8c95d1c4ff8d.jpg?1562202072" >Force of Vigor <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>），連薪傳環境中都可以看到他們的身影。<br>但這些牌充其量都是防守牌不能主動做事，也不能在自己的回合施放，雖然不用花費就能防守但還沒有到完全的破壞環境，至少還給了對手一個 turn cycle 可以試著找解。</p>
+<p>但老威在免費咒語的路上越走越歪，MH2 中除了將 <a class="link"   href="https://cards.scryfall.io/large/front/b/0/b0824e77-c84b-464a-aa0c-44af5f6faa50.jpg?1626100788" >Shardless Agent <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 下放到近代中使得 cascade 的系統更加完整、還加入了另一個更加強力的免費咒語循環：呼魂元素。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/images/Whats-Wrong-Modern/MH2_Elementals.jpg"
+                     
+                ></p>
+<p>這些元素們是生物只能在自己的回合施放，感覺沒有很差吧。<br>老威 RD：知道了，我們給其中三張加上閃現異能。</p>
+<p>免費的洗墳、免費的 <a class="link"   href="https://cards.scryfall.io/large/front/7/c/7cdee412-3519-4626-80ca-e3e431a604f0.jpg?1698988109" >Swords to Plowshares <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>、免費的康生物旅法（喔不對不能說是康，<em>彈</em>生物旅法咒語回牌庫頂或底）。<br>更不用說免費的巫術打生物旅法四點、免費的 Thoughtseize，而且他們是生物也不能用 Force of Netagion 來反制。</p>
+<p>雖然 MH2 發售許久（從發售至今也過了兩年多了），還記得剛發售時的二回 5&#x2F;5 龍侯、二回挖 <a class="link"   href="https://cards.scryfall.io/large/front/9/a/9a6bb435-1205-416a-a5a0-ca6d37b4dcb2.jpg?1572490524" >Feasting Troll King <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>、各種花式的玩克撒傳等等。<br>但隨著環境演進，牌組從路拉斯時代追求著一費做一件事、被解了晚點再用一次，到龍侯不再追求暴力的二回 5&#x2F;5 飛行、屏棄掉略嫌笨重的 <a class="link"   href="https://cards.scryfall.io/large/front/5/7/57b852b6-4388-4a41-a5c0-bba37a5c1451.jpg?1562201300" >Archmage’s Charm <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>，宣告了兩費封頂即近代一線套牌標配的時代來臨。</p>
+<p>但並不是所有套牌都加入這個潮流，這邊以 Dimir Control 為例，起手如下：</p>
+<blockquote>
+<p>3x Lands<br>1x Fatal Push<br>1x Archmage’s Charm<br>1x Counterspell<br>1x any other card</p>
+</blockquote>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/images/Whats-Wrong-Modern/Dimir-Control-Sample-Hand.png"
+                     
+                ></p>
+<p>以控制來說算是很好的起手應該要 keep 吧，但如果現在跟你說這是備牌局、對手是紅黑 Scam 呢？如果對手一回 Grief + 假死術呢？<br>如果是我會想說：吃一回 Grief + 假死術就完了，我可能會硬著頭皮調度找 Subtlety。<br>或許有些人會覺得奇怪，在近代激進調度去找針對牌應該很正常吧，但那些牌幾乎都是 <code>只要出了就贏了</code> 的牌（例如打綠創二回拍 <a class="link"   href="https://cards.scryfall.io/large/front/8/e/8e7faede-f794-4bda-9d64-21390ba19266.jpg?1593812944" >Stony Silence <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>、打 Storm 時找 <a class="link"   href="https://cards.scryfall.io/large/front/a/5/a5c7d16b-8f4e-42b9-be24-3cb091932d7c.jpg?1562740759" >Damping Sphere
+ <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>、打紅白燒的時候找 <a class="link"   href="https://cards.scryfall.io/large/front/b/e/be8b1acf-dd87-42ca-ad19-c27d21066030.jpg?1592516120" >Leyline of Sanctity <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>），在這些對局中激進調度的懲罰比較小，畢竟對局的本質已經改變了。</p>
+<p>但在我們前面提到的對局中，激進調度找 Subtlety 的後果是什麼？<br>我們來分析一下，如果起手七張沒有 Subtlety，因此我們調度一去找 Subtlety。而通常來說調度一已經要硬接了，不然再調度下去起手噴兩張只是為了躲 scam，某方面來說對手還是達成了他的目的。</p>
+<p>再來說說針對牌好了，本質上來說 Scam 還是一套中速，如果對手沒有一回假死術、而是慢慢一回 <a class="link"   href="https://cards.scryfall.io/large/front/a/9/a9738cda-adb1-47fb-9f4c-ecd930228c4d.jpg?1681963138" >Ragavan, Nimble Pilferer <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>、二回 <a class="link"   href="https://cards.scryfall.io/large/front/d/c/dce5db87-4a78-4b8d-b5c2-918ccd1ba4e3.jpg?1626095427" >Dauthi Voidwalker <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>、三回 <a class="link"   href="https://cards.scryfall.io/large/front/2/4/24c0d87b-0049-4beb-b9cb-6f813b7aa7dc.jpg?1691108103" >Fable of the Mirror-Breaker <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 呢？我們該噴兩張手牌丟 Subtlety 在這些的一二費生物上嗎？感覺好虧但留著四費拍也很怪，只要對手不做呼魂 + 假死術幾乎不會丟 Subtlety 這張牌，換句話說我們浪費了一張手牌資源在一個不知道什麼時候才會發生的情況上。<br>但這都是迫不得已，誰想要浪費牌？如果不是環境會在我一塊地都還沒下的時候玩死我，誰想要帶這種牌？</p>
+<h2 id="曾經你改版我不管的紅燒"><a href="#曾經你改版我不管的紅燒" class="headerlink" title="曾經你改版我不管的紅燒"></a>曾經你改版我不管的紅燒</h2><p>在去年六七月左右吧，我曾經跟朋友有過這一段對話：</p>
+<blockquote>
+<p>朋友：你白藍控拆了，那接下來近代你想要打什麼啊？<br>我：不知道欸，試過 Rock 也試過醫生，但感覺都不太對，可能組一套紅白燒吧。不需要大量練牌、你改版我不管好爽喔，等哪天出了一點紅可以打臉四再來叫我。<br>朋友：確實，紅燒已經很久沒動過了，基本上就是針對環境改一點備牌而已。</p>
+</blockquote>
+<p>然後我就被打臉了，現在的紅白燒牌表跟過去差的可不是一點半點，<a class="link"   href="https://cards.scryfall.io/large/front/1/8/183ef738-0559-49ca-85b4-e6836521f203.jpg?1690817860" >Eidolon of the Great Revel <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 直接從牌組中消失，取而代之的是 <a class="link"   href="https://cards.scryfall.io/large/front/0/b/0b057eb7-8439-4d26-89df-c345ab2773e1.jpg?1604197684" >Roiling Vortex <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>；同時 <a class="link"   href="https://cards.scryfall.io/large/front/5/8/58f25737-a195-4763-bc23-b3c4d38b9e58.jpg?1673148879" >Lightning Helix <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 也消失了，全部改為 <a class="link"   href="https://cards.scryfall.io/large/front/8/0/8068a146-f6fe-46f3-a42e-822fbc3502e6.jpg?1561833692" >Skullcrack <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 這種針對性極強的牌。</p>
+<p>綜合以上兩點最大的改動來說，過去我們曾經靠著 Eidolon 不分敵我皆傷的牌、Lightning Helix 能拿來點生物解場。<br>過去的紅燒還沒有像是現在這麼無腦，什麼時候需要解一下場面讓 Eidolon 多撐一兩回合多打四點六點傷害、什麼時候需要先丟 Lightning Helix 補血、什麼時候要先丟 <a class="link"   href="https://cards.scryfall.io/large/front/4/3/437b0685-ed50-40b9-ae0d-ec2f75026474.jpg?1673484993" >Boros Charm <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 多搶傷害或是留著保 Eidolon、什麼時候生物要推什麼時候要 chump block 等等不同維度的問題。</p>
+<p>而現在呢？Eidolon 會被無數種無傷的方式解掉（<a class="link"   href="https://cards.scryfall.io/large/front/3/c/3c3ac3dd-35db-447f-8674-37b4680a1ef7.jpg?1673306500" >Leyline Binding <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>, <a class="link"   href="https://cards.scryfall.io/large/front/4/7/47a6234f-309f-4e03-9263-66da48b57153.jpg?1626094105" >Solitude <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>, <a class="link"   href="https://cards.scryfall.io/large/front/b/d/bd281158-8180-40b9-a5b7-03cfc712d81a.jpg?1626096626" >Fury <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>, <a class="link"   href="https://cards.scryfall.io/large/front/0/1/017c415b-d635-43c6-92b8-8c95d1c4ff8d.jpg?1562202072" >Force of Vigor <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> etc.）或是打兩點之後被解掉、多補三點血不是很重要反正等等要吃十點、多打一點也沒差反正等一下要被補七點了，諸如此類的情況每天都在發生。<br>不只紅白燒，還有更多的套牌牌同樣消失在時代的洪流中了，這裡也呼應前面幾段提到的 <a href="#%E5%A4%A7%E4%BA%BA%EF%BC%8C%E6%99%82%E4%BB%A3%E8%AE%8A%E4%BA%86">大人，時代變了</a>，在你還在劍法準備在江湖上展露鋒芒，對手卻拿著火槍對你說 <em>猶豫，就會敗北</em>。<br>刀劍基本上是沒辦法正面打贏槍砲的，要嘛也加入葦名劍法的行列大家一起不講武德、要嘛出招更陰險暗著來每次出手都往要害伸去。<br>最終紅白燒只能往後者走去，大家都在用力的前期付血做事、後期再補血，那我只好把不能補血的牌放滿；既然中後期打不贏，那我只好讓對局沒辦法發展到中後期。如果不是環境所逼，我也不想要這麼病態。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/images/Whats-Wrong-Modern/Burn_decklist.png"
+                     
+                ></p>
+<p>許多套牌都為了追上環境犧牲了套牌的某一部分，除了套牌主軸可能也犧牲了一些互動的彈性，導致對局的上下限拉的更大且更不好玩。</p>
+<h2 id="Scam-其實沒有你想像的那麼噁心"><a href="#Scam-其實沒有你想像的那麼噁心" class="headerlink" title="Scam 其實沒有你想像的那麼噁心"></a>Scam 其實沒有你想像的那麼噁心</h2><p>多數人覺得 Scam 噁心、破壞環境的點，幾乎都是一回 Grief 假死的狀況，感覺 Scam 每天都在一回 Grief 假死，但真的是這樣嗎？</p>
+<p>這邊我們擷取自 <a class="link"   href="https://76vezffd.blogspot.com/" >塞克斯的 MTG 日誌 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 的文章：<a class="link"   href="https://76vezffd.blogspot.com/2023/11/blog-post.html?m=1" >第一回合復活悲慟的機率是多少？ <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 中機率的部分，不過他的計算有點瑕疵，所以這邊重新計算一次：</p>
+<p>Decklist 一樣採用我之前寫的 Scam 文章中的牌表。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/images/Modern-Rakdos-Scam/decklist.png"
+                     
+                ></p>
+<p>其中 Grief 有四張、假死術有六張、其餘黑色牌有 15 張。<br>然後我們可以把一回 Scam 的起手定義為：</p>
+<ol>
+<li>Grief 至少一張</li>
+<li>假死術至少一張</li>
+<li>至少一張地牌</li>
+<li>至少一張其他黑色手牌（可以是 Grief&#x2F;假死術，或是其他任意的牌）</li>
+</ol>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/images/Whats-Wrong-Modern/Rakdos-Scam-Sample-Hand.png"
+                     
+                ></p>
+<p>然後因為把條件四放在一起算有點複雜，所以這邊再細分成四種狀態（當然所有起手都包含一塊地，我不相信有魔風玩家會在一個正常套牌裡接 0 地起手）：</p>
+<ol>
+<li>Grief&#x2F;假死術&#x2F;其他黑色牌各一</li>
+<li>Grief 兩張以上、Undying 一張、其他黑色牌零張</li>
+<li>Undying 兩張以上、Grief 一張、其他黑色牌零張</li>
+<li>Grief &amp; Undying 皆兩張以上、其他黑色牌零張</li>
+</ol>
+<p>這些狀態個別的機率分別為 14.55%, 0.51%, 0.93%, 0.17%，總和為 16.16%（機率計算結果皆來自文中的遊戲王起手計算機）。</p>
+<p>另外為了再次驗證機率的正確性，我們也順便重新算了一次起手調度二以內、可以一回 Grief + 假死術的機率。</p>
+<p>這邊一樣分成三種情況討論：</p>
+<ol>
+<li>起手能一回 Grief + 假死術</li>
+<li>起手沒有、調度一可以</li>
+<li>起手沒有、調度一沒有、調度二可以</li>
+</ol>
+<p>那他們的機率則是 16.16%, 13.55%, 11.36%，總和為 41.07%。</p>
+<p>所以也就是說，<strong>一回 Grief 假死的機率其實只有 16.16%。即便是調度兩次的情況下也只有 41.07%。</strong></p>
+<blockquote>
+<p>雖然調度三的情況下有超過 50% 的機率可以一回 Grief 假死，不過這種情況只要被解掉接著就只能看 top deck 吃飯了，除非是調度二沒地不然我個人是不會調度第三次。</p>
+</blockquote>
+<p>另外這邊也計算一下起手 Fury + 假死的機率為 13.82%，所以起手大概只有三成不到的機率會起手丟元素 evoke 假死，調度二以內的機率則是大概五成左右。（這邊的計算更複雜了，請允許我用大概的數值QAQ）。</p>
+<p>而且其實多數 Scam 玩家即便起手沒辦法一回 evoke 假死，如果手上能一二三費這樣順拍都還是會接。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/images/Whats-Wrong-Modern/winrate.png"
+                     
+                ></p>
+<p>而且另外就我們團隊中統計到十月底的資訊，其實 Scam 的非鏡像勝率也大概維持在 52% 上下，沒有像相中的高。<br>勝率最高的牌組是 Coffers 和 Living End，估計是出現比例較少，多數玩家不熟悉該如何應對。<br>但同時我們也會發現 Coffers 和 Living End 的中心偏移量較高，這種狀況可以解讀為在某些對局中的勝率呈現極端的狀況。<br>不過這些套牌在 meta 使用率沒有那麼高，數據量不多可能會有較多的統計誤差。</p>
+<blockquote>
+<p><code>中心偏移量</code>是將所有對局的勝率 -50 取絕對值後取平均。</p>
+</blockquote>
+<blockquote>
+<p>此數據來源： <a class="link"   href="https://mp.weixin.qq.com/s/QPjzwTe3STn7EilbkIl61Q" >【每周摩登】WOE第7周(上)：热闹的线下线上竞技之周！ <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+</blockquote>
+<p>綜合以上結果，只能得出 Scam 是一套很穩定的套牌，但沒有想像中的噁心。</p>
+<h2 id="可是教練，我不想打-Scam"><a href="#可是教練，我不想打-Scam" class="headerlink" title="可是教練，我不想打 Scam"></a>可是教練，我不想打 Scam</h2><p>除了打不贏就加入以外還有什麼其他的方法嗎？當然還是有，現在的 meta 也沒有到完全的被 Scam 統治（至少沒有過去 Hogaak, Eldrazi Winter, Splinter Twin, Storm 等時期那麼噁心），還是有一些其他的套牌如 Tron, Hardened Scales, Amulet Titan 也是有不錯的成績、各自也有針對 Scam 的方法，但就如同上面所說的犧牲了部分對局的有趣程度。</p>
+<p>另一方面台灣玩家內卷程度太高了，基本上不是 meta 前段的牌幾乎都不碰，更不用說某些純屬娛樂的近代套牌了，與其花錢被虐不如去組一套自己打了開心朋友也覺得有趣的 EDH。</p>
+<blockquote>
+<p>但並不是 <code>非 meta 前段的牌不碰</code> 是一件壞事，這代表台灣玩家都保有一定的求勝心，只是在環境向整體 meta 前端靠攏的時候，對局的有趣程度自然會下降。</p>
+</blockquote>
+<h2 id="目前的近代環境"><a href="#目前的近代環境" class="headerlink" title="目前的近代環境"></a>目前的近代環境</h2><p>雖然是這樣說，目前的近代環境可能還是所有賽制中最平衡的。<br>標準從肉勾被禁一直以來就是一灘死水，打的較人少、meta 套牌種類也較少，看來看去都是那幾套差不多的套牌在上位。<br>先驅更不用說，相信很多人前陣子才剛體驗完，運氣成分（走位）遠大於練習量，很多對局坐下丟完先後基本上就知道勝負了。<br>薪傳不用說了吧，做一發 <a class="link"   href="https://cards.scryfall.io/large/front/4/8/48070245-1370-4cf1-be15-d4e8a8b92ba8.jpg?1631586166" >Brainstorn <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 會被噴臉四點 + 送對面一隻 4&#x2F;4，或是我還沒抽到牌對手就一回殺我&#x2F;拍一張三定法球在那邊看我。<br>Pauper 則是有越來越多的強力 C 卡（更不用說有些 U 甚至是 R 被降級下放到 Pauper），整個賽場越來越混沌。</p>
+<div class="note-large default"><div class="notel-title"><p>Edit 2023 Nov 28</p>
+</div><div class="notel-content"><p>撰文的當下 LCI 尚未全卡表公布，並沒有想到 LCI 會對標準甚至先驅有這麼大的影響，過一陣子或許會有更多元的套牌出現在環境中。</p>
+</div></div>
+
+<p>但說是平衡，更多的是恐怖平衡。現在 meta 頂端的套牌幾乎都是兩個極端，要嘛像是 Scam, Burn, Rhinos, Hardened Scales 把節奏拉到極限，要嘛像是 Cascade Beanstalk&#x2F;Omnath, Mono-Black Coffers 這些靠著中期的資源補點將戰局拉到超級大後期。</p>
+<p>如同我在<a href="/Modern-Rakdos-Scam/#%E7%B5%90%E8%AA%9E">前一篇 Rakdos Scam 的文章</a>中有提到，現在老威的處境很尷尬，要動刀也不是不動刀也不是，動刀的話會打臉他們說一年動一次永恆賽制的決定，不動刀會讓很多玩家越來越討厭這個賽制。<br>印新牌感覺也不是一個好的方法，特別是在 MH3 之前這些新牌會出在標準系列，這些牌放在標準系列可能會太強出大事又要 ban 掉（但這樣出在標準系列幹嘛）。<br>目前可能最好的做法是 evoke 本身不能回應（施放完進場後直接犧牲，中間沒有回應點）；或是將 evoke 敘述接在其本身的 ETB 後面，在結算 ETB 完畢後沒辦法再回應假死術，必須要在結算之前回應（這樣至少在施放假死術之前不能掉牌）。<br>但這些感覺都是很治標不治本的方式，而且會間接 nerf 其他 evoke 牌組（例如 Pauper 的 Jeskai Ephemerate）。</p>
+<p>目前我感覺老威的態度是不肯認錯，早在 PT LTR 後的那次公告就要預防性羈押一些牌（例如 Grief 或 Orcish Bowmasters），雖然我們都知道老威還有一個 LTR 的包要賣所以基本上不會動到 LTR 的東西，不過這樣也是近一步體現了老威最近糟糕的政策，為了不打自己臉只能裝死催眠大家現在環境很好沒事，硬撐到明年 Q2 的 MH3，用更高強度的牌張壓過這幾個問題。<br>但說真的用 MH3 壓過 MH2 真的不是一個好的作法，這樣也沒有解決問題，只是大家的攻擊目標從 Scam 換成另一個套牌而已。</p>
+<p>至少目前還沒有出現像是 Pauper 在 2021 年八九月時發生的搞笑事件：幾乎整個 Pauper Challenge 的參賽者都拿 60 基本地的套牌參賽，以抗議當時遲遲不處理的 <a class="link"   href="https://cards.scryfall.io/large/front/b/3/b34f0ac1-6894-4761-b62c-b85d927acf09.jpg?1631126059" >Chatterstorm <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 套牌。<br>這算是一件好事吧……<br>這還算是一件好事嗎？<br>我不確定，或許過幾年我們會開始懷念現在的 meta，「想當年 Scam 還橫行無阻的時候，不像是現在……」也說不定。<br>但希望這種日子不會到來，並且環境可以更加的有趣一些。</p>
+<div class="note-large red"><div class="notel-title"><p>12&#x2F;4 B&amp;R Announcement</p>
+</div><div class="notel-content"><p>就在撰文後，有官方來源表示 12&#x2F;4 會有新的禁卡表公告。<br>究竟我才寫完沒多久的文章會不會就這樣付之東流呢？<br>讓我們期待一下吧。<br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/images/Whats-Wrong-Modern/12-4-RB.png"
+                     
+                ></p>
+</div></div>]]></content>
+      <categories>
+        <category>Others</category>
+        <category>Modern</category>
+      </categories>
+      <tags>
+        <tag>MiohitoKiri5474</tag>
+        <tag>Modern</tag>
       </tags>
   </entry>
   <entry>
