@@ -20,33 +20,6 @@
   </url>
   
   <url>
-    <loc>https://guildmagesforum.tw/Pioneer-Naya-Dinosaurs/</loc>
-    
-    <lastmod>2023-11-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://guildmagesforum.tw/Pioneer-Twins-Choices/</loc>
-    
-    <lastmod>2023-11-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://guildmagesforum.tw/Pioneer-Rakdos-Midrange/</loc>
-    
-    <lastmod>2023-11-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://guildmagesforum.tw/Saga-and-Moon/</loc>
     
     <lastmod>2023-11-28</lastmod>
@@ -146,24 +119,6 @@
   </url>
   
   <url>
-    <loc>https://guildmagesforum.tw/Pioneer-Meta-Inspection-20231007/</loc>
-    
-    <lastmod>2023-11-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://guildmagesforum.tw/Pioneer-Meta-Inspection-PreMIT-4/</loc>
-    
-    <lastmod>2023-11-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://guildmagesforum.tw/Rule-Damage-and-Lose-Life/</loc>
     
     <lastmod>2023-11-28</lastmod>
@@ -218,7 +173,7 @@
   </url>
   
   <url>
-    <loc>https://guildmagesforum.tw/WOE-Red/</loc>
+    <loc>https://guildmagesforum.tw/WOE-Green/</loc>
     
     <lastmod>2023-11-28</lastmod>
     
@@ -227,7 +182,7 @@
   </url>
   
   <url>
-    <loc>https://guildmagesforum.tw/WOE-Green/</loc>
+    <loc>https://guildmagesforum.tw/WOE-Red/</loc>
     
     <lastmod>2023-11-28</lastmod>
     
@@ -416,6 +371,33 @@
   </url>
   
   <url>
+    <loc>https://guildmagesforum.tw/Pioneer-Naya-Dinosaurs/</loc>
+    
+    <lastmod>2023-11-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://guildmagesforum.tw/Pioneer-Rakdos-Midrange/</loc>
+    
+    <lastmod>2023-11-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://guildmagesforum.tw/Pioneer-Twins-Choices/</loc>
+    
+    <lastmod>2023-11-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://guildmagesforum.tw/LCI-Black/</loc>
     
     <lastmod>2023-11-28</lastmod>
@@ -516,6 +498,24 @@
   
   <url>
     <loc>https://guildmagesforum.tw/Pioneer-Introduction/</loc>
+    
+    <lastmod>2023-11-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://guildmagesforum.tw/Pioneer-Meta-Inspection-20231007/</loc>
+    
+    <lastmod>2023-11-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://guildmagesforum.tw/Pioneer-Meta-Inspection-PreMIT-4/</loc>
     
     <lastmod>2023-11-28</lastmod>
     
