@@ -399,6 +399,148 @@
       </tags>
   </entry>
   <entry>
+    <title>屍變是如何運作的？</title>
+    <url>/How-Animate-Dead-Works/</url>
+    <content><![CDATA[<h2 id="Before-We-Start"><a href="#Before-We-Start" class="headerlink" title="Before We Start"></a>Before We Start</h2><p><a class="link"   href="https://scryfall.com/card/ema/78/animate-dead" >屍變 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>+<a class="link"   href="https://scryfall.com/card/ema/154/worldgorger-dragon" >吞世龍 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>的Combo相信常玩EDH的玩家都不陌生，問起屍變最後會產出怎樣的結果也不難回答；但如果要問屍變這張牌具體是怎麼運作的？挖墳的過程中發生了甚麼？估計有不少人就答不上來了。</p>
+<p>以一個挖墳效應來看，屍變的文字敘述毫無疑問是數一數二長的，這麼長的文字敘述也變相反應了這張牌為了實現看似簡單的結果，用了多麼複雜的流程才能保證規則的嚴謹性。這期我們就來看看屍變完整的運作原理，以及其中又有哪些可以應用或干預的操作點。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.imgur.com/oOPExz6.jpg"
+                      alt="封面"
+                ></p>
+<hr>
+<h2 id="屍變規則解讀"><a href="#屍變規則解讀" class="headerlink" title="屍變規則解讀"></a>屍變規則解讀</h2><p>首先讓我們來看看<a class="link"   href="https://scryfall.com/card/ema/78/animate-dead" >屍變 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>這張牌的卡面是怎麼描述它的效果的：</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cards.scryfall.io/large/front/7/b/7b83536a-efa4-41f3-9424-75b0efc0aea5.jpg?1580014163"
+                      alt="屍變"
+                ></p>
+<blockquote>
+<p>結界～靈氣</p>
+<p>貼附於墳場的生物牌</p>
+<p>當屍變進戰場時，若它在戰場上，則它失去「貼附於墳場中的生物牌」且獲得「貼附於以屍變放進戰場的生物」。將所貼附的生物牌在你的操控下移回戰場，並將屍變貼附於其上。當屍變離開戰場時，該生物之操控者犧牲該生物。</p>
+<p>所貼附的生物得-1&#x2F;-0。</p>
+</blockquote>
+<p>本篇文章想討論的重點是在挖墳效應上，因此讓生物得-1&#x2F;-0的效果後面我們就不再討論了。</p>
+<p>首先屍變從第一句話開始就非常獨特，也就是貼附的對象是「墳場的生物牌」這點，雖然這看起來很反直覺，但其實是完全遵守靈氣規則定義的，靈氣在描述可以貼附的對象時是這麼說的：</p>
+<ul>
+<li>303.4 有些結界有「靈氣」副類別，靈氣進入戰場貼附於物件或玩家上，靈氣所能貼附的定義由其結附關鍵字異能決定，其他效應也可以限制一個永久物被貼附。</li>
+<li>303.4a 靈氣咒語需要指定目標，且其目標會受到其貼附異能的定義。</li>
+</ul>
+<p>所謂「物件」並不局限於在場上的永久物，在其他任何區域的牌也都是物件的一種，在規則上靈氣想貼附於其上是沒有任何問題的。至於貼附於玩家的靈氣，各種詛咒就是最常見的例子。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.imgur.com/DVFyFas.jpg"
+                      alt="詛咒"
+                ></p>
+<p>靈氣施放時需要目標，屍變施放時的目標是一張墳場中的生物牌，現在施放成功，屍變進場了，此時的屍變雖然在場上，但所貼附的對象還是那張墳場中的生物牌，接著屍變開始處理它的進場異能。</p>
+<blockquote>
+<p>當屍變進戰場時，若它在戰場上，則它失去「貼附於墳場中的生物牌」且獲得「貼附於以屍變放進戰場的生物」。將所貼附的生物牌在你的操控下移回戰場，並將屍變貼附於其上。當屍變離開戰場時，該生物之操控者犧牲該生物。</p>
+</blockquote>
+<p>首先屍變做的第一件事是「重新定義自己的貼附對象」，因為當你把生物挖進戰場後，便不符合「貼附於墳場的生物牌」這條規則了，靈氣在狀態動作時，若發現沒有貼附在指定的對象上，便會置入墳場，具體規則如下：</p>
+<ul>
+<li>704.5m 若一個靈氣貼附於不合法之物件或玩家上，或未貼附於任何物件或玩家上，則該靈氣被置入其擁有者的墳場。</li>
+</ul>
+<p>修改完自己的貼附對象後，才正式將對象生物拉進戰場，並且重新將屍變貼附到已經在戰場上的那個生物。看到這裡有些讀者或許會有個疑問，屍變重新定義貼附對象時，那個生物依舊還在墳場裡，那豈不是會有一瞬間的貼附對象不合法導致靈氣自爆？ 這關係到狀態動作的基本定義之一：</p>
+<ul>
+<li>704.4 與觸發式異能不同，狀態動作不會注意到在咒語或異能結算過程中發生的事情。</li>
+</ul>
+<p>也就是說，在屍變的進場異能結算的過程中，狀態動作不會做任何檢查，哪怕是過程一度貼附對象不合法也沒事，只要這異能結算後的狀態是合法的就好。</p>
+<p>而屍變進場異能的最後一步，是創造一條延遲觸發式異能：「當屍變離開戰場時，該生物之操控者犧牲該生物」，也正是這條能力誕生了幾個與屍變有關的無限Combo。</p>
+<hr>
+<h2 id="屍變規則釋疑"><a href="#屍變規則釋疑" class="headerlink" title="屍變規則釋疑"></a>屍變規則釋疑</h2><p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.imgur.com/KZRjZAx.jpg"
+                      alt="拆"
+                ></p>
+<blockquote>
+<p><a class="link"   href="https://scryfall.com/card/war/175/return-to-nature" >回返自然 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>：選擇一項～<br>•消滅目標神器。<br>•消滅目標結界。<br>•將目標牌從墳墓場放逐。</p>
+</blockquote>
+<p>回返自然一張卡就湊齊了四種與屍變的互動方式：</p>
+<p>1.屍變挖墳完成後，消滅屍變：<br>這時會觸發「當屍變離開戰場時，該生物之操控者犧牲該生物」這條異能，等效也是解掉這隻生物了。</p>
+<p>2.回應屍變施放，放逐在墳場的目標生物牌：<br>這個毫無疑問，屍變會因為失去咒語目標導致規則反擊，無法成功結算。</p>
+<p>3.回應屍變進場異能，消滅屍變：<br>如果在生物還沒挖回戰場時就將屍變解掉，那麼後續將不會發生任何事情，那張生物牌不會返回戰場。</p>
+<p>4.回應屍變進場異能，放逐在墳場的目標生物牌：<br>其實這與3幾乎大同小異，都是阻止了那張生物返回戰場，屍變進場異能結算時會因為自己沒有合法的貼附對象而自爆。</p>
+<p>假設屍變指定的目標生物牌是你稍後也有能力從墳場挖回來的，你不希望他離開墳場，但也不希望一度進入對手戰場（或許是像<a class="link"   href="https://scryfall.com/card/one/196/atraxa-grand-unifier" >大一統飛將亞崔夏 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>一樣有著強力進場異能），這時就可以考慮用方案3。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.imgur.com/pIlL77O.jpg"
+                      alt="屍變帷幕"
+                ></p>
+<blockquote>
+<p><a class="link"   href="https://scryfall.com/card/cmr/452/simic-sky-swallower" >析米克蔽空霸 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>：帷幕（此卡不能成為咒語或異能的目標）。</p>
+</blockquote>
+<p>帷幕雖然會讓此卡不能成為咒語或異能的目標，但這能力僅限在場上時才會生效，而屍變以析米克蔽空霸為目標施放時，析米克蔽空霸還在墳場，因此這施放完全合法，另外帷幕只會阻止「成為目標」這件事，如果靈氣是用其他方式直接貼附在身上帷幕是管不著的，屍變進場異能的後半段正屬此類。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.imgur.com/mttU6nM.jpg"
+                      alt="屍變反黑"
+                ></p>
+<blockquote>
+<p><a class="link"   href="https://scryfall.com/card/m20/6/apostle-of-purifying-light" >淨光宗徒 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>：反黑保護（此卡不能被黑色的東西阻擋、指定為目標、造成傷害、貼附。）</p>
+</blockquote>
+<p>反黑保護比起上面的帷幕又更複查了一點，首先在成為目標這點上，反黑保護同樣僅限在場上時才能發揮作用，所以以墳場的淨光宗徒為目標施放屍變是合法的，但是淨光宗徒進入戰場後反黑保護就開始作用了，屍變會因為貼附對象不合法，而被狀態動作放進墳場，並且觸發屍變的延遲觸發式異能：「當屍變離開戰場時，該生物之操控者犧牲該生物」，這條異能結算時淨光宗徒便會被犧牲。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.imgur.com/mNRViQm.jpg"
+                      alt="屍變ETB"
+                ></p>
+<blockquote>
+<p><a class="link"   href="https://scryfall.com/card/one/10/elesh-norn-mother-of-machines" >機械之母艾蕾儂 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>：進戰場的永久物不會觸發由對手操控之永久物的異能。</p>
+</blockquote>
+<p>屍變的能力屬於進場異能，這之中自然是有動手腳的空間，好比說你在對手操控機械之母艾蕾儂的情況下，以你墳場中的生物為目標施放屍變，屍變進場後不會觸發進場異能，你的生物無法返回戰場，但屍變也不會因此離場，這屍變因為沒有被進場異能改寫規則而保留了最原始的能力，就是一個留在場上，並貼附於在墳場中那隻生物的靈氣。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.imgur.com/FkERjsJ.jpg"
+                      alt="屍變康"
+                ></p>
+<blockquote>
+<p><a class="link"   href="https://scryfall.com/card/m20/77/tales-end" >傳說終結 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>：反擊目標起動式異能，觸發式異能或傳奇咒語。</p>
+</blockquote>
+<p>當然，把屍變的進場觸發式異能康掉也能達到跟上面艾蕾儂的案例一樣的結果。</p>
+<hr>
+<h2 id="屍變組合技"><a href="#屍變組合技" class="headerlink" title="屍變組合技"></a>屍變組合技</h2><p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.imgur.com/dCIzTBn.jpg"
+                      alt="屍變吞世龍"
+                ></p>
+<blockquote>
+<p><a class="link"   href="https://scryfall.com/card/ema/154/worldgorger-dragon" >吞世龍 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>：<br>當吞世龍進戰場時，放逐所有由你操控的其他永久物。<br>當吞世龍離開戰場時，將所放逐的牌在其擁有者的操控下移回戰場。</p>
+</blockquote>
+<p>屍變+吞世龍是屍變最具代表性的Combo，以墳場的吞世龍為目標施放屍變，吞世龍進場後放逐自己的其他永久物，包含屍變，屍變離場時又會觸發自己的離場異能，將吞世龍犧牲，而吞世龍離場時會將所有被它放逐的永久物移回戰場，包含屍變，未經選擇目標的施放而直接進場的靈氣，會依據規則303.4f貼附在指定合法對象上，這時選擇的對象是前面已經犧牲在墳場的吞世龍，由此開始新一輪的輪迴，這是個可以構成可控無限Loop的迴圈。</p>
+<p>而在每次Loop中，除了無限觸發進場與離場異能外，每次被吞世龍放回戰場的永久物都是以自然狀態進場，對於非躺進的地牌來說，你可以先產出費用再讓地被放逐，之後重新回場時又能再產費一次，以此構成無限費用。當你想停止這個迴圈時，只要選擇把屍變的貼附對象換成吞世龍以外的墳場中生物牌即可。</p>
+<ul>
+<li>303.4f 如果靈氣並非以結算靈氣咒語的方式，而是以其他方式在一位玩家的操控下進戰場，並且將它放置進戰場的效應並未指定它將貼附在哪裡，則於此靈氣進場時，將它放置進戰場的玩家指定將它貼附在哪個物件或玩家上。該玩家必須依據該靈氣的貼附異能和其他效應，來選擇可合法貼附的物件或玩家。</li>
+</ul>
+<p>不過要注意，吞世龍的進場與離場是兩段獨立的觸發式異能，如果你的吞世龍在進場異能尚未結算時就被回應去除，這麼一來離場異能會先結算，但此時你還沒有任何牌被吞世龍放逐過，自然也不會有任何東西進場，之後進場異能結算放逐你的其他所有永久物，這些永久物（包含地牌）就從此卡在放逐區了。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.imgur.com/3znshas.jpg"
+                      alt="屍變貓"
+                ></p>
+<blockquote>
+<p><a class="link"   href="https://scryfall.com/card/c17/65/leonin-relic-warder" >獅族遺寶護衛 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>：<br>當獅族遺寶護衛進戰場時，你可以放逐目標神器或結界。<br>當獅族遺寶護衛離開戰場時，將所放逐的牌在其擁有者的操控下移回戰場。</p>
+</blockquote>
+<p>獅族遺寶護衛本質上與吞世龍類似，都是反覆的放逐屍變又把屍變放進戰場，不過不像吞世龍哪麼華麗每次都拉著自己所有永久物一起表演，獅族遺寶護衛就是與屍變兩張卡在那反覆恆跳而已，這個過程中會觸發無限的永久物進場與離場異能，想要轉成致勝點還要第三張配合牌，例如配上<a class="link"   href="https://scryfall.com/card/ugin/216/altar-of-the-brood" >族群祭壇 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>變成無限磨牌。</p>
+<hr>
+<h2 id="結語"><a href="#結語" class="headerlink" title="結語"></a>結語</h2><p>屍變是一張從Alpha版開始便登場的元老級牌張，MTG早年的規則與現今有著相當大的出入，嚴謹性也不如現在完備，為了在滿足現今規則框架的前提下又不違背最初的設計宗旨，屍變的規則敘述就變得宛如閱讀測驗一樣異常的長，然而也正因如此而誕生了許多有趣的應用，在理解了屍變的運作細節後也會發現一些過去從未設想的操作干預點，這些正是深入研究卡片規則背後的樂趣。</p>
+]]></content>
+      <tags>
+        <tag>JruMTG</tag>
+        <tag>MTG Rule</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>如何描述一個物件？</title>
     <url>/How-to-Describe-an-Object/</url>
     <content><![CDATA[<h2 id="Before-We-Start"><a href="#Before-We-Start" class="headerlink" title="Before We Start"></a>Before We Start</h2><p><a class="link"   href="https://scryfall.com/card/mh2/295/cursed-totem" >詛咒圖騰像 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>跟<a class="link"   href="https://scryfall.com/card/rav/31/suppression-field" >抑制力場 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>是否能干擾忍術？<br><a class="link"   href="https://scryfall.com/card/woe/163/blossoming-tortoise" >繁花龜 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>的地啟動費用減少異能對手牌中的<a class="link"   href="https://scryfall.com/card/neo/266/boseiju-who-endures" >曆祚母聖樹 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>是否有效？<br>這些都取決於牌張是怎麼描述它所能影響的物件的，本期我們就來看看MTG是怎麼定義對物件的描述規則吧！</p>
@@ -2129,79 +2271,6 @@
       </tags>
   </entry>
   <entry>
-    <title>自然之道：標準大綠猛襲</title>
-    <url>/Standard-Mono-Green-Stompy/</url>
-    <content><![CDATA[<h2 id="Before-We-Start"><a href="#Before-We-Start" class="headerlink" title="Before We Start"></a>Before We Start</h2><p>以大肌肌決勝負的傳統牌型大綠猛襲自《凱德海姆》退標後就一蹶不振到現在，儘管有<a class="link"   href="https://cards.scryfall.io/large/front/4/7/47f7d313-8333-41fe-8bfa-c96774dac228.jpg" >返生的波祿卡諾斯 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>、綠魔判<a class="link"   href="https://cards.scryfall.io/large/front/e/2/e24b5289-d3b5-4b4d-bb37-69bf2c3b48bc.jpg" >弗霖凱 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>等強力單卡加持，在黑魔判領軍的一眾強力黑色牌面前仍是力有不逮，《依夏蘭迷窟》以恐龍為首的強力綠色單卡能帶來多少轉機呢？</p>
-<h2 id="林地鬥士：單卡解析"><a href="#林地鬥士：單卡解析" class="headerlink" title="林地鬥士：單卡解析"></a>林地鬥士：單卡解析</h2><p>首先我們來聊聊為何大綠在《凱德海姆》退標後會沒落？一方面是生物體格失去了以往的優勢，在《萬界歸一》發售前甚至沒有一張四費以下的純綠生物能和<a class="link"   href="https://cards.scryfall.io/large/front/d/6/d67be074-cdd4-41d9-ac89-0a0456c4e4b2.jpg" >啟示天災希歐蕊 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>較量，《萬界歸一》推出的<a class="link"   href="https://cards.scryfall.io/large/front/d/d/dd4bcb42-f5cf-410d-8f20-1006b0f92abe.jpg" >蛻變斯賓駝登 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>依舊被同系列的<a class="link"   href="https://cards.scryfall.io/large/front/8/6/86b0edaf-8cfd-4508-9554-6f0fddc2dfc4.jpg" >深沼翼邪鬼 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>壓在地上摩擦，說是弱人一截也不為過。</p>
-<p>另一方面是優質去除的退標。一費單向互鬥的<a class="link"   href="https://cards.scryfall.io/large/front/3/4/3401a24b-f2b4-43c8-a3f0-477dcb3c1148.jpg" >暴雪爭鬥 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>的退標讓綠色失去高效去除手段，即便有瞬間的<a class="link"   href="https://cards.scryfall.io/large/front/9/5/95a39b26-8c83-40ea-b492-036251366d73.jpg?1673307819" >甩尾掃擊 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>及<a class="link"   href="https://cards.scryfall.io/large/front/b/1/b11ddc71-6469-49bf-bb6d-46e0cd188434.jpg" >蛇聖拒斥 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>可用，但體格沒優勢根本沒得發揮，更別提還有自帶死觸的<a class="link"   href="https://cards.scryfall.io/large/front/b/2/b2bf633e-0470-4b87-99ed-5ad1683b0954.jpg" >戮日者格莉莎 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>、<a class="link"   href="https://cards.scryfall.io/large/front/d/6/d67be074-cdd4-41d9-ac89-0a0456c4e4b2.jpg" >啟示天災希歐蕊 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>與要求傷害來源犧牲永久物的<a class="link"   href="https://cards.scryfall.io/large/front/6/7/67a9c38b-6b3a-4056-a87c-fc48446f854f.jpg" >非瑞克西亞抹煞獸 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>存在。</p>
-<p>那麼新系列究竟提供給大綠套牌哪方面的補強呢？新的核心單卡為《依夏蘭迷窟》新登場的<a class="link"   href="https://cards.scryfall.io/large/front/6/3/632e5635-a9bc-473a-a885-02e1fd258f7b.jpg" >好鬥顱鎚龍 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>、<a class="link"   href="https://cards.scryfall.io/large/front/4/5/45f763af-5a6a-404c-8e8c-4dbed71277bc.jpg" >巨身迅猛龍 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>與《艾卓荒野》的<a class="link"   href="https://cards.scryfall.io/large/front/d/e/de21251f-40bf-4f7e-9e85-9033207a788f.jpg" >野境遇襲 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://i.imgur.com/riIFDa3.png"
-                     
-                ></p>
-<p><a class="link"   href="https://cards.scryfall.io/large/front/6/3/632e5635-a9bc-473a-a885-02e1fd258f7b.jpg" >好鬥顱鎚龍 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>的強悍相信不用多提，三費6&#x2F;6光站著就有十足的威嚇效果，力壓所有其他四費以下生物的體格也是綠色去除的最佳基底，很多時候甚至不用在意鐵頭功副作用，直接揍過去就對了。<a class="link"   href="https://cards.scryfall.io/large/front/4/5/45f763af-5a6a-404c-8e8c-4dbed71277bc.jpg" >巨身迅猛龍 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>擁有5&#x2F;3的高打點，每回合額外提供的兩點綠協助你施放更高費的咒語以及轉化永久物，不管是完全體<a class="link"   href="https://cards.scryfall.io/large/front/1/d/1dd64b1d-bcef-476c-bf0b-3ac7df7cbed3.jpg" >昇華物靈師妮莎 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>、<a class="link"   href="https://cards.scryfall.io/large/back/5/f/5fdf5fc4-69c8-4a59-9095-c2feefb64371.jpg" >沃文森貝西摩斯 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>還是<a class="link"   href="https://cards.scryfall.io/large/back/e/2/e24b5289-d3b5-4b4d-bb37-69bf2c3b48bc.jpg" >大進化 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>都不是夢想。上述兩張都是中費生物的強力增援，<a class="link"   href="https://cards.scryfall.io/large/front/d/e/de21251f-40bf-4f7e-9e85-9033207a788f.jpg" >野境遇襲 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>則是純綠去除的超絕強化，既是單向去除又能從牌庫頂五張中撈出一張生物施放，即使對手沒生物也不會變成死牌。套牌列表如下：</p>
-<p><a class="link"   href="https://www.mtggoldfish.com/deck/5997677#paper" >套牌列表 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://i.imgur.com/TxEcSoL.png"
-                     
-                ></p>
-<p>說完核心元件後來談談其他組件。既然魔法力會自己噴出來又不能放冰箱，那麼我們就需要具備需要大把魔力啟動能力、本身體格又不差的優質打點，<a class="link"   href="https://cards.scryfall.io/large/front/4/7/47f7d313-8333-41fe-8bfa-c96774dac228.jpg" >返生的波祿卡諾斯 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> &#x2F;&#x2F; <a class="link"   href="https://cards.scryfall.io/large/back/4/7/47f7d313-8333-41fe-8bfa-c96774dac228.jpg" >破壞引擎波祿卡諾斯 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>、<a class="link"   href="https://cards.scryfall.io/large/front/5/f/5fdf5fc4-69c8-4a59-9095-c2feefb64371.jpg" >沃文森異獸 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> &#x2F;&#x2F; <a class="link"   href="https://cards.scryfall.io/large/back/5/f/5fdf5fc4-69c8-4a59-9095-c2feefb64371.jpg" >沃文森貝西摩斯 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>、<a class="link"   href="https://cards.scryfall.io/large/front/e/2/e24b5289-d3b5-4b4d-bb37-69bf2c3b48bc.jpg" >弗霖凱 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> &#x2F;&#x2F; <a class="link"   href="https://cards.scryfall.io/large/back/e/2/e24b5289-d3b5-4b4d-bb37-69bf2c3b48bc.jpg" >大進化 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>皆是一時之選。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://i.imgur.com/oaZuBi5.png"
-                     
-                ><br><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://i.imgur.com/DwzJcq0.png"
-                     
-                ><br><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://i.imgur.com/ckloD6C.png"
-                     
-                ></p>
-<p>除了轉化牌外，還有<a class="link"   href="https://cards.scryfall.io/large/front/1/d/1dd64b1d-bcef-476c-bf0b-3ac7df7cbed3.jpg" >昇華物靈師妮莎 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>、<a class="link"   href="https://cards.scryfall.io/large/front/4/7/475d7e9a-759d-4523-a5cd-2a6e0d1b14ea.jpg" >刺藤傭獸 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>這兩個可以七費施放的咒語。<a class="link"   href="https://cards.scryfall.io/large/front/4/7/475d7e9a-759d-4523-a5cd-2a6e0d1b14ea.jpg" >刺藤傭獸 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>前期可以作為2費加速曲線使用，完整施放的<a class="link"   href="https://cards.scryfall.io/large/front/1/d/1dd64b1d-bcef-476c-bf0b-3ac7df7cbed3.jpg" >昇華物靈師妮莎 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>則能直接開大給予對手致命一擊。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://i.imgur.com/oQ2TvJB.png"
-                     
-                ></p>
-<p>前期曲線我們選用<a class="link"   href="https://cards.scryfall.io/large/front/4/c/4ce4b7bc-636b-4723-a7c1-2c859f333492.jpg" >岩洞井斥候 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>、<a class="link"   href="https://cards.scryfall.io/large/front/b/4/b4066d41-0eb5-4dfd-93ec-2f242c3a27a4.jpg" >繁根林探路人 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>填補。雖然<a class="link"   href="https://cards.scryfall.io/large/front/4/c/4ce4b7bc-636b-4723-a7c1-2c859f333492.jpg" >岩洞井斥候 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>不是最優打點，不過應該沒人會期待綠色一費生物的戰力吧？他的任務是過牌確保不卡地，即使不是地也會成為2&#x2F;2打點。<a class="link"   href="https://cards.scryfall.io/large/front/b/4/b4066d41-0eb5-4dfd-93ec-2f242c3a27a4.jpg" >繁根林探路人 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>則是打點兼濾牌加速，貼上<a class="link"   href="https://cards.scryfall.io/large/front/4/0/40b0813a-38cf-4a07-81d6-91d24af8b549.jpg" >勇猛無畏 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>就能充分發揮能力。最後再配些<a class="link"   href="https://cards.scryfall.io/large/front/7/1/712a0640-d9c8-46fc-b38b-bf20a40fa902.jpg" >野林開路 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>補充去除與調整地牌。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://i.imgur.com/VAg4LP1.png"
-                     
-                ></p>
-<h2 id="巨身爭鬥：實戰演示"><a href="#巨身爭鬥：實戰演示" class="headerlink" title="巨身爭鬥：實戰演示"></a>巨身爭鬥：實戰演示</h2><div class="video-container"><iframe src="https://www.youtube.com/embed/cnVcGCy6Rp8" frameborder="0" loading="lazy" allowfullscreen></iframe></div>
-
-<p>大綠的風格就是這麼簡單暴力，靠著體格優勢直接把對手壓在地摩擦。備牌局倒也沒什麼好說的，萬能的<a class="link"   href="https://cards.scryfall.io/large/front/5/b/5b647377-d47e-4630-8ccc-933ef6127880.jpg" >安息鰭背龍 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>、強力打手<a class="link"   href="https://cards.scryfall.io/large/front/0/f/0fb52b44-da5f-4f7a-a6c2-7924b855e051.jpg?1675957171" >霸蛛暴龍 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>與<a class="link"   href="https://cards.scryfall.io/large/front/6/d/6d9f51dd-0393-4b3c-bea5-8f74634ab0e5.jpg" >破誡巨魔圖倫 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>、防點殺的<a class="link"   href="https://cards.scryfall.io/large/front/c/7/c7b362a5-382a-4016-b4f2-aa7b683354c4.jpg" >泰瓦奮戰 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>、增強續戰力的<a class="link"   href="https://cards.scryfall.io/large/front/c/0/c0cdeaba-fc21-44e6-bf99-aa1ff379401b.jpg" >永誌世界樹 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>與<a class="link"   href="https://cards.scryfall.io/large/front/5/f/5f80764e-8fa2-44e2-84c6-3b55f1c40ee7.jpg" >進軍山德拉 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>、應對起動式異能的<a class="link"   href="https://cards.scryfall.io/large/front/e/f/ef4ecff2-49e9-468f-81f0-5acb596055a4.jpg" >穿髓金針 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>等家常良品。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://i.imgur.com/iTxsZHH.png"
-                     
-                ><br><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://i.imgur.com/zVC3Nr5.png"
-                     
-                ></p>
-<h2 id="結論"><a href="#結論" class="headerlink" title="結論"></a>結論</h2><p>現行版本的大綠和過往最大的不同在於中後期的延伸性。以往多半依靠3-5費的優勢體格決勝，更大費的生物或強力起動式異能常常是看得到吃不到，不是關鍵時刻卡費用就是勉強做出來卻吃到殺牌直接下課，不然就是抽了滿手互鬥卻因為沒生物而無計可施，這些問題在目前的版本都得到解決方案，玩起來相當有滿足感。</p>
-]]></content>
-      <tags>
-        <tag>Standard</tag>
-        <tag>JerobaMTG</tag>
-        <tag>LCI</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>跳鼠來襲：標準黑白老鼠</title>
     <url>/Standard-Orzhov-Sacrifice-Nezumi/</url>
     <content><![CDATA[<h2 id="Before-We-Start"><a href="#Before-We-Start" class="headerlink" title="Before We Start"></a>Before We Start</h2><p>《萬界歸一》登場的<a class="link"   href="https://cards.scryfall.io/large/front/f/1/f16e282d-8941-46c7-a974-c05b6f73c964.jpg" >鼠王卡魯蒙 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>讓人覺得老鼠種族套好像有搞頭，但當時標準內的環境支援相當有限，很難組成有競爭力的種族套牌。現在《艾卓荒野》<a class="link"   href="https://cards.scryfall.io/large/front/7/2/729877be-4894-4ef5-9e60-de8a8fb2bdc0.jpg" >水渠鼠霸捷敏王 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>帶領一眾小弟登場，這回有沒有機會呢？就讓我們來試試看吧！</p>
@@ -2318,6 +2387,79 @@
       <tags>
         <tag>Standard</tag>
         <tag>JerobaMTG</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>自然之道：標準大綠猛襲</title>
+    <url>/Standard-Mono-Green-Stompy/</url>
+    <content><![CDATA[<h2 id="Before-We-Start"><a href="#Before-We-Start" class="headerlink" title="Before We Start"></a>Before We Start</h2><p>以大肌肌決勝負的傳統牌型大綠猛襲自《凱德海姆》退標後就一蹶不振到現在，儘管有<a class="link"   href="https://cards.scryfall.io/large/front/4/7/47f7d313-8333-41fe-8bfa-c96774dac228.jpg" >返生的波祿卡諾斯 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>、綠魔判<a class="link"   href="https://cards.scryfall.io/large/front/e/2/e24b5289-d3b5-4b4d-bb37-69bf2c3b48bc.jpg" >弗霖凱 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>等強力單卡加持，在黑魔判領軍的一眾強力黑色牌面前仍是力有不逮，《依夏蘭迷窟》以恐龍為首的強力綠色單卡能帶來多少轉機呢？</p>
+<h2 id="林地鬥士：單卡解析"><a href="#林地鬥士：單卡解析" class="headerlink" title="林地鬥士：單卡解析"></a>林地鬥士：單卡解析</h2><p>首先我們來聊聊為何大綠在《凱德海姆》退標後會沒落？一方面是生物體格失去了以往的優勢，在《萬界歸一》發售前甚至沒有一張四費以下的純綠生物能和<a class="link"   href="https://cards.scryfall.io/large/front/d/6/d67be074-cdd4-41d9-ac89-0a0456c4e4b2.jpg" >啟示天災希歐蕊 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>較量，《萬界歸一》推出的<a class="link"   href="https://cards.scryfall.io/large/front/d/d/dd4bcb42-f5cf-410d-8f20-1006b0f92abe.jpg" >蛻變斯賓駝登 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>依舊被同系列的<a class="link"   href="https://cards.scryfall.io/large/front/8/6/86b0edaf-8cfd-4508-9554-6f0fddc2dfc4.jpg" >深沼翼邪鬼 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>壓在地上摩擦，說是弱人一截也不為過。</p>
+<p>另一方面是優質去除的退標。一費單向互鬥的<a class="link"   href="https://cards.scryfall.io/large/front/3/4/3401a24b-f2b4-43c8-a3f0-477dcb3c1148.jpg" >暴雪爭鬥 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>的退標讓綠色失去高效去除手段，即便有瞬間的<a class="link"   href="https://cards.scryfall.io/large/front/9/5/95a39b26-8c83-40ea-b492-036251366d73.jpg?1673307819" >甩尾掃擊 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>及<a class="link"   href="https://cards.scryfall.io/large/front/b/1/b11ddc71-6469-49bf-bb6d-46e0cd188434.jpg" >蛇聖拒斥 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>可用，但體格沒優勢根本沒得發揮，更別提還有自帶死觸的<a class="link"   href="https://cards.scryfall.io/large/front/b/2/b2bf633e-0470-4b87-99ed-5ad1683b0954.jpg" >戮日者格莉莎 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>、<a class="link"   href="https://cards.scryfall.io/large/front/d/6/d67be074-cdd4-41d9-ac89-0a0456c4e4b2.jpg" >啟示天災希歐蕊 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>與要求傷害來源犧牲永久物的<a class="link"   href="https://cards.scryfall.io/large/front/6/7/67a9c38b-6b3a-4056-a87c-fc48446f854f.jpg" >非瑞克西亞抹煞獸 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>存在。</p>
+<p>那麼新系列究竟提供給大綠套牌哪方面的補強呢？新的核心單卡為《依夏蘭迷窟》新登場的<a class="link"   href="https://cards.scryfall.io/large/front/6/3/632e5635-a9bc-473a-a885-02e1fd258f7b.jpg" >好鬥顱鎚龍 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>、<a class="link"   href="https://cards.scryfall.io/large/front/4/5/45f763af-5a6a-404c-8e8c-4dbed71277bc.jpg" >巨身迅猛龍 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>與《艾卓荒野》的<a class="link"   href="https://cards.scryfall.io/large/front/d/e/de21251f-40bf-4f7e-9e85-9033207a788f.jpg" >野境遇襲 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.imgur.com/riIFDa3.png"
+                     
+                ></p>
+<p><a class="link"   href="https://cards.scryfall.io/large/front/6/3/632e5635-a9bc-473a-a885-02e1fd258f7b.jpg" >好鬥顱鎚龍 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>的強悍相信不用多提，三費6&#x2F;6光站著就有十足的威嚇效果，力壓所有其他四費以下生物的體格也是綠色去除的最佳基底，很多時候甚至不用在意鐵頭功副作用，直接揍過去就對了。<a class="link"   href="https://cards.scryfall.io/large/front/4/5/45f763af-5a6a-404c-8e8c-4dbed71277bc.jpg" >巨身迅猛龍 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>擁有5&#x2F;3的高打點，每回合額外提供的兩點綠協助你施放更高費的咒語以及轉化永久物，不管是完全體<a class="link"   href="https://cards.scryfall.io/large/front/1/d/1dd64b1d-bcef-476c-bf0b-3ac7df7cbed3.jpg" >昇華物靈師妮莎 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>、<a class="link"   href="https://cards.scryfall.io/large/back/5/f/5fdf5fc4-69c8-4a59-9095-c2feefb64371.jpg" >沃文森貝西摩斯 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>還是<a class="link"   href="https://cards.scryfall.io/large/back/e/2/e24b5289-d3b5-4b4d-bb37-69bf2c3b48bc.jpg" >大進化 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>都不是夢想。上述兩張都是中費生物的強力增援，<a class="link"   href="https://cards.scryfall.io/large/front/d/e/de21251f-40bf-4f7e-9e85-9033207a788f.jpg" >野境遇襲 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>則是純綠去除的超絕強化，既是單向去除又能從牌庫頂五張中撈出一張生物施放，即使對手沒生物也不會變成死牌。套牌列表如下：</p>
+<p><a class="link"   href="https://www.mtggoldfish.com/deck/5997677#paper" >套牌列表 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.imgur.com/TxEcSoL.png"
+                     
+                ></p>
+<p>說完核心元件後來談談其他組件。既然魔法力會自己噴出來又不能放冰箱，那麼我們就需要具備需要大把魔力啟動能力、本身體格又不差的優質打點，<a class="link"   href="https://cards.scryfall.io/large/front/4/7/47f7d313-8333-41fe-8bfa-c96774dac228.jpg" >返生的波祿卡諾斯 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> &#x2F;&#x2F; <a class="link"   href="https://cards.scryfall.io/large/back/4/7/47f7d313-8333-41fe-8bfa-c96774dac228.jpg" >破壞引擎波祿卡諾斯 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>、<a class="link"   href="https://cards.scryfall.io/large/front/5/f/5fdf5fc4-69c8-4a59-9095-c2feefb64371.jpg" >沃文森異獸 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> &#x2F;&#x2F; <a class="link"   href="https://cards.scryfall.io/large/back/5/f/5fdf5fc4-69c8-4a59-9095-c2feefb64371.jpg" >沃文森貝西摩斯 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>、<a class="link"   href="https://cards.scryfall.io/large/front/e/2/e24b5289-d3b5-4b4d-bb37-69bf2c3b48bc.jpg" >弗霖凱 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> &#x2F;&#x2F; <a class="link"   href="https://cards.scryfall.io/large/back/e/2/e24b5289-d3b5-4b4d-bb37-69bf2c3b48bc.jpg" >大進化 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>皆是一時之選。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.imgur.com/oaZuBi5.png"
+                     
+                ><br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.imgur.com/DwzJcq0.png"
+                     
+                ><br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.imgur.com/ckloD6C.png"
+                     
+                ></p>
+<p>除了轉化牌外，還有<a class="link"   href="https://cards.scryfall.io/large/front/1/d/1dd64b1d-bcef-476c-bf0b-3ac7df7cbed3.jpg" >昇華物靈師妮莎 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>、<a class="link"   href="https://cards.scryfall.io/large/front/4/7/475d7e9a-759d-4523-a5cd-2a6e0d1b14ea.jpg" >刺藤傭獸 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>這兩個可以七費施放的咒語。<a class="link"   href="https://cards.scryfall.io/large/front/4/7/475d7e9a-759d-4523-a5cd-2a6e0d1b14ea.jpg" >刺藤傭獸 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>前期可以作為2費加速曲線使用，完整施放的<a class="link"   href="https://cards.scryfall.io/large/front/1/d/1dd64b1d-bcef-476c-bf0b-3ac7df7cbed3.jpg" >昇華物靈師妮莎 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>則能直接開大給予對手致命一擊。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.imgur.com/oQ2TvJB.png"
+                     
+                ></p>
+<p>前期曲線我們選用<a class="link"   href="https://cards.scryfall.io/large/front/4/c/4ce4b7bc-636b-4723-a7c1-2c859f333492.jpg" >岩洞井斥候 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>、<a class="link"   href="https://cards.scryfall.io/large/front/b/4/b4066d41-0eb5-4dfd-93ec-2f242c3a27a4.jpg" >繁根林探路人 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>填補。雖然<a class="link"   href="https://cards.scryfall.io/large/front/4/c/4ce4b7bc-636b-4723-a7c1-2c859f333492.jpg" >岩洞井斥候 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>不是最優打點，不過應該沒人會期待綠色一費生物的戰力吧？他的任務是過牌確保不卡地，即使不是地也會成為2&#x2F;2打點。<a class="link"   href="https://cards.scryfall.io/large/front/b/4/b4066d41-0eb5-4dfd-93ec-2f242c3a27a4.jpg" >繁根林探路人 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>則是打點兼濾牌加速，貼上<a class="link"   href="https://cards.scryfall.io/large/front/4/0/40b0813a-38cf-4a07-81d6-91d24af8b549.jpg" >勇猛無畏 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>就能充分發揮能力。最後再配些<a class="link"   href="https://cards.scryfall.io/large/front/7/1/712a0640-d9c8-46fc-b38b-bf20a40fa902.jpg" >野林開路 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>補充去除與調整地牌。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.imgur.com/VAg4LP1.png"
+                     
+                ></p>
+<h2 id="巨身爭鬥：實戰演示"><a href="#巨身爭鬥：實戰演示" class="headerlink" title="巨身爭鬥：實戰演示"></a>巨身爭鬥：實戰演示</h2><div class="video-container"><iframe src="https://www.youtube.com/embed/cnVcGCy6Rp8" frameborder="0" loading="lazy" allowfullscreen></iframe></div>
+
+<p>大綠的風格就是這麼簡單暴力，靠著體格優勢直接把對手壓在地摩擦。備牌局倒也沒什麼好說的，萬能的<a class="link"   href="https://cards.scryfall.io/large/front/5/b/5b647377-d47e-4630-8ccc-933ef6127880.jpg" >安息鰭背龍 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>、強力打手<a class="link"   href="https://cards.scryfall.io/large/front/0/f/0fb52b44-da5f-4f7a-a6c2-7924b855e051.jpg?1675957171" >霸蛛暴龍 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>與<a class="link"   href="https://cards.scryfall.io/large/front/6/d/6d9f51dd-0393-4b3c-bea5-8f74634ab0e5.jpg" >破誡巨魔圖倫 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>、防點殺的<a class="link"   href="https://cards.scryfall.io/large/front/c/7/c7b362a5-382a-4016-b4f2-aa7b683354c4.jpg" >泰瓦奮戰 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>、增強續戰力的<a class="link"   href="https://cards.scryfall.io/large/front/c/0/c0cdeaba-fc21-44e6-bf99-aa1ff379401b.jpg" >永誌世界樹 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>與<a class="link"   href="https://cards.scryfall.io/large/front/5/f/5f80764e-8fa2-44e2-84c6-3b55f1c40ee7.jpg" >進軍山德拉 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>、應對起動式異能的<a class="link"   href="https://cards.scryfall.io/large/front/e/f/ef4ecff2-49e9-468f-81f0-5acb596055a4.jpg" >穿髓金針 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>等家常良品。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.imgur.com/iTxsZHH.png"
+                     
+                ><br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.imgur.com/zVC3Nr5.png"
+                     
+                ></p>
+<h2 id="結論"><a href="#結論" class="headerlink" title="結論"></a>結論</h2><p>現行版本的大綠和過往最大的不同在於中後期的延伸性。以往多半依靠3-5費的優勢體格決勝，更大費的生物或強力起動式異能常常是看得到吃不到，不是關鍵時刻卡費用就是勉強做出來卻吃到殺牌直接下課，不然就是抽了滿手互鬥卻因為沒生物而無計可施，這些問題在目前的版本都得到解決方案，玩起來相當有滿足感。</p>
+]]></content>
+      <tags>
+        <tag>Standard</tag>
+        <tag>JerobaMTG</tag>
+        <tag>LCI</tag>
       </tags>
   </entry>
   <entry>
