@@ -1179,7 +1179,7 @@
 </ul>
 <p>總之這是一套很多小細節的牌組，多打多看<del>多被虐</del>幫助很大。</p>
 <p>另外由於他有相當高的容錯率（像是攻防算錯，用 <a class="link"   href="https://cards.scryfall.io/large/front/0/5/050a604e-6146-4e2e-88a5-863ecb3dfa1f.jpg?1654567293" >March of Wretched Sorrow <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 多補幾點血）、相當高的資源量（戒指抽戒指抽戒指，好蒿爽爽）、鏡子&#x2F;卡恩工具箱（留錯東西了還有機會補救），所以即便是打錯牌還是有機會贏的，懲罰沒有像是其他近代套牌那麼嚴重，成為我最推薦的 MITQ 套牌選擇。</p>
-<p>另外這套牌也可以混藍，多放張 <a class="link"   href="https://cards.scryfall.io/large/front/7/5/7536292c-da25-41c8-ba28-1e35758a7f3d.jpg?1562761537" >Minamo, School at Water’s Edge <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 可以重複站戒指，扣一次血抽兩次牌，轉爛。<br>也可以額外放點康如 <a class="link"   href="https://cards.scryfall.io/large/front/3/5/35b8a9db-d126-4038-abb1-74dcc5b36136.jpg?1673147403" >Spell Pierce <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 之類的東西，不過混藍就沒辦法帶那麼多炸地了，因為有可能會被自己的調色卡爛，只能帶找地地、電震地這些一定有辦法調色的東西。</p>
+<p>另外這套牌也可以混藍，多放張 <a class="link"   href="https://cards.scryfall.io/large/front/7/5/7536292c-da25-41c8-ba28-1e35758a7f3d.jpg?1562761537" >Minamo, School at Water’s Edge <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 可以重複站戒指，扣一次血抽兩次牌，賺爛。<br>也可以額外放點康如 <a class="link"   href="https://cards.scryfall.io/large/front/3/5/35b8a9db-d126-4038-abb1-74dcc5b36136.jpg?1673147403" >Spell Pierce <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 之類的東西，不過混藍就沒辦法帶那麼多炸地了，因為有可能會被自己的調色卡爛，只能帶找地地、電震地這些一定有辦法調色的東西。</p>
 <h3 id="結語"><a href="#結語" class="headerlink" title="結語"></a>結語</h3><p>純黑柯幫金庫是一套自己打過一次就會很想組的套牌，自從之前跟朋友借來打到 Q 之後，現在正認真思考要不要把 scam 那邊多的料出一出，換成四張戒指和卡恩工具箱。<br>LTR 之前的版本還會帶 <a class="link"   href="https://cards.scryfall.io/large/front/3/5/35af9d5c-4449-4549-b549-c3ba4a67dee0.jpg?1685368727" >Invoke Despair <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>，不過自從多了三張 Swampcycling 、四張弓箭手、三張戒指之後可說是完全沒空間放這些東西了呢……<br>總之目前我也打到四張 SLD Showdown 的 <a class="link"   href="https://cards.scryfall.io/large/front/b/f/bf954e31-015a-4646-8333-40225c847bcc.jpg?1687348300" >Death’s Shadow <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 了，所以接下來的 MITQ 應該只有起床有空 + 有香菇需求 + 沒有懶懶病發作才會去打了吧w<br>目前還在物色 MIT #4 的 Modern Open 要打什麼，目前還是考慮借這套來打，不過套牌主人可能需要把部分的料移動到先驅那邊。</p>
 <p>最後希望大家都能在接下來的 MITQ 中斬獲資格！</p>
 ]]></content>
@@ -2271,6 +2271,79 @@
       </tags>
   </entry>
   <entry>
+    <title>自然之道：標準大綠猛襲</title>
+    <url>/Standard-Mono-Green-Stompy/</url>
+    <content><![CDATA[<h2 id="Before-We-Start"><a href="#Before-We-Start" class="headerlink" title="Before We Start"></a>Before We Start</h2><p>以大肌肌決勝負的傳統牌型大綠猛襲自《凱德海姆》退標後就一蹶不振到現在，儘管有<a class="link"   href="https://cards.scryfall.io/large/front/4/7/47f7d313-8333-41fe-8bfa-c96774dac228.jpg" >返生的波祿卡諾斯 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>、綠魔判<a class="link"   href="https://cards.scryfall.io/large/front/e/2/e24b5289-d3b5-4b4d-bb37-69bf2c3b48bc.jpg" >弗霖凱 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>等強力單卡加持，在黑魔判領軍的一眾強力黑色牌面前仍是力有不逮，《依夏蘭迷窟》以恐龍為首的強力綠色單卡能帶來多少轉機呢？</p>
+<h2 id="林地鬥士：單卡解析"><a href="#林地鬥士：單卡解析" class="headerlink" title="林地鬥士：單卡解析"></a>林地鬥士：單卡解析</h2><p>首先我們來聊聊為何大綠在《凱德海姆》退標後會沒落？一方面是生物體格失去了以往的優勢，在《萬界歸一》發售前甚至沒有一張四費以下的純綠生物能和<a class="link"   href="https://cards.scryfall.io/large/front/d/6/d67be074-cdd4-41d9-ac89-0a0456c4e4b2.jpg" >啟示天災希歐蕊 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>較量，《萬界歸一》推出的<a class="link"   href="https://cards.scryfall.io/large/front/d/d/dd4bcb42-f5cf-410d-8f20-1006b0f92abe.jpg" >蛻變斯賓駝登 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>依舊被同系列的<a class="link"   href="https://cards.scryfall.io/large/front/8/6/86b0edaf-8cfd-4508-9554-6f0fddc2dfc4.jpg" >深沼翼邪鬼 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>壓在地上摩擦，說是弱人一截也不為過。</p>
+<p>另一方面是優質去除的退標。一費單向互鬥的<a class="link"   href="https://cards.scryfall.io/large/front/3/4/3401a24b-f2b4-43c8-a3f0-477dcb3c1148.jpg" >暴雪爭鬥 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>的退標讓綠色失去高效去除手段，即便有瞬間的<a class="link"   href="https://cards.scryfall.io/large/front/9/5/95a39b26-8c83-40ea-b492-036251366d73.jpg?1673307819" >甩尾掃擊 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>及<a class="link"   href="https://cards.scryfall.io/large/front/b/1/b11ddc71-6469-49bf-bb6d-46e0cd188434.jpg" >蛇聖拒斥 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>可用，但體格沒優勢根本沒得發揮，更別提還有自帶死觸的<a class="link"   href="https://cards.scryfall.io/large/front/b/2/b2bf633e-0470-4b87-99ed-5ad1683b0954.jpg" >戮日者格莉莎 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>、<a class="link"   href="https://cards.scryfall.io/large/front/d/6/d67be074-cdd4-41d9-ac89-0a0456c4e4b2.jpg" >啟示天災希歐蕊 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>與要求傷害來源犧牲永久物的<a class="link"   href="https://cards.scryfall.io/large/front/6/7/67a9c38b-6b3a-4056-a87c-fc48446f854f.jpg" >非瑞克西亞抹煞獸 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>存在。</p>
+<p>那麼新系列究竟提供給大綠套牌哪方面的補強呢？新的核心單卡為《依夏蘭迷窟》新登場的<a class="link"   href="https://cards.scryfall.io/large/front/6/3/632e5635-a9bc-473a-a885-02e1fd258f7b.jpg" >好鬥顱鎚龍 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>、<a class="link"   href="https://cards.scryfall.io/large/front/4/5/45f763af-5a6a-404c-8e8c-4dbed71277bc.jpg" >巨身迅猛龍 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>與《艾卓荒野》的<a class="link"   href="https://cards.scryfall.io/large/front/d/e/de21251f-40bf-4f7e-9e85-9033207a788f.jpg" >野境遇襲 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.imgur.com/riIFDa3.png"
+                     
+                ></p>
+<p><a class="link"   href="https://cards.scryfall.io/large/front/6/3/632e5635-a9bc-473a-a885-02e1fd258f7b.jpg" >好鬥顱鎚龍 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>的強悍相信不用多提，三費6&#x2F;6光站著就有十足的威嚇效果，力壓所有其他四費以下生物的體格也是綠色去除的最佳基底，很多時候甚至不用在意鐵頭功副作用，直接揍過去就對了。<a class="link"   href="https://cards.scryfall.io/large/front/4/5/45f763af-5a6a-404c-8e8c-4dbed71277bc.jpg" >巨身迅猛龍 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>擁有5&#x2F;3的高打點，每回合額外提供的兩點綠協助你施放更高費的咒語以及轉化永久物，不管是完全體<a class="link"   href="https://cards.scryfall.io/large/front/1/d/1dd64b1d-bcef-476c-bf0b-3ac7df7cbed3.jpg" >昇華物靈師妮莎 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>、<a class="link"   href="https://cards.scryfall.io/large/back/5/f/5fdf5fc4-69c8-4a59-9095-c2feefb64371.jpg" >沃文森貝西摩斯 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>還是<a class="link"   href="https://cards.scryfall.io/large/back/e/2/e24b5289-d3b5-4b4d-bb37-69bf2c3b48bc.jpg" >大進化 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>都不是夢想。上述兩張都是中費生物的強力增援，<a class="link"   href="https://cards.scryfall.io/large/front/d/e/de21251f-40bf-4f7e-9e85-9033207a788f.jpg" >野境遇襲 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>則是純綠去除的超絕強化，既是單向去除又能從牌庫頂五張中撈出一張生物施放，即使對手沒生物也不會變成死牌。套牌列表如下：</p>
+<p><a class="link"   href="https://www.mtggoldfish.com/deck/5997677#paper" >套牌列表 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.imgur.com/TxEcSoL.png"
+                     
+                ></p>
+<p>說完核心元件後來談談其他組件。既然魔法力會自己噴出來又不能放冰箱，那麼我們就需要具備需要大把魔力啟動能力、本身體格又不差的優質打點，<a class="link"   href="https://cards.scryfall.io/large/front/4/7/47f7d313-8333-41fe-8bfa-c96774dac228.jpg" >返生的波祿卡諾斯 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> &#x2F;&#x2F; <a class="link"   href="https://cards.scryfall.io/large/back/4/7/47f7d313-8333-41fe-8bfa-c96774dac228.jpg" >破壞引擎波祿卡諾斯 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>、<a class="link"   href="https://cards.scryfall.io/large/front/5/f/5fdf5fc4-69c8-4a59-9095-c2feefb64371.jpg" >沃文森異獸 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> &#x2F;&#x2F; <a class="link"   href="https://cards.scryfall.io/large/back/5/f/5fdf5fc4-69c8-4a59-9095-c2feefb64371.jpg" >沃文森貝西摩斯 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>、<a class="link"   href="https://cards.scryfall.io/large/front/e/2/e24b5289-d3b5-4b4d-bb37-69bf2c3b48bc.jpg" >弗霖凱 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> &#x2F;&#x2F; <a class="link"   href="https://cards.scryfall.io/large/back/e/2/e24b5289-d3b5-4b4d-bb37-69bf2c3b48bc.jpg" >大進化 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>皆是一時之選。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.imgur.com/oaZuBi5.png"
+                     
+                ><br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.imgur.com/DwzJcq0.png"
+                     
+                ><br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.imgur.com/ckloD6C.png"
+                     
+                ></p>
+<p>除了轉化牌外，還有<a class="link"   href="https://cards.scryfall.io/large/front/1/d/1dd64b1d-bcef-476c-bf0b-3ac7df7cbed3.jpg" >昇華物靈師妮莎 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>、<a class="link"   href="https://cards.scryfall.io/large/front/4/7/475d7e9a-759d-4523-a5cd-2a6e0d1b14ea.jpg" >刺藤傭獸 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>這兩個可以七費施放的咒語。<a class="link"   href="https://cards.scryfall.io/large/front/4/7/475d7e9a-759d-4523-a5cd-2a6e0d1b14ea.jpg" >刺藤傭獸 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>前期可以作為2費加速曲線使用，完整施放的<a class="link"   href="https://cards.scryfall.io/large/front/1/d/1dd64b1d-bcef-476c-bf0b-3ac7df7cbed3.jpg" >昇華物靈師妮莎 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>則能直接開大給予對手致命一擊。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.imgur.com/oQ2TvJB.png"
+                     
+                ></p>
+<p>前期曲線我們選用<a class="link"   href="https://cards.scryfall.io/large/front/4/c/4ce4b7bc-636b-4723-a7c1-2c859f333492.jpg" >岩洞井斥候 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>、<a class="link"   href="https://cards.scryfall.io/large/front/b/4/b4066d41-0eb5-4dfd-93ec-2f242c3a27a4.jpg" >繁根林探路人 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>填補。雖然<a class="link"   href="https://cards.scryfall.io/large/front/4/c/4ce4b7bc-636b-4723-a7c1-2c859f333492.jpg" >岩洞井斥候 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>不是最優打點，不過應該沒人會期待綠色一費生物的戰力吧？他的任務是過牌確保不卡地，即使不是地也會成為2&#x2F;2打點。<a class="link"   href="https://cards.scryfall.io/large/front/b/4/b4066d41-0eb5-4dfd-93ec-2f242c3a27a4.jpg" >繁根林探路人 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>則是打點兼濾牌加速，貼上<a class="link"   href="https://cards.scryfall.io/large/front/4/0/40b0813a-38cf-4a07-81d6-91d24af8b549.jpg" >勇猛無畏 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>就能充分發揮能力。最後再配些<a class="link"   href="https://cards.scryfall.io/large/front/7/1/712a0640-d9c8-46fc-b38b-bf20a40fa902.jpg" >野林開路 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>補充去除與調整地牌。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.imgur.com/VAg4LP1.png"
+                     
+                ></p>
+<h2 id="巨身爭鬥：實戰演示"><a href="#巨身爭鬥：實戰演示" class="headerlink" title="巨身爭鬥：實戰演示"></a>巨身爭鬥：實戰演示</h2><div class="video-container"><iframe src="https://www.youtube.com/embed/cnVcGCy6Rp8" frameborder="0" loading="lazy" allowfullscreen></iframe></div>
+
+<p>大綠的風格就是這麼簡單暴力，靠著體格優勢直接把對手壓在地摩擦。備牌局倒也沒什麼好說的，萬能的<a class="link"   href="https://cards.scryfall.io/large/front/5/b/5b647377-d47e-4630-8ccc-933ef6127880.jpg" >安息鰭背龍 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>、強力打手<a class="link"   href="https://cards.scryfall.io/large/front/0/f/0fb52b44-da5f-4f7a-a6c2-7924b855e051.jpg?1675957171" >霸蛛暴龍 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>與<a class="link"   href="https://cards.scryfall.io/large/front/6/d/6d9f51dd-0393-4b3c-bea5-8f74634ab0e5.jpg" >破誡巨魔圖倫 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>、防點殺的<a class="link"   href="https://cards.scryfall.io/large/front/c/7/c7b362a5-382a-4016-b4f2-aa7b683354c4.jpg" >泰瓦奮戰 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>、增強續戰力的<a class="link"   href="https://cards.scryfall.io/large/front/c/0/c0cdeaba-fc21-44e6-bf99-aa1ff379401b.jpg" >永誌世界樹 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>與<a class="link"   href="https://cards.scryfall.io/large/front/5/f/5f80764e-8fa2-44e2-84c6-3b55f1c40ee7.jpg" >進軍山德拉 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>、應對起動式異能的<a class="link"   href="https://cards.scryfall.io/large/front/e/f/ef4ecff2-49e9-468f-81f0-5acb596055a4.jpg" >穿髓金針 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>等家常良品。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.imgur.com/iTxsZHH.png"
+                     
+                ><br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.imgur.com/zVC3Nr5.png"
+                     
+                ></p>
+<h2 id="結論"><a href="#結論" class="headerlink" title="結論"></a>結論</h2><p>現行版本的大綠和過往最大的不同在於中後期的延伸性。以往多半依靠3-5費的優勢體格決勝，更大費的生物或強力起動式異能常常是看得到吃不到，不是關鍵時刻卡費用就是勉強做出來卻吃到殺牌直接下課，不然就是抽了滿手互鬥卻因為沒生物而無計可施，這些問題在目前的版本都得到解決方案，玩起來相當有滿足感。</p>
+]]></content>
+      <tags>
+        <tag>Standard</tag>
+        <tag>JerobaMTG</tag>
+        <tag>LCI</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>跳鼠來襲：標準黑白老鼠</title>
     <url>/Standard-Orzhov-Sacrifice-Nezumi/</url>
     <content><![CDATA[<h2 id="Before-We-Start"><a href="#Before-We-Start" class="headerlink" title="Before We Start"></a>Before We Start</h2><p>《萬界歸一》登場的<a class="link"   href="https://cards.scryfall.io/large/front/f/1/f16e282d-8941-46c7-a974-c05b6f73c964.jpg" >鼠王卡魯蒙 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>讓人覺得老鼠種族套好像有搞頭，但當時標準內的環境支援相當有限，很難組成有競爭力的種族套牌。現在《艾卓荒野》<a class="link"   href="https://cards.scryfall.io/large/front/7/2/729877be-4894-4ef5-9e60-de8a8fb2bdc0.jpg" >水渠鼠霸捷敏王 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>帶領一眾小弟登場，這回有沒有機會呢？就讓我們來試試看吧！</p>
@@ -2387,79 +2460,6 @@
       <tags>
         <tag>Standard</tag>
         <tag>JerobaMTG</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>自然之道：標準大綠猛襲</title>
-    <url>/Standard-Mono-Green-Stompy/</url>
-    <content><![CDATA[<h2 id="Before-We-Start"><a href="#Before-We-Start" class="headerlink" title="Before We Start"></a>Before We Start</h2><p>以大肌肌決勝負的傳統牌型大綠猛襲自《凱德海姆》退標後就一蹶不振到現在，儘管有<a class="link"   href="https://cards.scryfall.io/large/front/4/7/47f7d313-8333-41fe-8bfa-c96774dac228.jpg" >返生的波祿卡諾斯 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>、綠魔判<a class="link"   href="https://cards.scryfall.io/large/front/e/2/e24b5289-d3b5-4b4d-bb37-69bf2c3b48bc.jpg" >弗霖凱 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>等強力單卡加持，在黑魔判領軍的一眾強力黑色牌面前仍是力有不逮，《依夏蘭迷窟》以恐龍為首的強力綠色單卡能帶來多少轉機呢？</p>
-<h2 id="林地鬥士：單卡解析"><a href="#林地鬥士：單卡解析" class="headerlink" title="林地鬥士：單卡解析"></a>林地鬥士：單卡解析</h2><p>首先我們來聊聊為何大綠在《凱德海姆》退標後會沒落？一方面是生物體格失去了以往的優勢，在《萬界歸一》發售前甚至沒有一張四費以下的純綠生物能和<a class="link"   href="https://cards.scryfall.io/large/front/d/6/d67be074-cdd4-41d9-ac89-0a0456c4e4b2.jpg" >啟示天災希歐蕊 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>較量，《萬界歸一》推出的<a class="link"   href="https://cards.scryfall.io/large/front/d/d/dd4bcb42-f5cf-410d-8f20-1006b0f92abe.jpg" >蛻變斯賓駝登 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>依舊被同系列的<a class="link"   href="https://cards.scryfall.io/large/front/8/6/86b0edaf-8cfd-4508-9554-6f0fddc2dfc4.jpg" >深沼翼邪鬼 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>壓在地上摩擦，說是弱人一截也不為過。</p>
-<p>另一方面是優質去除的退標。一費單向互鬥的<a class="link"   href="https://cards.scryfall.io/large/front/3/4/3401a24b-f2b4-43c8-a3f0-477dcb3c1148.jpg" >暴雪爭鬥 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>的退標讓綠色失去高效去除手段，即便有瞬間的<a class="link"   href="https://cards.scryfall.io/large/front/9/5/95a39b26-8c83-40ea-b492-036251366d73.jpg?1673307819" >甩尾掃擊 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>及<a class="link"   href="https://cards.scryfall.io/large/front/b/1/b11ddc71-6469-49bf-bb6d-46e0cd188434.jpg" >蛇聖拒斥 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>可用，但體格沒優勢根本沒得發揮，更別提還有自帶死觸的<a class="link"   href="https://cards.scryfall.io/large/front/b/2/b2bf633e-0470-4b87-99ed-5ad1683b0954.jpg" >戮日者格莉莎 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>、<a class="link"   href="https://cards.scryfall.io/large/front/d/6/d67be074-cdd4-41d9-ac89-0a0456c4e4b2.jpg" >啟示天災希歐蕊 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>與要求傷害來源犧牲永久物的<a class="link"   href="https://cards.scryfall.io/large/front/6/7/67a9c38b-6b3a-4056-a87c-fc48446f854f.jpg" >非瑞克西亞抹煞獸 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>存在。</p>
-<p>那麼新系列究竟提供給大綠套牌哪方面的補強呢？新的核心單卡為《依夏蘭迷窟》新登場的<a class="link"   href="https://cards.scryfall.io/large/front/6/3/632e5635-a9bc-473a-a885-02e1fd258f7b.jpg" >好鬥顱鎚龍 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>、<a class="link"   href="https://cards.scryfall.io/large/front/4/5/45f763af-5a6a-404c-8e8c-4dbed71277bc.jpg" >巨身迅猛龍 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>與《艾卓荒野》的<a class="link"   href="https://cards.scryfall.io/large/front/d/e/de21251f-40bf-4f7e-9e85-9033207a788f.jpg" >野境遇襲 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://i.imgur.com/riIFDa3.png"
-                     
-                ></p>
-<p><a class="link"   href="https://cards.scryfall.io/large/front/6/3/632e5635-a9bc-473a-a885-02e1fd258f7b.jpg" >好鬥顱鎚龍 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>的強悍相信不用多提，三費6&#x2F;6光站著就有十足的威嚇效果，力壓所有其他四費以下生物的體格也是綠色去除的最佳基底，很多時候甚至不用在意鐵頭功副作用，直接揍過去就對了。<a class="link"   href="https://cards.scryfall.io/large/front/4/5/45f763af-5a6a-404c-8e8c-4dbed71277bc.jpg" >巨身迅猛龍 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>擁有5&#x2F;3的高打點，每回合額外提供的兩點綠協助你施放更高費的咒語以及轉化永久物，不管是完全體<a class="link"   href="https://cards.scryfall.io/large/front/1/d/1dd64b1d-bcef-476c-bf0b-3ac7df7cbed3.jpg" >昇華物靈師妮莎 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>、<a class="link"   href="https://cards.scryfall.io/large/back/5/f/5fdf5fc4-69c8-4a59-9095-c2feefb64371.jpg" >沃文森貝西摩斯 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>還是<a class="link"   href="https://cards.scryfall.io/large/back/e/2/e24b5289-d3b5-4b4d-bb37-69bf2c3b48bc.jpg" >大進化 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>都不是夢想。上述兩張都是中費生物的強力增援，<a class="link"   href="https://cards.scryfall.io/large/front/d/e/de21251f-40bf-4f7e-9e85-9033207a788f.jpg" >野境遇襲 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>則是純綠去除的超絕強化，既是單向去除又能從牌庫頂五張中撈出一張生物施放，即使對手沒生物也不會變成死牌。套牌列表如下：</p>
-<p><a class="link"   href="https://www.mtggoldfish.com/deck/5997677#paper" >套牌列表 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://i.imgur.com/TxEcSoL.png"
-                     
-                ></p>
-<p>說完核心元件後來談談其他組件。既然魔法力會自己噴出來又不能放冰箱，那麼我們就需要具備需要大把魔力啟動能力、本身體格又不差的優質打點，<a class="link"   href="https://cards.scryfall.io/large/front/4/7/47f7d313-8333-41fe-8bfa-c96774dac228.jpg" >返生的波祿卡諾斯 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> &#x2F;&#x2F; <a class="link"   href="https://cards.scryfall.io/large/back/4/7/47f7d313-8333-41fe-8bfa-c96774dac228.jpg" >破壞引擎波祿卡諾斯 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>、<a class="link"   href="https://cards.scryfall.io/large/front/5/f/5fdf5fc4-69c8-4a59-9095-c2feefb64371.jpg" >沃文森異獸 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> &#x2F;&#x2F; <a class="link"   href="https://cards.scryfall.io/large/back/5/f/5fdf5fc4-69c8-4a59-9095-c2feefb64371.jpg" >沃文森貝西摩斯 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>、<a class="link"   href="https://cards.scryfall.io/large/front/e/2/e24b5289-d3b5-4b4d-bb37-69bf2c3b48bc.jpg" >弗霖凱 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> &#x2F;&#x2F; <a class="link"   href="https://cards.scryfall.io/large/back/e/2/e24b5289-d3b5-4b4d-bb37-69bf2c3b48bc.jpg" >大進化 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>皆是一時之選。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://i.imgur.com/oaZuBi5.png"
-                     
-                ><br><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://i.imgur.com/DwzJcq0.png"
-                     
-                ><br><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://i.imgur.com/ckloD6C.png"
-                     
-                ></p>
-<p>除了轉化牌外，還有<a class="link"   href="https://cards.scryfall.io/large/front/1/d/1dd64b1d-bcef-476c-bf0b-3ac7df7cbed3.jpg" >昇華物靈師妮莎 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>、<a class="link"   href="https://cards.scryfall.io/large/front/4/7/475d7e9a-759d-4523-a5cd-2a6e0d1b14ea.jpg" >刺藤傭獸 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>這兩個可以七費施放的咒語。<a class="link"   href="https://cards.scryfall.io/large/front/4/7/475d7e9a-759d-4523-a5cd-2a6e0d1b14ea.jpg" >刺藤傭獸 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>前期可以作為2費加速曲線使用，完整施放的<a class="link"   href="https://cards.scryfall.io/large/front/1/d/1dd64b1d-bcef-476c-bf0b-3ac7df7cbed3.jpg" >昇華物靈師妮莎 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>則能直接開大給予對手致命一擊。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://i.imgur.com/oQ2TvJB.png"
-                     
-                ></p>
-<p>前期曲線我們選用<a class="link"   href="https://cards.scryfall.io/large/front/4/c/4ce4b7bc-636b-4723-a7c1-2c859f333492.jpg" >岩洞井斥候 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>、<a class="link"   href="https://cards.scryfall.io/large/front/b/4/b4066d41-0eb5-4dfd-93ec-2f242c3a27a4.jpg" >繁根林探路人 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>填補。雖然<a class="link"   href="https://cards.scryfall.io/large/front/4/c/4ce4b7bc-636b-4723-a7c1-2c859f333492.jpg" >岩洞井斥候 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>不是最優打點，不過應該沒人會期待綠色一費生物的戰力吧？他的任務是過牌確保不卡地，即使不是地也會成為2&#x2F;2打點。<a class="link"   href="https://cards.scryfall.io/large/front/b/4/b4066d41-0eb5-4dfd-93ec-2f242c3a27a4.jpg" >繁根林探路人 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>則是打點兼濾牌加速，貼上<a class="link"   href="https://cards.scryfall.io/large/front/4/0/40b0813a-38cf-4a07-81d6-91d24af8b549.jpg" >勇猛無畏 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>就能充分發揮能力。最後再配些<a class="link"   href="https://cards.scryfall.io/large/front/7/1/712a0640-d9c8-46fc-b38b-bf20a40fa902.jpg" >野林開路 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>補充去除與調整地牌。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://i.imgur.com/VAg4LP1.png"
-                     
-                ></p>
-<h2 id="巨身爭鬥：實戰演示"><a href="#巨身爭鬥：實戰演示" class="headerlink" title="巨身爭鬥：實戰演示"></a>巨身爭鬥：實戰演示</h2><div class="video-container"><iframe src="https://www.youtube.com/embed/cnVcGCy6Rp8" frameborder="0" loading="lazy" allowfullscreen></iframe></div>
-
-<p>大綠的風格就是這麼簡單暴力，靠著體格優勢直接把對手壓在地摩擦。備牌局倒也沒什麼好說的，萬能的<a class="link"   href="https://cards.scryfall.io/large/front/5/b/5b647377-d47e-4630-8ccc-933ef6127880.jpg" >安息鰭背龍 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>、強力打手<a class="link"   href="https://cards.scryfall.io/large/front/0/f/0fb52b44-da5f-4f7a-a6c2-7924b855e051.jpg?1675957171" >霸蛛暴龍 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>與<a class="link"   href="https://cards.scryfall.io/large/front/6/d/6d9f51dd-0393-4b3c-bea5-8f74634ab0e5.jpg" >破誡巨魔圖倫 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>、防點殺的<a class="link"   href="https://cards.scryfall.io/large/front/c/7/c7b362a5-382a-4016-b4f2-aa7b683354c4.jpg" >泰瓦奮戰 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>、增強續戰力的<a class="link"   href="https://cards.scryfall.io/large/front/c/0/c0cdeaba-fc21-44e6-bf99-aa1ff379401b.jpg" >永誌世界樹 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>與<a class="link"   href="https://cards.scryfall.io/large/front/5/f/5f80764e-8fa2-44e2-84c6-3b55f1c40ee7.jpg" >進軍山德拉 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>、應對起動式異能的<a class="link"   href="https://cards.scryfall.io/large/front/e/f/ef4ecff2-49e9-468f-81f0-5acb596055a4.jpg" >穿髓金針 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>等家常良品。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://i.imgur.com/iTxsZHH.png"
-                     
-                ><br><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://i.imgur.com/zVC3Nr5.png"
-                     
-                ></p>
-<h2 id="結論"><a href="#結論" class="headerlink" title="結論"></a>結論</h2><p>現行版本的大綠和過往最大的不同在於中後期的延伸性。以往多半依靠3-5費的優勢體格決勝，更大費的生物或強力起動式異能常常是看得到吃不到，不是關鍵時刻卡費用就是勉強做出來卻吃到殺牌直接下課，不然就是抽了滿手互鬥卻因為沒生物而無計可施，這些問題在目前的版本都得到解決方案，玩起來相當有滿足感。</p>
-]]></content>
-      <tags>
-        <tag>Standard</tag>
-        <tag>JerobaMTG</tag>
-        <tag>LCI</tag>
       </tags>
   </entry>
   <entry>
@@ -11023,6 +11023,389 @@
       </tags>
   </entry>
   <entry>
+    <title>豬鼻子的艾卓荒野(WOE)限制賽初探 — 白色</title>
+    <url>/WOE-White/</url>
+    <content><![CDATA[<p>本文採用LSV以及Reid Duke兩位大神發表在Channelfireball(CFB)網站上的魔戒：中土世界傳奇 (LOTR)的限制賽評分標準以及行文格式。</p>
+<!--more-->
+
+<h2 id="評分標準-Grading-Scale"><a href="#評分標準-Grading-Scale" class="headerlink" title="評分標準 (Grading Scale)"></a>評分標準 (Grading Scale)</h2><p>已退休但榮登限制賽炸彈名人堂的霸者們: <a class="link"   href="https://cdn1.mtggoldfish.com/images/h/Pack-Rat-RTR-672.jpg" >Pack Rat <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>, <a class="link"   href="https://cdn1.mtggoldfish.com/images/h/Umezawas-Jitte-BOK-672.jpg" >Umezawa’s Jitte <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>, <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0353_MTGCMM_Main.png" >The Scarab God <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</p>
+<ul>
+<li>5.0: <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0051_MTGMOM_Main.png" >Chrome Host Seedshark <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>. <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0094_MTGMOM_Main.png" >Breach the Multiverse <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>. <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0040_MTGMOM_Main.png" >Sunfall <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</li>
+<li>4.5: <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0185_MTGMOM_Main.png" >Doomskar Warrior <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>. <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0089_MTGMOM_Main.png" >Archpriest of Shadows <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>. <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0219_MTGMOM_Main.png" >Borborygmos and Fblthp <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</li>
+<li>4.0: <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0073_MTGMOM_Main.png" >Preening Champion <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>. <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0093_MTGMOM_Main.png" >Bloated Processor <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>. <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0231a_MTGMOM_Mai.png" >Invasion of Amonkhet <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</li>
+<li>3.5: <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0104_MTGMOM_Main.png" >Final Flourish <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>. <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0055_MTGMOM_Main.png" >Ephara’s Dispersal <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>. <a class="link"   href="https://hackmd.io/_uploads/rySkpHd63.png" >Stormclaw Rager <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</li>
+<li>3.0: <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0129_MTGMOM_Main.png" >Vanquish the Weak <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>. <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0057_MTGMOM_Main.png" >Eyes of Gitaxias <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>. <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0045_MTGMOM_Main.png" >Zhalfirin Lancer <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</li>
+<li>2.5: <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0071_MTGMOM_Main.png" >Oracle of Tragedy <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>. <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0111_MTGMOM_Main.png" >Ichor Drinker <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>. <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0153_MTGMOM_Main.png" >Marauding Dreadship <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</li>
+<li>2.0: <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0214_MTGMOM_Main.png" >War Historian <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>. <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0108_MTGMOM_Main.png" >Gloomfang Mauler <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>. <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0072a_MTGMOM_Mai.png" >Order of the Mirror <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</li>
+<li>1.5: <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0056_MTGMOM_Main.png" >Expedition Lookout <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>. <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0130_MTGMOM_Main.png" >Akki Scrapchomper <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>. <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0018_MTGMOM_Main.png" >Infected Defector <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</li>
+<li>1.0: <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0054_MTGMOM_Main.png" >Disturbing Conversion <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>. <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0126_MTGMOM_Main.png" >Tenured Oilcaster <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>. <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0136_MTGMOM_Main.png" >Coming In Hot <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</li>
+<li>0.0: <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0061a_MTGMOM_Mai.png" >Invasion of Arcavios <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>. <a class="link"   href="https://cdn1.mtggoldfish.com/images/h/One-with-Nothing-SOK-672.jpg" >One with Nothing <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</li>
+</ul>
+<hr>
+<h2 id="白色-White"><a href="#白色-White" class="headerlink" title="白色 (White)"></a>白色 (White)</h2><p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0001_MTGWOE_Main.png"
+                      alt="Archon of the Wild ROse"
+                ></p>
+<p><strong>限制賽評分：4.5</strong></p>
+<p>四費4&#x2F;4飛行另外還可以讓你結附靈氣的生物基礎攻防也變成4&#x2F;4的飛兵，超級炸彈。不過當你很開心地帶著全家起飛攻擊時要留意對手可以殺掉它讓你全家老小打回原形。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0002_MTGWOE_Main.png"
+                      alt="Archon&#39;s Glory"
+                ></p>
+<p><strong>限制賽評分：1.5</strong></p>
+<p>普通的+2&#x2F;+2 trick，一般在非靈技的套路應該不太會用到；加碼後雖然多給了飛行跟繫命但應該還是小虧，而且trick容易被一換二的問題，還是得在決定是否加碼的同時被考慮進去。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0003_MTGWOE_Main.png"
+                      alt="Armory Mice"
+                ></p>
+<p><strong>限制賽評分：2.0</strong></p>
+<p>大部分就是隻普通的白色二費3&#x2F;1人，觸發歡慶時變成3&#x2F;3也還好。要注意家鼠(Mouse)不會吃到老鼠(Rat)的加成。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0004_MTGWOE_Main.png"
+                      alt="Besotted Knight"
+                ></p>
+<p><strong>限制賽評分：2.5</strong></p>
+<blockquote>
+<p>你覺得，人類跟狐狸之間是有可能的嗎？ …</p>
+</blockquote>
+<p>四費3&#x2F;3在限制賽中只是可用而已，但歷險那邊給皇族角色還不錯。要記得這類給角色衍生物的歷險牌都不能放在自己身上。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0005_MTGWOE_Main.png"
+                      alt="Break the Spell"
+                ></p>
+<p><strong>限制賽評分：3.0</strong></p>
+<blockquote>
+<p>透過冰雪女王的一吻，勇者自凍眠中漸漸甦醒。</p>
+</blockquote>
+<p>這個系列結界很多再加上魅附奇譚的影響，是值得進主的好牌，有時候能拆掉對手的結界對戰局非常關鍵。而拆自己的結界抽牌只有要觸發結界進墳的效果、或是要避免釣友副作用的傳記最終章時才有可能會用，有需要也可以用。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0006_MTGWOE_Main.png"
+                      alt="Charmed Clothier"
+                ></p>
+<p><strong>限制賽評分：3.0</strong></p>
+<p>五費3&#x2F;3的飛兵進場還可以給一個其它你操控的生物貼皇族角色，有沾白都可以用，像這樣一帶二的牌都能觸發歡慶，組牌時可以留意一下。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0007_MTGWOE_Main.png"
+                      alt="Cheeky House-Mouse"
+                ></p>
+<p><strong>限制賽評分：1.5 (現開)</strong><br><strong>限制賽評分：3.0 (輪抽)</strong></p>
+<p>現開我會覺得除非缺低費曲線不然可以不用放；而輪抽快攻思路打越尖的這隻老鼠就越強。歷險那邊不見得能做到穿透，但有的時候可能就差這1兩滴血。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0008_MTGWOE_Main.png"
+                      alt="Cooped Up"
+                ></p>
+<p><strong>限制賽評分：3.5</strong></p>
+<p>結界互動環境的<a class="link"   href="https://cards.scryfall.io/large/front/4/4/44476444-0684-4df4-86c8-b4a48025fcaa.jpg?1562828538" >和平主義 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>類的白痴皮都很強，不過可以拆它的牌應該也變多了，所以可能沒辦法像其他系列鎖得那麼穩。有需要的話可以五費分期付款做一個放逐也還行。在黑白關注結界進墳的思路中會有更多搭配。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0009_MTGWOE_Main.png"
+                      alt="Cursed Courtier"
+                ></p>
+<p><strong>限制賽評分：1.5</strong></p>
+<p>三費1&#x2F;1繫命，雖然貼在它身上的倒楣鬼角色可以拿去餵給加碼，但白色的加碼牌並沒有很多還是不要太依賴這件事。可能當個歡慶觸發源會比較實際一點，但有體格更好的生物就還是別放了吧。</p>
+<blockquote>
+<p>青蛙王子，但臉畫得太像青蛙了讓人有點不舒服。</p>
+</blockquote>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0010_MTGWOE_Main.png"
+                      alt="Discerning Financier"
+                ></p>
+<p><strong>限制賽評分：2.0</strong></p>
+<p>三費基礎體格2&#x2F;3普普通通，而當你展開落後時他才會生珍寶，基本上你會希望寧願不要這個珍寶而讓你展開順一點，那這樣似乎就沒什麼放他的必要了；而三費送對手一個珍寶讓你可以抽牌這件事要慎選場面再做，說不定對手就是卡著那一點顏色而可以用出卡在他手上的炸彈…。</p>
+<p>總之，當你生得出珍寶時代表你展開不順，所以生出來的珍寶基本上留不到送人抽牌。三費有更好的選擇時不要放他，我覺得這是一張限制賽的陷阱單卡。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0011_MTGWOE_Main.png"
+                      alt="Dutiful Griffin"
+                ></p>
+<p><strong>限制賽評分：3.5</strong></p>
+<p>五費4&#x2F;4應該是這系列U卡以下最好的飛兵體格了，後期偶爾有機會犧牲兩個結界把他撿回來。值得進主的五費曲線生物。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0012_MTGWOE_Main.png"
+                      alt="Eerie Interference"
+                ></p>
+<p><strong>限制賽評分：0.0</strong></p>
+<p><a class="link"   href="https://cards.scryfall.io/large/front/f/3/f38620c8-4b76-49ea-8976-c7437ccbdbcc.jpg?1562837190" >濃霧 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>類似的效果不會讓你在限制賽獲勝，這張的上限頂多是讓你在阻擋時可以無傷換掉對手的生物們，但你同樣可以靠適當的阻擋來做到這件事而不用額外花一張牌。結論是不要放。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0013_MTGWOE_Main.png"
+                      alt="Expel the Interlopers"
+                ></p>
+<p><strong>限制賽評分：5.0</strong></p>
+<p>下限選0是一張五費掃場，而你可以依場面來決定最有利的狀況。雖然沒有像<a class="link"   href="https://www.mtgct.com/card/5877" >Sunfall <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>這麼無腦又變態，但選得好的話也差不多要贏了。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0014_MTGWOE_Main.png"
+                      alt="Frostbridge Guard"
+                ></p>
+<p><strong>限制賽評分：2.5</strong></p>
+<p>二費的熊，中後期可以變成躺躺兵還可以，在白藍tap思路中能回收更高的價值。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0015_MTGWOE_Main.png"
+                      alt="Gallant Pie-Wielder"
+                ></p>
+<p><strong>限制賽評分：3.0</strong></p>
+<p>三費2&#x2F;3先攻攻防上都很不錯，如果觸發歡慶還可以有連擊。一個派不夠吃？那就請你吃兩個！開不開心！</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0016_MTGWOE_Main.png"
+                      alt="Glass Casket"
+                ></p>
+<p><strong>限制賽評分：3.0</strong></p>
+<p>雖然只能解三費以下的人或衍生物，但基本上還是可以帶一張的。遇到藍綠五費Ramp那邊可以考慮下掉換別的解(但對手有<a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0204_MTGWOE_Main.png" >鵝鵝媽 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>還是壓得掉喔！)</p>
+<blockquote>
+<p>白雪公主在玻璃棺的這個睡姿是在練核心嗎？</p>
+</blockquote>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0017_MTGWOE_Main.png"
+                      alt="Hopeful Vigil"
+                ></p>
+<p><strong>限制賽評分：2.5</strong></p>
+<p>一帶二是歡慶與加碼異能的好朋友，而自主犧牲也可以觸發結界進墳的效果，基本上把沾白對應的新機制都cover了。但這個系列2&#x2F;3的生物偏多，我目前是覺得還是不要放太多，多帶一些3攻以上的生物可能對進攻比較有利。當然你有讓2&#x2F;2騎士們灌大的方法就另當別論了。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0018_MTGWOE_Main.png"
+                      alt="Kellan&#39;s Lightblades"
+                ></p>
+<p><strong>限制賽評分：3.5</strong></p>
+<p>二費瞬間打攻擊&#x2F;阻擋生物3，加碼後改消滅，在白色中是非常高效的解牌了。</p>
+<p>注意如果對手的生物沒有攻擊或阻擋而你加碼犧牲了一個token使用了這張，因為是<a class="link"   href="https://mtg.fandom.com/wiki/Illegal_action" >非法行動 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>，遊戲會回溯到你嘗試宣告施放這個咒語之前的狀態，而token不會因此被犧牲掉回不來。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0019_MTGWOE_Main.png"
+                      alt="Knight of Doves"
+                ></p>
+<p><strong>限制賽評分：2.5</strong></p>
+<p>結界要夠多還要有辦法讓結界進墳才能生1&#x2F;1鳥，如果搭配不多可以略過；但如果可以穩定觸發個2-3次才夠賺。1&#x2F;1鳥在這個系列沒有特別的搭配，而這個系列飛兵也不少，我是覺得要求偏高但回報價值沒有到很炸；本身三費1&#x2F;3誰也打不贏是扣分的關鍵因素。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0020_MTGWOE_Main.png"
+                      alt="Moment of Valor"
+                ></p>
+<p><strong>限制賽評分：2.5</strong></p>
+<p>改殺力量大於4的<a class="link"   href="https://cards.scryfall.io/large/front/c/1/c129206d-54e6-481c-98e9-04a0255f9313.jpg?1646185529" >英勇以對 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>，可能對上綠底的套牌目標會比較多。雖然大部分都是用來殺大怪，但兩個選項使用上更彈性，給一個實用的2.5分</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0021_MTGWOE_Main.png"
+                      alt="Moonshaker Cavalry"
+                ></p>
+<p><strong>限制賽評分：4.5</strong></p>
+<p>號稱是白色<a class="link"   href="https://cards.scryfall.io/large/front/e/b/eb515c2e-ee92-41e0-85a5-f42e95c98bac.jpg?1561891336" >隕蹄貝西摩斯 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>進場給飛行全家除了他以外再怒打一波，你的場面不要太弱應該就會贏；但八費在白色不考慮加速的狀況下基本上很難正叫出來；可能混黑用挖的或混綠帶點加速比較容易讓他登場。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0022_MTGWOE_Main.png"
+                      alt="Plunge into Winter"
+                ></p>
+<p><strong>限制賽評分：2.0</strong></p>
+<p>瞬間時機的tap + 抽1張牌，基本上如果不是白藍tap思路應該不會需要放他。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0023_MTGWOE_Main.png"
+                      alt="The Princess Takes Flight"
+                ></p>
+<p><strong>限制賽評分：3.5</strong></p>
+<blockquote>
+<p>長髮公主帶我飛！</p>
+</blockquote>
+<p>三費的傳記進場章節I先壓掉一個生物，章節II再讓自己一隻生物飛過去打人，聽起來賺翻了；雖然章節III會把壓掉的生物還回去看起來是一個不小的副作用，但是如果你只需要章節I&amp;II就能讓你穩定邁向勝利，那章節III也許是可以接受的。或是你壓掉的是生物衍生物(不用還)、或本身不強但身上帶了許多+1&#x2F;+1指示物的生物(返場但弱化)、又或者是你壓的是可以再賺取進場異能的且由你操控的生物。以上這幾種狀況只要在可接受的條件下都是值得使用這張傳記的；而在我的預期中這張牌還是利大於弊，因此我給了他相對高的分數。</p>
+<blockquote>
+<p>當然，如果你的解牌都是這類的而且你沒有辦法在章節III前移除它，那也許你幾回後還是會面臨大麻煩！</p>
+</blockquote>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0024_MTGWOE_Main.png"
+                      alt="Protective Parents"
+                ></p>
+<p><strong>限制賽評分：2.5</strong></p>
+<p>三費3&#x2F;2死去在你操控的生物上放置一個青年英雄角色很不錯，而青年英雄角色也比我想像中的還厲害，防禦3的生物貼了打出去還是可以放豆。</p>
+<blockquote>
+<p>但卡牌的意境上有點令人鼻酸，孩子啊，你的父母已逝去，你只能靠你自己了…。</p>
+</blockquote>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0025_MTGWOE_Main.png"
+                      alt="Regal Bunnicorn"
+                ></p>
+<p><strong>限制賽評分：4.0</strong></p>
+<p>基本上在WOE環境中，角色、食品衍生物滿地走的情況，這隻獨角兔應該會變得很大隻。基本上兔子養肥一點再去揍人吧！值得注意的是如果它被結附了非倒楣鬼或青年英雄其他四種角色會讓它的攻防各+2&#x2F;+2(角色的+1&#x2F;+1以及兔子被動效果算到角色)。當然，被貼一個倒楣鬼就真的是1&#x2F;1的地獄倒楣鬼了。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0026_MTGWOE_Main.png"
+                      alt="Return Triumphant"
+                ></p>
+<p><strong>限制賽評分：2.5</strong></p>
+<p>最近白色很常出這種二費挖三費以下生物回場的牌，例如BRO的<a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0022_MTGBRO_Main.png" >Recommission <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>，而對比之下這張巫術的強度讓你回場的生物上還結附一個青年英雄角色，可能還更強一點。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0027_MTGWOE_Main.png"
+                      alt="Rimefur Reindeer"
+                ></p>
+<p><strong>限制賽評分：3.0</strong></p>
+<p>要躺人要等結界進場，而這個系列的結界應該絕大多數還是在巫術時機進場，而讓這個橫置的異能較偏進攻向。而沒辦法穩定觸發tap的話還是回歸到體格，四費3&#x2F;4是一個還可以的體格，而在結界較多的黑白、白綠思路、或貼皮多的白藍中的分數可以再更高一點。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0028_MTGWOE_Main.png"
+                      alt="Savior of the Sleeping"
+                ></p>
+<p><strong>限制賽評分：2.5</strong></p>
+<p>三費2&#x2F;3警戒，結界進墳則在他身上放一個+1&#x2F;+1指示物。雖然結界進墳不見得很常發生，但基本上只要觸發一次就蠻厲害的了，警戒異能攻守合一也有加分的效果。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0029_MTGWOE_Main.png"
+                      alt="Slumbering Keepguard"
+                ></p>
+<p><strong>限制賽評分：1.5 (現開)</strong><br><strong>限制賽評分：3.0 (輪抽)</strong></p>
+<p>現開中結界要拿得多不太容易，但輪抽只要不被卡應該能抽出一個非常進攻曲線的白底結界套牌；如果場上有3-4個結界，中期開始每回合付三費變4&#x2F;4以上體格揍人是很痛的。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0030_MTGWOE_Main.png"
+                      alt="Solitary Sanctuary"
+                ></p>
+<p><strong>限制賽評分：3.5</strong></p>
+<blockquote>
+<p>迪士尼的城堡都長這個樣子的。</p>
+</blockquote>
+<p>三費進場tap一隻暈眩指示物，而當你橫置對手操控的生物時可以放+1&#x2F;+1指示物，可以開路加灌大自己的生物，而在白藍tap思路中甚至值4.0分正好是補足白藍生物偏小的弱勢，而如果可以拿到或複製它的話就會變得非常的炸！</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0031_MTGWOE_Main.png"
+                      alt="Spellbook Vendor"
+                ></p>
+<p><strong>限制賽評分：4.0</strong></p>
+<blockquote>
+<p>少年仔！我看你目露精光骨骼精奇，想來必定是個練武奇才！來來來！我這邊剛好有本秘笈好厲害的，收你一塊錢就好！</p>
+</blockquote>
+<p>非常厲害的二費警戒人，每個你回合中的戰鬥階段都能支付ㄧ來在你的生物上放一個術士角色，灌大以外還可以進攻時做出占卜ㄧ，可以讓你場面增強之餘還可以讓你的下一抽變得更好。是我限制賽打白非常希望能拿到的牌。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0032_MTGWOE_Main.png"
+                      alt="Stockpiling Celebrant"
+                ></p>
+<p><strong>限制賽評分：3.0</strong></p>
+<blockquote>
+<p><a class="link"   href="https://www.mtgct.com/card/7252" >「怎麼？我不過是想留著晚點再吃罷了。」 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+</blockquote>
+<p>三費3&#x2F;2進場時可以回收一個你操控的永久物，若你這樣做則可以占卜二。這張要取決於你場上有沒有其他能賺進離場異能的永久物，有的話就是很不錯的潤滑曲線。也可以回收上面有結付靈氣的生物來觸發結界進墳的效果。或用來拯救被貼了倒楣鬼角色的生物。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0033_MTGWOE_Main.png"
+                      alt="Stroke of Midnight"
+                ></p>
+<p><strong>限制賽評分：3.5</strong></p>
+<blockquote>
+<p>午夜十二點的鐘聲響起，灰鈷娘也只能匆匆離去…</p>
+</blockquote>
+<p>三費的瞬間非地萬解，但有一個副作用是會讓對手派出一個1&#x2F;1人類衍生物。不過人類在WOE中應該沒有什麼搭配，以解掉一個巨大威脅來看，這個投報率還算值得。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0034_MTGWOE_Main.png"
+                      alt="A Tale for the Ages"
+                ></p>
+<p><strong>限制賽評分：3.0</strong></p>
+<p>二費結界可以讓你操控且被結付的生物得到+2&#x2F;+2，在充滿各種角色衍生物的WOE環境中應該是值得使用的；但對我而言因為群體膨脹的效果還是有點不穩定，所以還是沒有辦法給到很高分。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0035_MTGWOE_Main.png"
+                      alt="Three Blind Mice"
+                ></p>
+<p><strong>限制賽評分：4.0</strong></p>
+<p>最差就是生3隻1&#x2F;1家鼠第四回合後變大全家打過去；而當你能複製的token越多樣這張牌能發揮的效果就越強，非常的賺。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0036_MTGWOE_Main.png"
+                      alt="Tuinvale Guide"
+                ></p>
+<p><strong>限制賽評分：3.5</strong></p>
+<p>普通的四費2&#x2F;3飛兵跟觸發歡慶後的3&#x2F;3繫命飛兵對場面的影響天差地遠，值得讓我為了歡慶效果先多給0.5分。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0037_MTGWOE_Main.png"
+                      alt="Unassuming Sage"
+                ></p>
+<p><strong>限制賽評分：2.5</strong></p>
+<p>二費無異能的<a class="link"   href="https://cards.scryfall.io/large/front/4/0/409f9b88-f03e-40b6-9883-68c14c37c0de.jpg?1562546736" >灰棕熊 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>，或四費攻擊可以占卜ㄧ的<a class="link"   href="https://cards.scryfall.io/large/front/1/4/14c2be6a-9ca6-4d3a-8dd0-db4ea40799f8.jpg?1562544130" >山丘巨人 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>，兩個單獨在限制賽都不夠強，但合在同一張牌就可以讓你的構築套牌變得滑順，低調智者是你填補曲線的好朋友。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0038_MTGWOE_Main.png"
+                      alt="Virtue of Loyalty"
+                ></p>
+<p><strong>限制賽評分：5.0</strong></p>
+<p>歷險先二費閃現一個2&#x2F;2警戒騎士，五費正拍後在每個你的結束階段時會在所有你操控的生物上放+1&#x2F;+1指示物還全家站起來，妥妥的大炸彈！對手有開到這張的話記得有拆結界的牌要從備牌上來。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0039_MTGWOE_Main.png"
+                      alt="Werefox Bodyguard"
+                ></p>
+<p><strong>限制賽評分：4.5</strong></p>
+<p>三費2&#x2F;2閃現進場壓掉一個非狐生物，還可以兩費犧牲他補個2點血。用得好至少是個一換三（i.e.壓掉對手大生物、阻擋、犧牲掉再補2血；壓掉自己要被殺的強力生物、犧牲補2血、強力生物再進場賺一次進場異能甚至讓對手錯算斬殺的血量）</p>
+<blockquote>
+<p>…在危難之際，人類跟狐狸的真摯情誼展露無疑…</p>
+</blockquote>
+<hr>
+<p>以上就是這次WOE白色的限制賽分析，希望大家都能在接下來的現開與輪抽賽中找到屬於自己的樂趣！</p>
+]]></content>
+      <categories>
+        <category>Limited</category>
+        <category>WOE-Limited</category>
+      </categories>
+      <tags>
+        <tag>cephille</tag>
+        <tag>WOE</tag>
+        <tag>Limited</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>豬鼻子的艾卓荒野(WOE)限制賽初探 — 魅附奇譚(WOT)</title>
     <url>/WOE-WOT/</url>
     <content><![CDATA[<p>本文採用LSV以及Reid Duke兩位大神發表在Channelfireball(CFB)網站上的魔戒：中土世界傳奇 (LOTR)的限制賽評分標準以及行文格式。</p>
@@ -11582,389 +11965,6 @@
 <blockquote>
 <p>我看下來覺得魅附奇譚(WOT)大部分的重印的結界可能更適合被加到XX大師系列，放在WOE的限制賽中有點強度一下子拉高得太多了。限制賽原本應該是要靠小combo跟細緻的攻防來累積的優勢，但WOE限制賽中可能被對手top deck一張時機對的WOT單卡打翻。感覺拆結界還是要進主，不然一撞上這些足以逆轉勝負的結界被翻盤掉應該會非常幹吧。</p>
 </blockquote>
-]]></content>
-      <categories>
-        <category>Limited</category>
-        <category>WOE-Limited</category>
-      </categories>
-      <tags>
-        <tag>cephille</tag>
-        <tag>WOE</tag>
-        <tag>Limited</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>豬鼻子的艾卓荒野(WOE)限制賽初探 — 白色</title>
-    <url>/WOE-White/</url>
-    <content><![CDATA[<p>本文採用LSV以及Reid Duke兩位大神發表在Channelfireball(CFB)網站上的魔戒：中土世界傳奇 (LOTR)的限制賽評分標準以及行文格式。</p>
-<!--more-->
-
-<h2 id="評分標準-Grading-Scale"><a href="#評分標準-Grading-Scale" class="headerlink" title="評分標準 (Grading Scale)"></a>評分標準 (Grading Scale)</h2><p>已退休但榮登限制賽炸彈名人堂的霸者們: <a class="link"   href="https://cdn1.mtggoldfish.com/images/h/Pack-Rat-RTR-672.jpg" >Pack Rat <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>, <a class="link"   href="https://cdn1.mtggoldfish.com/images/h/Umezawas-Jitte-BOK-672.jpg" >Umezawa’s Jitte <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>, <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0353_MTGCMM_Main.png" >The Scarab God <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</p>
-<ul>
-<li>5.0: <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0051_MTGMOM_Main.png" >Chrome Host Seedshark <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>. <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0094_MTGMOM_Main.png" >Breach the Multiverse <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>. <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0040_MTGMOM_Main.png" >Sunfall <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</li>
-<li>4.5: <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0185_MTGMOM_Main.png" >Doomskar Warrior <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>. <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0089_MTGMOM_Main.png" >Archpriest of Shadows <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>. <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0219_MTGMOM_Main.png" >Borborygmos and Fblthp <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</li>
-<li>4.0: <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0073_MTGMOM_Main.png" >Preening Champion <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>. <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0093_MTGMOM_Main.png" >Bloated Processor <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>. <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0231a_MTGMOM_Mai.png" >Invasion of Amonkhet <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</li>
-<li>3.5: <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0104_MTGMOM_Main.png" >Final Flourish <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>. <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0055_MTGMOM_Main.png" >Ephara’s Dispersal <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>. <a class="link"   href="https://hackmd.io/_uploads/rySkpHd63.png" >Stormclaw Rager <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</li>
-<li>3.0: <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0129_MTGMOM_Main.png" >Vanquish the Weak <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>. <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0057_MTGMOM_Main.png" >Eyes of Gitaxias <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>. <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0045_MTGMOM_Main.png" >Zhalfirin Lancer <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</li>
-<li>2.5: <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0071_MTGMOM_Main.png" >Oracle of Tragedy <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>. <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0111_MTGMOM_Main.png" >Ichor Drinker <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>. <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0153_MTGMOM_Main.png" >Marauding Dreadship <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</li>
-<li>2.0: <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0214_MTGMOM_Main.png" >War Historian <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>. <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0108_MTGMOM_Main.png" >Gloomfang Mauler <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>. <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0072a_MTGMOM_Mai.png" >Order of the Mirror <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</li>
-<li>1.5: <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0056_MTGMOM_Main.png" >Expedition Lookout <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>. <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0130_MTGMOM_Main.png" >Akki Scrapchomper <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>. <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0018_MTGMOM_Main.png" >Infected Defector <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</li>
-<li>1.0: <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0054_MTGMOM_Main.png" >Disturbing Conversion <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>. <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0126_MTGMOM_Main.png" >Tenured Oilcaster <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>. <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0136_MTGMOM_Main.png" >Coming In Hot <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</li>
-<li>0.0: <a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0061a_MTGMOM_Mai.png" >Invasion of Arcavios <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>. <a class="link"   href="https://cdn1.mtggoldfish.com/images/h/One-with-Nothing-SOK-672.jpg" >One with Nothing <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</li>
-</ul>
-<hr>
-<h2 id="白色-White"><a href="#白色-White" class="headerlink" title="白色 (White)"></a>白色 (White)</h2><p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0001_MTGWOE_Main.png"
-                      alt="Archon of the Wild ROse"
-                ></p>
-<p><strong>限制賽評分：4.5</strong></p>
-<p>四費4&#x2F;4飛行另外還可以讓你結附靈氣的生物基礎攻防也變成4&#x2F;4的飛兵，超級炸彈。不過當你很開心地帶著全家起飛攻擊時要留意對手可以殺掉它讓你全家老小打回原形。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0002_MTGWOE_Main.png"
-                      alt="Archon&#39;s Glory"
-                ></p>
-<p><strong>限制賽評分：1.5</strong></p>
-<p>普通的+2&#x2F;+2 trick，一般在非靈技的套路應該不太會用到；加碼後雖然多給了飛行跟繫命但應該還是小虧，而且trick容易被一換二的問題，還是得在決定是否加碼的同時被考慮進去。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0003_MTGWOE_Main.png"
-                      alt="Armory Mice"
-                ></p>
-<p><strong>限制賽評分：2.0</strong></p>
-<p>大部分就是隻普通的白色二費3&#x2F;1人，觸發歡慶時變成3&#x2F;3也還好。要注意家鼠(Mouse)不會吃到老鼠(Rat)的加成。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0004_MTGWOE_Main.png"
-                      alt="Besotted Knight"
-                ></p>
-<p><strong>限制賽評分：2.5</strong></p>
-<blockquote>
-<p>你覺得，人類跟狐狸之間是有可能的嗎？ …</p>
-</blockquote>
-<p>四費3&#x2F;3在限制賽中只是可用而已，但歷險那邊給皇族角色還不錯。要記得這類給角色衍生物的歷險牌都不能放在自己身上。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0005_MTGWOE_Main.png"
-                      alt="Break the Spell"
-                ></p>
-<p><strong>限制賽評分：3.0</strong></p>
-<blockquote>
-<p>透過冰雪女王的一吻，勇者自凍眠中漸漸甦醒。</p>
-</blockquote>
-<p>這個系列結界很多再加上魅附奇譚的影響，是值得進主的好牌，有時候能拆掉對手的結界對戰局非常關鍵。而拆自己的結界抽牌只有要觸發結界進墳的效果、或是要避免釣友副作用的傳記最終章時才有可能會用，有需要也可以用。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0006_MTGWOE_Main.png"
-                      alt="Charmed Clothier"
-                ></p>
-<p><strong>限制賽評分：3.0</strong></p>
-<p>五費3&#x2F;3的飛兵進場還可以給一個其它你操控的生物貼皇族角色，有沾白都可以用，像這樣一帶二的牌都能觸發歡慶，組牌時可以留意一下。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0007_MTGWOE_Main.png"
-                      alt="Cheeky House-Mouse"
-                ></p>
-<p><strong>限制賽評分：1.5 (現開)</strong><br><strong>限制賽評分：3.0 (輪抽)</strong></p>
-<p>現開我會覺得除非缺低費曲線不然可以不用放；而輪抽快攻思路打越尖的這隻老鼠就越強。歷險那邊不見得能做到穿透，但有的時候可能就差這1兩滴血。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0008_MTGWOE_Main.png"
-                      alt="Cooped Up"
-                ></p>
-<p><strong>限制賽評分：3.5</strong></p>
-<p>結界互動環境的<a class="link"   href="https://cards.scryfall.io/large/front/4/4/44476444-0684-4df4-86c8-b4a48025fcaa.jpg?1562828538" >和平主義 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>類的白痴皮都很強，不過可以拆它的牌應該也變多了，所以可能沒辦法像其他系列鎖得那麼穩。有需要的話可以五費分期付款做一個放逐也還行。在黑白關注結界進墳的思路中會有更多搭配。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0009_MTGWOE_Main.png"
-                      alt="Cursed Courtier"
-                ></p>
-<p><strong>限制賽評分：1.5</strong></p>
-<p>三費1&#x2F;1繫命，雖然貼在它身上的倒楣鬼角色可以拿去餵給加碼，但白色的加碼牌並沒有很多還是不要太依賴這件事。可能當個歡慶觸發源會比較實際一點，但有體格更好的生物就還是別放了吧。</p>
-<blockquote>
-<p>青蛙王子，但臉畫得太像青蛙了讓人有點不舒服。</p>
-</blockquote>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0010_MTGWOE_Main.png"
-                      alt="Discerning Financier"
-                ></p>
-<p><strong>限制賽評分：2.0</strong></p>
-<p>三費基礎體格2&#x2F;3普普通通，而當你展開落後時他才會生珍寶，基本上你會希望寧願不要這個珍寶而讓你展開順一點，那這樣似乎就沒什麼放他的必要了；而三費送對手一個珍寶讓你可以抽牌這件事要慎選場面再做，說不定對手就是卡著那一點顏色而可以用出卡在他手上的炸彈…。</p>
-<p>總之，當你生得出珍寶時代表你展開不順，所以生出來的珍寶基本上留不到送人抽牌。三費有更好的選擇時不要放他，我覺得這是一張限制賽的陷阱單卡。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0011_MTGWOE_Main.png"
-                      alt="Dutiful Griffin"
-                ></p>
-<p><strong>限制賽評分：3.5</strong></p>
-<p>五費4&#x2F;4應該是這系列U卡以下最好的飛兵體格了，後期偶爾有機會犧牲兩個結界把他撿回來。值得進主的五費曲線生物。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0012_MTGWOE_Main.png"
-                      alt="Eerie Interference"
-                ></p>
-<p><strong>限制賽評分：0.0</strong></p>
-<p><a class="link"   href="https://cards.scryfall.io/large/front/f/3/f38620c8-4b76-49ea-8976-c7437ccbdbcc.jpg?1562837190" >濃霧 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>類似的效果不會讓你在限制賽獲勝，這張的上限頂多是讓你在阻擋時可以無傷換掉對手的生物們，但你同樣可以靠適當的阻擋來做到這件事而不用額外花一張牌。結論是不要放。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0013_MTGWOE_Main.png"
-                      alt="Expel the Interlopers"
-                ></p>
-<p><strong>限制賽評分：5.0</strong></p>
-<p>下限選0是一張五費掃場，而你可以依場面來決定最有利的狀況。雖然沒有像<a class="link"   href="https://www.mtgct.com/card/5877" >Sunfall <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>這麼無腦又變態，但選得好的話也差不多要贏了。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0014_MTGWOE_Main.png"
-                      alt="Frostbridge Guard"
-                ></p>
-<p><strong>限制賽評分：2.5</strong></p>
-<p>二費的熊，中後期可以變成躺躺兵還可以，在白藍tap思路中能回收更高的價值。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0015_MTGWOE_Main.png"
-                      alt="Gallant Pie-Wielder"
-                ></p>
-<p><strong>限制賽評分：3.0</strong></p>
-<p>三費2&#x2F;3先攻攻防上都很不錯，如果觸發歡慶還可以有連擊。一個派不夠吃？那就請你吃兩個！開不開心！</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0016_MTGWOE_Main.png"
-                      alt="Glass Casket"
-                ></p>
-<p><strong>限制賽評分：3.0</strong></p>
-<p>雖然只能解三費以下的人或衍生物，但基本上還是可以帶一張的。遇到藍綠五費Ramp那邊可以考慮下掉換別的解(但對手有<a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0204_MTGWOE_Main.png" >鵝鵝媽 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>還是壓得掉喔！)</p>
-<blockquote>
-<p>白雪公主在玻璃棺的這個睡姿是在練核心嗎？</p>
-</blockquote>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0017_MTGWOE_Main.png"
-                      alt="Hopeful Vigil"
-                ></p>
-<p><strong>限制賽評分：2.5</strong></p>
-<p>一帶二是歡慶與加碼異能的好朋友，而自主犧牲也可以觸發結界進墳的效果，基本上把沾白對應的新機制都cover了。但這個系列2&#x2F;3的生物偏多，我目前是覺得還是不要放太多，多帶一些3攻以上的生物可能對進攻比較有利。當然你有讓2&#x2F;2騎士們灌大的方法就另當別論了。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0018_MTGWOE_Main.png"
-                      alt="Kellan&#39;s Lightblades"
-                ></p>
-<p><strong>限制賽評分：3.5</strong></p>
-<p>二費瞬間打攻擊&#x2F;阻擋生物3，加碼後改消滅，在白色中是非常高效的解牌了。</p>
-<p>注意如果對手的生物沒有攻擊或阻擋而你加碼犧牲了一個token使用了這張，因為是<a class="link"   href="https://mtg.fandom.com/wiki/Illegal_action" >非法行動 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>，遊戲會回溯到你嘗試宣告施放這個咒語之前的狀態，而token不會因此被犧牲掉回不來。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0019_MTGWOE_Main.png"
-                      alt="Knight of Doves"
-                ></p>
-<p><strong>限制賽評分：2.5</strong></p>
-<p>結界要夠多還要有辦法讓結界進墳才能生1&#x2F;1鳥，如果搭配不多可以略過；但如果可以穩定觸發個2-3次才夠賺。1&#x2F;1鳥在這個系列沒有特別的搭配，而這個系列飛兵也不少，我是覺得要求偏高但回報價值沒有到很炸；本身三費1&#x2F;3誰也打不贏是扣分的關鍵因素。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0020_MTGWOE_Main.png"
-                      alt="Moment of Valor"
-                ></p>
-<p><strong>限制賽評分：2.5</strong></p>
-<p>改殺力量大於4的<a class="link"   href="https://cards.scryfall.io/large/front/c/1/c129206d-54e6-481c-98e9-04a0255f9313.jpg?1646185529" >英勇以對 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>，可能對上綠底的套牌目標會比較多。雖然大部分都是用來殺大怪，但兩個選項使用上更彈性，給一個實用的2.5分</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0021_MTGWOE_Main.png"
-                      alt="Moonshaker Cavalry"
-                ></p>
-<p><strong>限制賽評分：4.5</strong></p>
-<p>號稱是白色<a class="link"   href="https://cards.scryfall.io/large/front/e/b/eb515c2e-ee92-41e0-85a5-f42e95c98bac.jpg?1561891336" >隕蹄貝西摩斯 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>進場給飛行全家除了他以外再怒打一波，你的場面不要太弱應該就會贏；但八費在白色不考慮加速的狀況下基本上很難正叫出來；可能混黑用挖的或混綠帶點加速比較容易讓他登場。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0022_MTGWOE_Main.png"
-                      alt="Plunge into Winter"
-                ></p>
-<p><strong>限制賽評分：2.0</strong></p>
-<p>瞬間時機的tap + 抽1張牌，基本上如果不是白藍tap思路應該不會需要放他。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0023_MTGWOE_Main.png"
-                      alt="The Princess Takes Flight"
-                ></p>
-<p><strong>限制賽評分：3.5</strong></p>
-<blockquote>
-<p>長髮公主帶我飛！</p>
-</blockquote>
-<p>三費的傳記進場章節I先壓掉一個生物，章節II再讓自己一隻生物飛過去打人，聽起來賺翻了；雖然章節III會把壓掉的生物還回去看起來是一個不小的副作用，但是如果你只需要章節I&amp;II就能讓你穩定邁向勝利，那章節III也許是可以接受的。或是你壓掉的是生物衍生物(不用還)、或本身不強但身上帶了許多+1&#x2F;+1指示物的生物(返場但弱化)、又或者是你壓的是可以再賺取進場異能的且由你操控的生物。以上這幾種狀況只要在可接受的條件下都是值得使用這張傳記的；而在我的預期中這張牌還是利大於弊，因此我給了他相對高的分數。</p>
-<blockquote>
-<p>當然，如果你的解牌都是這類的而且你沒有辦法在章節III前移除它，那也許你幾回後還是會面臨大麻煩！</p>
-</blockquote>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0024_MTGWOE_Main.png"
-                      alt="Protective Parents"
-                ></p>
-<p><strong>限制賽評分：2.5</strong></p>
-<p>三費3&#x2F;2死去在你操控的生物上放置一個青年英雄角色很不錯，而青年英雄角色也比我想像中的還厲害，防禦3的生物貼了打出去還是可以放豆。</p>
-<blockquote>
-<p>但卡牌的意境上有點令人鼻酸，孩子啊，你的父母已逝去，你只能靠你自己了…。</p>
-</blockquote>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0025_MTGWOE_Main.png"
-                      alt="Regal Bunnicorn"
-                ></p>
-<p><strong>限制賽評分：4.0</strong></p>
-<p>基本上在WOE環境中，角色、食品衍生物滿地走的情況，這隻獨角兔應該會變得很大隻。基本上兔子養肥一點再去揍人吧！值得注意的是如果它被結附了非倒楣鬼或青年英雄其他四種角色會讓它的攻防各+2&#x2F;+2(角色的+1&#x2F;+1以及兔子被動效果算到角色)。當然，被貼一個倒楣鬼就真的是1&#x2F;1的地獄倒楣鬼了。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0026_MTGWOE_Main.png"
-                      alt="Return Triumphant"
-                ></p>
-<p><strong>限制賽評分：2.5</strong></p>
-<p>最近白色很常出這種二費挖三費以下生物回場的牌，例如BRO的<a class="link"   href="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0022_MTGBRO_Main.png" >Recommission <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>，而對比之下這張巫術的強度讓你回場的生物上還結附一個青年英雄角色，可能還更強一點。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0027_MTGWOE_Main.png"
-                      alt="Rimefur Reindeer"
-                ></p>
-<p><strong>限制賽評分：3.0</strong></p>
-<p>要躺人要等結界進場，而這個系列的結界應該絕大多數還是在巫術時機進場，而讓這個橫置的異能較偏進攻向。而沒辦法穩定觸發tap的話還是回歸到體格，四費3&#x2F;4是一個還可以的體格，而在結界較多的黑白、白綠思路、或貼皮多的白藍中的分數可以再更高一點。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0028_MTGWOE_Main.png"
-                      alt="Savior of the Sleeping"
-                ></p>
-<p><strong>限制賽評分：2.5</strong></p>
-<p>三費2&#x2F;3警戒，結界進墳則在他身上放一個+1&#x2F;+1指示物。雖然結界進墳不見得很常發生，但基本上只要觸發一次就蠻厲害的了，警戒異能攻守合一也有加分的效果。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0029_MTGWOE_Main.png"
-                      alt="Slumbering Keepguard"
-                ></p>
-<p><strong>限制賽評分：1.5 (現開)</strong><br><strong>限制賽評分：3.0 (輪抽)</strong></p>
-<p>現開中結界要拿得多不太容易，但輪抽只要不被卡應該能抽出一個非常進攻曲線的白底結界套牌；如果場上有3-4個結界，中期開始每回合付三費變4&#x2F;4以上體格揍人是很痛的。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0030_MTGWOE_Main.png"
-                      alt="Solitary Sanctuary"
-                ></p>
-<p><strong>限制賽評分：3.5</strong></p>
-<blockquote>
-<p>迪士尼的城堡都長這個樣子的。</p>
-</blockquote>
-<p>三費進場tap一隻暈眩指示物，而當你橫置對手操控的生物時可以放+1&#x2F;+1指示物，可以開路加灌大自己的生物，而在白藍tap思路中甚至值4.0分正好是補足白藍生物偏小的弱勢，而如果可以拿到或複製它的話就會變得非常的炸！</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0031_MTGWOE_Main.png"
-                      alt="Spellbook Vendor"
-                ></p>
-<p><strong>限制賽評分：4.0</strong></p>
-<blockquote>
-<p>少年仔！我看你目露精光骨骼精奇，想來必定是個練武奇才！來來來！我這邊剛好有本秘笈好厲害的，收你一塊錢就好！</p>
-</blockquote>
-<p>非常厲害的二費警戒人，每個你回合中的戰鬥階段都能支付ㄧ來在你的生物上放一個術士角色，灌大以外還可以進攻時做出占卜ㄧ，可以讓你場面增強之餘還可以讓你的下一抽變得更好。是我限制賽打白非常希望能拿到的牌。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0032_MTGWOE_Main.png"
-                      alt="Stockpiling Celebrant"
-                ></p>
-<p><strong>限制賽評分：3.0</strong></p>
-<blockquote>
-<p><a class="link"   href="https://www.mtgct.com/card/7252" >「怎麼？我不過是想留著晚點再吃罷了。」 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
-</blockquote>
-<p>三費3&#x2F;2進場時可以回收一個你操控的永久物，若你這樣做則可以占卜二。這張要取決於你場上有沒有其他能賺進離場異能的永久物，有的話就是很不錯的潤滑曲線。也可以回收上面有結付靈氣的生物來觸發結界進墳的效果。或用來拯救被貼了倒楣鬼角色的生物。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0033_MTGWOE_Main.png"
-                      alt="Stroke of Midnight"
-                ></p>
-<p><strong>限制賽評分：3.5</strong></p>
-<blockquote>
-<p>午夜十二點的鐘聲響起，灰鈷娘也只能匆匆離去…</p>
-</blockquote>
-<p>三費的瞬間非地萬解，但有一個副作用是會讓對手派出一個1&#x2F;1人類衍生物。不過人類在WOE中應該沒有什麼搭配，以解掉一個巨大威脅來看，這個投報率還算值得。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0034_MTGWOE_Main.png"
-                      alt="A Tale for the Ages"
-                ></p>
-<p><strong>限制賽評分：3.0</strong></p>
-<p>二費結界可以讓你操控且被結付的生物得到+2&#x2F;+2，在充滿各種角色衍生物的WOE環境中應該是值得使用的；但對我而言因為群體膨脹的效果還是有點不穩定，所以還是沒有辦法給到很高分。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0035_MTGWOE_Main.png"
-                      alt="Three Blind Mice"
-                ></p>
-<p><strong>限制賽評分：4.0</strong></p>
-<p>最差就是生3隻1&#x2F;1家鼠第四回合後變大全家打過去；而當你能複製的token越多樣這張牌能發揮的效果就越強，非常的賺。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0036_MTGWOE_Main.png"
-                      alt="Tuinvale Guide"
-                ></p>
-<p><strong>限制賽評分：3.5</strong></p>
-<p>普通的四費2&#x2F;3飛兵跟觸發歡慶後的3&#x2F;3繫命飛兵對場面的影響天差地遠，值得讓我為了歡慶效果先多給0.5分。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0037_MTGWOE_Main.png"
-                      alt="Unassuming Sage"
-                ></p>
-<p><strong>限制賽評分：2.5</strong></p>
-<p>二費無異能的<a class="link"   href="https://cards.scryfall.io/large/front/4/0/409f9b88-f03e-40b6-9883-68c14c37c0de.jpg?1562546736" >灰棕熊 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>，或四費攻擊可以占卜ㄧ的<a class="link"   href="https://cards.scryfall.io/large/front/1/4/14c2be6a-9ca6-4d3a-8dd0-db4ea40799f8.jpg?1562544130" >山丘巨人 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>，兩個單獨在限制賽都不夠強，但合在同一張牌就可以讓你的構築套牌變得滑順，低調智者是你填補曲線的好朋友。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0038_MTGWOE_Main.png"
-                      alt="Virtue of Loyalty"
-                ></p>
-<p><strong>限制賽評分：5.0</strong></p>
-<p>歷險先二費閃現一個2&#x2F;2警戒騎士，五費正拍後在每個你的結束階段時會在所有你操控的生物上放+1&#x2F;+1指示物還全家站起來，妥妥的大炸彈！對手有開到這張的話記得有拆結界的牌要從備牌上來。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0039_MTGWOE_Main.png"
-                      alt="Werefox Bodyguard"
-                ></p>
-<p><strong>限制賽評分：4.5</strong></p>
-<p>三費2&#x2F;2閃現進場壓掉一個非狐生物，還可以兩費犧牲他補個2點血。用得好至少是個一換三（i.e.壓掉對手大生物、阻擋、犧牲掉再補2血；壓掉自己要被殺的強力生物、犧牲補2血、強力生物再進場賺一次進場異能甚至讓對手錯算斬殺的血量）</p>
-<blockquote>
-<p>…在危難之際，人類跟狐狸的真摯情誼展露無疑…</p>
-</blockquote>
-<hr>
-<p>以上就是這次WOE白色的限制賽分析，希望大家都能在接下來的現開與輪抽賽中找到屬於自己的樂趣！</p>
 ]]></content>
       <categories>
         <category>Limited</category>
