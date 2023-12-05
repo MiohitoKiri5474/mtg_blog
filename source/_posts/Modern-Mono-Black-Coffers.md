@@ -119,7 +119,7 @@ Sundering Titan：打四色/五色玩家用的，聽說你很多基本地類別�
 
 另外由於他有相當高的容錯率（像是攻防算錯，用 [March of Wretched Sorrow](https://cards.scryfall.io/large/front/0/5/050a604e-6146-4e2e-88a5-863ecb3dfa1f.jpg?1654567293) 多補幾點血）、相當高的資源量（戒指抽戒指抽戒指，好蒿爽爽）、鏡子/卡恩工具箱（留錯東西了還有機會補救），所以即便是打錯牌還是有機會贏的，懲罰沒有像是其他近代套牌那麼嚴重，成為我最推薦的 MITQ 套牌選擇。
 
-另外這套牌也可以混藍，多放張 [Minamo, School at Water's Edge](https://cards.scryfall.io/large/front/7/5/7536292c-da25-41c8-ba28-1e35758a7f3d.jpg?1562761537) 可以重複站戒指，扣一次血抽兩次牌，轉爛。
+另外這套牌也可以混藍，多放張 [Minamo, School at Water's Edge](https://cards.scryfall.io/large/front/7/5/7536292c-da25-41c8-ba28-1e35758a7f3d.jpg?1562761537) 可以重複站戒指，扣一次血抽兩次牌，賺爛。
 也可以額外放點康如 [Spell Pierce](https://cards.scryfall.io/large/front/3/5/35b8a9db-d126-4038-abb1-74dcc5b36136.jpg?1673147403) 之類的東西，不過混藍就沒辦法帶那麼多炸地了，因為有可能會被自己的調色卡爛，只能帶找地地、電震地這些一定有辦法調色的東西。
 
 ### 結語
