@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://guildmagesforum.tw/Pioneer-Naya-Dinosaurs/</loc>
+    <loc>https://guildmagesforum.tw/Pioneer-Rakdos-Midrange/</loc>
     
     <lastmod>2023-12-06</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://guildmagesforum.tw/Pioneer-Rakdos-Midrange/</loc>
+    <loc>https://guildmagesforum.tw/Pioneer-Naya-Dinosaurs/</loc>
     
     <lastmod>2023-12-06</lastmod>
     
@@ -74,15 +74,6 @@
   </url>
   
   <url>
-    <loc>https://guildmagesforum.tw/Standard-Gruul-Dinosaurs/</loc>
-    
-    <lastmod>2023-12-06</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://guildmagesforum.tw/Standard-Jeskai-Mechtitan-Core/</loc>
     
     <lastmod>2023-12-06</lastmod>
@@ -93,6 +84,15 @@
   
   <url>
     <loc>https://guildmagesforum.tw/Standard-Mono-Green-Stompy/</loc>
+    
+    <lastmod>2023-12-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://guildmagesforum.tw/Standard-Gruul-Dinosaurs/</loc>
     
     <lastmod>2023-12-06</lastmod>
     
@@ -147,6 +147,24 @@
   
   <url>
     <loc>https://guildmagesforum.tw/if-you-do-and-when-you-do/</loc>
+    
+    <lastmod>2023-12-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://guildmagesforum.tw/Pioneer-Meta-Inspection-20231007/</loc>
+    
+    <lastmod>2023-12-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://guildmagesforum.tw/Pioneer-Meta-Inspection-PreMIT-4/</loc>
     
     <lastmod>2023-12-06</lastmod>
     
@@ -525,24 +543,6 @@
   
   <url>
     <loc>https://guildmagesforum.tw/Pioneer-Introduction/</loc>
-    
-    <lastmod>2023-12-06</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://guildmagesforum.tw/Pioneer-Meta-Inspection-20231007/</loc>
-    
-    <lastmod>2023-12-06</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://guildmagesforum.tw/Pioneer-Meta-Inspection-PreMIT-4/</loc>
     
     <lastmod>2023-12-06</lastmod>
     
