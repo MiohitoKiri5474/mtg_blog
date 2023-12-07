@@ -21,11 +21,11 @@ info:
 # IMAGE CONFIGURATION >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> start
 defaults:
   # Favicon
-  favicon: /images/logo.jpeg
+  favicon: /images/logo.jpg
   # Site logo
   logo: 
   # Site avatar
-  avatar: /images/logo.jpeg
+  avatar: /images/logo.jpg
 # IMAGE CONFIGURATION <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
 
 
