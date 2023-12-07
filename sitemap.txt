@@ -1,8 +1,5 @@
 https://guildmagesforum.tw/others/index.html
 https://guildmagesforum.tw/tags/index.html
-https://guildmagesforum.tw/Pioneer-Naya-Dinosaurs/
-https://guildmagesforum.tw/Pioneer-Rakdos-Midrange/
-https://guildmagesforum.tw/Pioneer-Twins-Choices/
 https://guildmagesforum.tw/Saga-and-Moon/
 https://guildmagesforum.tw/Standard-Boros-Equipment-Standard/
 https://guildmagesforum.tw/Standard-Dimir-Ninja/
@@ -29,11 +26,8 @@ https://guildmagesforum.tw/Whats-Wrong-Modern/
 https://guildmagesforum.tw/Round-Process/
 https://guildmagesforum.tw/Standard-UW-Control/
 https://guildmagesforum.tw/WOE-multicolors/
-https://guildmagesforum.tw/categories/index.html
 https://guildmagesforum.tw/about/index.html
-https://guildmagesforum.tw/About-Play-Boosters/
-https://guildmagesforum.tw/Adventure-and-Lier/
-https://guildmagesforum.tw/DFC-Copy/
+https://guildmagesforum.tw/categories/index.html
 https://guildmagesforum.tw/Deck-Building-Basic/
 https://guildmagesforum.tw/How-Animate-Dead-Works/
 https://guildmagesforum.tw/How-to-Describe-an-Object/
@@ -45,6 +39,9 @@ https://guildmagesforum.tw/Modern-Mono-Black-Coffers/
 https://guildmagesforum.tw/New-Players-Guide/
 https://guildmagesforum.tw/Pioneer-Lotus-Field/
 https://guildmagesforum.tw/Pioneer-Meta-Inspection-20230918/
+https://guildmagesforum.tw/Pioneer-Naya-Dinosaurs/
+https://guildmagesforum.tw/Pioneer-Rakdos-Midrange/
+https://guildmagesforum.tw/Pioneer-Twins-Choices/
 https://guildmagesforum.tw/LCI-Black/
 https://guildmagesforum.tw/LCI-Blue/
 https://guildmagesforum.tw/LCI-Green/
@@ -57,10 +54,13 @@ https://guildmagesforum.tw/Modern-Rakdos-Scam/
 https://guildmagesforum.tw/Modern-Temur-Crashing-Footballs/
 https://guildmagesforum.tw/Pioneer-4C-Enigmatic-Fires/
 https://guildmagesforum.tw/Pioneer-Introduction/
-https://guildmagesforum.tw/Pioneer-Meta-Inspection-PreMIT-4/
 https://guildmagesforum.tw/Pioneer-Meta-Inspection-20231007/
+https://guildmagesforum.tw/Pioneer-Meta-Inspection-PreMIT-4/
 https://guildmagesforum.tw/LCI-multicolors/
 https://guildmagesforum.tw/Modern-Mono-Blue-Merfolk/
+https://guildmagesforum.tw/About-Play-Boosters/
+https://guildmagesforum.tw/Adventure-and-Lier/
+https://guildmagesforum.tw/DFC-Copy/
 https://guildmagesforum.tw/Contact-Us/index.html
 https://guildmagesforum.tw/
 https://guildmagesforum.tw/tags/cephille/

@@ -20,33 +20,6 @@
   </url>
   
   <url>
-    <loc>https://guildmagesforum.tw/Pioneer-Naya-Dinosaurs/</loc>
-    
-    <lastmod>2023-12-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://guildmagesforum.tw/Pioneer-Rakdos-Midrange/</loc>
-    
-    <lastmod>2023-12-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://guildmagesforum.tw/Pioneer-Twins-Choices/</loc>
-    
-    <lastmod>2023-12-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://guildmagesforum.tw/Saga-and-Moon/</loc>
     
     <lastmod>2023-12-07</lastmod>
@@ -281,15 +254,6 @@
   </url>
   
   <url>
-    <loc>https://guildmagesforum.tw/categories/index.html</loc>
-    
-    <lastmod>2023-12-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://guildmagesforum.tw/about/index.html</loc>
     
     <lastmod>2023-12-07</lastmod>
@@ -299,25 +263,7 @@
   </url>
   
   <url>
-    <loc>https://guildmagesforum.tw/About-Play-Boosters/</loc>
-    
-    <lastmod>2023-12-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://guildmagesforum.tw/Adventure-and-Lier/</loc>
-    
-    <lastmod>2023-12-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://guildmagesforum.tw/DFC-Copy/</loc>
+    <loc>https://guildmagesforum.tw/categories/index.html</loc>
     
     <lastmod>2023-12-07</lastmod>
     
@@ -417,6 +363,33 @@
   
   <url>
     <loc>https://guildmagesforum.tw/Pioneer-Meta-Inspection-20230918/</loc>
+    
+    <lastmod>2023-12-07</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://guildmagesforum.tw/Pioneer-Naya-Dinosaurs/</loc>
+    
+    <lastmod>2023-12-07</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://guildmagesforum.tw/Pioneer-Rakdos-Midrange/</loc>
+    
+    <lastmod>2023-12-07</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://guildmagesforum.tw/Pioneer-Twins-Choices/</loc>
     
     <lastmod>2023-12-07</lastmod>
     
@@ -533,7 +506,7 @@
   </url>
   
   <url>
-    <loc>https://guildmagesforum.tw/Pioneer-Meta-Inspection-PreMIT-4/</loc>
+    <loc>https://guildmagesforum.tw/Pioneer-Meta-Inspection-20231007/</loc>
     
     <lastmod>2023-12-07</lastmod>
     
@@ -542,7 +515,7 @@
   </url>
   
   <url>
-    <loc>https://guildmagesforum.tw/Pioneer-Meta-Inspection-20231007/</loc>
+    <loc>https://guildmagesforum.tw/Pioneer-Meta-Inspection-PreMIT-4/</loc>
     
     <lastmod>2023-12-07</lastmod>
     
@@ -561,6 +534,33 @@
   
   <url>
     <loc>https://guildmagesforum.tw/Modern-Mono-Blue-Merfolk/</loc>
+    
+    <lastmod>2023-12-07</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://guildmagesforum.tw/About-Play-Boosters/</loc>
+    
+    <lastmod>2023-12-07</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://guildmagesforum.tw/Adventure-and-Lier/</loc>
+    
+    <lastmod>2023-12-07</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://guildmagesforum.tw/DFC-Copy/</loc>
     
     <lastmod>2023-12-07</lastmod>
     
