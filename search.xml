@@ -185,6 +185,59 @@
       </tags>
   </entry>
   <entry>
+    <title>2023 Dec 4 Banned and Restricted Announcement 對環境帶來的影響</title>
+    <url>/BnR-Dec-4-2024/</url>
+    <content><![CDATA[<h2 id="Dec-4-Banned-And-Restricted-Announcement"><a href="#Dec-4-Banned-And-Restricted-Announcement" class="headerlink" title="Dec 4 Banned And Restricted Announcement"></a>Dec 4 Banned And Restricted Announcement</h2><p><a class="link"   href="https://magic.wizards.com/en/news/announcements/december-4-2023-banned-and-restricted-announcement" >R&amp;B 公告原始連結 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+<p>先來看看這一則 R&amp;B 到底禁了什麼：</p>
+<ul>
+<li><strong>Standard:</strong><br>No Changes </li>
+<li><strong>Pioneer, Explorer:</strong><br><a class="link"   href="https://cards.scryfall.io/large/front/3/e/3ec0c0fb-1a4f-45f4-85b7-346a6d3ce2c5.jpg?1701690505" >萬創卡恩（Karn, the Great Creator） <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 被禁<br><a class="link"   href="https://cards.scryfall.io/large/front/7/f/7f9c1a82-695b-4df2-8e51-2d71a62e7baf.jpg?1701690520" >探地人（Geological Appraiser） <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 被禁<br><a class="link"   href="https://cards.scryfall.io/large/front/7/8/7832abb5-5107-4603-904e-491b221bd3e3.jpg?1576383425" >走私直升機（Smuggler’s Copter） <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 解禁</li>
+<li><strong>Modern:</strong><br><a class="link"   href="https://cards.scryfall.io/large/front/b/d/bd281158-8180-40b9-a5b7-03cfc712d81a.jpg?1701690468" >怒火（Fury） <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 被禁<br><a class="link"   href="https://cards.scryfall.io/large/front/2/d/2d5e991f-23b2-4db0-a452-7755125b1fd2.jpg?1701690489" >爬上豆莖（Up the Beanstalk） <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 被禁</li>
+<li><strong>Legacy, Vintage:</strong><br>No Changes</li>
+<li><strong>Pauper:</strong><br><a class="link"   href="https://cards.scryfall.io/large/front/4/3/439d4ade-45c8-414b-a2fe-a57f9672bceb.jpg?1619401709" >寺院迅矛僧（Monastery Swiftspear） <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 被禁</li>
+</ul>
+<p>然後下面是詳細的禁牌理由，沒有禁牌的賽制就略過了，反正就是講為什麼現在很平衡。<br>Pauper 的禁牌文章太長了且廢話頗多沒有看完。</p>
+<h3 id="Pioneer-Explorer"><a href="#Pioneer-Explorer" class="headerlink" title="Pioneer, Explorer"></a>Pioneer, Explorer</h3><p>在過去的環境中，卡恩一直都有很高的使用率（在純綠獻力中），直到 LCI 發售後被 Discover Combo 打爛後使用率才明顯的下滑。<br>而卡恩的出現使得很多套牌成了寫作 60 張、實為 75 張的套牌，增加了對局的靈活性，同時為組合技元件、能增加場面壓力（貓車）、還有場面干擾（法老像、腦石、雲威號、夷城械）、鎖神器啟動，一次做太多事了讓某些套牌很難對抗。<br><del>以遊戲王的觀點來說，卡恩就是水晶機巧，活該被禁。</del></p>
+<p>而 Geological Appraiser 則是毫無疑問的破壞環境，前面有做到一次小加速就是三回整套做完誰受的了，而且即便是對應到有康或是有殺的對局，還是可以等到手上有複數招的時候再出。<br>因為這個套牌的出現，使得環境相當不健康，基本上只要是沒有瞬間對應手段的套牌都消失在環境中。</p>
+<p>Smuggler’s Copter 則是當時先驅賽制剛出來時，還沒有那麼多的牌張，多數套牌很難承受二回直升機三回搭載開始濾資源，因此被禁掉了。<br>而在這之後過了四年（當時是 Dec 2019 ban 掉的），先驅賽制中也多了更多系列，現在的環境應該可以承受著這張牌了。</p>
+<blockquote>
+<p>備註：目前 MTGA 牌池尚無收錄 Smuggler’s Copter，因此雖然 Pioneer 解禁了，但在 MTGA 的 Explorer 中依然沒有 Smuggler’s Copter 可用。</p>
+</blockquote>
+<h3 id="Modern"><a href="#Modern" class="headerlink" title="Modern"></a>Modern</h3><p>Scam 自從 LTR 加入 <a class="link"   href="https://cards.scryfall.io/large/front/7/c/7c024bae-5631-4e20-ac69-df392ac9e109.jpg?1686968669" >Orcish Bowmasters <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 之後表現持續的上位，並且在 PT LTR 後登頂，成為環境中的霸主。<br>雖然一回 <a class="link"   href="https://cards.scryfall.io/large/front/e/6/e6befbc4-1320-4f26-bd9f-b1814fedda10.jpg?1626095577" >Grief <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> scam 很破壞遊戲體驗，但真正讓環境不友善且節奏變相當快的則是 Fury，Fury 的出現往往都是搭配各種 Undying 咒語，並且通常都是 4&#x2F;4 的身材站在場上，同時還給場上任意數量的目標合計共八點傷害。<br>且本體五費躲掉 <a class="link"   href="https://cards.scryfall.io/large/front/6/e/6e9d8fe4-fd9b-4923-92bf-7dd6b8fa02e7.jpg?1598304715" >Fatal Push <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>、4&#x2F;4 的身材也不是 <a class="link"   href="https://cards.scryfall.io/large/front/f/2/f29ba16f-c8fb-42fe-aabf-87089cb214a7.jpg?1673147852" >Lightning Bolt <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 的射程範圍，且 4&#x2F;4 連擊基本上只要攻擊並打中玩家兩次、再加上一點額外的傷害就會結束遊戲了。<br>與此同時 Fury 的出現使得很多小生物套牌都無法存活。</p>
+<p>而 Up the Beanstalk 在 WOE 中後期成為環境寵兒，作為一個二費結界還能不斷的賺資源有些太超過了，雖然在 Fury 被禁後少了四張主要的抽牌咒語，但賺的資源還是太多，因此還是禁掉。</p>
+<h2 id="Meta-影響"><a href="#Meta-影響" class="headerlink" title="Meta 影響"></a>Meta 影響</h2><p>這次禁牌範圍還蠻廣的，這邊一樣分成不同賽制說明。</p>
+<h3 id="Pioneer-Explorer-1"><a href="#Pioneer-Explorer-1" class="headerlink" title="Pioneer, Explorer"></a>Pioneer, Explorer</h3><ol>
+<li>Mono-Green Devotion 大概是死去，組合技沒了，可能會改打 Stompy 或是需要找其他法力出口</li>
+<li>Discover 3 Combo 死去，動點沒了</li>
+<li>Rakdos Midrange 估計是坐穩環境霸主的位置了，少了一個很難打的主流套牌，還多一個 Smuggler’s Copter 的補強</li>
+<li>Rakdos Sacrifice 也會重返農藥，理由同上，不過劣勢對局比中速多一些（控制、鳳凰）</li>
+</ol>
+<p>Rakdos Midrange 在 LCI 環境本來就很舒服，因為綠獻被 Discover Combo 壓著打數量變少，同時為了打擊 Discover Combo 控制也變多、而這本來就是中速還算舒服的對局。<br>而其他難打的對局如 Convoke、Greasefang、Gruul Midrange 也因為 Discover Combo 的關係數量變少了。<br>更不用說 Smuggler’s Copter 被解禁，我相信 <a class="link"   href="https://cards.scryfall.io/large/front/2/7/279acd17-6c17-427b-a69d-fc02442ff4a3.jpg?1685368706" >Reckoner Bankbuster <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 的使用量應該會變少，二費拍二費抽還是沒有喊打直接抽棄強，雖然 Bankbuster 會賺牌、Copter 只會濾牌，但以節奏上來說應該還是 Copter 順一些；且如果棄掉永久物牌還可以搭配 <a class="link"   href="https://cards.scryfall.io/large/front/2/4/2487d124-210b-4808-888c-cd0a78aebd90.jpg?1699044556" >Molten Collapse <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>。<br>所以該說可惜嗎？MIT 沒有等 LCI 發售，不過想到那個噁心的賽場分布想想還是算了。<br>同理 Rakdos Scarifice 數量也會變多，但因為本身就難打控制或鳳凰的關係，使用量應該不會像是 Rakdos Midrange 那麼多。</p>
+<h4 id="Discover-真的有那麼該死嗎？"><a href="#Discover-真的有那麼該死嗎？" class="headerlink" title="Discover 真的有那麼該死嗎？"></a>Discover 真的有那麼該死嗎？</h4><p>這個是我最近在一個論壇上看到的文章，內文是說老鼠車技術上來說也是三回組合技做完（拉 <a class="link"   href="https://cards.scryfall.io/large/front/8/7/871279e6-9a59-470e-8acc-fd5fe4fda5b3.jpg?1651655658" >Parhelion II <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 搭載打 13 留兩隻 4&#x2F;4 警戒天使），多數套牌只要三回沒有瞬間解掉，基本上就是輸了，不過還是有一些差距。</p>
+<p>首先，老鼠車並不是一個只要有 <a class="link"   href="https://cards.scryfall.io/large/front/5/6/56a0d43b-4d38-40a7-be6c-8324ab3bf773.jpg?1654568449" >Greasefang, Okiba Boss <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 就會贏的牌，他需要藉由 <a class="link"   href="https://cards.scryfall.io/large/front/8/5/854f2b34-0719-47de-b1da-ade517793371.jpg?1562706605" >Grisly Salvage <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 之類的手段堆一台載具進墳，而且還要堆到對的載具才能三回打 13，並且在做到這些的前提下，還是有可能被對手反丟一發掃場解掉場面。<br>再來看看 Discover，前面只要有 <a class="link"   href="https://cards.scryfall.io/large/front/2/7/27c914a3-2294-4feb-9450-c012cfd307a6.jpg?1627429585" >Magma Opus <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 和 <a class="link"   href="https://cards.scryfall.io/large/front/e/a/eab58d87-bf01-45dc-8958-e2b3375f914b.jpg?1627428357" >Creative Outburst <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 做到加速後就能三回拍 Geological Appraiser 做組合技收工；即便前面沒有摸到這兩張牌做加速，還是可以四回裸拍 Geological Appraiser 做完整套組合技，<strong>Discover 是一套不需要其他牌張配合就能做完的組合技</strong>，個人認為這才是被禁的原因。</p>
+<p>先驅其他的組合技（Lotus Field Combo、Rona Combo、Metamorphic Dross etc.）幾乎都是要兩卡甚至更多卡才能完成的組合技，還有一定的不確定性，反觀 Discover 都是摸到關鍵牌張就會結束了。</p>
+<h3 id="Modern-1"><a href="#Modern-1" class="headerlink" title="Modern"></a>Modern</h3><ol>
+<li>Scam 大概要換顏色了，沒意外是 Orzhov，或是整套死去</li>
+<li>4C Omnath 回到 WOE 前的版本，不過可能要多帶一點掃場</li>
+<li>Cascade Beanstalk 死去，別再想著要抽牌了</li>
+</ol>
+<p>Scam 我已經想不太到還留著紅色的理由了，紅色的牌除了 Fury 都是可以被取代的東西，而且少了 Fury 上面提到那麼噁心的解場真的可以考慮直接換顏色組合。<br>4C Omnath 就回到 WOE 前的版本，不過要思考一下 Fury 的位置要換成什麼。<br>Cascade Beanstalk 這個新套牌出來大概一個多月就被關進去了有點可惜。<br>最後是個人的 pet deck：紅藍龍侯，龍侯可以說是被砍一刀又被奶一口的狀況，Fury 被禁使得龍侯的備牌局少了好用的解場牌，但同時也在正編局避免了被兩張手牌解光場面的狀況。</p>
+<p>對於其他套牌，現在備牌局常見的 <a class="link"   href="https://cards.scryfall.io/large/front/b/c/bc02e193-df33-4eb1-adc1-b51ee931218a.jpg?1686970297" >Stone of Erech <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 和 <a class="link"   href="https://cards.scryfall.io/large/front/3/c/3ca1e1de-b916-445f-b3b2-0f4d0cc7ceeb.jpg?1686968311" >Stern Scolding <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 應該是不太需要帶了，可以解放這些用來應對 Scam 的備牌位置。</p>
+<h3 id="Pauper"><a href="#Pauper" class="headerlink" title="Pauper"></a>Pauper</h3><p>Monastery Swiftspear 這張牌我在 Double Masters 2022 發售前就一直罵到現在，我不覺得 Pauper 能夠承受複數的 Swiftspear，這會使得帶紅的 tempo 或是 RDW 過強。<br>而且要知道 <a class="link"   href="https://cards.scryfall.io/large/front/4/6/461987da-8860-4a04-8f93-d182523ca311.jpg?1562261607" >Gut Shot <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 和 <a class="link"   href="https://cards.scryfall.io/large/front/2/e/2e0861a2-1858-47af-8154-20a977c2b298.jpg?1562260231" >Mutagenic Growth <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 都在環境內，更別說還有各種兇猛的一費燒⋯⋯</p>
+<h2 id="本次-R-B-個人意見"><a href="#本次-R-B-個人意見" class="headerlink" title="本次 R&amp;B 個人意見"></a>本次 R&amp;B 個人意見</h2><p>在我的眼中，我認為老威這一次的禁牌相當的不應該，且我對平衡團隊相當失望。<br>首先是五月的時候，老威信誓旦旦的說以後永恆賽制只會在九月的新系列開始預覽前公布禁牌表，雖然有一條但書（如果很緊急還是會動刀），但基本上會以年度禁牌表為準。<br>然後八月初的年度禁牌表放了 <a class="link"   href="https://cards.scryfall.io/large/front/d/1/d10b9be3-d4ff-4e3c-b0d5-5ab2c4e6d684.jpg?1691417733" >Preordain <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 出來，其他都沒動刀，你們總該知道 Fury 和 Grief 對環境的影響吧。<br>後來十月大家對 Scam 最不滿時也沒有動刀，環境都開始自我平衡時才突然宣布要對近代做處理。<br>如果是有 WOE 或 LCI 的新牌使得這些賽制有很糟糕的影響就算了（像是 Geological Appraiser 出來炸先驅環境），但他們選擇動一個已經出來至少半年、有經過年度禁牌表且沒有受到新系列大幅影響的套牌。<br>就連 <a class="link"   href="https://magic.wizards.com/en/news/announcements/june-7-2022-banned-and-restricted-announcement" >上一次動先驅環境 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 也是，也是等環境都快要自我平衡完——甚至 <a class="link"   href="https://cards.scryfall.io/large/front/5/d/5dd13a6c-23d3-44ce-a628-cb1c19d777c4.jpg?1654630670" >Winota <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 自己都知道會被針對的很嚴重，在備牌局有別的策略——時才宣布要把 Winota 禁掉。</p>
+<p>總之如同我在 <a href="https://guildmagesforum.tw/Modern-Rakdos-Scam/">Rakdos Scam 那篇文章</a> 中寫的一樣：「⋯⋯現在反而很尷尬，不管怎麼做都會是笑話，動刀的話自己之前說一年動一次永恆賽制就是一個笑話，不動刀的話會則是讓近代這個賽制就是一個笑話。」<br>結果老威選擇打臉自己，把年度禁牌表 ban 了。</p>
+<p>上次 R&amp;B 把輪抽包 ban 了，這次把年度禁牌表 ban 了，下次會 ban 什麼呢？<br>難道是將玩家 ban 了嗎？希望不是。</p>
+]]></content>
+      <categories>
+        <category>Construct</category>
+      </categories>
+      <tags>
+        <tag>MiohitoKiri5474</tag>
+        <tag>Pioneer</tag>
+        <tag>Modern</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>轉化式雙面牌與複製效應</title>
     <url>/DFC-Copy/</url>
     <content><![CDATA[<h2 id="Before-We-Start"><a href="#Before-We-Start" class="headerlink" title="Before We Start"></a>Before We Start</h2><p>雙面牌與複製效應都可算是規則釋疑區的BOSS之一，單一效應就已牽扯到眾多規則，當兩者相互作用時，其規則處理往往不只反直覺，甚至是連如何開始分析都毫無頭緒。而邪軍壓境系列由撫育器Token帶來的雙面牌規則變化更是徹底打亂了許多人對雙面牌規則的認知，或許有些人嘗試過自行搜尋規則資料，面對茫茫多的規則條文時卻不知道如何下手，又或是看到物件特徵有七層(Layer)時就暈頭轉向了。</p>
@@ -888,9 +941,9 @@
       </categories>
       <tags>
         <tag>cephille</tag>
-        <tag>MIT</tag>
-        <tag>Pioneer</tag>
         <tag>MiohitoKiri5474</tag>
+        <tag>Pioneer</tag>
+        <tag>MIT</tag>
         <tag>T1BloodMoon</tag>
         <tag>Kappa</tag>
         <tag>jeffchen</tag>
@@ -987,8 +1040,8 @@
         <category>Modern</category>
       </categories>
       <tags>
-        <tag>T1BloodMoon</tag>
         <tag>Modern</tag>
+        <tag>T1BloodMoon</tag>
         <tag>Deck Tech</tag>
       </tags>
   </entry>
@@ -1366,8 +1419,8 @@
         <category>Pioneer</category>
       </categories>
       <tags>
-        <tag>Pioneer</tag>
         <tag>MiohitoKiri5474</tag>
+        <tag>Pioneer</tag>
         <tag>Deck Tech</tag>
       </tags>
   </entry>
@@ -1499,8 +1552,8 @@
         <category>Pioneer</category>
       </categories>
       <tags>
-        <tag>Pioneer</tag>
         <tag>MiohitoKiri5474</tag>
+        <tag>Pioneer</tag>
         <tag>Inspection</tag>
       </tags>
   </entry>
@@ -1591,8 +1644,8 @@
         <category>Pioneer</category>
       </categories>
       <tags>
-        <tag>JerobaMTG</tag>
         <tag>Pioneer</tag>
+        <tag>JerobaMTG</tag>
       </tags>
   </entry>
   <entry>
@@ -1663,8 +1716,8 @@
         <category>Pioneer</category>
       </categories>
       <tags>
-        <tag>Pioneer</tag>
         <tag>MiohitoKiri5474</tag>
+        <tag>Pioneer</tag>
         <tag>Decktech</tag>
       </tags>
   </entry>
@@ -1755,8 +1808,8 @@
         <category>Pioneer</category>
       </categories>
       <tags>
-        <tag>JerobaMTG</tag>
         <tag>Pioneer</tag>
+        <tag>JerobaMTG</tag>
       </tags>
   </entry>
   <entry>
@@ -3548,6 +3601,389 @@
       </tags>
   </entry>
   <entry>
+    <title>依夏蘭迷窟（LCI）限制賽介紹 — 紅色</title>
+    <url>/LCI-Red/</url>
+    <content><![CDATA[<p>依夏蘭迷窟（The Lost Caverns of Ixalan, LCI）將於2023年11月10日舉行售前賽活動，而於隔一週2023年11月17日正式發行，想更了解單卡在限制賽的單卡評分與一些可能的有趣搭配嗎？那就來看看這一系列的LCI限制賽介紹吧！</p>
+<p>機制介紹請看這篇：<a href="https://guildmagesforum.tw/LCI-mechanic/">依夏蘭迷窟機制解析</a></p>
+<h2 id="評分標準"><a href="#評分標準" class="headerlink" title="評分標準"></a>評分標準</h2><p>5.0：無條件必拿<br>4.0：有首選價值<br>3.5：強度夠但不一定要首選<br>3.0：高於平均（會很希望他能放進最終牌組）<br>2.5：平均水準，maybe輪抽第6、第7 pick左右<br>2.0～1.0：低於平均 （比起放這張牌，更傾向於不放）<br>0.5～0.0：不可用 （基本上別放，放了只會幫你輸）</p>
+<h2 id="紅色"><a href="#紅色" class="headerlink" title="紅色"></a>紅色</h2><p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.imgur.com/8Nf0OgA.png"
+                      alt="紅色"
+                ></p>
+<blockquote>
+<p>紅色各稀有度的數量</p>
+<p>C：19<br>U：14<br>R：8<br>MR：2</p>
+</blockquote>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cards.scryfall.io/large/front/4/7/47f39b5e-2e85-4f31-bbab-0b0bf58f701d.jpg?1699044218"
+                      alt="131"
+                ></p>
+<p><strong>Jru</strong>：3.5</p>
+<p>瞬間2費打3本身作為低費去除就沒什麼好挑剔的了，由於LCI這系列的神器牌密度極高，甚至可以說堪比真正的神器環境，因此神器去除的能力相對於常規系列顯得更有價值。</p>
+<p>話說風化侵蝕貌似快和失效、逼從一樣，變成標準長青C卡了。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cards.scryfall.io/large/front/e/9/e90d5b7d-e27d-42d6-ba7a-d4a6b0dd8549.jpg?1699044222"
+                      alt="132"
+                ></p>
+<p><strong>Jru</strong>：1.5</p>
+<p>就是個很普通的戰鬥詭計，由於傾探（Discover）機制的存在，戰鬥詭計這種特別講求時機的牌可能會更加難用。另外比較值得一提的是這系列的化煉（Craft）有不少牌以放逐神器做為費用，珍寶Token除了正常的產費外也可以作為化煉的素材來使用。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cards.scryfall.io/large/front/0/b/0b2debca-8535-4cf6-a461-c268faaacaae.jpg?1698583040"
+                      alt="133"
+                ></p>
+<p><strong>Jru</strong>：3.0</p>
+<p>作為2費打點這身材+踐踏算是挺合格了，恐龍在依夏蘭是個大眾種族，灌大力量的能力觸發機會也不少。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cards.scryfall.io/large/front/2/2/2220ed60-3f8f-4dd2-8319-6a06896a5350.jpg?1698183724"
+                      alt="134"
+                ></p>
+<p><strong>Jru</strong>：5.0</p>
+<p>毫無懸念的大炸彈，光是5費5&#x2F;5飛行先攻就有足夠恐怖的戰鬥力了，這觸發式異能更是賺的匪夷所思，每回做一次<a class="link"   href="https://scryfall.com/card/vow/174/zht/%E9%AD%AF%E8%8E%BD%E8%A1%9D%E5%8B%95" >魯莽衝動 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>就已經能滾出很恐怖的資源差，並且放逐到牌就能創造額外資源，甚至沒要求你使用該牌時才生Token，基本上是個只要活過一回就贏一半的大炸彈。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.imgur.com/D6x4nUA.jpg"
+                      alt="135"
+                ></p>
+<p><strong>Jru</strong>：5.0</p>
+<p>本系列思路萬搭牌，進場是棄N抽N+1，可以做到不虧牌濾牌，同時支援落墳（Descend）運作，轉化條件是3次在自己回合結束階段前落墳，這張卡進場時就能提供1次落墳了，想要湊到3次並不是難事，並且轉化後是個超級資源擴張機，很容易靠著巨量資源壓制戰局。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cards.scryfall.io/large/front/8/e/8e9e0c66-f64a-428c-be13-a52691833df1.jpg?1699044235"
+                      alt="136"
+                ></p>
+<p><strong>Jru &amp; Kappa</strong>：2.0</p>
+<p>在進攻端有機會等效成3費4&#x2F;4，兩個神器在這系列雖然不難湊，但有許多都是偏慢節奏的卡，或是需要佩帶費用的武具，想要拚前期輸出節奏應該很難讓他變4&#x2F;4的同時隊友也能給出足夠壓力。</p>
+<p>紅單色的神器不足以讓他成為一張合格的卡，但若果與白色的一堆低費神器或神器生物混合，就可以令他成為有效的4點打點，而且被解了也完全不可惜，基礎323白板也不算是很差劣，不過依然難掩他只能在特定色組工作的問題，能力不是攻擊時，而是達成條件常駐發動的話，應該還能在上升0.5～1分，現在沒有配合始終是一張合格線以下的卡。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cards.scryfall.io/large/front/a/a/aadf5028-8dfe-40d3-89b4-22bd7ed0aae6.jpg?1695408358"
+                      alt="137"
+                ></p>
+<p><strong>Jru</strong>：4.0</p>
+<p>作為單卡非常優秀，3費3&#x2F;3先攻在限制賽的生物戰中可以給出很大壓力，攻擊時觸發的三選項也很實用，只是要注意的是本次LCI的海盜生物量少了很多，整個系列包含此R卡也就14張海盜，其中還包含了些戰力貧弱的傢伙，所以別太期待以海盜作為種族主題的思路。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cards.scryfall.io/large/front/0/c/0c491ac0-4752-47a7-967e-456b6e4245de.jpg?1699044244"
+                      alt="138"
+                ></p>
+<p><strong>Jru &amp; Kappa</strong>：2.5</p>
+<p>在攻防時有機會變成2費3&#x2F;3，雖然這系列恐龍隊友不難找（C，U已有18隻，其中14隻是紅綠色組），但總歸是有限制；然而，我們也可以把她的異能視為更強的<a class="link"   href="https://mtg.fandom.com/wiki/Bushido?so=search" >武士道1 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>，在恐龍數量多的套牌中往往有機會與3防生物交換，或給予對手更大的進攻壓力，在紅綠色組中是非常優秀的C卡。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cards.scryfall.io/large/front/8/3/8341ddd9-aac1-4773-b8ce-51e35f696263.jpg?1699044244"
+                      alt="139"
+                ></p>
+<p><strong>Jru</strong>：0.5（現開） &#x2F; 1.5（輪抽）</p>
+<p>在現開賽估計組牌能用的洞窟數不會多，再算上實戰中的上手率，大概高機率是張死卡。<br>輪抽雖然好一點，但這系列的洞窟主題並不像KHM的雪境或DMU的領土的一樣有足夠完整的系統性回報，不太能期待高抓位洞窟牌的思路。</p>
+<p><strong>Kappa</strong>：1.5</p>
+<p>可以期待輪抽時，cave系統打出像DMU時期domain戰術的五色cave戰術，這張本質是一張AOE，在cave系統中非常強悍，想像成<a class="link"   href="https://scryfall.com/card/dgm/152/mazes-end" >Maze’s End <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>卡組中的<a class="link"   href="https://scryfall.com/card/rna/102/gates-ablaze" >Gates Ablaze <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>會比較好理解，輪抽桌Cave的出率目前看來是3包有2包有cave，評價還不高但未來可期。<br>現開應該就死透了。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cards.scryfall.io/large/front/e/9/e964f026-9cbf-4fa2-acdc-60d19b88f183.jpg?1699044247"
+                      alt="140"
+                ></p>
+<p><strong>Jru</strong>：2.5 </p>
+<p>落墳一次合格，落墳第二次以後開始比較有收益，由於這系列大身材的生物佔比不低，想要讓他強化到在生物戰中有優勢要多費點功夫。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cards.scryfall.io/large/front/a/1/a144d0b3-678d-4f4c-a9b0-22af19f5cf9f.jpg?1699044253"
+                      alt="141"
+                ></p>
+<p><strong>Jru</strong>：2.0（現開） &#x2F; 2.5（輪抽）</p>
+<p>強度完全取決於你傾探（Discover）的牌張密度，第一次複製到傾探算是打平放這張牌的成本，第二次以後才是真的賺，要放這傢伙就要先確保自己套牌有足夠高的機率在他進場後做到兩次傾探，不然就別放了，在現開賽估計也很難湊出完整的傾探主題料，輪抽時可以高抓位一些傾探的牌，穩定性會好一點，但切記不要為了這張牌過度抓一些孱弱的傾探料。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cards.scryfall.io/large/front/d/9/d95018a4-be10-4c46-b14d-4b1eba838bc0.jpg?1699044254"
+                      alt="142"
+                ></p>
+<p><strong>Jru</strong>：2.0</p>
+<p>用途接近於讓對手的生物都不能阻擋，很有機會成為壓垮對手的最後一根稻草，這種牌以往的標竿費用是4費，雖然這張是5費，但附贈了一個傾探4，單看一費換傾探4這點是滿賺的，不過這張卡使用上很吃時機，通常是你要給已經進入死線的對手最後一擊時使用，所以你在判斷是否要使用這張卡時的依據應該是場面狀態，而不是後續收益隨機的傾探4，甚至於傾探4翻到啥高機率也不影響當回攻勢了，這樣看來就變成了一個跟標竿卡相比多一費又不能讓對手徹底喪失阻擋能力的低效卡。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cards.scryfall.io/large/front/4/a/4ae30fa7-3d1d-417f-80d7-a668236cb2c1.jpg?1698699973"
+                      alt="143"
+                ></p>
+<p><strong>Jru</strong>：2.5</p>
+<p>本身是個很樸實無華的武具，佩帶費用還算靈活，能加攻防的武具在限制賽都算扎實，另外這系列的神器利用牌很多，珍寶除了拿來產費外還有許多妙用。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cards.scryfall.io/large/front/9/d/9de1a93e-ec71-45fa-b0b8-2c21123e390c.jpg?1699044263"
+                      alt="144"
+                ></p>
+<p><strong>Jru &amp; Kappa</strong>：2.5</p>
+<p>就是個很標竿的C卡曲線生物，外加是神器，又是恐龍，又是Gnome，這系列的種族支援都對應一半了，莎希莉會很喜歡的。(卡面台詞以及配合M卡莎希莉的雙重意義)</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.imgur.com/nCr57Vm.jpg"
+                      alt="145"
+                ></p>
+<p><strong>Jru</strong>：4.0</p>
+<p>從費用與能力的比值來看，效率在武具中算高的了，轉化後只要能提供神器肥料就能不斷滾雪球的壓制盤面，就算只有一兩個肥料能當子彈，通常也夠把對面最重要的東西解掉了。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.imgur.com/KGr0uCx.jpg"
+                      alt="146"
+                ></p>
+<p><strong>Jru</strong>：2.0</p>
+<p>正面收效甚微，背面雖然能把小生物變成對手較難忽視的火力來源，但畢竟沒灌防禦也沒給踐踏，該換死的還是會被換死，除非能做到持續提供生物來源，才能比較好的發揮白嫖壓制打法，另外轉化條件是操控四個神器，雖然說在這系列不會太艱難，但也是個有點要求的限制了。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cards.scryfall.io/large/front/0/6/062e00a1-f1dc-4089-b640-800ab781c590.jpg?1699044274"
+                      alt="147"
+                ></p>
+<p><strong>Jru</strong>：3.0</p>
+<p>非常罕見的能突破2.5分的戰鬥詭計，一般來說戰鬥詭計有著被回應去除後一屍兩命的風險，分數很難上的去，不過這張牌的上限特別高，1費+2&#x2F;+2踐踏本來就還算堪用了，附帶的神器去除能力在這系列尤其重要，運用得當反而是張能一換二的去除點。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cards.scryfall.io/large/front/4/4/44420f52-2ed8-4f81-93e4-5decc77bed01.jpg?1698433329"
+                      alt="148"
+                ></p>
+<p><strong>Jru</strong>：2.0</p>
+<p>能夠給神器思路提供肥料的來源之一，不過同時又要做到落墳，要求還是有點多。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cards.scryfall.io/large/front/6/d/6d4075a8-c15d-4078-bf4b-0f85c03fecec.jpg?1699044282"
+                      alt="149"
+                ></p>
+<p><strong>Jru</strong>：2.5</p>
+<p>可以當成是個偽濾牌，靈氣本體大概就1費的強度，不過再加上傾探3，大概要做出等效3費牌張的收益還是不難的，要注意這個靈氣也有被回應目標後一屍兩命的風險在。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cards.scryfall.io/large/front/7/f/7f9c1a82-695b-4df2-8e51-2d71a62e7baf.jpg?1698263129"
+                      alt="150"
+                ></p>
+<p><strong>Jru</strong>：4.0</p>
+<p>近似於不會敏捷的<a class="link"   href="https://scryfall.com/card/2x2/184/bloodbraid-elf" >血辮妖精 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>，由於本體就是個能夠跟對方做交換的生物了，翻到甚麼基本都是賺。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cards.scryfall.io/large/front/0/1/018160fe-f602-43f5-8495-241a08eaa69c.jpg?1699044289"
+                      alt="151"
+                ></p>
+<p><strong>Jru</strong>：1.0</p>
+<p>只有極限快攻思路才能活用牠，但許多神器又跟這思路不相容，對於偏中速一點的遊戲計畫來說有條件的一費灰棕熊並沒有多吸引人。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cards.scryfall.io/large/front/4/1/415904fe-b77f-4c1a-850f-688484d629e6.jpg?1698351953"
+                      alt="152"
+                ></p>
+<p><strong>Jru</strong>：2.5</p>
+<p>神器思路的出口之一，可以將你的神器轉化成進攻壓力，不過要注意這個能力只能在巫術時機起動，同時沒有給先攻也不會灌大防禦力，你也不能把自己的攻擊手揮霍的太開心。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cards.scryfall.io/large/front/e/7/e75f460c-43e2-4353-8b73-71ff8651a79d.jpg?1698172845"
+                      alt="153"
+                ></p>
+<p><strong>Jru</strong>：0.5</p>
+<p>傾探10基本上就是翻到牌庫頂直到下一張非地牌為止，很有可能花了7費只做了一個2~3費的招，通常你能開出7費的招大概也不缺法力了，那些珍寶的用途大概就是拿來提供神器思路運作，但相信你不會想用一個7費的招只為了擠出幾個珍寶…</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cards.scryfall.io/large/front/8/7/87468b6b-6f78-42e4-ab0d-6730aeecdc3f.jpg?1699044297"
+                      alt="154"
+                ></p>
+<p><strong>Jru</strong>：2.5（現開） &#x2F; 3.0（輪抽）</p>
+<p>姑且算是神器牌裡比較符合快攻思路的生物，不過自己衝出去很容易被換死，另外這個系列整體機制比較偏向長盤資源戰，現開時快攻思路應該很難過的多開心，更大的價值或許是容易從墳場作為化煉的素材。輪抽可以積極抓紅白快攻，比較能體現3費3攻的敏捷打點價值。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.imgur.com/gg50CuD.jpg"
+                      alt="155"
+                ></p>
+<p><strong>Jru</strong>：2.5</p>
+<p>正面是個3費電震、背面是個<a class="link"   href="https://scryfall.com/card/znr/157/zht/%E6%8B%BC%E8%A3%9D%E5%BC%8F%E6%88%B0%E5%88%83" >拼裝式戰刃 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>，兩邊都說不上高效，但拚成一張卡後還算可用，另外這種進場異能觸發後就擺在原地的神器，也很適合成為其他牌化煉的素材或是神器思路的啟動點。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cards.scryfall.io/large/front/f/a/fa7a55aa-ae61-4933-b7a4-dcc55dac6fcd.jpg?1698431277"
+                      alt="156"
+                ></p>
+<p><strong>Jru</strong>：4.0</p>
+<p>很像是偽<a class="link"   href="https://scryfall.com/card/snc/213/raffine-scheming-seer" >拉斐茵 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>的攻擊觸發能力，同時也是個主動落墳引擎，均勢或順風局容易創造不少優勢，但逆風局時無能為力。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cards.scryfall.io/large/front/4/4/4471a833-11b9-4146-a9c0-84a6896c94d8.jpg?1699044307"
+                      alt="157"
+                ></p>
+<p><strong>Jru</strong>：4.0</p>
+<p>紅色珍貴的高射程去除，5&#x2F;5搭載2的性價比也足夠高，還有機會提供額外的珍寶做各種利用。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.imgur.com/n0bzOar.jpg"
+                      alt="158"
+                ></p>
+<p><strong>Jru</strong>：4.0</p>
+<p>雖然死了有機會復活的神看起來很厲害，但這個紅神不管是正面反面的能力，在這系列中都缺乏充足的支援牌，哪怕是輪抽都未必抓的完整，所以用起來大概就是個4&#x2F;4踐踏死了送你一塊紅地，較高射程的燒有抓到2張的話還是可以期待一下復活一次。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cards.scryfall.io/large/front/a/d/ad371c97-a266-4a88-9d28-2e889a37ba00.jpg?1699044315"
+                      alt="159"
+                ></p>
+<p><strong>Kappa &amp; Jru</strong>：3.5</p>
+<p>5費4&#x2F;5延勢可以擋下絕大多數的攻擊者了，並且每回還可以用異次元打擊燒對面2血，想辦法穩住場面就能取勝，根本就是個簡易版的<a class="link"   href="https://scryfall.com/card/dmu/107/sheoldred-the-apocalypse9D%E5%8B%95" >啟示天災希歐蕊 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>。這也證明了血量5延勢的重要性，<a class="link"   href="https://scryfall.com/card/mom/156/onakke-javelineer" >歐納克擲槍魔 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>應該學習一下，輪抽中3～4 pick左右看到的話無任歡迎，紅色堅實5費C卡之選。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cards.scryfall.io/large/front/5/b/5bb2552f-8370-4931-83e1-93706d51413a.jpg?1699044322"
+                      alt="160"
+                ></p>
+<p><strong>Jru</strong>：3.0</p>
+<p>樸實無華的填曲線生物，交換能力還行，送一個珍寶算挺實用的。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cards.scryfall.io/large/front/c/0/c035250e-6f6e-4d0f-b4fd-2a53d6069aa7.jpg?1698435084"
+                      alt="161"
+                ></p>
+<p><strong>Jru &amp; Kappa</strong>：5.0</p>
+<p>神器思路超級回報單卡，只要能賺到兩隻恐龍Token就算值回票價，第三隻開始是血賺，這系列恐龍生物不少，也能期待順便生幾個珍寶，不過反過來說沒開到這些指定類別的卡時就完全沒用，上下限非常吃開到牌池的分佈。</p>
+<p>真價是每回合第1張神器附送一隻可攻可擋的生物，本系列C，U卡總共50張神器，紅色佔9張，無色佔14張，很難完全佔不到邊，更不用說與其他色組混合有更多，白色佔10張，藍色佔9張。恐龍主要在紅綠色組，這卡恐龍攻擊產的珍寶能提供調色效果，而施放神器又能產恐龍，令此卡一旦開始運作，除非拆了這張結界，否則很難停下來。總結是一張值得作為卡組中核新的大炸彈，可以特地組紅綠白或者紅綠藍卡組，考慮到能自力生產恐龍，甚至不混綠色也可以，只靠紅色的恐龍或者自產的恐龍也能維持第一個效果。<br>注意的是，cast神器咒語就立即能產恐龍的緣故，就算知道對手可以瞬間回應拆結界，4費拍這個結界再立即拍1個1費神器，對手也不能阻止第1隻恐龍出產，無論如何也能做到逼對手1換0的效果。<br>題外話，這張卡圖啟蒙了我。(我只是按照卡面台詞朗讀喔)</p>
+<blockquote>
+<p><strong>cephile</strong>：<br>我沒有要評分，但三費這張結界接四費<a class="link"   href="https://cards.scryfall.io/large/front/9/d/9de1a93e-ec71-45fa-b0b8-2c21123e390c.jpg?1699044263" >自動龍械 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>然後五回兩隻恐龍打出去生兩個珍寶跳七費真的是太炸了！果然莎希莉會很喜歡！（然後這兩個人的表情超有戲XD）</p>
+</blockquote>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cards.scryfall.io/large/front/8/b/8bab3f8f-cb06-466d-a35d-0b5e1a2b524c.jpg?1698583122"
+                      alt="162"
+                ></p>
+<p><strong>Jru</strong>：3.0</p>
+<p>超級威懾仔，類別正確，在非R卡生物中算滿合理的高費區選擇。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cards.scryfall.io/large/front/4/f/4f06b53f-ec82-4d7f-bee3-6ca04583f023.jpg?1699044331"
+                      alt="163"
+                ></p>
+<p><strong>Jru</strong>：3.0</p>
+<p>雖然有點笨重，但也是紅色珍貴的高射程去除。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.imgur.com/RkAoTmq.jpg"
+                      alt="164"
+                ></p>
+<p><strong>Jru</strong>：3.5</p>
+<p>進場棄1抽2是挺好的濾牌與落墳觸發源，也能往墳場填充化煉素材，這系列恐龍密度高，想要從墳場找到化煉素材並不難，很容易轉化成一個有足夠戰鬥力的生物創造二次價值。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cards.scryfall.io/large/front/9/4/9436cf62-56d6-4662-9982-72e9be80d25c.jpg?1699044339"
+                      alt="165"
+                ></p>
+<p><strong>Jru</strong>：3.0</p>
+<p>在構築賽可以算是控制殺手了，但限制賽本來瞬間時機的招佔比就不會這麼高，很多招對手選擇在自己回合做其實影響也沒太大，估計大多時候就是個3費4&#x2F;3，不過單看這個身材也算是高過平均值了，而且打4點傷害的能力就算能透過操作規避，對對手而言也是個不小的壓力跟限制。</p>
+<blockquote>
+<p><strong>cephille</strong>：要留意在對手回合施放咒語要先被打四對自己也適用，有牠在場而你血量落後時，記得在自己的回合先做解牌。</p>
+</blockquote>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cards.scryfall.io/large/front/9/8/98aeb9dc-18f9-4120-ac3d-226c62a1dc1d.jpg?1699044339"
+                      alt="166"
+                ></p>
+<p><strong>Jru</strong>：3.0</p>
+<p>正叫身材合理，還能夠把多餘的地轉化成新的資源，在限制賽中打到後盤常常是大家一堆地但沒有手牌，這個資源轉化能力在中後盤後是相當恐怖的，前期卡地也能用山脈循環來穩定自己的魔法力基礎。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cards.scryfall.io/large/front/b/b/bb040fc7-f728-4482-92af-9a320c03bb54.jpg?1699044342"
+                      alt="167"
+                ></p>
+<p><strong>Jru</strong>：1.5</p>
+<p>雖然也是個偽電震，但要拍了武具還手動拿起武具後才做得到，而且犧牲武具的時機是宣告攻擊者時，這樣在後續傷害結算時連原本的聊勝於無的+1&#x2F;+0都沒了。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cards.scryfall.io/large/front/d/3/d3114f5c-21e9-43c3-abe3-3cf1da20916f.jpg?1699044348"
+                      alt="168"
+                ></p>
+<p><strong>Jru</strong>：2.0</p>
+<p>作為神器思路的致勝轉化口能力本身還不錯，但巫術時機多少限制了些發揮空間，而且本體身材較貧弱，論換血效率可能還不如簡單的正拳交流。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cards.scryfall.io/large/front/5/2/5204c781-f568-4c7f-b3f7-ce4dd678689b.jpg?1699044348"
+                      alt="169"
+                ></p>
+<p><strong>Jru</strong>：0.5</p>
+<p>這系列沒那麼重Token生物橫向展開，這甚至還是個巫術，真的遇到適合針對的對手時備牌局再考慮吧…</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cards.scryfall.io/large/front/0/6/06b28139-efa7-4818-a012-cf8150692b43.jpg?1699044351"
+                      alt="170"
+                ></p>
+<p><strong>Jru</strong>：3.0</p>
+<p>這系列恐龍密度足夠高，1費燒5也非難事，即使當下正好沒有恐龍，也還有個1費燒2的保底在，還是能解一些低費的生物，不會變成完全的死牌。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cards.scryfall.io/large/front/e/d/edc035ca-f0a3-4814-9405-d6dc6f048315.jpg?1699044357"
+                      alt="171"
+                ></p>
+<p><strong>Jru</strong>：5.0</p>
+<p>本體戰鬥力就值6費了，傾探5怎樣都是賺，這個賺的上限還非常高。缺去除的時候牠也能支援，偽魂力的3費打3雖然不高效，但起碼射程合格，而且是個白送你的額外彈性選擇。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cards.scryfall.io/large/front/2/1/2101921a-d26f-4a00-a0db-1b418f2e6b01.jpg?1699044357"
+                      alt="172"
+                ></p>
+<p><strong>Jru</strong>：2.0</p>
+<p>本體不強，但能起到一些思路潤滑劑的功能，不過2&#x2F;2的身材衝出去很容易有去無回，拿去開載具時就是個優良駕駛了。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cards.scryfall.io/large/front/0/4/04839717-d2f9-481d-9d13-e4038dbcbb0e.jpg?1698703097"
+                      alt="173"
+                ></p>
+<p><strong>Jru</strong>：2.0</p>
+<p>上下限很飄的牌，如果拿去解對手的牌，照理來說翻出來的東西怎樣都不會比洗回去的東西強，但無論如何你都還是虧牌的，而且對面翻出來的東西也有可能不會差太多甚至就是同一張，至於拿來自救也同樣會被隨機性搞得好壞難以預測。整體而言不是一張會想積極使用的牌，但作為高射程去除還是有其定位在，如果對手有某些大炸彈而你缺乏其他適當的去除時，這張牌起碼能給出一線生機，至於結果是好是壞就聽天由命了。</p>
+]]></content>
+      <categories>
+        <category>Limited</category>
+        <category>LCI-Limited</category>
+      </categories>
+      <tags>
+        <tag>JruMTG</tag>
+        <tag>LCI</tag>
+        <tag>Kappa</tag>
+        <tag>Limited</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>依夏蘭迷窟（LCI）限制賽介紹 — 藍色</title>
     <url>/LCI-Blue/</url>
     <content><![CDATA[<p>依夏蘭迷窟（The Lost Caverns of Ixalan, LCI）將於2023年11月10日舉行售前賽活動，而於隔一週2023年11月17日正式發行，想更了解單卡在限制賽的單卡評分與一些可能的有趣搭配嗎？那就來看看這一系列的LCI限制賽介紹吧！</p>
@@ -4241,389 +4677,6 @@
         <tag>LCI</tag>
         <tag>Limited</tag>
         <tag>kappa</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>依夏蘭迷窟（LCI）限制賽介紹 — 紅色</title>
-    <url>/LCI-Red/</url>
-    <content><![CDATA[<p>依夏蘭迷窟（The Lost Caverns of Ixalan, LCI）將於2023年11月10日舉行售前賽活動，而於隔一週2023年11月17日正式發行，想更了解單卡在限制賽的單卡評分與一些可能的有趣搭配嗎？那就來看看這一系列的LCI限制賽介紹吧！</p>
-<p>機制介紹請看這篇：<a href="https://guildmagesforum.tw/LCI-mechanic/">依夏蘭迷窟機制解析</a></p>
-<h2 id="評分標準"><a href="#評分標準" class="headerlink" title="評分標準"></a>評分標準</h2><p>5.0：無條件必拿<br>4.0：有首選價值<br>3.5：強度夠但不一定要首選<br>3.0：高於平均（會很希望他能放進最終牌組）<br>2.5：平均水準，maybe輪抽第6、第7 pick左右<br>2.0～1.0：低於平均 （比起放這張牌，更傾向於不放）<br>0.5～0.0：不可用 （基本上別放，放了只會幫你輸）</p>
-<h2 id="紅色"><a href="#紅色" class="headerlink" title="紅色"></a>紅色</h2><p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://i.imgur.com/8Nf0OgA.png"
-                      alt="紅色"
-                ></p>
-<blockquote>
-<p>紅色各稀有度的數量</p>
-<p>C：19<br>U：14<br>R：8<br>MR：2</p>
-</blockquote>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cards.scryfall.io/large/front/4/7/47f39b5e-2e85-4f31-bbab-0b0bf58f701d.jpg?1699044218"
-                      alt="131"
-                ></p>
-<p><strong>Jru</strong>：3.5</p>
-<p>瞬間2費打3本身作為低費去除就沒什麼好挑剔的了，由於LCI這系列的神器牌密度極高，甚至可以說堪比真正的神器環境，因此神器去除的能力相對於常規系列顯得更有價值。</p>
-<p>話說風化侵蝕貌似快和失效、逼從一樣，變成標準長青C卡了。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cards.scryfall.io/large/front/e/9/e90d5b7d-e27d-42d6-ba7a-d4a6b0dd8549.jpg?1699044222"
-                      alt="132"
-                ></p>
-<p><strong>Jru</strong>：1.5</p>
-<p>就是個很普通的戰鬥詭計，由於傾探（Discover）機制的存在，戰鬥詭計這種特別講求時機的牌可能會更加難用。另外比較值得一提的是這系列的化煉（Craft）有不少牌以放逐神器做為費用，珍寶Token除了正常的產費外也可以作為化煉的素材來使用。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cards.scryfall.io/large/front/0/b/0b2debca-8535-4cf6-a461-c268faaacaae.jpg?1698583040"
-                      alt="133"
-                ></p>
-<p><strong>Jru</strong>：3.0</p>
-<p>作為2費打點這身材+踐踏算是挺合格了，恐龍在依夏蘭是個大眾種族，灌大力量的能力觸發機會也不少。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cards.scryfall.io/large/front/2/2/2220ed60-3f8f-4dd2-8319-6a06896a5350.jpg?1698183724"
-                      alt="134"
-                ></p>
-<p><strong>Jru</strong>：5.0</p>
-<p>毫無懸念的大炸彈，光是5費5&#x2F;5飛行先攻就有足夠恐怖的戰鬥力了，這觸發式異能更是賺的匪夷所思，每回做一次<a class="link"   href="https://scryfall.com/card/vow/174/zht/%E9%AD%AF%E8%8E%BD%E8%A1%9D%E5%8B%95" >魯莽衝動 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>就已經能滾出很恐怖的資源差，並且放逐到牌就能創造額外資源，甚至沒要求你使用該牌時才生Token，基本上是個只要活過一回就贏一半的大炸彈。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://i.imgur.com/D6x4nUA.jpg"
-                      alt="135"
-                ></p>
-<p><strong>Jru</strong>：5.0</p>
-<p>本系列思路萬搭牌，進場是棄N抽N+1，可以做到不虧牌濾牌，同時支援落墳（Descend）運作，轉化條件是3次在自己回合結束階段前落墳，這張卡進場時就能提供1次落墳了，想要湊到3次並不是難事，並且轉化後是個超級資源擴張機，很容易靠著巨量資源壓制戰局。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cards.scryfall.io/large/front/8/e/8e9e0c66-f64a-428c-be13-a52691833df1.jpg?1699044235"
-                      alt="136"
-                ></p>
-<p><strong>Jru &amp; Kappa</strong>：2.0</p>
-<p>在進攻端有機會等效成3費4&#x2F;4，兩個神器在這系列雖然不難湊，但有許多都是偏慢節奏的卡，或是需要佩帶費用的武具，想要拚前期輸出節奏應該很難讓他變4&#x2F;4的同時隊友也能給出足夠壓力。</p>
-<p>紅單色的神器不足以讓他成為一張合格的卡，但若果與白色的一堆低費神器或神器生物混合，就可以令他成為有效的4點打點，而且被解了也完全不可惜，基礎323白板也不算是很差劣，不過依然難掩他只能在特定色組工作的問題，能力不是攻擊時，而是達成條件常駐發動的話，應該還能在上升0.5～1分，現在沒有配合始終是一張合格線以下的卡。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cards.scryfall.io/large/front/a/a/aadf5028-8dfe-40d3-89b4-22bd7ed0aae6.jpg?1695408358"
-                      alt="137"
-                ></p>
-<p><strong>Jru</strong>：4.0</p>
-<p>作為單卡非常優秀，3費3&#x2F;3先攻在限制賽的生物戰中可以給出很大壓力，攻擊時觸發的三選項也很實用，只是要注意的是本次LCI的海盜生物量少了很多，整個系列包含此R卡也就14張海盜，其中還包含了些戰力貧弱的傢伙，所以別太期待以海盜作為種族主題的思路。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cards.scryfall.io/large/front/0/c/0c491ac0-4752-47a7-967e-456b6e4245de.jpg?1699044244"
-                      alt="138"
-                ></p>
-<p><strong>Jru &amp; Kappa</strong>：2.5</p>
-<p>在攻防時有機會變成2費3&#x2F;3，雖然這系列恐龍隊友不難找（C，U已有18隻，其中14隻是紅綠色組），但總歸是有限制；然而，我們也可以把她的異能視為更強的<a class="link"   href="https://mtg.fandom.com/wiki/Bushido?so=search" >武士道1 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>，在恐龍數量多的套牌中往往有機會與3防生物交換，或給予對手更大的進攻壓力，在紅綠色組中是非常優秀的C卡。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cards.scryfall.io/large/front/8/3/8341ddd9-aac1-4773-b8ce-51e35f696263.jpg?1699044244"
-                      alt="139"
-                ></p>
-<p><strong>Jru</strong>：0.5（現開） &#x2F; 1.5（輪抽）</p>
-<p>在現開賽估計組牌能用的洞窟數不會多，再算上實戰中的上手率，大概高機率是張死卡。<br>輪抽雖然好一點，但這系列的洞窟主題並不像KHM的雪境或DMU的領土的一樣有足夠完整的系統性回報，不太能期待高抓位洞窟牌的思路。</p>
-<p><strong>Kappa</strong>：1.5</p>
-<p>可以期待輪抽時，cave系統打出像DMU時期domain戰術的五色cave戰術，這張本質是一張AOE，在cave系統中非常強悍，想像成<a class="link"   href="https://scryfall.com/card/dgm/152/mazes-end" >Maze’s End <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>卡組中的<a class="link"   href="https://scryfall.com/card/rna/102/gates-ablaze" >Gates Ablaze <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>會比較好理解，輪抽桌Cave的出率目前看來是3包有2包有cave，評價還不高但未來可期。<br>現開應該就死透了。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cards.scryfall.io/large/front/e/9/e964f026-9cbf-4fa2-acdc-60d19b88f183.jpg?1699044247"
-                      alt="140"
-                ></p>
-<p><strong>Jru</strong>：2.5 </p>
-<p>落墳一次合格，落墳第二次以後開始比較有收益，由於這系列大身材的生物佔比不低，想要讓他強化到在生物戰中有優勢要多費點功夫。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cards.scryfall.io/large/front/a/1/a144d0b3-678d-4f4c-a9b0-22af19f5cf9f.jpg?1699044253"
-                      alt="141"
-                ></p>
-<p><strong>Jru</strong>：2.0（現開） &#x2F; 2.5（輪抽）</p>
-<p>強度完全取決於你傾探（Discover）的牌張密度，第一次複製到傾探算是打平放這張牌的成本，第二次以後才是真的賺，要放這傢伙就要先確保自己套牌有足夠高的機率在他進場後做到兩次傾探，不然就別放了，在現開賽估計也很難湊出完整的傾探主題料，輪抽時可以高抓位一些傾探的牌，穩定性會好一點，但切記不要為了這張牌過度抓一些孱弱的傾探料。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cards.scryfall.io/large/front/d/9/d95018a4-be10-4c46-b14d-4b1eba838bc0.jpg?1699044254"
-                      alt="142"
-                ></p>
-<p><strong>Jru</strong>：2.0</p>
-<p>用途接近於讓對手的生物都不能阻擋，很有機會成為壓垮對手的最後一根稻草，這種牌以往的標竿費用是4費，雖然這張是5費，但附贈了一個傾探4，單看一費換傾探4這點是滿賺的，不過這張卡使用上很吃時機，通常是你要給已經進入死線的對手最後一擊時使用，所以你在判斷是否要使用這張卡時的依據應該是場面狀態，而不是後續收益隨機的傾探4，甚至於傾探4翻到啥高機率也不影響當回攻勢了，這樣看來就變成了一個跟標竿卡相比多一費又不能讓對手徹底喪失阻擋能力的低效卡。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cards.scryfall.io/large/front/4/a/4ae30fa7-3d1d-417f-80d7-a668236cb2c1.jpg?1698699973"
-                      alt="143"
-                ></p>
-<p><strong>Jru</strong>：2.5</p>
-<p>本身是個很樸實無華的武具，佩帶費用還算靈活，能加攻防的武具在限制賽都算扎實，另外這系列的神器利用牌很多，珍寶除了拿來產費外還有許多妙用。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cards.scryfall.io/large/front/9/d/9de1a93e-ec71-45fa-b0b8-2c21123e390c.jpg?1699044263"
-                      alt="144"
-                ></p>
-<p><strong>Jru &amp; Kappa</strong>：2.5</p>
-<p>就是個很標竿的C卡曲線生物，外加是神器，又是恐龍，又是Gnome，這系列的種族支援都對應一半了，莎希莉會很喜歡的。(卡面台詞以及配合M卡莎希莉的雙重意義)</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://i.imgur.com/nCr57Vm.jpg"
-                      alt="145"
-                ></p>
-<p><strong>Jru</strong>：4.0</p>
-<p>從費用與能力的比值來看，效率在武具中算高的了，轉化後只要能提供神器肥料就能不斷滾雪球的壓制盤面，就算只有一兩個肥料能當子彈，通常也夠把對面最重要的東西解掉了。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://i.imgur.com/KGr0uCx.jpg"
-                      alt="146"
-                ></p>
-<p><strong>Jru</strong>：2.0</p>
-<p>正面收效甚微，背面雖然能把小生物變成對手較難忽視的火力來源，但畢竟沒灌防禦也沒給踐踏，該換死的還是會被換死，除非能做到持續提供生物來源，才能比較好的發揮白嫖壓制打法，另外轉化條件是操控四個神器，雖然說在這系列不會太艱難，但也是個有點要求的限制了。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cards.scryfall.io/large/front/0/6/062e00a1-f1dc-4089-b640-800ab781c590.jpg?1699044274"
-                      alt="147"
-                ></p>
-<p><strong>Jru</strong>：3.0</p>
-<p>非常罕見的能突破2.5分的戰鬥詭計，一般來說戰鬥詭計有著被回應去除後一屍兩命的風險，分數很難上的去，不過這張牌的上限特別高，1費+2&#x2F;+2踐踏本來就還算堪用了，附帶的神器去除能力在這系列尤其重要，運用得當反而是張能一換二的去除點。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cards.scryfall.io/large/front/4/4/44420f52-2ed8-4f81-93e4-5decc77bed01.jpg?1698433329"
-                      alt="148"
-                ></p>
-<p><strong>Jru</strong>：2.0</p>
-<p>能夠給神器思路提供肥料的來源之一，不過同時又要做到落墳，要求還是有點多。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cards.scryfall.io/large/front/6/d/6d4075a8-c15d-4078-bf4b-0f85c03fecec.jpg?1699044282"
-                      alt="149"
-                ></p>
-<p><strong>Jru</strong>：2.5</p>
-<p>可以當成是個偽濾牌，靈氣本體大概就1費的強度，不過再加上傾探3，大概要做出等效3費牌張的收益還是不難的，要注意這個靈氣也有被回應目標後一屍兩命的風險在。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cards.scryfall.io/large/front/7/f/7f9c1a82-695b-4df2-8e51-2d71a62e7baf.jpg?1698263129"
-                      alt="150"
-                ></p>
-<p><strong>Jru</strong>：4.0</p>
-<p>近似於不會敏捷的<a class="link"   href="https://scryfall.com/card/2x2/184/bloodbraid-elf" >血辮妖精 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>，由於本體就是個能夠跟對方做交換的生物了，翻到甚麼基本都是賺。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cards.scryfall.io/large/front/0/1/018160fe-f602-43f5-8495-241a08eaa69c.jpg?1699044289"
-                      alt="151"
-                ></p>
-<p><strong>Jru</strong>：1.0</p>
-<p>只有極限快攻思路才能活用牠，但許多神器又跟這思路不相容，對於偏中速一點的遊戲計畫來說有條件的一費灰棕熊並沒有多吸引人。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cards.scryfall.io/large/front/4/1/415904fe-b77f-4c1a-850f-688484d629e6.jpg?1698351953"
-                      alt="152"
-                ></p>
-<p><strong>Jru</strong>：2.5</p>
-<p>神器思路的出口之一，可以將你的神器轉化成進攻壓力，不過要注意這個能力只能在巫術時機起動，同時沒有給先攻也不會灌大防禦力，你也不能把自己的攻擊手揮霍的太開心。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cards.scryfall.io/large/front/e/7/e75f460c-43e2-4353-8b73-71ff8651a79d.jpg?1698172845"
-                      alt="153"
-                ></p>
-<p><strong>Jru</strong>：0.5</p>
-<p>傾探10基本上就是翻到牌庫頂直到下一張非地牌為止，很有可能花了7費只做了一個2~3費的招，通常你能開出7費的招大概也不缺法力了，那些珍寶的用途大概就是拿來提供神器思路運作，但相信你不會想用一個7費的招只為了擠出幾個珍寶…</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cards.scryfall.io/large/front/8/7/87468b6b-6f78-42e4-ab0d-6730aeecdc3f.jpg?1699044297"
-                      alt="154"
-                ></p>
-<p><strong>Jru</strong>：2.5（現開） &#x2F; 3.0（輪抽）</p>
-<p>姑且算是神器牌裡比較符合快攻思路的生物，不過自己衝出去很容易被換死，另外這個系列整體機制比較偏向長盤資源戰，現開時快攻思路應該很難過的多開心，更大的價值或許是容易從墳場作為化煉的素材。輪抽可以積極抓紅白快攻，比較能體現3費3攻的敏捷打點價值。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://i.imgur.com/gg50CuD.jpg"
-                      alt="155"
-                ></p>
-<p><strong>Jru</strong>：2.5</p>
-<p>正面是個3費電震、背面是個<a class="link"   href="https://scryfall.com/card/znr/157/zht/%E6%8B%BC%E8%A3%9D%E5%BC%8F%E6%88%B0%E5%88%83" >拼裝式戰刃 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>，兩邊都說不上高效，但拚成一張卡後還算可用，另外這種進場異能觸發後就擺在原地的神器，也很適合成為其他牌化煉的素材或是神器思路的啟動點。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cards.scryfall.io/large/front/f/a/fa7a55aa-ae61-4933-b7a4-dcc55dac6fcd.jpg?1698431277"
-                      alt="156"
-                ></p>
-<p><strong>Jru</strong>：4.0</p>
-<p>很像是偽<a class="link"   href="https://scryfall.com/card/snc/213/raffine-scheming-seer" >拉斐茵 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>的攻擊觸發能力，同時也是個主動落墳引擎，均勢或順風局容易創造不少優勢，但逆風局時無能為力。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cards.scryfall.io/large/front/4/4/4471a833-11b9-4146-a9c0-84a6896c94d8.jpg?1699044307"
-                      alt="157"
-                ></p>
-<p><strong>Jru</strong>：4.0</p>
-<p>紅色珍貴的高射程去除，5&#x2F;5搭載2的性價比也足夠高，還有機會提供額外的珍寶做各種利用。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://i.imgur.com/n0bzOar.jpg"
-                      alt="158"
-                ></p>
-<p><strong>Jru</strong>：4.0</p>
-<p>雖然死了有機會復活的神看起來很厲害，但這個紅神不管是正面反面的能力，在這系列中都缺乏充足的支援牌，哪怕是輪抽都未必抓的完整，所以用起來大概就是個4&#x2F;4踐踏死了送你一塊紅地，較高射程的燒有抓到2張的話還是可以期待一下復活一次。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cards.scryfall.io/large/front/a/d/ad371c97-a266-4a88-9d28-2e889a37ba00.jpg?1699044315"
-                      alt="159"
-                ></p>
-<p><strong>Kappa &amp; Jru</strong>：3.5</p>
-<p>5費4&#x2F;5延勢可以擋下絕大多數的攻擊者了，並且每回還可以用異次元打擊燒對面2血，想辦法穩住場面就能取勝，根本就是個簡易版的<a class="link"   href="https://scryfall.com/card/dmu/107/sheoldred-the-apocalypse9D%E5%8B%95" >啟示天災希歐蕊 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>。這也證明了血量5延勢的重要性，<a class="link"   href="https://scryfall.com/card/mom/156/onakke-javelineer" >歐納克擲槍魔 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>應該學習一下，輪抽中3～4 pick左右看到的話無任歡迎，紅色堅實5費C卡之選。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cards.scryfall.io/large/front/5/b/5bb2552f-8370-4931-83e1-93706d51413a.jpg?1699044322"
-                      alt="160"
-                ></p>
-<p><strong>Jru</strong>：3.0</p>
-<p>樸實無華的填曲線生物，交換能力還行，送一個珍寶算挺實用的。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cards.scryfall.io/large/front/c/0/c035250e-6f6e-4d0f-b4fd-2a53d6069aa7.jpg?1698435084"
-                      alt="161"
-                ></p>
-<p><strong>Jru &amp; Kappa</strong>：5.0</p>
-<p>神器思路超級回報單卡，只要能賺到兩隻恐龍Token就算值回票價，第三隻開始是血賺，這系列恐龍生物不少，也能期待順便生幾個珍寶，不過反過來說沒開到這些指定類別的卡時就完全沒用，上下限非常吃開到牌池的分佈。</p>
-<p>真價是每回合第1張神器附送一隻可攻可擋的生物，本系列C，U卡總共50張神器，紅色佔9張，無色佔14張，很難完全佔不到邊，更不用說與其他色組混合有更多，白色佔10張，藍色佔9張。恐龍主要在紅綠色組，這卡恐龍攻擊產的珍寶能提供調色效果，而施放神器又能產恐龍，令此卡一旦開始運作，除非拆了這張結界，否則很難停下來。總結是一張值得作為卡組中核新的大炸彈，可以特地組紅綠白或者紅綠藍卡組，考慮到能自力生產恐龍，甚至不混綠色也可以，只靠紅色的恐龍或者自產的恐龍也能維持第一個效果。<br>注意的是，cast神器咒語就立即能產恐龍的緣故，就算知道對手可以瞬間回應拆結界，4費拍這個結界再立即拍1個1費神器，對手也不能阻止第1隻恐龍出產，無論如何也能做到逼對手1換0的效果。<br>題外話，這張卡圖啟蒙了我。(我只是按照卡面台詞朗讀喔)</p>
-<blockquote>
-<p><strong>cephile</strong>：<br>我沒有要評分，但三費這張結界接四費<a class="link"   href="https://cards.scryfall.io/large/front/9/d/9de1a93e-ec71-45fa-b0b8-2c21123e390c.jpg?1699044263" >自動龍械 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>然後五回兩隻恐龍打出去生兩個珍寶跳七費真的是太炸了！果然莎希莉會很喜歡！（然後這兩個人的表情超有戲XD）</p>
-</blockquote>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cards.scryfall.io/large/front/8/b/8bab3f8f-cb06-466d-a35d-0b5e1a2b524c.jpg?1698583122"
-                      alt="162"
-                ></p>
-<p><strong>Jru</strong>：3.0</p>
-<p>超級威懾仔，類別正確，在非R卡生物中算滿合理的高費區選擇。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cards.scryfall.io/large/front/4/f/4f06b53f-ec82-4d7f-bee3-6ca04583f023.jpg?1699044331"
-                      alt="163"
-                ></p>
-<p><strong>Jru</strong>：3.0</p>
-<p>雖然有點笨重，但也是紅色珍貴的高射程去除。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://i.imgur.com/RkAoTmq.jpg"
-                      alt="164"
-                ></p>
-<p><strong>Jru</strong>：3.5</p>
-<p>進場棄1抽2是挺好的濾牌與落墳觸發源，也能往墳場填充化煉素材，這系列恐龍密度高，想要從墳場找到化煉素材並不難，很容易轉化成一個有足夠戰鬥力的生物創造二次價值。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cards.scryfall.io/large/front/9/4/9436cf62-56d6-4662-9982-72e9be80d25c.jpg?1699044339"
-                      alt="165"
-                ></p>
-<p><strong>Jru</strong>：3.0</p>
-<p>在構築賽可以算是控制殺手了，但限制賽本來瞬間時機的招佔比就不會這麼高，很多招對手選擇在自己回合做其實影響也沒太大，估計大多時候就是個3費4&#x2F;3，不過單看這個身材也算是高過平均值了，而且打4點傷害的能力就算能透過操作規避，對對手而言也是個不小的壓力跟限制。</p>
-<blockquote>
-<p><strong>cephille</strong>：要留意在對手回合施放咒語要先被打四對自己也適用，有牠在場而你血量落後時，記得在自己的回合先做解牌。</p>
-</blockquote>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cards.scryfall.io/large/front/9/8/98aeb9dc-18f9-4120-ac3d-226c62a1dc1d.jpg?1699044339"
-                      alt="166"
-                ></p>
-<p><strong>Jru</strong>：3.0</p>
-<p>正叫身材合理，還能夠把多餘的地轉化成新的資源，在限制賽中打到後盤常常是大家一堆地但沒有手牌，這個資源轉化能力在中後盤後是相當恐怖的，前期卡地也能用山脈循環來穩定自己的魔法力基礎。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cards.scryfall.io/large/front/b/b/bb040fc7-f728-4482-92af-9a320c03bb54.jpg?1699044342"
-                      alt="167"
-                ></p>
-<p><strong>Jru</strong>：1.5</p>
-<p>雖然也是個偽電震，但要拍了武具還手動拿起武具後才做得到，而且犧牲武具的時機是宣告攻擊者時，這樣在後續傷害結算時連原本的聊勝於無的+1&#x2F;+0都沒了。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cards.scryfall.io/large/front/d/3/d3114f5c-21e9-43c3-abe3-3cf1da20916f.jpg?1699044348"
-                      alt="168"
-                ></p>
-<p><strong>Jru</strong>：2.0</p>
-<p>作為神器思路的致勝轉化口能力本身還不錯，但巫術時機多少限制了些發揮空間，而且本體身材較貧弱，論換血效率可能還不如簡單的正拳交流。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cards.scryfall.io/large/front/5/2/5204c781-f568-4c7f-b3f7-ce4dd678689b.jpg?1699044348"
-                      alt="169"
-                ></p>
-<p><strong>Jru</strong>：0.5</p>
-<p>這系列沒那麼重Token生物橫向展開，這甚至還是個巫術，真的遇到適合針對的對手時備牌局再考慮吧…</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cards.scryfall.io/large/front/0/6/06b28139-efa7-4818-a012-cf8150692b43.jpg?1699044351"
-                      alt="170"
-                ></p>
-<p><strong>Jru</strong>：3.0</p>
-<p>這系列恐龍密度足夠高，1費燒5也非難事，即使當下正好沒有恐龍，也還有個1費燒2的保底在，還是能解一些低費的生物，不會變成完全的死牌。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cards.scryfall.io/large/front/e/d/edc035ca-f0a3-4814-9405-d6dc6f048315.jpg?1699044357"
-                      alt="171"
-                ></p>
-<p><strong>Jru</strong>：5.0</p>
-<p>本體戰鬥力就值6費了，傾探5怎樣都是賺，這個賺的上限還非常高。缺去除的時候牠也能支援，偽魂力的3費打3雖然不高效，但起碼射程合格，而且是個白送你的額外彈性選擇。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cards.scryfall.io/large/front/2/1/2101921a-d26f-4a00-a0db-1b418f2e6b01.jpg?1699044357"
-                      alt="172"
-                ></p>
-<p><strong>Jru</strong>：2.0</p>
-<p>本體不強，但能起到一些思路潤滑劑的功能，不過2&#x2F;2的身材衝出去很容易有去無回，拿去開載具時就是個優良駕駛了。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cards.scryfall.io/large/front/0/4/04839717-d2f9-481d-9d13-e4038dbcbb0e.jpg?1698703097"
-                      alt="173"
-                ></p>
-<p><strong>Jru</strong>：2.0</p>
-<p>上下限很飄的牌，如果拿去解對手的牌，照理來說翻出來的東西怎樣都不會比洗回去的東西強，但無論如何你都還是虧牌的，而且對面翻出來的東西也有可能不會差太多甚至就是同一張，至於拿來自救也同樣會被隨機性搞得好壞難以預測。整體而言不是一張會想積極使用的牌，但作為高射程去除還是有其定位在，如果對手有某些大炸彈而你缺乏其他適當的去除時，這張牌起碼能給出一線生機，至於結果是好是壞就聽天由命了。</p>
-]]></content>
-      <categories>
-        <category>Limited</category>
-        <category>LCI-Limited</category>
-      </categories>
-      <tags>
-        <tag>JruMTG</tag>
-        <tag>LCI</tag>
-        <tag>Kappa</tag>
-        <tag>Limited</tag>
       </tags>
   </entry>
   <entry>
@@ -8140,8 +8193,8 @@
         <category>Pioneer</category>
       </categories>
       <tags>
-        <tag>Pioneer</tag>
         <tag>MiohitoKiri5474</tag>
+        <tag>Pioneer</tag>
         <tag>Inspection</tag>
       </tags>
   </entry>
@@ -8831,8 +8884,8 @@
         <category>Pioneer</category>
       </categories>
       <tags>
-        <tag>Pioneer</tag>
         <tag>MiohitoKiri5474</tag>
+        <tag>Pioneer</tag>
         <tag>Inspection</tag>
       </tags>
   </entry>
