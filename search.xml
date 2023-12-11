@@ -849,6 +849,132 @@
       </tags>
   </entry>
   <entry>
+    <title>五色元素傳：MH2五元素的發展簡評</title>
+    <url>/MH2-Mythics-Elementals/</url>
+    <content><![CDATA[<h2 id="前言：MH2之夏"><a href="#前言：MH2之夏" class="headerlink" title="前言：MH2之夏"></a>前言：MH2之夏</h2><p>在2019年6月14日發售的<a class="link"   href="https://scryfall.com/sets/mh1?as=grid&order=set" >Modern Horizons （MH1） <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>系列中，MH1除了已被禁用的<a class="link"   href="https://cards.scryfall.io/large/front/0/0/0049e68d-0caf-474f-9523-dad343f1250a.jpg?16" >醒轉古陵寢霍佳葛 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>外，目前賽場用量最大的牌還是<a class="link"   href="https://cards.scryfall.io/large/front/e/9/e9be371c-c688-44ad-ab71-bd4c9f242d58.jpg?1562201382" >否認之力（Force of Negation, FON） <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>、以及<a class="link"   href="https://cards.scryfall.io/large/front/0/1/017c415b-d635-43c6-92b8-8c95d1c4ff8d.jpg?1562202072" >活旺之力（Force of Vigor, FOV） <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>這兩張康&#x2F;拆神器結界；以及一己之力帶起一副新套牌黑綠醫生的<a class="link"   href="https://cards.scryfall.io/large/front/8/6/8690cbcc-f8fd-41f7-9e28-e61c12b04014.jpg?1665611812" >索藍醫師約格莫夫 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>。從五張OO之力的效果來看，都是較偏防守向的瞬間&#x2F;閃現牌，而且只限於能在對手回合作替費施放（放逐一張同色牌而不需支付其魔法力值來施放），在自己回合是沒辦法這麼做的；而這個時期的替費效果僅是作為一種防守的策略使用，對實際賽場meta還沒有帶來太大的影響。<br>然而到了2021年6月18日，<a class="link"   href="https://scryfall.com/sets/mh2?as=grid&order=set" >Modern Horizons 2 （MH2） <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>發售，這個系列為MTG的近代甚至薪傳賽制帶來天翻地覆的改變。五張可主動替費施放的秘稀元素進入了我們的世界。而本文也會著重討論這五張元素的發展，對於其他MH2單卡則不會過多著墨。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.imgur.com/DeoCZKd.jpg"
+                      alt="五元素愚連者！參上！"
+                ></p>
+<h2 id="五元素對近代賽場的影響"><a href="#五元素對近代賽場的影響" class="headerlink" title="五元素對近代賽場的影響"></a>五元素對近代賽場的影響</h2><p>雖然大部分有玩近代賽制的玩家對這五張元素一定不陌生，但還是有必要讓稍不熟悉的讀者們了解一下這五張元素過份的強大：</p>
+<ul>
+<li><p><a class="link"   href="https://cards.scryfall.io/large/front/4/7/47a6234f-309f-4e03-9263-66da48b57153.jpg?1626094105" >幽寂（白元素） <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>自帶閃現異能且可呼魂（Evoke）替費施放，進場做一發<a class="link"   href="https://cards.scryfall.io/large/front/7/c/7cdee412-3519-4626-80ca-e3e431a604f0.jpg?1698988109" >化劍為犁 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>，本體是一隻白色五費的閃現繫命3&#x2F;2。</p>
+</li>
+<li><p><a class="link"   href="https://cards.scryfall.io/large/front/7/0/701256d5-1389-48b7-9581-d6037209bd06.jpg?1626095059" >銳敏（藍元素） <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>自帶閃現異能且可呼魂替費施放，進場把目標生物以及鵬洛客咒語彈回其擁有者的牌庫頂或底，本體是一隻藍色四費的閃現飛行3&#x2F;3。</p>
+</li>
+<li><p><a class="link"   href="https://cards.scryfall.io/large/front/e/6/e6befbc4-1320-4f26-bd9f-b1814fedda10.jpg?1626095577" >悲慟（黑元素） <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>可呼魂替費施放，進場做一發不用扣2血的<a class="link"   href="https://cards.scryfall.io/large/front/b/2/b281a308-ab6b-47b6-bec7-632c9aaecede.jpg?1599706001" >攫取思緒 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>，本體是一隻黑色四費的威懾3&#x2F;2。</p>
+</li>
+<li><p><a class="link"   href="https://cards.scryfall.io/large/front/b/d/bd281158-8180-40b9-a5b7-03cfc712d81a.jpg?1701690468" >怒火（紅元素） <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>可呼魂替費施放，做一發只能對生物&#x2F;鵬洛客分配傷害的<a class="link"   href="https://cards.scryfall.io/large/front/5/1/51893dd5-e70f-44bb-85d4-e31480ba84d6.jpg?1562825154" >煙火術 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>，本體是一隻紅色五費的連擊3&#x2F;3。</p>
+</li>
+<li><p><a class="link"   href="https://cards.scryfall.io/large/front/e/b/eb0e0404-4846-4891-acfa-bd0951ecf9c6.jpg?1626097375" >堅忍（綠元素） <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>自帶閃現異能且可呼魂替費施放，進場將目標玩家的墳場洗入牌庫底，本體是一隻綠色三費的閃現延勢3&#x2F;4。</p>
+</li>
+</ul>
+<blockquote>
+<p><strong>呼魂是什麼？</strong><br>呼魂同時包含了以下兩個能力：</p>
+<ul>
+<li>給此咒語創造一個替代性費用，你可以用呼魂所指定的費用來施放此牌，而非支付原本的魔法力費用。</li>
+<li>當此永久物進場時，若曾支付呼魂費用施放之，則產生一個觸發式異能：「犧牲此永久物」。這個觸發式異能會上堆疊也可以被回應，異能結算時才會犧牲該牌。</li>
+</ul>
+</blockquote>
+<p>從MH2帶來這五張元素，近代賽場在經過幾次迭代後，大部分meta排名前列的套牌都已經變成了元素的形狀，從4c omnath開始大量地使用非黑色元素開始，接著犀牛與走骨行屍跟進，再到PT LTR登頂的紅黑scam，近代賽場充斥各色的元素，而在MH2發售後價格從高點一路跌落的藍元素，也跟著紅黑元素的使用量大增而跟著谷底反彈。</p>
+<h3 id="為什麼會這樣呢？"><a href="#為什麼會這樣呢？" class="headerlink" title="為什麼會這樣呢？"></a>為什麼會這樣呢？</h3><p>讓我們隨著歷史的漲幅發動時間，由遠至近來看一下：</p>
+<blockquote>
+<p>2023年12月6日擷取自mtggoldfish上的歷史價格資訊，僅參考實體牌，不計入MO上的tix變化。</p>
+</blockquote>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.imgur.com/Y8lBXKS.jpg"
+                      alt="綠元素歷史價位"
+                ></p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.imgur.com/5QLPKs7.jpg"
+                      alt="白元素歷史價位"
+                ></p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.imgur.com/yEzVpGy.jpg"
+                      alt="紅元素歷史價位"
+                ></p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.imgur.com/ZgZGLgZ.jpg"
+                      alt="黑元素歷史價位"
+                ></p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.imgur.com/4LsaQaZ.jpg"
+                      alt="藍元素歷史價位"
+                ></p>
+<p>最先開始展露頭角的是綠元素，作為各種墳場套牌針對的優秀備牌被廣泛的使用，而時至今日仍有非常大且穩定的用量。而白元素作為一個高效的去除，在當時還存在meta中的白藍控制被作為去除+終結者來使用；而在DMU發售帶來了射程範圍更廣的<a class="link"   href="https://cards.scryfall.io/large/front/3/c/3c3ac3dd-35db-447f-8674-37b4680a1ef7.jpg?1673306500" >地脈束縛 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>後，更讓可以無痛使用這兩張白色高效解牌的4c套牌佔據了賽場前段好幾個賽季。</p>
+<p>紅元素在MH2發售後，歷經藍黑元素暴跌，以及綠白元素的提高使用量的影響下曾經沒沒無聞一陣子，一開始是在奇數紅、三定紅這類套牌中被使用作為解牌的補充以及中後期的威嚇；而scam當時還是以<a class="link"   href="https://cards.scryfall.io/large/front/2/d/2da5f3f8-5eef-498f-ba2c-2f3fbc3745aa.jpg?1562201088" >流光爍影 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>為主軸的黑白體系，目光也還沒看到紅色這邊。稍晚紅藍龍侯才開始在備牌帶上紅元素來對抗低費快攻，而這也讓紅元素壓制快攻套牌的優勢漸漸地被展現出來。後來的故事大家都知道了，紅黑scam在PT LTR強勢問鼎，一夕之間紅黑元素變得炙手可熱，也成為了meta中必須應對的頭號大敵。</p>
+<p>黑元素搭配流光爍影彈回白嫖對手2~3張手牌已經不是新鮮事，但為什麼要等到紅黑scam這個套牌登場後才會被大家廣泛的討論、使用、以及針對呢？這邊不對套牌構築進一步介紹，有興趣的讀者可以參閱這一篇：<a href="https://guildmagesforum.tw/Modern-Rakdos-Scam/">近代紅黑中速 Rakdos Scam：近代環境的霸主</a>。其實要回到黑元素的功能本身，棄牌。棄牌本身雖然非常惱人，但這件事通常不會讓你因為被棄掉這張牌而直接輸掉遊戲（特殊構築的組合技除外，而且也要被棄得夠準才行）；而回到近代賽的牌張強度已經突破天際，地牌也越放越少，這讓每副套牌的top deck的能力無形中跟著上升。就算一開始被一回黑元素棄了兩張牌站了一隻3&#x2F;2威懾，要真的因此被打死也要被連續抽六turn無用牌；正常的情況下，玩家還是有足夠的時間抽到解場反攻的牌。然而，相較於原先黑白偏慢的打法，紅黑scam中除了黑元素外，還有<a class="link"   href="https://cards.scryfall.io/large/front/a/9/a9738cda-adb1-47fb-9f4c-ecd930228c4d.jpg?1681963138" >巧手竊猴勒格文 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>、<a class="link"   href="https://cards.scryfall.io/large/front/d/c/dce5db87-4a78-4b8d-b5c2-918ccd1ba4e3.jpg?1626095427" >道西虛空行者 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>、<a class="link"   href="https://cards.scryfall.io/large/front/7/c/7c024bae-5631-4e20-ac69-df392ac9e109.jpg?1686968669" >奧克弓手 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>，甚至紅元素都是你用黑元素棄了對手兩張後，接著拍下來對手會非常痛苦的早期威嚇。並不是黑元素本身強，而是紅黑scam的體系很強，而讓玩家過度放大被一回scam的痛苦，而把黑元素列為這一波R&amp;B禁牌的眾矢之的。</p>
+<p>最後說到藍元素，藍元素跟黑元素在MH2預購時是當時的預購價排行前二的牌，但隨著發售後使用量低而直接摔落神壇，一直在$10鎂以下徘徊。然而，當我回顧歷史的價格以及現在的環境後，我有一個大膽的假設想在這邊分享：</p>
+<blockquote>
+<p>如果當時預購是預期使用黑元素、或其他鵬洛客像<a class="link"   href="https://cards.scryfall.io/normal/front/4/a/4a706ecf-3277-40e3-871c-4ba4ead16e20.jpg?1582053605" >芮恩與六樹妖 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>這類的套牌在MH2發售後將會強勢登頂，而必須使用藍元素作為其反制手段；這樣來看，似乎就能解釋為什麼當時的預購價格高得如此嚇人，卻仍然有成交量的現象。而這個預期，並沒有在兩年多前的meta發生，而是等到PT LTR後才實現。</p>
+</blockquote>
+<p>藍元素本身是一張不夠強的牌，甚至可以說是五元素中最弱的一張；但他的價值在於他是目前近代賽制中，<strong>唯一一張可以讓你在第一回合後手時，與主動發動攻擊的黑紅元素互動的牌</strong>，<a class="link"   href="https://cards.scryfall.io/large/front/e/9/e9be371c-c688-44ad-ab71-bd4c9f242d58.jpg?1562201382" >FON <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>與<a class="link"   href="https://cards.scryfall.io/large/front/d/c/dca0a9a8-5ebc-43a3-8450-420ab6b7b76e.jpg?1689996238" >霸佔 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>，或是其他的替費牌都做不到、或至少得承受一次元素ETB的效果（例：<a class="link"   href="https://cards.scryfall.io/large/front/8/f/8f497b0d-4448-4201-bd55-c147da1a216d.jpg?1562201644" >絕望之力 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>）。這就值得讓我們進一步思考，如果這個價值如此重要，那是否就意味著MH2當初設計出來，就是要強迫近代環境提速到接近薪傳賽制的程度，而藍元素就是設計團隊為此埋下的伏筆？而更遠處去想，2024年將發售的Modern Horizons 3（MH3），近代賽制是否將更暴力地無限趨近於薪傳？或是設計團隊將吸取教訓，改印製更多降速的針對牌？這都是值得在未來的預覽中重點觀察的指標。</p>
+<h2 id="小結：近代賽制持續演進，元素仍為環境之高指標單卡"><a href="#小結：近代賽制持續演進，元素仍為環境之高指標單卡" class="headerlink" title="小結：近代賽制持續演進，元素仍為環境之高指標單卡"></a>小結：近代賽制持續演進，元素仍為環境之高指標單卡</h2><p>讓我們做個表格來總結一下上面討論到的內容：</p>
+<table>
+<thead>
+<tr>
+<th align="center">Item</th>
+<th align="center">Effect</th>
+<th align="center">Game Plan</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center"><a class="link"   href="https://cards.scryfall.io/large/front/4/7/47a6234f-309f-4e03-9263-66da48b57153.jpg?1626094105" >幽寂（白元素） <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
+<td align="center">單體解</td>
+<td align="center">被動</td>
+</tr>
+<tr>
+<td align="center"><a class="link"   href="https://cards.scryfall.io/large/front/7/0/701256d5-1389-48b7-9581-d6037209bd06.jpg?1626095059" >銳敏（藍元素） <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
+<td align="center">第一回合後手唯一能跟其他元素互動</td>
+<td align="center">被動</td>
+</tr>
+<tr>
+<td align="center"><a class="link"   href="https://cards.scryfall.io/large/front/e/6/e6befbc4-1320-4f26-bd9f-b1814fedda10.jpg?1626095577" >悲慟（黑元素） <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
+<td align="center">棄牌</td>
+<td align="center">主動</td>
+</tr>
+<tr>
+<td align="center"><a class="link"   href="https://cards.scryfall.io/large/front/b/d/bd281158-8180-40b9-a5b7-03cfc712d81a.jpg?1701690468" >怒火（紅元素） <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
+<td align="center">低防生物一換多解場</td>
+<td align="center">主動 &amp; 被動</td>
+</tr>
+<tr>
+<td align="center"><a class="link"   href="https://cards.scryfall.io/large/front/e/b/eb0e0404-4846-4891-acfa-bd0951ecf9c6.jpg?1626097375" >堅忍（綠元素） <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></td>
+<td align="center">墳場針對</td>
+<td align="center">被動</td>
+</tr>
+</tbody></table>
+<p>眼尖的讀者不知道有沒有注意到，被動屬性的白藍綠三元素都自帶閃現異能，而主動屬性的黑元素則沒有，而紅元素雖然沒有閃現，但本身帶連擊兼具主動進攻自帶解場，以及被動二換一或多的防守能力<del>所以它被禁了</del>。另外從目前的環境來看，的確是主動做事的策略佔優，以不斷地試圖結算威嚇，等到你沒有反制手段後遊戲就開始崩盤；不只是剛被重砍一刀的紅黑scam，其他tier 1的套牌如犀牛、塔脈爐、鎚子等都是。而你有多久沒看到純控制登頂了呢？另一方面，備牌的針對牌通常也越來越差了，對局常常在一方無法反制對手的遊戲計畫下而快速結束；反制的手段也越來越變態，霸佔這類的牌被廣泛地使用在備牌，作為奪取對手unfair手段的勝負手轉換計畫。</p>
+<p>最後請容我胡言亂語一番，謹以此賦，感懷怒火陪伴我們兩年半的近代歲月，希望近代賽制還是可以回歸到認真練操作、好好賺牌差的年代<del>但這樣魔戒要不要ban掉⋯⋯想想還是覺得不可能</del>：</p>
+<blockquote>
+<p>念怒火 近代懷古</p>
+<p>大江東去，浪淘盡，千古風雲人物。<br>Meta盡處，人道是，MH2五元素。<br>堅忍幽寂，悲慟銳敏，捲起千堆雪。<br>新舊更迭，大傑斯乏人問津。<br>遙想怒火當年，MH2發售，先蹲後跳。<br>零費打四，談笑間，快攻灰飛煙滅。<br>PT魔戒，紅黑scam，風光無匹。<br>老威無信，怒火一朝啞火。</p>
+</blockquote>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.imgur.com/lqsySr3.jpg"
+                      alt="怒火已死，有事燒紙"
+                ></p>
+]]></content>
+      <tags>
+        <tag>cephille</tag>
+        <tag>MTG Anecode</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Guildmages&#39; Forum 寫手們的第四季MIT賽場回顧</title>
     <url>/MIT-4-Review/</url>
     <content><![CDATA[<blockquote>
@@ -1313,118 +1439,6 @@
       </tags>
   </entry>
   <entry>
-    <title>先驅蓮花田組合技：從入門到放棄</title>
-    <url>/Pioneer-Lotus-Field/</url>
-    <content><![CDATA[<h2 id="Before-We-Start"><a href="#Before-We-Start" class="headerlink" title="Before We Start"></a>Before We Start</h2><p>作為一個打了大概半年多、很認真練習蓮花田組合技的玩家，應該夠資格寫這一套牌的介紹吧（？）<br>最一開始會想要打蓮花田有幾個原因：</p>
-<h3 id="1-便宜"><a href="#1-便宜" class="headerlink" title="1. 便宜"></a>1. 便宜</h3><p>當時的造價約 200 鎂上下，加上 Pioneer Challenger Decks 2022 就把多數難找的東西出完了，只要買那一盒 + 補大約 2000 台幣左右的料就能組完，在一眾快攻中算又特別突出。</p>
-<h3 id="2-我想要試著打組合技套牌"><a href="#2-我想要試著打組合技套牌" class="headerlink" title="2. 我想要試著打組合技套牌"></a>2. 我想要試著打組合技套牌</h3><p>在我組這套牌之前，幾乎都是打中速、控制為主，比較少接觸組合技套牌（當時近代的風暴在垂死掙扎邊緣），想說剛好要來準備 MIT 了，趁著這個機會來嘗試一些自己不熟悉的套牌種類。</p>
-<h3 id="3-很潮"><a href="#3-很潮" class="headerlink" title="3. 很潮"></a>3. 很潮</h3><p>打組合技很潮應該很好理解吧，對手以為勝券在握的時候被反手斬殺，應該很潮吧（汗。</p>
-<p>但後來因為種種原因拆掉了，等等後續會提為什麼。</p>
-<p>另外這套牌適合：</p>
-<ol>
-<li>喜歡屯手牌的玩家</li>
-<li>組合技玩家</li>
-<li>風暴玩家</li>
-</ol>
-<p>而這套牌不適合：</p>
-<ol>
-<li>中速玩家</li>
-<li>喜歡跟對手有來有往的對局</li>
-<li>右手很臭（例如我）的玩家</li>
-<li>不喜歡被快攻爆打的玩家</li>
-</ol>
-<h2 id="Decklist"><a href="#Decklist" class="headerlink" title="Decklist"></a>Decklist</h2><p>基本上的構築會長這樣，這些牌是一張都不能少的：<br>4x Arboreal Grazer<br>4x Vizier of Tumbling<br>1x Lier, Disciple of the Drowned<br>4x Hidden Strings<br>3x+ Impulse<br>4x Sylvan Scrying<br>2x+ Bala Ged Recovery<br>2x Dark Petition<br>4x Pore Over the Pages<br>3x Emergent Ultimatum<br>1x Omniscience<br>22x Lands（等等再提要放哪些）</p>
-<p>剩下的部分則是取決於要打哪個軸，再來決定要放什麼東西。</p>
-<h3 id="這套牌在做什麼？"><a href="#這套牌在做什麼？" class="headerlink" title="這套牌在做什麼？"></a>這套牌在做什麼？</h3><p>然後來講一下這套牌希望達成的對局走向。<br>這套牌並沒有放 <a class="link"   href="https://cards.scryfall.io/large/front/9/5/95f1e36a-6838-49de-b7dc-697cbcd1e892.jpg?1624877272" >Strict Proctor <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>，因此沒有可以偷雞的方法，就是要將蓮花田吃兩塊地正下，然後用 <a class="link"   href="https://cards.scryfall.io/large/front/b/6/b6f27909-e5cd-44c0-91c4-21624f692fd9.jpg?1561843043" >Thespian’s Stage <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 複製出第二塊 Lotus Field。<br>並用 <a class="link"   href="https://cards.scryfall.io/large/front/2/1/216e8047-6f54-49ce-bf86-27dc8fc8c8f7.jpg?1562901181" >Hidden Strings <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>, <a class="link"   href="https://cards.scryfall.io/large/front/b/2/b2288f7b-05b1-4a6c-8d02-42ffcadc6f0b.jpg?1576384182" >Pore Over the Pages <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>, <a class="link"   href="https://cards.scryfall.io/large/front/a/9/a9aef509-50f0-4848-87d5-3c169453186f.jpg?1689996788" >Vizier of Tumbling <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 來不斷地重置 Lotus Field 來賺法力，並且最後用 <a class="link"   href="https://cards.scryfall.io/large/front/3/a/3a6a52ab-6d38-4429-9969-90064e615152.jpg?1591228007" >Emergent Ultimatum <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 找出組合技收工。<br>另外可以用 Arboreal Grazer 多下一塊地來提早一回合做出組合技。</p>
-<h3 id="Combo-Line"><a href="#Combo-Line" class="headerlink" title="Combo Line"></a>Combo Line</h3><p>主要的組合技有兩種：</p>
-<ol>
-<li><a class="link"   href="https://cards.scryfall.io/large/front/a/1/a146ea07-ec1c-448d-b67a-dd9f9e27c2e0.jpg?1682204090" >Chandra, Hope’s Beacon <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-<li><a class="link"   href="https://cards.scryfall.io/large/front/f/d/fdf59a6e-7708-45a1-884d-d12e9f7b9ed9.jpg?1543674579" >Approach of the Second Sun <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
-</ol>
-<h4 id="Chandra-Line"><a href="#Chandra-Line" class="headerlink" title="Chandra Line"></a>Chandra Line</h4><p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cards.scryfall.io/large/front/a/1/a146ea07-ec1c-448d-b67a-dd9f9e27c2e0.jpg?1682204090"
-                     
-                ></p>
-<p>茜卓路線是這半年內才出現的新科技（廢話她也才出半年），大致上來說是靠著本身的觸發式異能來賺更多的資源。<br>等到法力足夠了之後，用以下路線收掉對手的頭，手中和墳場必須有兩張巴勒格復甦 + 足夠的法力（或是場上有 <a class="link"   href="https://cards.scryfall.io/large/front/5/2/5249f9dc-d5e2-4e1f-b7da-8fcbf574f276.jpg?1692933086" >Omniscience <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> ）+ 茜卓在場上：</p>
-<ol>
-<li>茜卓 [-5] 打對手的頭五點</li>
-<li>用第一張巴勒格復甦將茜卓撿回手上</li>
-<li>將茜卓拍回場上，施放第二張巴勒格復甦，此時會被茜卓複製，其中一發撿墳場中的巴勒格復甦，另一張隨意</li>
-<li>茜卓再次用 [-5] 打對手的頭五點</li>
-<li>將手中的兩張巴勒格復甦，分別撿起茜卓以及墳場中的巴勒格復甦</li>
-<li>重複步驟三到步驟五</li>
-</ol>
-<p>如果是此路線，牌組中除了 Chandra, Hope’s Beacon 並不需要特別放其他配合的牌，可以放更多的加速源（例如 Voyaging Satyr），不過缺點是只要茜卓被切掉很難收頭。</p>
-<h3 id="Approach-of-the-Second-Sun-Line"><a href="#Approach-of-the-Second-Sun-Line" class="headerlink" title="Approach of the Second Sun Line"></a>Approach of the Second Sun Line</h3><p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cards.scryfall.io/large/front/f/d/fdf59a6e-7708-45a1-884d-d12e9f7b9ed9.jpg?1543674579"
-                     
-                ></p>
-<p>神日迫臨版本則是我剛組這套牌的組合技，大致上來說是靠牌組中的 <a class="link"   href="https://cards.scryfall.io/large/front/2/f/2f00f09b-a113-460e-ac2f-d3988a83179e.jpg?1555040258" >Mastermind’s Acquisition <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 從備牌中找出神日迫臨，重複施放神日迫臨贏得遊戲。</p>
-<p>另外神日迫臨的版本需要多帶 Mastermind’s Acquistion，以及更多的過牌（我最多帶了七張的看四拿一）。</p>
-<h4 id="Emergent-Ultimatum"><a href="#Emergent-Ultimatum" class="headerlink" title="Emergent Ultimatum"></a>Emergent Ultimatum</h4><p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cards.scryfall.io/large/front/3/a/3a6a52ab-6d38-4429-9969-90064e615152.jpg?1591228007"
-                     
-                ></p>
-<p>而牌組中的 Emergent Ultimatum 則是用來補足資源，或是缺的牌張。</p>
-<p>通常我會用 Emergent Ultimatum 找 Omniscience, Lier 和一張我缺的牌，缺法力我會找 Hidden Strings, 缺手牌會找 Pore Over the Pages，都不缺我會找 Dark Petition。<br>因為通常 Omniscience 會被洗回牌庫，所以另外找的兩張基本上都是直接施放。<br>而 Lier 非常重要，特別是現在的茜卓路線，因為法力的需求更高了，沒有墳場的資源再次利用很難有足夠的法力做出組合技。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cards.scryfall.io/large/front/7/8/78fb8900-d28d-4e33-96a7-66fcbc117adf.jpg?1634348984"
-                     
-                ></p>
-<h4 id="Ramp-Card-Choose"><a href="#Ramp-Card-Choose" class="headerlink" title="Ramp Card Choose"></a>Ramp Card Choose</h4><ol>
-<li><a class="link"   href="https://cards.scryfall.io/large/front/1/8/180773da-dadc-414a-92c6-f4e13c753718.jpg?1576383133" >Voyaging Satyr <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>最常見的加速，配合 Hidden Strings 可以當作是第二塊蓮花田。</li>
-<li><a class="link"   href="https://cards.scryfall.io/large/front/9/f/9ffb676d-54b7-4d30-9c84-ff9b48030705.jpg?1562808877" >Hope Tender <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>其他的加速手段，除了本身可以當作第五張 Hidden String 以外，配合 Hidden String 和兩塊蓮花田可以爆出更多的法力，但需要額外付一費，最近幾乎沒有看到 Hope Tender 出現在環境中。</li>
-<li><a class="link"   href="https://cards.scryfall.io/large/front/7/d/7d0ae655-c64e-470d-a7ae-e06b89c77e57.jpg?1673305543" >Growth Spiral <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>Growth Spiral 是我很喜歡的一張牌，加速的同時還能多抽一張牌，但指定色偏重，而且深度不太夠，中後期抽到很無力。</li>
-<li><a class="link"   href="https://cards.scryfall.io/large/front/6/0/60e16d94-1166-4050-8554-686e153a7f80.jpg?1576381454" >Baral, Chief of Compliance <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>雖然沒有增加法力，不太算是實質上的加速，不過降低巫術瞬間的費用（或是拿來抵銷萬惡的 <a class="link"   href="https://cards.scryfall.io/large/front/c/9/c9f8b8fb-1cd8-450e-a1fe-892e7a323479.jpg?1643587106" >Thalia, Guardian of Thraben <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 的多一費），應該也能算是加速的一種吧（？</li>
-</ol>
-<h4 id="Lands-Choose"><a href="#Lands-Choose" class="headerlink" title="Lands Choose"></a>Lands Choose</h4><p>地基本上會帶 22 左右，大部分會長這樣：<br>4x Lotus Field<br>4x Thespian’s Stage<br>4x Botanical Sanctum<br>1x Breeding Pool（被對手的母聖樹炸地之後找的<br>1x Island（謝謝你戰場遺跡<br>2x Temple of Mystery（一回 Arboreal Grazer 的時候可以下進來占卜<br>2x+ Boseiju, Who Enduress（月輪山影去死走開<br>2x+ Otawara, Soaring City（解掉定場永久物<br>1x Lair of the Hydra（茜卓路線法力不夠贏不了時的備案</p>
-<p>剩下一個位置可以自由選擇要帶更多的 Boseiju, Otawara 或是第二張基本地、電震地都可以。</p>
-<h3 id="Sideboard"><a href="#Sideboard" class="headerlink" title="Sideboard"></a>Sideboard</h3><p>備牌的部分蓮花田可以說是很靈活，特別是在採用茜卓路線以後，因為少了一些工具箱的組成。<br>基本上會是由掃場和拆為主，有些人會帶點濾牌或是其他的 win-con，打內戰或是控制時會更舒服。<br>而如果還是走神日迫鄰路線、或是有保留找備牌的功能，個人會建議多帶一張 <a class="link"   href="https://cards.scryfall.io/large/front/4/2/4262e71a-b1fa-4b54-b623-34f4a7ccd500.jpg?1673148523" >Dragonlord Dromoka <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>，打控制或是帶康的對局很舒服，本身有繫命也可以扛快攻。</p>
-<h2 id="心理建設"><a href="#心理建設" class="headerlink" title="心理建設"></a>心理建設</h2><p>Sideboard Guild 之類的東西我就不付上了，半年前的內容到現在來看完全過時，而且因為正編的路線和備牌的內容完全因人而異，也沒有說絕對硬性要怎麼換備。<br>所以這邊來提一個很重要的內容，<strong>心理建設</strong>。</p>
-<p>我覺得打蓮花田組合技（或是各種組合技）最重要的是心理建設。<br>首先，我們需要先有一些認知：</p>
-<ol>
-<li>這是一套會正編輸給幾乎所有快攻的套牌</li>
-<li>會被希歐蕊 &amp; 莎莉亞懲罰</li>
-<li>練習量很高，想法要很靈活</li>
-<li>即便以上都做對了，但還是會被右手搞</li>
-</ol>
-<p>前面幾個都很好理解，因為沒有場面也沒有點殺、掃場，正編局很容易輸給快攻；整套幾乎都是非生物咒語，自然會被莎莉亞康特，同理整套都在抽牌，會被希歐蕊扣爛也是很理所當然的。<br>練習量很高、想法需要很靈活，為了是需要知道目前的場面哪些東西對我們造成威脅，同時儘早做出應變措施（手上有田和舞台時，森林占卜先找母聖樹或大田原作準備），或是需要知道要如何在快死掉的夾縫中求生存</p>
-<p>最後的最後，就是要能夠接受自己會被牌庫頂懲罰。這邊舉個例子，這是壓垮我使我下定決心無論如何都要拆掉蓮花田組合技的最後一根稻草。<br>當時是某一場 MITQ，第一輪跟創新打了一場難看大對局，兩邊什麼都摸不到，對面滿手康我滿手地，最後對面先摸到奇奇了，第二輪打控制，丟 <a class="link"   href="https://cards.scryfall.io/large/front/f/4/f4a9d636-6720-4d7e-8b81-12c20bce6495.jpg?1592516789" >Thought Distortion <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 的時候吃到 <a class="link"   href="https://cards.scryfall.io/large/front/6/3/63754036-d51e-47bb-925b-564d9dc922ff.jpg?1557576279" >Narset’s Reversal <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 還兩次，所以成績已經不重要了，還沒 drop 純粹是當作練牌。<br>當時的對局是遇到 Gruul Midrange，起手沒地所以調度（還是起手都是地忘了，反正總之都就是要調度），當時手牌有：<br>2x Lotus Field<br>1x Temple of Mystery<br>1x Hidden Strings<br>1x Pore Over the Pages<br>1x Impulse<br>還有一張是什麼我忘記了，但沒有很重要，不影響接下來的敘述。<br>總之這是一個會 keep 的起手，想說反正把一張蓮花田放下去，我還有占卜看兩張牌庫頂的空間，只要摸到第二塊不是蓮花田的地都可以。<br>一回下一占卜地，看到一張非地牌，好的放到牌庫底。對手下一地拍一支密教徒下來換我。<br>二回抽一張蓮花田，沒事做換人，對手下地拍追風客，打我三。<br>三回又抽一張蓮花田，還是沒事做換人，對手下地拍貓車，打我七。<br>四回摸到掃場了但還是沒有地，對手下地雲威號，然後把我打死。好玩遊戲每天都要玩。</p>
-<p>我承受不了「我都認真練牌了，但緊要關頭還是會被右手搞」這種狀況，我發覺我好像還是比較適合打中速，最後遇到這個情況壓垮了我。<br>於是後來就把蓮花田拆掉，改去尋找其他更適合我的套牌了。</p>
-<h2 id="Update-Oct-3rd-2023"><a href="#Update-Oct-3rd-2023" class="headerlink" title="Update: Oct 3rd, 2023"></a>Update: Oct 3rd, 2023</h2><p>文章本身寫完好幾天了，在整理資料的時候發現歐洲 RC 打完了。<br>先恭喜 	Adrián Iñigo Tastet 以蓮花田組合技拿到冠軍（<a class="link"   href="https://melee.gg/Decklist/View/329396" >牌表連結 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>）。<br><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="/images/EURO-RC-4-Champ.jpg"
-                     
-                ></p>
-<p>看一下牌表，會發現多帶了一張牌：Discontinuity。<br><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cards.scryfall.io/large/front/b/3/b33ba0a8-04e9-4df6-af20-a3ca4470cdcc.jpg?1594735451"
-                     
-                ></p>
-<p>如同白藍蓮花田控制一樣，在有兩點法力下蓮花田時，可以回應蓮花田的 etb 切回合，這時候蓮花田進場犧牲兩塊地的異能會直接從堆疊上被放逐，便不需要犧牲兩塊地了。<br>同時已經有六點法力時，也可以在對手的維持階段切他的回合、或是回應他的咒語切回合，可以躲掉一些威脅。</p>
-<p>這種構築在過去一個月中的使用率逐漸上升中，加上歐洲冠軍也有投入使用，預計在接下來的環境中會有許多類似的構築。</p>
-]]></content>
-      <categories>
-        <category>Construct</category>
-        <category>Pioneer</category>
-      </categories>
-      <tags>
-        <tag>MiohitoKiri5474</tag>
-        <tag>Pioneer</tag>
-        <tag>Deck Tech</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Pioneer 環境考察 2023/09/18</title>
     <url>/Pioneer-Meta-Inspection-20230918/</url>
     <content><![CDATA[<h2 id="Before-We-Start"><a href="#Before-We-Start" class="headerlink" title="Before We Start"></a>Before We Start</h2><p>繼上禮拜的近代環境考察，這禮拜來試著寫一下先驅的。<br>環境的資訊一樣以 mtggoldfish 為主，畢竟現在台灣也沒有太多先驅例賽吧 :p</p>
@@ -1555,6 +1569,118 @@
         <tag>MiohitoKiri5474</tag>
         <tag>Pioneer</tag>
         <tag>Inspection</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>先驅蓮花田組合技：從入門到放棄</title>
+    <url>/Pioneer-Lotus-Field/</url>
+    <content><![CDATA[<h2 id="Before-We-Start"><a href="#Before-We-Start" class="headerlink" title="Before We Start"></a>Before We Start</h2><p>作為一個打了大概半年多、很認真練習蓮花田組合技的玩家，應該夠資格寫這一套牌的介紹吧（？）<br>最一開始會想要打蓮花田有幾個原因：</p>
+<h3 id="1-便宜"><a href="#1-便宜" class="headerlink" title="1. 便宜"></a>1. 便宜</h3><p>當時的造價約 200 鎂上下，加上 Pioneer Challenger Decks 2022 就把多數難找的東西出完了，只要買那一盒 + 補大約 2000 台幣左右的料就能組完，在一眾快攻中算又特別突出。</p>
+<h3 id="2-我想要試著打組合技套牌"><a href="#2-我想要試著打組合技套牌" class="headerlink" title="2. 我想要試著打組合技套牌"></a>2. 我想要試著打組合技套牌</h3><p>在我組這套牌之前，幾乎都是打中速、控制為主，比較少接觸組合技套牌（當時近代的風暴在垂死掙扎邊緣），想說剛好要來準備 MIT 了，趁著這個機會來嘗試一些自己不熟悉的套牌種類。</p>
+<h3 id="3-很潮"><a href="#3-很潮" class="headerlink" title="3. 很潮"></a>3. 很潮</h3><p>打組合技很潮應該很好理解吧，對手以為勝券在握的時候被反手斬殺，應該很潮吧（汗。</p>
+<p>但後來因為種種原因拆掉了，等等後續會提為什麼。</p>
+<p>另外這套牌適合：</p>
+<ol>
+<li>喜歡屯手牌的玩家</li>
+<li>組合技玩家</li>
+<li>風暴玩家</li>
+</ol>
+<p>而這套牌不適合：</p>
+<ol>
+<li>中速玩家</li>
+<li>喜歡跟對手有來有往的對局</li>
+<li>右手很臭（例如我）的玩家</li>
+<li>不喜歡被快攻爆打的玩家</li>
+</ol>
+<h2 id="Decklist"><a href="#Decklist" class="headerlink" title="Decklist"></a>Decklist</h2><p>基本上的構築會長這樣，這些牌是一張都不能少的：<br>4x Arboreal Grazer<br>4x Vizier of Tumbling<br>1x Lier, Disciple of the Drowned<br>4x Hidden Strings<br>3x+ Impulse<br>4x Sylvan Scrying<br>2x+ Bala Ged Recovery<br>2x Dark Petition<br>4x Pore Over the Pages<br>3x Emergent Ultimatum<br>1x Omniscience<br>22x Lands（等等再提要放哪些）</p>
+<p>剩下的部分則是取決於要打哪個軸，再來決定要放什麼東西。</p>
+<h3 id="這套牌在做什麼？"><a href="#這套牌在做什麼？" class="headerlink" title="這套牌在做什麼？"></a>這套牌在做什麼？</h3><p>然後來講一下這套牌希望達成的對局走向。<br>這套牌並沒有放 <a class="link"   href="https://cards.scryfall.io/large/front/9/5/95f1e36a-6838-49de-b7dc-697cbcd1e892.jpg?1624877272" >Strict Proctor <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>，因此沒有可以偷雞的方法，就是要將蓮花田吃兩塊地正下，然後用 <a class="link"   href="https://cards.scryfall.io/large/front/b/6/b6f27909-e5cd-44c0-91c4-21624f692fd9.jpg?1561843043" >Thespian’s Stage <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 複製出第二塊 Lotus Field。<br>並用 <a class="link"   href="https://cards.scryfall.io/large/front/2/1/216e8047-6f54-49ce-bf86-27dc8fc8c8f7.jpg?1562901181" >Hidden Strings <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>, <a class="link"   href="https://cards.scryfall.io/large/front/b/2/b2288f7b-05b1-4a6c-8d02-42ffcadc6f0b.jpg?1576384182" >Pore Over the Pages <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>, <a class="link"   href="https://cards.scryfall.io/large/front/a/9/a9aef509-50f0-4848-87d5-3c169453186f.jpg?1689996788" >Vizier of Tumbling <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 來不斷地重置 Lotus Field 來賺法力，並且最後用 <a class="link"   href="https://cards.scryfall.io/large/front/3/a/3a6a52ab-6d38-4429-9969-90064e615152.jpg?1591228007" >Emergent Ultimatum <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 找出組合技收工。<br>另外可以用 Arboreal Grazer 多下一塊地來提早一回合做出組合技。</p>
+<h3 id="Combo-Line"><a href="#Combo-Line" class="headerlink" title="Combo Line"></a>Combo Line</h3><p>主要的組合技有兩種：</p>
+<ol>
+<li><a class="link"   href="https://cards.scryfall.io/large/front/a/1/a146ea07-ec1c-448d-b67a-dd9f9e27c2e0.jpg?1682204090" >Chandra, Hope’s Beacon <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+<li><a class="link"   href="https://cards.scryfall.io/large/front/f/d/fdf59a6e-7708-45a1-884d-d12e9f7b9ed9.jpg?1543674579" >Approach of the Second Sun <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></li>
+</ol>
+<h4 id="Chandra-Line"><a href="#Chandra-Line" class="headerlink" title="Chandra Line"></a>Chandra Line</h4><p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cards.scryfall.io/large/front/a/1/a146ea07-ec1c-448d-b67a-dd9f9e27c2e0.jpg?1682204090"
+                     
+                ></p>
+<p>茜卓路線是這半年內才出現的新科技（廢話她也才出半年），大致上來說是靠著本身的觸發式異能來賺更多的資源。<br>等到法力足夠了之後，用以下路線收掉對手的頭，手中和墳場必須有兩張巴勒格復甦 + 足夠的法力（或是場上有 <a class="link"   href="https://cards.scryfall.io/large/front/5/2/5249f9dc-d5e2-4e1f-b7da-8fcbf574f276.jpg?1692933086" >Omniscience <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> ）+ 茜卓在場上：</p>
+<ol>
+<li>茜卓 [-5] 打對手的頭五點</li>
+<li>用第一張巴勒格復甦將茜卓撿回手上</li>
+<li>將茜卓拍回場上，施放第二張巴勒格復甦，此時會被茜卓複製，其中一發撿墳場中的巴勒格復甦，另一張隨意</li>
+<li>茜卓再次用 [-5] 打對手的頭五點</li>
+<li>將手中的兩張巴勒格復甦，分別撿起茜卓以及墳場中的巴勒格復甦</li>
+<li>重複步驟三到步驟五</li>
+</ol>
+<p>如果是此路線，牌組中除了 Chandra, Hope’s Beacon 並不需要特別放其他配合的牌，可以放更多的加速源（例如 Voyaging Satyr），不過缺點是只要茜卓被切掉很難收頭。</p>
+<h3 id="Approach-of-the-Second-Sun-Line"><a href="#Approach-of-the-Second-Sun-Line" class="headerlink" title="Approach of the Second Sun Line"></a>Approach of the Second Sun Line</h3><p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cards.scryfall.io/large/front/f/d/fdf59a6e-7708-45a1-884d-d12e9f7b9ed9.jpg?1543674579"
+                     
+                ></p>
+<p>神日迫臨版本則是我剛組這套牌的組合技，大致上來說是靠牌組中的 <a class="link"   href="https://cards.scryfall.io/large/front/2/f/2f00f09b-a113-460e-ac2f-d3988a83179e.jpg?1555040258" >Mastermind’s Acquisition <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 從備牌中找出神日迫臨，重複施放神日迫臨贏得遊戲。</p>
+<p>另外神日迫臨的版本需要多帶 Mastermind’s Acquistion，以及更多的過牌（我最多帶了七張的看四拿一）。</p>
+<h4 id="Emergent-Ultimatum"><a href="#Emergent-Ultimatum" class="headerlink" title="Emergent Ultimatum"></a>Emergent Ultimatum</h4><p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cards.scryfall.io/large/front/3/a/3a6a52ab-6d38-4429-9969-90064e615152.jpg?1591228007"
+                     
+                ></p>
+<p>而牌組中的 Emergent Ultimatum 則是用來補足資源，或是缺的牌張。</p>
+<p>通常我會用 Emergent Ultimatum 找 Omniscience, Lier 和一張我缺的牌，缺法力我會找 Hidden Strings, 缺手牌會找 Pore Over the Pages，都不缺我會找 Dark Petition。<br>因為通常 Omniscience 會被洗回牌庫，所以另外找的兩張基本上都是直接施放。<br>而 Lier 非常重要，特別是現在的茜卓路線，因為法力的需求更高了，沒有墳場的資源再次利用很難有足夠的法力做出組合技。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cards.scryfall.io/large/front/7/8/78fb8900-d28d-4e33-96a7-66fcbc117adf.jpg?1634348984"
+                     
+                ></p>
+<h4 id="Ramp-Card-Choose"><a href="#Ramp-Card-Choose" class="headerlink" title="Ramp Card Choose"></a>Ramp Card Choose</h4><ol>
+<li><a class="link"   href="https://cards.scryfall.io/large/front/1/8/180773da-dadc-414a-92c6-f4e13c753718.jpg?1576383133" >Voyaging Satyr <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>最常見的加速，配合 Hidden Strings 可以當作是第二塊蓮花田。</li>
+<li><a class="link"   href="https://cards.scryfall.io/large/front/9/f/9ffb676d-54b7-4d30-9c84-ff9b48030705.jpg?1562808877" >Hope Tender <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>其他的加速手段，除了本身可以當作第五張 Hidden String 以外，配合 Hidden String 和兩塊蓮花田可以爆出更多的法力，但需要額外付一費，最近幾乎沒有看到 Hope Tender 出現在環境中。</li>
+<li><a class="link"   href="https://cards.scryfall.io/large/front/7/d/7d0ae655-c64e-470d-a7ae-e06b89c77e57.jpg?1673305543" >Growth Spiral <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>Growth Spiral 是我很喜歡的一張牌，加速的同時還能多抽一張牌，但指定色偏重，而且深度不太夠，中後期抽到很無力。</li>
+<li><a class="link"   href="https://cards.scryfall.io/large/front/6/0/60e16d94-1166-4050-8554-686e153a7f80.jpg?1576381454" >Baral, Chief of Compliance <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a><br>雖然沒有增加法力，不太算是實質上的加速，不過降低巫術瞬間的費用（或是拿來抵銷萬惡的 <a class="link"   href="https://cards.scryfall.io/large/front/c/9/c9f8b8fb-1cd8-450e-a1fe-892e7a323479.jpg?1643587106" >Thalia, Guardian of Thraben <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 的多一費），應該也能算是加速的一種吧（？</li>
+</ol>
+<h4 id="Lands-Choose"><a href="#Lands-Choose" class="headerlink" title="Lands Choose"></a>Lands Choose</h4><p>地基本上會帶 22 左右，大部分會長這樣：<br>4x Lotus Field<br>4x Thespian’s Stage<br>4x Botanical Sanctum<br>1x Breeding Pool（被對手的母聖樹炸地之後找的<br>1x Island（謝謝你戰場遺跡<br>2x Temple of Mystery（一回 Arboreal Grazer 的時候可以下進來占卜<br>2x+ Boseiju, Who Enduress（月輪山影去死走開<br>2x+ Otawara, Soaring City（解掉定場永久物<br>1x Lair of the Hydra（茜卓路線法力不夠贏不了時的備案</p>
+<p>剩下一個位置可以自由選擇要帶更多的 Boseiju, Otawara 或是第二張基本地、電震地都可以。</p>
+<h3 id="Sideboard"><a href="#Sideboard" class="headerlink" title="Sideboard"></a>Sideboard</h3><p>備牌的部分蓮花田可以說是很靈活，特別是在採用茜卓路線以後，因為少了一些工具箱的組成。<br>基本上會是由掃場和拆為主，有些人會帶點濾牌或是其他的 win-con，打內戰或是控制時會更舒服。<br>而如果還是走神日迫鄰路線、或是有保留找備牌的功能，個人會建議多帶一張 <a class="link"   href="https://cards.scryfall.io/large/front/4/2/4262e71a-b1fa-4b54-b623-34f4a7ccd500.jpg?1673148523" >Dragonlord Dromoka <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>，打控制或是帶康的對局很舒服，本身有繫命也可以扛快攻。</p>
+<h2 id="心理建設"><a href="#心理建設" class="headerlink" title="心理建設"></a>心理建設</h2><p>Sideboard Guild 之類的東西我就不付上了，半年前的內容到現在來看完全過時，而且因為正編的路線和備牌的內容完全因人而異，也沒有說絕對硬性要怎麼換備。<br>所以這邊來提一個很重要的內容，<strong>心理建設</strong>。</p>
+<p>我覺得打蓮花田組合技（或是各種組合技）最重要的是心理建設。<br>首先，我們需要先有一些認知：</p>
+<ol>
+<li>這是一套會正編輸給幾乎所有快攻的套牌</li>
+<li>會被希歐蕊 &amp; 莎莉亞懲罰</li>
+<li>練習量很高，想法要很靈活</li>
+<li>即便以上都做對了，但還是會被右手搞</li>
+</ol>
+<p>前面幾個都很好理解，因為沒有場面也沒有點殺、掃場，正編局很容易輸給快攻；整套幾乎都是非生物咒語，自然會被莎莉亞康特，同理整套都在抽牌，會被希歐蕊扣爛也是很理所當然的。<br>練習量很高、想法需要很靈活，為了是需要知道目前的場面哪些東西對我們造成威脅，同時儘早做出應變措施（手上有田和舞台時，森林占卜先找母聖樹或大田原作準備），或是需要知道要如何在快死掉的夾縫中求生存</p>
+<p>最後的最後，就是要能夠接受自己會被牌庫頂懲罰。這邊舉個例子，這是壓垮我使我下定決心無論如何都要拆掉蓮花田組合技的最後一根稻草。<br>當時是某一場 MITQ，第一輪跟創新打了一場難看大對局，兩邊什麼都摸不到，對面滿手康我滿手地，最後對面先摸到奇奇了，第二輪打控制，丟 <a class="link"   href="https://cards.scryfall.io/large/front/f/4/f4a9d636-6720-4d7e-8b81-12c20bce6495.jpg?1592516789" >Thought Distortion <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 的時候吃到 <a class="link"   href="https://cards.scryfall.io/large/front/6/3/63754036-d51e-47bb-925b-564d9dc922ff.jpg?1557576279" >Narset’s Reversal <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 還兩次，所以成績已經不重要了，還沒 drop 純粹是當作練牌。<br>當時的對局是遇到 Gruul Midrange，起手沒地所以調度（還是起手都是地忘了，反正總之都就是要調度），當時手牌有：<br>2x Lotus Field<br>1x Temple of Mystery<br>1x Hidden Strings<br>1x Pore Over the Pages<br>1x Impulse<br>還有一張是什麼我忘記了，但沒有很重要，不影響接下來的敘述。<br>總之這是一個會 keep 的起手，想說反正把一張蓮花田放下去，我還有占卜看兩張牌庫頂的空間，只要摸到第二塊不是蓮花田的地都可以。<br>一回下一占卜地，看到一張非地牌，好的放到牌庫底。對手下一地拍一支密教徒下來換我。<br>二回抽一張蓮花田，沒事做換人，對手下地拍追風客，打我三。<br>三回又抽一張蓮花田，還是沒事做換人，對手下地拍貓車，打我七。<br>四回摸到掃場了但還是沒有地，對手下地雲威號，然後把我打死。好玩遊戲每天都要玩。</p>
+<p>我承受不了「我都認真練牌了，但緊要關頭還是會被右手搞」這種狀況，我發覺我好像還是比較適合打中速，最後遇到這個情況壓垮了我。<br>於是後來就把蓮花田拆掉，改去尋找其他更適合我的套牌了。</p>
+<h2 id="Update-Oct-3rd-2023"><a href="#Update-Oct-3rd-2023" class="headerlink" title="Update: Oct 3rd, 2023"></a>Update: Oct 3rd, 2023</h2><p>文章本身寫完好幾天了，在整理資料的時候發現歐洲 RC 打完了。<br>先恭喜 	Adrián Iñigo Tastet 以蓮花田組合技拿到冠軍（<a class="link"   href="https://melee.gg/Decklist/View/329396" >牌表連結 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>）。<br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="/images/EURO-RC-4-Champ.jpg"
+                     
+                ></p>
+<p>看一下牌表，會發現多帶了一張牌：Discontinuity。<br><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cards.scryfall.io/large/front/b/3/b33ba0a8-04e9-4df6-af20-a3ca4470cdcc.jpg?1594735451"
+                     
+                ></p>
+<p>如同白藍蓮花田控制一樣，在有兩點法力下蓮花田時，可以回應蓮花田的 etb 切回合，這時候蓮花田進場犧牲兩塊地的異能會直接從堆疊上被放逐，便不需要犧牲兩塊地了。<br>同時已經有六點法力時，也可以在對手的維持階段切他的回合、或是回應他的咒語切回合，可以躲掉一些威脅。</p>
+<p>這種構築在過去一個月中的使用率逐漸上升中，加上歐洲冠軍也有投入使用，預計在接下來的環境中會有許多類似的構築。</p>
+]]></content>
+      <categories>
+        <category>Construct</category>
+        <category>Pioneer</category>
+      </categories>
+      <tags>
+        <tag>MiohitoKiri5474</tag>
+        <tag>Pioneer</tag>
+        <tag>Deck Tech</tag>
       </tags>
   </entry>
   <entry>
@@ -3601,389 +3727,6 @@
       </tags>
   </entry>
   <entry>
-    <title>依夏蘭迷窟（LCI）限制賽介紹 — 紅色</title>
-    <url>/LCI-Red/</url>
-    <content><![CDATA[<p>依夏蘭迷窟（The Lost Caverns of Ixalan, LCI）將於2023年11月10日舉行售前賽活動，而於隔一週2023年11月17日正式發行，想更了解單卡在限制賽的單卡評分與一些可能的有趣搭配嗎？那就來看看這一系列的LCI限制賽介紹吧！</p>
-<p>機制介紹請看這篇：<a href="https://guildmagesforum.tw/LCI-mechanic/">依夏蘭迷窟機制解析</a></p>
-<h2 id="評分標準"><a href="#評分標準" class="headerlink" title="評分標準"></a>評分標準</h2><p>5.0：無條件必拿<br>4.0：有首選價值<br>3.5：強度夠但不一定要首選<br>3.0：高於平均（會很希望他能放進最終牌組）<br>2.5：平均水準，maybe輪抽第6、第7 pick左右<br>2.0～1.0：低於平均 （比起放這張牌，更傾向於不放）<br>0.5～0.0：不可用 （基本上別放，放了只會幫你輸）</p>
-<h2 id="紅色"><a href="#紅色" class="headerlink" title="紅色"></a>紅色</h2><p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://i.imgur.com/8Nf0OgA.png"
-                      alt="紅色"
-                ></p>
-<blockquote>
-<p>紅色各稀有度的數量</p>
-<p>C：19<br>U：14<br>R：8<br>MR：2</p>
-</blockquote>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cards.scryfall.io/large/front/4/7/47f39b5e-2e85-4f31-bbab-0b0bf58f701d.jpg?1699044218"
-                      alt="131"
-                ></p>
-<p><strong>Jru</strong>：3.5</p>
-<p>瞬間2費打3本身作為低費去除就沒什麼好挑剔的了，由於LCI這系列的神器牌密度極高，甚至可以說堪比真正的神器環境，因此神器去除的能力相對於常規系列顯得更有價值。</p>
-<p>話說風化侵蝕貌似快和失效、逼從一樣，變成標準長青C卡了。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cards.scryfall.io/large/front/e/9/e90d5b7d-e27d-42d6-ba7a-d4a6b0dd8549.jpg?1699044222"
-                      alt="132"
-                ></p>
-<p><strong>Jru</strong>：1.5</p>
-<p>就是個很普通的戰鬥詭計，由於傾探（Discover）機制的存在，戰鬥詭計這種特別講求時機的牌可能會更加難用。另外比較值得一提的是這系列的化煉（Craft）有不少牌以放逐神器做為費用，珍寶Token除了正常的產費外也可以作為化煉的素材來使用。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cards.scryfall.io/large/front/0/b/0b2debca-8535-4cf6-a461-c268faaacaae.jpg?1698583040"
-                      alt="133"
-                ></p>
-<p><strong>Jru</strong>：3.0</p>
-<p>作為2費打點這身材+踐踏算是挺合格了，恐龍在依夏蘭是個大眾種族，灌大力量的能力觸發機會也不少。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cards.scryfall.io/large/front/2/2/2220ed60-3f8f-4dd2-8319-6a06896a5350.jpg?1698183724"
-                      alt="134"
-                ></p>
-<p><strong>Jru</strong>：5.0</p>
-<p>毫無懸念的大炸彈，光是5費5&#x2F;5飛行先攻就有足夠恐怖的戰鬥力了，這觸發式異能更是賺的匪夷所思，每回做一次<a class="link"   href="https://scryfall.com/card/vow/174/zht/%E9%AD%AF%E8%8E%BD%E8%A1%9D%E5%8B%95" >魯莽衝動 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>就已經能滾出很恐怖的資源差，並且放逐到牌就能創造額外資源，甚至沒要求你使用該牌時才生Token，基本上是個只要活過一回就贏一半的大炸彈。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://i.imgur.com/D6x4nUA.jpg"
-                      alt="135"
-                ></p>
-<p><strong>Jru</strong>：5.0</p>
-<p>本系列思路萬搭牌，進場是棄N抽N+1，可以做到不虧牌濾牌，同時支援落墳（Descend）運作，轉化條件是3次在自己回合結束階段前落墳，這張卡進場時就能提供1次落墳了，想要湊到3次並不是難事，並且轉化後是個超級資源擴張機，很容易靠著巨量資源壓制戰局。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cards.scryfall.io/large/front/8/e/8e9e0c66-f64a-428c-be13-a52691833df1.jpg?1699044235"
-                      alt="136"
-                ></p>
-<p><strong>Jru &amp; Kappa</strong>：2.0</p>
-<p>在進攻端有機會等效成3費4&#x2F;4，兩個神器在這系列雖然不難湊，但有許多都是偏慢節奏的卡，或是需要佩帶費用的武具，想要拚前期輸出節奏應該很難讓他變4&#x2F;4的同時隊友也能給出足夠壓力。</p>
-<p>紅單色的神器不足以讓他成為一張合格的卡，但若果與白色的一堆低費神器或神器生物混合，就可以令他成為有效的4點打點，而且被解了也完全不可惜，基礎323白板也不算是很差劣，不過依然難掩他只能在特定色組工作的問題，能力不是攻擊時，而是達成條件常駐發動的話，應該還能在上升0.5～1分，現在沒有配合始終是一張合格線以下的卡。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cards.scryfall.io/large/front/a/a/aadf5028-8dfe-40d3-89b4-22bd7ed0aae6.jpg?1695408358"
-                      alt="137"
-                ></p>
-<p><strong>Jru</strong>：4.0</p>
-<p>作為單卡非常優秀，3費3&#x2F;3先攻在限制賽的生物戰中可以給出很大壓力，攻擊時觸發的三選項也很實用，只是要注意的是本次LCI的海盜生物量少了很多，整個系列包含此R卡也就14張海盜，其中還包含了些戰力貧弱的傢伙，所以別太期待以海盜作為種族主題的思路。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cards.scryfall.io/large/front/0/c/0c491ac0-4752-47a7-967e-456b6e4245de.jpg?1699044244"
-                      alt="138"
-                ></p>
-<p><strong>Jru &amp; Kappa</strong>：2.5</p>
-<p>在攻防時有機會變成2費3&#x2F;3，雖然這系列恐龍隊友不難找（C，U已有18隻，其中14隻是紅綠色組），但總歸是有限制；然而，我們也可以把她的異能視為更強的<a class="link"   href="https://mtg.fandom.com/wiki/Bushido?so=search" >武士道1 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>，在恐龍數量多的套牌中往往有機會與3防生物交換，或給予對手更大的進攻壓力，在紅綠色組中是非常優秀的C卡。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cards.scryfall.io/large/front/8/3/8341ddd9-aac1-4773-b8ce-51e35f696263.jpg?1699044244"
-                      alt="139"
-                ></p>
-<p><strong>Jru</strong>：0.5（現開） &#x2F; 1.5（輪抽）</p>
-<p>在現開賽估計組牌能用的洞窟數不會多，再算上實戰中的上手率，大概高機率是張死卡。<br>輪抽雖然好一點，但這系列的洞窟主題並不像KHM的雪境或DMU的領土的一樣有足夠完整的系統性回報，不太能期待高抓位洞窟牌的思路。</p>
-<p><strong>Kappa</strong>：1.5</p>
-<p>可以期待輪抽時，cave系統打出像DMU時期domain戰術的五色cave戰術，這張本質是一張AOE，在cave系統中非常強悍，想像成<a class="link"   href="https://scryfall.com/card/dgm/152/mazes-end" >Maze’s End <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>卡組中的<a class="link"   href="https://scryfall.com/card/rna/102/gates-ablaze" >Gates Ablaze <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>會比較好理解，輪抽桌Cave的出率目前看來是3包有2包有cave，評價還不高但未來可期。<br>現開應該就死透了。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cards.scryfall.io/large/front/e/9/e964f026-9cbf-4fa2-acdc-60d19b88f183.jpg?1699044247"
-                      alt="140"
-                ></p>
-<p><strong>Jru</strong>：2.5 </p>
-<p>落墳一次合格，落墳第二次以後開始比較有收益，由於這系列大身材的生物佔比不低，想要讓他強化到在生物戰中有優勢要多費點功夫。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cards.scryfall.io/large/front/a/1/a144d0b3-678d-4f4c-a9b0-22af19f5cf9f.jpg?1699044253"
-                      alt="141"
-                ></p>
-<p><strong>Jru</strong>：2.0（現開） &#x2F; 2.5（輪抽）</p>
-<p>強度完全取決於你傾探（Discover）的牌張密度，第一次複製到傾探算是打平放這張牌的成本，第二次以後才是真的賺，要放這傢伙就要先確保自己套牌有足夠高的機率在他進場後做到兩次傾探，不然就別放了，在現開賽估計也很難湊出完整的傾探主題料，輪抽時可以高抓位一些傾探的牌，穩定性會好一點，但切記不要為了這張牌過度抓一些孱弱的傾探料。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cards.scryfall.io/large/front/d/9/d95018a4-be10-4c46-b14d-4b1eba838bc0.jpg?1699044254"
-                      alt="142"
-                ></p>
-<p><strong>Jru</strong>：2.0</p>
-<p>用途接近於讓對手的生物都不能阻擋，很有機會成為壓垮對手的最後一根稻草，這種牌以往的標竿費用是4費，雖然這張是5費，但附贈了一個傾探4，單看一費換傾探4這點是滿賺的，不過這張卡使用上很吃時機，通常是你要給已經進入死線的對手最後一擊時使用，所以你在判斷是否要使用這張卡時的依據應該是場面狀態，而不是後續收益隨機的傾探4，甚至於傾探4翻到啥高機率也不影響當回攻勢了，這樣看來就變成了一個跟標竿卡相比多一費又不能讓對手徹底喪失阻擋能力的低效卡。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cards.scryfall.io/large/front/4/a/4ae30fa7-3d1d-417f-80d7-a668236cb2c1.jpg?1698699973"
-                      alt="143"
-                ></p>
-<p><strong>Jru</strong>：2.5</p>
-<p>本身是個很樸實無華的武具，佩帶費用還算靈活，能加攻防的武具在限制賽都算扎實，另外這系列的神器利用牌很多，珍寶除了拿來產費外還有許多妙用。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cards.scryfall.io/large/front/9/d/9de1a93e-ec71-45fa-b0b8-2c21123e390c.jpg?1699044263"
-                      alt="144"
-                ></p>
-<p><strong>Jru &amp; Kappa</strong>：2.5</p>
-<p>就是個很標竿的C卡曲線生物，外加是神器，又是恐龍，又是Gnome，這系列的種族支援都對應一半了，莎希莉會很喜歡的。(卡面台詞以及配合M卡莎希莉的雙重意義)</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://i.imgur.com/nCr57Vm.jpg"
-                      alt="145"
-                ></p>
-<p><strong>Jru</strong>：4.0</p>
-<p>從費用與能力的比值來看，效率在武具中算高的了，轉化後只要能提供神器肥料就能不斷滾雪球的壓制盤面，就算只有一兩個肥料能當子彈，通常也夠把對面最重要的東西解掉了。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://i.imgur.com/KGr0uCx.jpg"
-                      alt="146"
-                ></p>
-<p><strong>Jru</strong>：2.0</p>
-<p>正面收效甚微，背面雖然能把小生物變成對手較難忽視的火力來源，但畢竟沒灌防禦也沒給踐踏，該換死的還是會被換死，除非能做到持續提供生物來源，才能比較好的發揮白嫖壓制打法，另外轉化條件是操控四個神器，雖然說在這系列不會太艱難，但也是個有點要求的限制了。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cards.scryfall.io/large/front/0/6/062e00a1-f1dc-4089-b640-800ab781c590.jpg?1699044274"
-                      alt="147"
-                ></p>
-<p><strong>Jru</strong>：3.0</p>
-<p>非常罕見的能突破2.5分的戰鬥詭計，一般來說戰鬥詭計有著被回應去除後一屍兩命的風險，分數很難上的去，不過這張牌的上限特別高，1費+2&#x2F;+2踐踏本來就還算堪用了，附帶的神器去除能力在這系列尤其重要，運用得當反而是張能一換二的去除點。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cards.scryfall.io/large/front/4/4/44420f52-2ed8-4f81-93e4-5decc77bed01.jpg?1698433329"
-                      alt="148"
-                ></p>
-<p><strong>Jru</strong>：2.0</p>
-<p>能夠給神器思路提供肥料的來源之一，不過同時又要做到落墳，要求還是有點多。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cards.scryfall.io/large/front/6/d/6d4075a8-c15d-4078-bf4b-0f85c03fecec.jpg?1699044282"
-                      alt="149"
-                ></p>
-<p><strong>Jru</strong>：2.5</p>
-<p>可以當成是個偽濾牌，靈氣本體大概就1費的強度，不過再加上傾探3，大概要做出等效3費牌張的收益還是不難的，要注意這個靈氣也有被回應目標後一屍兩命的風險在。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cards.scryfall.io/large/front/7/f/7f9c1a82-695b-4df2-8e51-2d71a62e7baf.jpg?1698263129"
-                      alt="150"
-                ></p>
-<p><strong>Jru</strong>：4.0</p>
-<p>近似於不會敏捷的<a class="link"   href="https://scryfall.com/card/2x2/184/bloodbraid-elf" >血辮妖精 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>，由於本體就是個能夠跟對方做交換的生物了，翻到甚麼基本都是賺。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cards.scryfall.io/large/front/0/1/018160fe-f602-43f5-8495-241a08eaa69c.jpg?1699044289"
-                      alt="151"
-                ></p>
-<p><strong>Jru</strong>：1.0</p>
-<p>只有極限快攻思路才能活用牠，但許多神器又跟這思路不相容，對於偏中速一點的遊戲計畫來說有條件的一費灰棕熊並沒有多吸引人。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cards.scryfall.io/large/front/4/1/415904fe-b77f-4c1a-850f-688484d629e6.jpg?1698351953"
-                      alt="152"
-                ></p>
-<p><strong>Jru</strong>：2.5</p>
-<p>神器思路的出口之一，可以將你的神器轉化成進攻壓力，不過要注意這個能力只能在巫術時機起動，同時沒有給先攻也不會灌大防禦力，你也不能把自己的攻擊手揮霍的太開心。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cards.scryfall.io/large/front/e/7/e75f460c-43e2-4353-8b73-71ff8651a79d.jpg?1698172845"
-                      alt="153"
-                ></p>
-<p><strong>Jru</strong>：0.5</p>
-<p>傾探10基本上就是翻到牌庫頂直到下一張非地牌為止，很有可能花了7費只做了一個2~3費的招，通常你能開出7費的招大概也不缺法力了，那些珍寶的用途大概就是拿來提供神器思路運作，但相信你不會想用一個7費的招只為了擠出幾個珍寶…</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cards.scryfall.io/large/front/8/7/87468b6b-6f78-42e4-ab0d-6730aeecdc3f.jpg?1699044297"
-                      alt="154"
-                ></p>
-<p><strong>Jru</strong>：2.5（現開） &#x2F; 3.0（輪抽）</p>
-<p>姑且算是神器牌裡比較符合快攻思路的生物，不過自己衝出去很容易被換死，另外這個系列整體機制比較偏向長盤資源戰，現開時快攻思路應該很難過的多開心，更大的價值或許是容易從墳場作為化煉的素材。輪抽可以積極抓紅白快攻，比較能體現3費3攻的敏捷打點價值。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://i.imgur.com/gg50CuD.jpg"
-                      alt="155"
-                ></p>
-<p><strong>Jru</strong>：2.5</p>
-<p>正面是個3費電震、背面是個<a class="link"   href="https://scryfall.com/card/znr/157/zht/%E6%8B%BC%E8%A3%9D%E5%BC%8F%E6%88%B0%E5%88%83" >拼裝式戰刃 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>，兩邊都說不上高效，但拚成一張卡後還算可用，另外這種進場異能觸發後就擺在原地的神器，也很適合成為其他牌化煉的素材或是神器思路的啟動點。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cards.scryfall.io/large/front/f/a/fa7a55aa-ae61-4933-b7a4-dcc55dac6fcd.jpg?1698431277"
-                      alt="156"
-                ></p>
-<p><strong>Jru</strong>：4.0</p>
-<p>很像是偽<a class="link"   href="https://scryfall.com/card/snc/213/raffine-scheming-seer" >拉斐茵 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>的攻擊觸發能力，同時也是個主動落墳引擎，均勢或順風局容易創造不少優勢，但逆風局時無能為力。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cards.scryfall.io/large/front/4/4/4471a833-11b9-4146-a9c0-84a6896c94d8.jpg?1699044307"
-                      alt="157"
-                ></p>
-<p><strong>Jru</strong>：4.0</p>
-<p>紅色珍貴的高射程去除，5&#x2F;5搭載2的性價比也足夠高，還有機會提供額外的珍寶做各種利用。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://i.imgur.com/n0bzOar.jpg"
-                      alt="158"
-                ></p>
-<p><strong>Jru</strong>：4.0</p>
-<p>雖然死了有機會復活的神看起來很厲害，但這個紅神不管是正面反面的能力，在這系列中都缺乏充足的支援牌，哪怕是輪抽都未必抓的完整，所以用起來大概就是個4&#x2F;4踐踏死了送你一塊紅地，較高射程的燒有抓到2張的話還是可以期待一下復活一次。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cards.scryfall.io/large/front/a/d/ad371c97-a266-4a88-9d28-2e889a37ba00.jpg?1699044315"
-                      alt="159"
-                ></p>
-<p><strong>Kappa &amp; Jru</strong>：3.5</p>
-<p>5費4&#x2F;5延勢可以擋下絕大多數的攻擊者了，並且每回還可以用異次元打擊燒對面2血，想辦法穩住場面就能取勝，根本就是個簡易版的<a class="link"   href="https://scryfall.com/card/dmu/107/sheoldred-the-apocalypse9D%E5%8B%95" >啟示天災希歐蕊 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>。這也證明了血量5延勢的重要性，<a class="link"   href="https://scryfall.com/card/mom/156/onakke-javelineer" >歐納克擲槍魔 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>應該學習一下，輪抽中3～4 pick左右看到的話無任歡迎，紅色堅實5費C卡之選。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cards.scryfall.io/large/front/5/b/5bb2552f-8370-4931-83e1-93706d51413a.jpg?1699044322"
-                      alt="160"
-                ></p>
-<p><strong>Jru</strong>：3.0</p>
-<p>樸實無華的填曲線生物，交換能力還行，送一個珍寶算挺實用的。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cards.scryfall.io/large/front/c/0/c035250e-6f6e-4d0f-b4fd-2a53d6069aa7.jpg?1698435084"
-                      alt="161"
-                ></p>
-<p><strong>Jru &amp; Kappa</strong>：5.0</p>
-<p>神器思路超級回報單卡，只要能賺到兩隻恐龍Token就算值回票價，第三隻開始是血賺，這系列恐龍生物不少，也能期待順便生幾個珍寶，不過反過來說沒開到這些指定類別的卡時就完全沒用，上下限非常吃開到牌池的分佈。</p>
-<p>真價是每回合第1張神器附送一隻可攻可擋的生物，本系列C，U卡總共50張神器，紅色佔9張，無色佔14張，很難完全佔不到邊，更不用說與其他色組混合有更多，白色佔10張，藍色佔9張。恐龍主要在紅綠色組，這卡恐龍攻擊產的珍寶能提供調色效果，而施放神器又能產恐龍，令此卡一旦開始運作，除非拆了這張結界，否則很難停下來。總結是一張值得作為卡組中核新的大炸彈，可以特地組紅綠白或者紅綠藍卡組，考慮到能自力生產恐龍，甚至不混綠色也可以，只靠紅色的恐龍或者自產的恐龍也能維持第一個效果。<br>注意的是，cast神器咒語就立即能產恐龍的緣故，就算知道對手可以瞬間回應拆結界，4費拍這個結界再立即拍1個1費神器，對手也不能阻止第1隻恐龍出產，無論如何也能做到逼對手1換0的效果。<br>題外話，這張卡圖啟蒙了我。(我只是按照卡面台詞朗讀喔)</p>
-<blockquote>
-<p><strong>cephile</strong>：<br>我沒有要評分，但三費這張結界接四費<a class="link"   href="https://cards.scryfall.io/large/front/9/d/9de1a93e-ec71-45fa-b0b8-2c21123e390c.jpg?1699044263" >自動龍械 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>然後五回兩隻恐龍打出去生兩個珍寶跳七費真的是太炸了！果然莎希莉會很喜歡！（然後這兩個人的表情超有戲XD）</p>
-</blockquote>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cards.scryfall.io/large/front/8/b/8bab3f8f-cb06-466d-a35d-0b5e1a2b524c.jpg?1698583122"
-                      alt="162"
-                ></p>
-<p><strong>Jru</strong>：3.0</p>
-<p>超級威懾仔，類別正確，在非R卡生物中算滿合理的高費區選擇。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cards.scryfall.io/large/front/4/f/4f06b53f-ec82-4d7f-bee3-6ca04583f023.jpg?1699044331"
-                      alt="163"
-                ></p>
-<p><strong>Jru</strong>：3.0</p>
-<p>雖然有點笨重，但也是紅色珍貴的高射程去除。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://i.imgur.com/RkAoTmq.jpg"
-                      alt="164"
-                ></p>
-<p><strong>Jru</strong>：3.5</p>
-<p>進場棄1抽2是挺好的濾牌與落墳觸發源，也能往墳場填充化煉素材，這系列恐龍密度高，想要從墳場找到化煉素材並不難，很容易轉化成一個有足夠戰鬥力的生物創造二次價值。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cards.scryfall.io/large/front/9/4/9436cf62-56d6-4662-9982-72e9be80d25c.jpg?1699044339"
-                      alt="165"
-                ></p>
-<p><strong>Jru</strong>：3.0</p>
-<p>在構築賽可以算是控制殺手了，但限制賽本來瞬間時機的招佔比就不會這麼高，很多招對手選擇在自己回合做其實影響也沒太大，估計大多時候就是個3費4&#x2F;3，不過單看這個身材也算是高過平均值了，而且打4點傷害的能力就算能透過操作規避，對對手而言也是個不小的壓力跟限制。</p>
-<blockquote>
-<p><strong>cephille</strong>：要留意在對手回合施放咒語要先被打四對自己也適用，有牠在場而你血量落後時，記得在自己的回合先做解牌。</p>
-</blockquote>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cards.scryfall.io/large/front/9/8/98aeb9dc-18f9-4120-ac3d-226c62a1dc1d.jpg?1699044339"
-                      alt="166"
-                ></p>
-<p><strong>Jru</strong>：3.0</p>
-<p>正叫身材合理，還能夠把多餘的地轉化成新的資源，在限制賽中打到後盤常常是大家一堆地但沒有手牌，這個資源轉化能力在中後盤後是相當恐怖的，前期卡地也能用山脈循環來穩定自己的魔法力基礎。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cards.scryfall.io/large/front/b/b/bb040fc7-f728-4482-92af-9a320c03bb54.jpg?1699044342"
-                      alt="167"
-                ></p>
-<p><strong>Jru</strong>：1.5</p>
-<p>雖然也是個偽電震，但要拍了武具還手動拿起武具後才做得到，而且犧牲武具的時機是宣告攻擊者時，這樣在後續傷害結算時連原本的聊勝於無的+1&#x2F;+0都沒了。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cards.scryfall.io/large/front/d/3/d3114f5c-21e9-43c3-abe3-3cf1da20916f.jpg?1699044348"
-                      alt="168"
-                ></p>
-<p><strong>Jru</strong>：2.0</p>
-<p>作為神器思路的致勝轉化口能力本身還不錯，但巫術時機多少限制了些發揮空間，而且本體身材較貧弱，論換血效率可能還不如簡單的正拳交流。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cards.scryfall.io/large/front/5/2/5204c781-f568-4c7f-b3f7-ce4dd678689b.jpg?1699044348"
-                      alt="169"
-                ></p>
-<p><strong>Jru</strong>：0.5</p>
-<p>這系列沒那麼重Token生物橫向展開，這甚至還是個巫術，真的遇到適合針對的對手時備牌局再考慮吧…</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cards.scryfall.io/large/front/0/6/06b28139-efa7-4818-a012-cf8150692b43.jpg?1699044351"
-                      alt="170"
-                ></p>
-<p><strong>Jru</strong>：3.0</p>
-<p>這系列恐龍密度足夠高，1費燒5也非難事，即使當下正好沒有恐龍，也還有個1費燒2的保底在，還是能解一些低費的生物，不會變成完全的死牌。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cards.scryfall.io/large/front/e/d/edc035ca-f0a3-4814-9405-d6dc6f048315.jpg?1699044357"
-                      alt="171"
-                ></p>
-<p><strong>Jru</strong>：5.0</p>
-<p>本體戰鬥力就值6費了，傾探5怎樣都是賺，這個賺的上限還非常高。缺去除的時候牠也能支援，偽魂力的3費打3雖然不高效，但起碼射程合格，而且是個白送你的額外彈性選擇。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cards.scryfall.io/large/front/2/1/2101921a-d26f-4a00-a0db-1b418f2e6b01.jpg?1699044357"
-                      alt="172"
-                ></p>
-<p><strong>Jru</strong>：2.0</p>
-<p>本體不強，但能起到一些思路潤滑劑的功能，不過2&#x2F;2的身材衝出去很容易有去無回，拿去開載具時就是個優良駕駛了。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://cards.scryfall.io/large/front/0/4/04839717-d2f9-481d-9d13-e4038dbcbb0e.jpg?1698703097"
-                      alt="173"
-                ></p>
-<p><strong>Jru</strong>：2.0</p>
-<p>上下限很飄的牌，如果拿去解對手的牌，照理來說翻出來的東西怎樣都不會比洗回去的東西強，但無論如何你都還是虧牌的，而且對面翻出來的東西也有可能不會差太多甚至就是同一張，至於拿來自救也同樣會被隨機性搞得好壞難以預測。整體而言不是一張會想積極使用的牌，但作為高射程去除還是有其定位在，如果對手有某些大炸彈而你缺乏其他適當的去除時，這張牌起碼能給出一線生機，至於結果是好是壞就聽天由命了。</p>
-]]></content>
-      <categories>
-        <category>Limited</category>
-        <category>LCI-Limited</category>
-      </categories>
-      <tags>
-        <tag>JruMTG</tag>
-        <tag>LCI</tag>
-        <tag>Kappa</tag>
-        <tag>Limited</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>依夏蘭迷窟（LCI）限制賽介紹 — 藍色</title>
     <url>/LCI-Blue/</url>
     <content><![CDATA[<p>依夏蘭迷窟（The Lost Caverns of Ixalan, LCI）將於2023年11月10日舉行售前賽活動，而於隔一週2023年11月17日正式發行，想更了解單卡在限制賽的單卡評分與一些可能的有趣搭配嗎？那就來看看這一系列的LCI限制賽介紹吧！</p>
@@ -4677,6 +4420,389 @@
         <tag>LCI</tag>
         <tag>Limited</tag>
         <tag>kappa</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>依夏蘭迷窟（LCI）限制賽介紹 — 紅色</title>
+    <url>/LCI-Red/</url>
+    <content><![CDATA[<p>依夏蘭迷窟（The Lost Caverns of Ixalan, LCI）將於2023年11月10日舉行售前賽活動，而於隔一週2023年11月17日正式發行，想更了解單卡在限制賽的單卡評分與一些可能的有趣搭配嗎？那就來看看這一系列的LCI限制賽介紹吧！</p>
+<p>機制介紹請看這篇：<a href="https://guildmagesforum.tw/LCI-mechanic/">依夏蘭迷窟機制解析</a></p>
+<h2 id="評分標準"><a href="#評分標準" class="headerlink" title="評分標準"></a>評分標準</h2><p>5.0：無條件必拿<br>4.0：有首選價值<br>3.5：強度夠但不一定要首選<br>3.0：高於平均（會很希望他能放進最終牌組）<br>2.5：平均水準，maybe輪抽第6、第7 pick左右<br>2.0～1.0：低於平均 （比起放這張牌，更傾向於不放）<br>0.5～0.0：不可用 （基本上別放，放了只會幫你輸）</p>
+<h2 id="紅色"><a href="#紅色" class="headerlink" title="紅色"></a>紅色</h2><p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.imgur.com/8Nf0OgA.png"
+                      alt="紅色"
+                ></p>
+<blockquote>
+<p>紅色各稀有度的數量</p>
+<p>C：19<br>U：14<br>R：8<br>MR：2</p>
+</blockquote>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cards.scryfall.io/large/front/4/7/47f39b5e-2e85-4f31-bbab-0b0bf58f701d.jpg?1699044218"
+                      alt="131"
+                ></p>
+<p><strong>Jru</strong>：3.5</p>
+<p>瞬間2費打3本身作為低費去除就沒什麼好挑剔的了，由於LCI這系列的神器牌密度極高，甚至可以說堪比真正的神器環境，因此神器去除的能力相對於常規系列顯得更有價值。</p>
+<p>話說風化侵蝕貌似快和失效、逼從一樣，變成標準長青C卡了。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cards.scryfall.io/large/front/e/9/e90d5b7d-e27d-42d6-ba7a-d4a6b0dd8549.jpg?1699044222"
+                      alt="132"
+                ></p>
+<p><strong>Jru</strong>：1.5</p>
+<p>就是個很普通的戰鬥詭計，由於傾探（Discover）機制的存在，戰鬥詭計這種特別講求時機的牌可能會更加難用。另外比較值得一提的是這系列的化煉（Craft）有不少牌以放逐神器做為費用，珍寶Token除了正常的產費外也可以作為化煉的素材來使用。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cards.scryfall.io/large/front/0/b/0b2debca-8535-4cf6-a461-c268faaacaae.jpg?1698583040"
+                      alt="133"
+                ></p>
+<p><strong>Jru</strong>：3.0</p>
+<p>作為2費打點這身材+踐踏算是挺合格了，恐龍在依夏蘭是個大眾種族，灌大力量的能力觸發機會也不少。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cards.scryfall.io/large/front/2/2/2220ed60-3f8f-4dd2-8319-6a06896a5350.jpg?1698183724"
+                      alt="134"
+                ></p>
+<p><strong>Jru</strong>：5.0</p>
+<p>毫無懸念的大炸彈，光是5費5&#x2F;5飛行先攻就有足夠恐怖的戰鬥力了，這觸發式異能更是賺的匪夷所思，每回做一次<a class="link"   href="https://scryfall.com/card/vow/174/zht/%E9%AD%AF%E8%8E%BD%E8%A1%9D%E5%8B%95" >魯莽衝動 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>就已經能滾出很恐怖的資源差，並且放逐到牌就能創造額外資源，甚至沒要求你使用該牌時才生Token，基本上是個只要活過一回就贏一半的大炸彈。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.imgur.com/D6x4nUA.jpg"
+                      alt="135"
+                ></p>
+<p><strong>Jru</strong>：5.0</p>
+<p>本系列思路萬搭牌，進場是棄N抽N+1，可以做到不虧牌濾牌，同時支援落墳（Descend）運作，轉化條件是3次在自己回合結束階段前落墳，這張卡進場時就能提供1次落墳了，想要湊到3次並不是難事，並且轉化後是個超級資源擴張機，很容易靠著巨量資源壓制戰局。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cards.scryfall.io/large/front/8/e/8e9e0c66-f64a-428c-be13-a52691833df1.jpg?1699044235"
+                      alt="136"
+                ></p>
+<p><strong>Jru &amp; Kappa</strong>：2.0</p>
+<p>在進攻端有機會等效成3費4&#x2F;4，兩個神器在這系列雖然不難湊，但有許多都是偏慢節奏的卡，或是需要佩帶費用的武具，想要拚前期輸出節奏應該很難讓他變4&#x2F;4的同時隊友也能給出足夠壓力。</p>
+<p>紅單色的神器不足以讓他成為一張合格的卡，但若果與白色的一堆低費神器或神器生物混合，就可以令他成為有效的4點打點，而且被解了也完全不可惜，基礎323白板也不算是很差劣，不過依然難掩他只能在特定色組工作的問題，能力不是攻擊時，而是達成條件常駐發動的話，應該還能在上升0.5～1分，現在沒有配合始終是一張合格線以下的卡。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cards.scryfall.io/large/front/a/a/aadf5028-8dfe-40d3-89b4-22bd7ed0aae6.jpg?1695408358"
+                      alt="137"
+                ></p>
+<p><strong>Jru</strong>：4.0</p>
+<p>作為單卡非常優秀，3費3&#x2F;3先攻在限制賽的生物戰中可以給出很大壓力，攻擊時觸發的三選項也很實用，只是要注意的是本次LCI的海盜生物量少了很多，整個系列包含此R卡也就14張海盜，其中還包含了些戰力貧弱的傢伙，所以別太期待以海盜作為種族主題的思路。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cards.scryfall.io/large/front/0/c/0c491ac0-4752-47a7-967e-456b6e4245de.jpg?1699044244"
+                      alt="138"
+                ></p>
+<p><strong>Jru &amp; Kappa</strong>：2.5</p>
+<p>在攻防時有機會變成2費3&#x2F;3，雖然這系列恐龍隊友不難找（C，U已有18隻，其中14隻是紅綠色組），但總歸是有限制；然而，我們也可以把她的異能視為更強的<a class="link"   href="https://mtg.fandom.com/wiki/Bushido?so=search" >武士道1 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>，在恐龍數量多的套牌中往往有機會與3防生物交換，或給予對手更大的進攻壓力，在紅綠色組中是非常優秀的C卡。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cards.scryfall.io/large/front/8/3/8341ddd9-aac1-4773-b8ce-51e35f696263.jpg?1699044244"
+                      alt="139"
+                ></p>
+<p><strong>Jru</strong>：0.5（現開） &#x2F; 1.5（輪抽）</p>
+<p>在現開賽估計組牌能用的洞窟數不會多，再算上實戰中的上手率，大概高機率是張死卡。<br>輪抽雖然好一點，但這系列的洞窟主題並不像KHM的雪境或DMU的領土的一樣有足夠完整的系統性回報，不太能期待高抓位洞窟牌的思路。</p>
+<p><strong>Kappa</strong>：1.5</p>
+<p>可以期待輪抽時，cave系統打出像DMU時期domain戰術的五色cave戰術，這張本質是一張AOE，在cave系統中非常強悍，想像成<a class="link"   href="https://scryfall.com/card/dgm/152/mazes-end" >Maze’s End <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>卡組中的<a class="link"   href="https://scryfall.com/card/rna/102/gates-ablaze" >Gates Ablaze <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>會比較好理解，輪抽桌Cave的出率目前看來是3包有2包有cave，評價還不高但未來可期。<br>現開應該就死透了。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cards.scryfall.io/large/front/e/9/e964f026-9cbf-4fa2-acdc-60d19b88f183.jpg?1699044247"
+                      alt="140"
+                ></p>
+<p><strong>Jru</strong>：2.5 </p>
+<p>落墳一次合格，落墳第二次以後開始比較有收益，由於這系列大身材的生物佔比不低，想要讓他強化到在生物戰中有優勢要多費點功夫。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cards.scryfall.io/large/front/a/1/a144d0b3-678d-4f4c-a9b0-22af19f5cf9f.jpg?1699044253"
+                      alt="141"
+                ></p>
+<p><strong>Jru</strong>：2.0（現開） &#x2F; 2.5（輪抽）</p>
+<p>強度完全取決於你傾探（Discover）的牌張密度，第一次複製到傾探算是打平放這張牌的成本，第二次以後才是真的賺，要放這傢伙就要先確保自己套牌有足夠高的機率在他進場後做到兩次傾探，不然就別放了，在現開賽估計也很難湊出完整的傾探主題料，輪抽時可以高抓位一些傾探的牌，穩定性會好一點，但切記不要為了這張牌過度抓一些孱弱的傾探料。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cards.scryfall.io/large/front/d/9/d95018a4-be10-4c46-b14d-4b1eba838bc0.jpg?1699044254"
+                      alt="142"
+                ></p>
+<p><strong>Jru</strong>：2.0</p>
+<p>用途接近於讓對手的生物都不能阻擋，很有機會成為壓垮對手的最後一根稻草，這種牌以往的標竿費用是4費，雖然這張是5費，但附贈了一個傾探4，單看一費換傾探4這點是滿賺的，不過這張卡使用上很吃時機，通常是你要給已經進入死線的對手最後一擊時使用，所以你在判斷是否要使用這張卡時的依據應該是場面狀態，而不是後續收益隨機的傾探4，甚至於傾探4翻到啥高機率也不影響當回攻勢了，這樣看來就變成了一個跟標竿卡相比多一費又不能讓對手徹底喪失阻擋能力的低效卡。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cards.scryfall.io/large/front/4/a/4ae30fa7-3d1d-417f-80d7-a668236cb2c1.jpg?1698699973"
+                      alt="143"
+                ></p>
+<p><strong>Jru</strong>：2.5</p>
+<p>本身是個很樸實無華的武具，佩帶費用還算靈活，能加攻防的武具在限制賽都算扎實，另外這系列的神器利用牌很多，珍寶除了拿來產費外還有許多妙用。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cards.scryfall.io/large/front/9/d/9de1a93e-ec71-45fa-b0b8-2c21123e390c.jpg?1699044263"
+                      alt="144"
+                ></p>
+<p><strong>Jru &amp; Kappa</strong>：2.5</p>
+<p>就是個很標竿的C卡曲線生物，外加是神器，又是恐龍，又是Gnome，這系列的種族支援都對應一半了，莎希莉會很喜歡的。(卡面台詞以及配合M卡莎希莉的雙重意義)</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.imgur.com/nCr57Vm.jpg"
+                      alt="145"
+                ></p>
+<p><strong>Jru</strong>：4.0</p>
+<p>從費用與能力的比值來看，效率在武具中算高的了，轉化後只要能提供神器肥料就能不斷滾雪球的壓制盤面，就算只有一兩個肥料能當子彈，通常也夠把對面最重要的東西解掉了。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.imgur.com/KGr0uCx.jpg"
+                      alt="146"
+                ></p>
+<p><strong>Jru</strong>：2.0</p>
+<p>正面收效甚微，背面雖然能把小生物變成對手較難忽視的火力來源，但畢竟沒灌防禦也沒給踐踏，該換死的還是會被換死，除非能做到持續提供生物來源，才能比較好的發揮白嫖壓制打法，另外轉化條件是操控四個神器，雖然說在這系列不會太艱難，但也是個有點要求的限制了。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cards.scryfall.io/large/front/0/6/062e00a1-f1dc-4089-b640-800ab781c590.jpg?1699044274"
+                      alt="147"
+                ></p>
+<p><strong>Jru</strong>：3.0</p>
+<p>非常罕見的能突破2.5分的戰鬥詭計，一般來說戰鬥詭計有著被回應去除後一屍兩命的風險，分數很難上的去，不過這張牌的上限特別高，1費+2&#x2F;+2踐踏本來就還算堪用了，附帶的神器去除能力在這系列尤其重要，運用得當反而是張能一換二的去除點。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cards.scryfall.io/large/front/4/4/44420f52-2ed8-4f81-93e4-5decc77bed01.jpg?1698433329"
+                      alt="148"
+                ></p>
+<p><strong>Jru</strong>：2.0</p>
+<p>能夠給神器思路提供肥料的來源之一，不過同時又要做到落墳，要求還是有點多。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cards.scryfall.io/large/front/6/d/6d4075a8-c15d-4078-bf4b-0f85c03fecec.jpg?1699044282"
+                      alt="149"
+                ></p>
+<p><strong>Jru</strong>：2.5</p>
+<p>可以當成是個偽濾牌，靈氣本體大概就1費的強度，不過再加上傾探3，大概要做出等效3費牌張的收益還是不難的，要注意這個靈氣也有被回應目標後一屍兩命的風險在。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cards.scryfall.io/large/front/7/f/7f9c1a82-695b-4df2-8e51-2d71a62e7baf.jpg?1698263129"
+                      alt="150"
+                ></p>
+<p><strong>Jru</strong>：4.0</p>
+<p>近似於不會敏捷的<a class="link"   href="https://scryfall.com/card/2x2/184/bloodbraid-elf" >血辮妖精 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>，由於本體就是個能夠跟對方做交換的生物了，翻到甚麼基本都是賺。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cards.scryfall.io/large/front/0/1/018160fe-f602-43f5-8495-241a08eaa69c.jpg?1699044289"
+                      alt="151"
+                ></p>
+<p><strong>Jru</strong>：1.0</p>
+<p>只有極限快攻思路才能活用牠，但許多神器又跟這思路不相容，對於偏中速一點的遊戲計畫來說有條件的一費灰棕熊並沒有多吸引人。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cards.scryfall.io/large/front/4/1/415904fe-b77f-4c1a-850f-688484d629e6.jpg?1698351953"
+                      alt="152"
+                ></p>
+<p><strong>Jru</strong>：2.5</p>
+<p>神器思路的出口之一，可以將你的神器轉化成進攻壓力，不過要注意這個能力只能在巫術時機起動，同時沒有給先攻也不會灌大防禦力，你也不能把自己的攻擊手揮霍的太開心。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cards.scryfall.io/large/front/e/7/e75f460c-43e2-4353-8b73-71ff8651a79d.jpg?1698172845"
+                      alt="153"
+                ></p>
+<p><strong>Jru</strong>：0.5</p>
+<p>傾探10基本上就是翻到牌庫頂直到下一張非地牌為止，很有可能花了7費只做了一個2~3費的招，通常你能開出7費的招大概也不缺法力了，那些珍寶的用途大概就是拿來提供神器思路運作，但相信你不會想用一個7費的招只為了擠出幾個珍寶…</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cards.scryfall.io/large/front/8/7/87468b6b-6f78-42e4-ab0d-6730aeecdc3f.jpg?1699044297"
+                      alt="154"
+                ></p>
+<p><strong>Jru</strong>：2.5（現開） &#x2F; 3.0（輪抽）</p>
+<p>姑且算是神器牌裡比較符合快攻思路的生物，不過自己衝出去很容易被換死，另外這個系列整體機制比較偏向長盤資源戰，現開時快攻思路應該很難過的多開心，更大的價值或許是容易從墳場作為化煉的素材。輪抽可以積極抓紅白快攻，比較能體現3費3攻的敏捷打點價值。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.imgur.com/gg50CuD.jpg"
+                      alt="155"
+                ></p>
+<p><strong>Jru</strong>：2.5</p>
+<p>正面是個3費電震、背面是個<a class="link"   href="https://scryfall.com/card/znr/157/zht/%E6%8B%BC%E8%A3%9D%E5%BC%8F%E6%88%B0%E5%88%83" >拼裝式戰刃 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>，兩邊都說不上高效，但拚成一張卡後還算可用，另外這種進場異能觸發後就擺在原地的神器，也很適合成為其他牌化煉的素材或是神器思路的啟動點。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cards.scryfall.io/large/front/f/a/fa7a55aa-ae61-4933-b7a4-dcc55dac6fcd.jpg?1698431277"
+                      alt="156"
+                ></p>
+<p><strong>Jru</strong>：4.0</p>
+<p>很像是偽<a class="link"   href="https://scryfall.com/card/snc/213/raffine-scheming-seer" >拉斐茵 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>的攻擊觸發能力，同時也是個主動落墳引擎，均勢或順風局容易創造不少優勢，但逆風局時無能為力。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cards.scryfall.io/large/front/4/4/4471a833-11b9-4146-a9c0-84a6896c94d8.jpg?1699044307"
+                      alt="157"
+                ></p>
+<p><strong>Jru</strong>：4.0</p>
+<p>紅色珍貴的高射程去除，5&#x2F;5搭載2的性價比也足夠高，還有機會提供額外的珍寶做各種利用。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.imgur.com/n0bzOar.jpg"
+                      alt="158"
+                ></p>
+<p><strong>Jru</strong>：4.0</p>
+<p>雖然死了有機會復活的神看起來很厲害，但這個紅神不管是正面反面的能力，在這系列中都缺乏充足的支援牌，哪怕是輪抽都未必抓的完整，所以用起來大概就是個4&#x2F;4踐踏死了送你一塊紅地，較高射程的燒有抓到2張的話還是可以期待一下復活一次。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cards.scryfall.io/large/front/a/d/ad371c97-a266-4a88-9d28-2e889a37ba00.jpg?1699044315"
+                      alt="159"
+                ></p>
+<p><strong>Kappa &amp; Jru</strong>：3.5</p>
+<p>5費4&#x2F;5延勢可以擋下絕大多數的攻擊者了，並且每回還可以用異次元打擊燒對面2血，想辦法穩住場面就能取勝，根本就是個簡易版的<a class="link"   href="https://scryfall.com/card/dmu/107/sheoldred-the-apocalypse9D%E5%8B%95" >啟示天災希歐蕊 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>。這也證明了血量5延勢的重要性，<a class="link"   href="https://scryfall.com/card/mom/156/onakke-javelineer" >歐納克擲槍魔 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>應該學習一下，輪抽中3～4 pick左右看到的話無任歡迎，紅色堅實5費C卡之選。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cards.scryfall.io/large/front/5/b/5bb2552f-8370-4931-83e1-93706d51413a.jpg?1699044322"
+                      alt="160"
+                ></p>
+<p><strong>Jru</strong>：3.0</p>
+<p>樸實無華的填曲線生物，交換能力還行，送一個珍寶算挺實用的。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cards.scryfall.io/large/front/c/0/c035250e-6f6e-4d0f-b4fd-2a53d6069aa7.jpg?1698435084"
+                      alt="161"
+                ></p>
+<p><strong>Jru &amp; Kappa</strong>：5.0</p>
+<p>神器思路超級回報單卡，只要能賺到兩隻恐龍Token就算值回票價，第三隻開始是血賺，這系列恐龍生物不少，也能期待順便生幾個珍寶，不過反過來說沒開到這些指定類別的卡時就完全沒用，上下限非常吃開到牌池的分佈。</p>
+<p>真價是每回合第1張神器附送一隻可攻可擋的生物，本系列C，U卡總共50張神器，紅色佔9張，無色佔14張，很難完全佔不到邊，更不用說與其他色組混合有更多，白色佔10張，藍色佔9張。恐龍主要在紅綠色組，這卡恐龍攻擊產的珍寶能提供調色效果，而施放神器又能產恐龍，令此卡一旦開始運作，除非拆了這張結界，否則很難停下來。總結是一張值得作為卡組中核新的大炸彈，可以特地組紅綠白或者紅綠藍卡組，考慮到能自力生產恐龍，甚至不混綠色也可以，只靠紅色的恐龍或者自產的恐龍也能維持第一個效果。<br>注意的是，cast神器咒語就立即能產恐龍的緣故，就算知道對手可以瞬間回應拆結界，4費拍這個結界再立即拍1個1費神器，對手也不能阻止第1隻恐龍出產，無論如何也能做到逼對手1換0的效果。<br>題外話，這張卡圖啟蒙了我。(我只是按照卡面台詞朗讀喔)</p>
+<blockquote>
+<p><strong>cephile</strong>：<br>我沒有要評分，但三費這張結界接四費<a class="link"   href="https://cards.scryfall.io/large/front/9/d/9de1a93e-ec71-45fa-b0b8-2c21123e390c.jpg?1699044263" >自動龍械 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>然後五回兩隻恐龍打出去生兩個珍寶跳七費真的是太炸了！果然莎希莉會很喜歡！（然後這兩個人的表情超有戲XD）</p>
+</blockquote>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cards.scryfall.io/large/front/8/b/8bab3f8f-cb06-466d-a35d-0b5e1a2b524c.jpg?1698583122"
+                      alt="162"
+                ></p>
+<p><strong>Jru</strong>：3.0</p>
+<p>超級威懾仔，類別正確，在非R卡生物中算滿合理的高費區選擇。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cards.scryfall.io/large/front/4/f/4f06b53f-ec82-4d7f-bee3-6ca04583f023.jpg?1699044331"
+                      alt="163"
+                ></p>
+<p><strong>Jru</strong>：3.0</p>
+<p>雖然有點笨重，但也是紅色珍貴的高射程去除。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.imgur.com/RkAoTmq.jpg"
+                      alt="164"
+                ></p>
+<p><strong>Jru</strong>：3.5</p>
+<p>進場棄1抽2是挺好的濾牌與落墳觸發源，也能往墳場填充化煉素材，這系列恐龍密度高，想要從墳場找到化煉素材並不難，很容易轉化成一個有足夠戰鬥力的生物創造二次價值。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cards.scryfall.io/large/front/9/4/9436cf62-56d6-4662-9982-72e9be80d25c.jpg?1699044339"
+                      alt="165"
+                ></p>
+<p><strong>Jru</strong>：3.0</p>
+<p>在構築賽可以算是控制殺手了，但限制賽本來瞬間時機的招佔比就不會這麼高，很多招對手選擇在自己回合做其實影響也沒太大，估計大多時候就是個3費4&#x2F;3，不過單看這個身材也算是高過平均值了，而且打4點傷害的能力就算能透過操作規避，對對手而言也是個不小的壓力跟限制。</p>
+<blockquote>
+<p><strong>cephille</strong>：要留意在對手回合施放咒語要先被打四對自己也適用，有牠在場而你血量落後時，記得在自己的回合先做解牌。</p>
+</blockquote>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cards.scryfall.io/large/front/9/8/98aeb9dc-18f9-4120-ac3d-226c62a1dc1d.jpg?1699044339"
+                      alt="166"
+                ></p>
+<p><strong>Jru</strong>：3.0</p>
+<p>正叫身材合理，還能夠把多餘的地轉化成新的資源，在限制賽中打到後盤常常是大家一堆地但沒有手牌，這個資源轉化能力在中後盤後是相當恐怖的，前期卡地也能用山脈循環來穩定自己的魔法力基礎。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cards.scryfall.io/large/front/b/b/bb040fc7-f728-4482-92af-9a320c03bb54.jpg?1699044342"
+                      alt="167"
+                ></p>
+<p><strong>Jru</strong>：1.5</p>
+<p>雖然也是個偽電震，但要拍了武具還手動拿起武具後才做得到，而且犧牲武具的時機是宣告攻擊者時，這樣在後續傷害結算時連原本的聊勝於無的+1&#x2F;+0都沒了。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cards.scryfall.io/large/front/d/3/d3114f5c-21e9-43c3-abe3-3cf1da20916f.jpg?1699044348"
+                      alt="168"
+                ></p>
+<p><strong>Jru</strong>：2.0</p>
+<p>作為神器思路的致勝轉化口能力本身還不錯，但巫術時機多少限制了些發揮空間，而且本體身材較貧弱，論換血效率可能還不如簡單的正拳交流。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cards.scryfall.io/large/front/5/2/5204c781-f568-4c7f-b3f7-ce4dd678689b.jpg?1699044348"
+                      alt="169"
+                ></p>
+<p><strong>Jru</strong>：0.5</p>
+<p>這系列沒那麼重Token生物橫向展開，這甚至還是個巫術，真的遇到適合針對的對手時備牌局再考慮吧…</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cards.scryfall.io/large/front/0/6/06b28139-efa7-4818-a012-cf8150692b43.jpg?1699044351"
+                      alt="170"
+                ></p>
+<p><strong>Jru</strong>：3.0</p>
+<p>這系列恐龍密度足夠高，1費燒5也非難事，即使當下正好沒有恐龍，也還有個1費燒2的保底在，還是能解一些低費的生物，不會變成完全的死牌。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cards.scryfall.io/large/front/e/d/edc035ca-f0a3-4814-9405-d6dc6f048315.jpg?1699044357"
+                      alt="171"
+                ></p>
+<p><strong>Jru</strong>：5.0</p>
+<p>本體戰鬥力就值6費了，傾探5怎樣都是賺，這個賺的上限還非常高。缺去除的時候牠也能支援，偽魂力的3費打3雖然不高效，但起碼射程合格，而且是個白送你的額外彈性選擇。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cards.scryfall.io/large/front/2/1/2101921a-d26f-4a00-a0db-1b418f2e6b01.jpg?1699044357"
+                      alt="172"
+                ></p>
+<p><strong>Jru</strong>：2.0</p>
+<p>本體不強，但能起到一些思路潤滑劑的功能，不過2&#x2F;2的身材衝出去很容易有去無回，拿去開載具時就是個優良駕駛了。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://cards.scryfall.io/large/front/0/4/04839717-d2f9-481d-9d13-e4038dbcbb0e.jpg?1698703097"
+                      alt="173"
+                ></p>
+<p><strong>Jru</strong>：2.0</p>
+<p>上下限很飄的牌，如果拿去解對手的牌，照理來說翻出來的東西怎樣都不會比洗回去的東西強，但無論如何你都還是虧牌的，而且對面翻出來的東西也有可能不會差太多甚至就是同一張，至於拿來自救也同樣會被隨機性搞得好壞難以預測。整體而言不是一張會想積極使用的牌，但作為高射程去除還是有其定位在，如果對手有某些大炸彈而你缺乏其他適當的去除時，這張牌起碼能給出一線生機，至於結果是好是壞就聽天由命了。</p>
+]]></content>
+      <categories>
+        <category>Limited</category>
+        <category>LCI-Limited</category>
+      </categories>
+      <tags>
+        <tag>JruMTG</tag>
+        <tag>LCI</tag>
+        <tag>Kappa</tag>
+        <tag>Limited</tag>
       </tags>
   </entry>
   <entry>
@@ -6085,6 +6211,298 @@
       </tags>
   </entry>
   <entry>
+    <title>鐵木爾犀牛：強攻與控制的完美融合</title>
+    <url>/Modern-Temur-Crashing-Footballs/</url>
+    <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>第五季的RCQ （Regional Championship Qualifer, 台灣區稱為MIT）已經開始一段時間了，我也將在這一週開始到處跑卡店、爭戰RCQ。因為我曾經在個人版上分享過一篇自稱全台灣最詳細的先驅紅黑中速的文章，所以這次收到<a class="link"   href="https://www.facebook.com/guildmagesforumtw" >Guildmages’ Forum <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>團隊的邀請，希望我可以用當時的一半功力，來介紹這套我打了快一年、在美國贏到快爛掉的近代套牌。</p>
+<h2 id="為何你應該選擇鐵木爾犀牛"><a href="#為何你應該選擇鐵木爾犀牛" class="headerlink" title="為何你應該選擇鐵木爾犀牛"></a>為何你應該選擇鐵木爾犀牛</h2><p>如果你問我現在近代該打什麼？我一定會毫不猶豫地回答你：「鐵木爾犀牛」。我認為這套牌大多數的對局都是處於主動的一方，沒有套牌能夠很輕易地阻止3回兩隻4&#x2F;4踐踏的犀牛，在這個前提下對手都需要做出對他們而言不划算的交易，更別提我們還有大量的康牌以及去除。另一個點就是除了套牌的最主要核心以外，任何其餘的卡位都是可以隨這環境進行更改的，這個特性讓這個套牌的環境適應力異常的強大，只要不要環境的強度超越本身這套牌的本質或者關鍵單卡被禁，我認為這套牌能夠打的很長久，不用太頻繁地去更換套牌。</p>
+<h2 id="關於鐵木爾犀牛"><a href="#關於鐵木爾犀牛" class="headerlink" title="關於鐵木爾犀牛"></a>關於鐵木爾犀牛</h2><p>如標題，鐵木爾犀牛是一套「強攻與控制完美融合」的套牌。以強攻的部分而言，它能夠在前期就建立場面給予對手高度的壓力，並快速降低對手的血線。而以控制的方面來說，整套牌充滿了各種的康牌與去除咒語，讓對手在遊戲的前中期都無法順利展開。</p>
+<p><strong>「三回<a class="link"   href="https://cards.scryfall.io/large/front/a/8/a8cca2a2-69e3-4136-936c-7a2774c19351.jpg?1562202050" >犀牛 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>，康康康康康康…..結束」</strong></p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.imgur.com/8ls4JVa.jpg"
+                     
+                ></p>
+<!---畫線這一段你google文件裡沒有，看看要不要保留還是刪掉--->
+
+<h2 id="套牌構成"><a href="#套牌構成" class="headerlink" title="套牌構成"></a>套牌構成</h2><p>這是我現在的牌表，我會分為幾個部分說明</p>
+<p><a class="link"   href="https://www.mtggoldfish.com/deck/5625589#paper" >牌表連結 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.imgur.com/VThf7Jl.jpg"
+                     
+                ></p>
+<h3 id="套牌核心"><a href="#套牌核心" class="headerlink" title="套牌核心"></a>套牌核心</h3><p>也就是我認為無法刪減的卡牌，包含以下這些牌：</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.imgur.com/Z8kSwGq.jpg"
+                      alt="犀牛"
+                ></p>
+<p><a class="link"   href="https://cards.scryfall.io/large/front/a/8/a8cca2a2-69e3-4136-936c-7a2774c19351.jpg?1562202050" >Crashing Footfalls <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> &#x2F; <a class="link"   href="https://cards.scryfall.io/large/front/b/0/b0824e77-c84b-464a-aa0c-44af5f6faa50.jpg?1626100788" >Shardless Agent <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> &#x2F; <a class="link"   href="https://cards.scryfall.io/large/front/1/b/1b58856a-f88e-4625-8636-62b5c717b956.jpg?1562639969" >Violent Outburst <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>：套牌的運作系統，不解釋。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.imgur.com/EN4Sl3N.jpg"
+                      alt="餅乾牌"
+                ></p>
+<p><a class="link"   href="https://cards.scryfall.io/large/front/0/e/0e09b054-4d33-4a12-bf2a-9b0009f33044.jpg?1660845942" >Fire &#x2F;&#x2F; Ice <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>：「完美」的配合牌，鐵木爾犀牛套牌得在3回後才能開始運作，這張牌可以很有效地彌補我們前兩回的不足。就Fire而言，低費的去除、直傷手段正好都是我們需要的。而就Ice而言，2費的準時干擾，可以拖慢對手的節奏，也可以讓我們過牌找到Cascade牌。</p>
+<p><a class="link"   href="https://cards.scryfall.io/large/front/4/5/45b090c7-f1ba-4656-8b51-915fc1876922.jpg?1666020618" >Dead &#x2F;&#x2F; Gone <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>：Dead和Fire很像，但是更有效率。不過Gone在現在的環境就有點尷尬，因為現在的生物大多都有ETB的能力，彈對手的生物都沒什麼用、對手可以重新拍那問題一樣沒有解決。這張牌我原本想放在下一個部分講，因為現今的環境它沒有像過去那麼很用，但是有鑒於它一直都存在在鐵木爾犀牛中，最後還是決定把它放在這裡。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.imgur.com/A1a7PZR.jpg"
+                     
+                ></p>
+<p><a class="link"   href="https://cards.scryfall.io/large/front/1/8/1825a719-1b2a-4af9-9cd2-7cb497cd0317.jpg?1673147298" >Force of Negation <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>：就是0費用的干擾，近代的環境很少有投入少量非生物咒語的套牌，理論上Force of Negation一定有它的發揮空間。再來是只要鐵木爾犀牛繼續在Meta中存活，其他套牌一定會投入相對應的備牌來針對我們，通常而言Force of Negation都能有效地幫我避開這些針對牌。</p>
+<p><a class="link"   href="https://cards.scryfall.io/large/front/0/c/0ce44270-a684-4489-9077-521456e6dfaa.jpg?1687210977" >Lórien Revealed <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>：前期作為變相找地而且不會被<a class="link"   href="https://cards.scryfall.io/large/front/d/0/d072e9ca-aae7-45dc-8025-3ce590bae63f.jpg?1599706217" >Blood Moon <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>干擾、後期的強力補牌、然後就是「它是藍色」，因為<a class="link"   href="https://cards.scryfall.io/large/front/1/8/1825a719-1b2a-4af9-9cd2-7cb497cd0317.jpg?1673147298" >FON <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>, <a class="link"   href="https://cards.scryfall.io/large/front/7/0/701256d5-1389-48b7-9581-d6037209bd06.jpg?1626095059" >Subtlety <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>和<a class="link"   href="https://cards.scryfall.io/large/front/d/c/dca0a9a8-5ebc-43a3-8450-420ab6b7b76e.jpg?1689996238" >Commandeer <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>的關係我們的套牌需要很多藍色牌，這點為它拿來找地以外有多了一個用處，當然循環後可以做為快速做出<a class="link"   href="https://cards.scryfall.io/large/front/2/0/20c4aae1-7665-4df7-bd51-a1d95bf8a17d.jpg?1626094651" >Murktide Regent <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>的材料。</p>
+<h3 id="其他輔助牌"><a href="#其他輔助牌" class="headerlink" title="其他輔助牌"></a>其他輔助牌</h3><p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.imgur.com/S14Bziw.jpg"
+                      alt="輔助牌1"
+                ></p>
+<p><a class="link"   href="https://cards.scryfall.io/large/front/2/0/20c4aae1-7665-4df7-bd51-a1d95bf8a17d.jpg?1626094651" >Murktide Regent <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>：我們套牌本身的墳場堆疊就很快，強力的飛行生物為我們提供了除了犀牛撞死人的一個選項。它在很多對局都很有用，像是強調資源交換的紅黑呼魂，以及對高體質飛行生物比較無解的犀牛。很多人會放2但是我只放1，因為我認為它不是必要的，而且連續抽到兩張時很尷尬。</p>
+<p><a class="link"   href="https://cards.scryfall.io/large/front/7/0/701256d5-1389-48b7-9581-d6037209bd06.jpg?1626095059" >Subtlety <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>：基本上是對抗環境的必要牌，對抗紅黑、元素等都有用，能夠軟處理小泰也是一個蠻重要的因素。</p>
+<p><a class="link"   href="https://cards.scryfall.io/large/front/b/d/bd281158-8180-40b9-a5b7-03cfc712d81a.jpg?1626096626" >Fury <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>：解牌，基於環境有紅黑呼魂以及四色元素，我認為這張還是不能少放，除了前期可以當作一個即時的解牌以外，這張牌我認為更重要的是透過正拍來幫助我們中後期的強度。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.imgur.com/jLKrMt4.jpg"
+                      alt="輔助牌2"
+                ></p>
+<p><a class="link"   href="https://cards.scryfall.io/large/front/f/b/fbe04cb8-a8b9-4241-baae-b398a2509a3a.jpg?1572489956" >Mystical Dispute <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>：就是一張康，在內戰、元素、龍喉和創的對局中表現良好，但是在對抗紅黑、巨錘和約格莫夫不太好用。我認為正備編加起來至少要3而我是正3備1，畢竟如果你正編局遇到用不到它的情況，前期也可以作為FON和Subtlety的材料，中後期則是一張堪用的康。</p>
+<p><a class="link"   href="https://cards.scryfall.io/large/front/3/d/3d286cf6-3e16-4941-9326-1818b1e06d69.jpg?1562261132" >Dismember <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>：自從魔戒系列推出以後重新被採用的單卡，除了可以去除環境中大部分的生物以外，我認為最重要的是可以以低費以及4滴血的代價來解決「高於自損4滴血價值」的生物，例如：紅黑呼魂的一回元素、希歐蕊、約格莫夫以及歐納斯。不過這張牌也止於如此，這張牌就是應對現今主流的一張牌，4滴血的代價在大多數時對我而言不值得。</p>
+<p><a class="link"   href="https://cards.scryfall.io/large/front/0/4/04779a7e-b453-48b9-b392-6d6fd0b8d283.jpg?1686969766" >Flame of Anor <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>：我當時看到這張牌的第一個反應：「幹又沒有巫師？而且屁股5的到底有啥，我不如繼續Fury放滿還可以當打點」，後面就發現我錯了，拆神器可以作為解決<a class="link"   href="https://cards.scryfall.io/large/front/1/f/1f0d2e8e-c8f2-4b31-a6ba-6283fc8740d4.jpg?1562433485" >Chalice of the Void <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>的答案、打5跟Dismember一樣可以處理環境中大部分的生物、抽兩張十分強力、本身又是紅藍色可以幫助我們施放FON, Subtlety, Commandeer和Fury。缺點就是它3費，在極端時刻並沒有Dismember來得好。至於巫師的部分我們可以放<a class="link"   href="https://cards.scryfall.io/large/front/5/2/52cc2f10-142d-4e6a-984e-b25f566cc960.jpg?1674142985" >Mutavault <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>來提高這張牌的上限。</p>
+<h3 id="地牌的選擇"><a href="#地牌的選擇" class="headerlink" title="地牌的選擇"></a>地牌的選擇</h3><p>電震地各1、三色循環1張：這個基本不解釋，我看有人紅藍電震地會多放，但是我覺得沒有必要。</p>
+<p>紅綠、藍綠找各4張、紅藍找1：也算是基本不解釋，紅藍找可能因為各個玩家的考量所以有所增減。</p>
+<p><a class="link"   href="https://cards.scryfall.io/large/front/7/f/7f273641-c5f3-48bc-b89e-3cff52d26a0b.jpg?1619399338" >Gemstone Caverns <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>：這張牌就是來提高上限的，我原本是正2，但是我多放了1張Mutavault，所以放了1張到備牌。我覺得現今的環境正備加起來2就差不多了，1對我而言有點少不過基於重複抽到會出事的理由我認為也是可以理解，放3張心臟要很大顆不過後手幾乎可以確保一定有。</p>
+<p><a class="link"   href="https://cards.scryfall.io/large/front/2/1/2135ac5a-187b-4dc9-8f82-34e8d1603416.jpg?1654568912" >Boseiju, Who Endures <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>：神器結界解、在對抗創、泰坦以及巨錘時表現良好，正備1~2都可以。</p>
+<p><a class="link"   href="https://cards.scryfall.io/large/front/4/8/486d7edc-d983-41f0-8b78-c99aecd72996.jpg?1654568960" >Otawara, Soaring City <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>：就和Boseiju差不多，大多數時比Boseiju更差，但是可以處理旅法以及生物這點比Boseiju更好。</p>
+<p><a class="link"   href="https://cards.scryfall.io/large/front/5/2/52cc2f10-142d-4e6a-984e-b25f566cc960.jpg?1674142985" >Mutavault <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>：這是選配，就單純配合Flame of Anor提高上限，必要的時候當個打點，但是兩個情況發生的機率都有點低，我有在考慮把它拔掉。</p>
+<p>基本地：我是海島2、樹林1、山脈1，原本是海島樹林各2張，但是前陣子我這裡有人開始玩燒所以放1張山脈回來。我認為現今海島2是有必要的，我們確保遇到Blood Moon時還能正常運作，至於要不要樹林2就看自己，我有點想放回2張的版本，山脈的部分就是來確保自己不會因為扣太多血死亡，這點在需要一回Dead &#x2F;&#x2F; Gone時特別重要。</p>
+<h3 id="備牌的選擇"><a href="#備牌的選擇" class="headerlink" title="備牌的選擇"></a>備牌的選擇</h3><!---跟主牌重複了，看看要不要刪掉符合這段最後一句--->
+
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.imgur.com/4yhEw4g.jpg"
+                      alt="備牌"
+                ></p>
+<p><a class="link"   href="https://cards.scryfall.io/large/front/d/0/d072e9ca-aae7-45dc-8025-3ce590bae63f.jpg?1599706217" >Blood Moon <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>：處罰多色套牌和創的好東西，我自己喜歡放3，有人不會放那麼多，投入一些Obsidian Charmaw來對抗創，我認為這也是可行的，不過我更喜歡Blood Moon能夠涵蓋更多對局的特點。</p>
+<p><a class="link"   href="https://cards.scryfall.io/large/front/e/b/eb0e0404-4846-4891-acfa-bd0951ecf9c6.jpg?1626097375" >Endurance <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>：有效的墳場克制，只要對手能夠與墳場互動我就會上，有時可以選擇自己回收Cascade牌和Crashing Footfalls重新利用。最後，還有一個我認為有用的小知識，那就是Endurance可以擋死Fury, <a class="link"   href="https://cards.scryfall.io/large/front/4/7/47a6234f-309f-4e03-9263-66da48b57153.jpg?1626094105" >Solitude <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>以及Subtlety，這點在某些對局會用到。</p>
+<p><a class="link"   href="https://cards.scryfall.io/large/front/0/1/017c415b-d635-43c6-92b8-8c95d1c4ff8d.jpg?1562202072" >Force of Vigor <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>：神器結界拆，在部分對局會用得到尤其是巨錘和最近很夯的麟甲，我認為1~2就可以了。<br>（其他牌跟正編重複的我就不多做說明）</p>
+<h3 id="其他可投入牌"><a href="#其他可投入牌" class="headerlink" title="其他可投入牌"></a>其他可投入牌</h3><p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.imgur.com/Ax1t2Ko.jpg"
+                      alt="其他1"
+                ></p>
+<p><a class="link"   href="https://cards.scryfall.io/large/front/c/2/c2089ec9-0665-448f-bfe9-d181de127814.jpg?1616182088" >Brazen Borrower <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>：最近又被重新投入使用，可以作為Chalice of the Void的一個暫時性解答，3&#x2F;1飛行閃現也提供穿透性的打點。但是，我覺得這張牌的投入價值還有待確認，首先對於處理針對牌而言它只是暫時性的，彈生物回手在如今很多ETP生物存在的環境也不太優秀，至於生物部分我認為如果沒有需要它的歷險，也不需用討論它生物部分對於戰場的影響力。</p>
+<p><a class="link"   href="https://cards.scryfall.io/large/front/e/4/e41cf82d-3213-47ce-a015-6e51a8b07e4f.jpg?1572490640" >Questing Beast <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>：我以前標準的愛牌，除了規避<a class="link"   href="https://cards.scryfall.io/large/front/d/5/d5806e68-1054-458e-866d-1f2470f682b2.jpg?1696020224" >The One Ring <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>的無敵特性以外，在約格莫夫套牌難以阻擋它並幫助我們處理<a class="link"   href="https://cards.scryfall.io/large/front/6/9/69af2825-18c2-4463-b6ba-42eaa070ccc1.jpg?1626098484" >Grist <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>、可以對<a class="link"   href="https://cards.scryfall.io/large/front/3/e/3ec0c0fb-1a4f-45f4-85b7-346a6d3ce2c5.jpg?1566819742" >卡恩 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>施加壓力、處理四色元素中的旅法師，還有一個特點就是：可以處理<a class="link"   href="https://cards.scryfall.io/large/front/5/c/5cb76266-ae50-4bbc-8f96-d98f309b02d3.jpg?1681130129" >小泰 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>，當時我看到玩家投入這張牌時，我認為Questing Beast就是對抗這個環境的答案。不過，這張牌在內戰以及紅黑呼魂的對局中貧弱，再來就是它不能「完美解決小泰」有意識的對手會讓小泰 [+1] 來規避我們下回合使用Questing Beast和Fury，如果你的賽場中有很多四色元素和創，確實還是有投入的空間。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.imgur.com/jP6IH07.jpg"
+                      alt="其他2"
+                ></p>
+<p><a class="link"   href="https://cards.scryfall.io/large/front/e/e/ee6d08be-a6fc-44a5-932d-b6a8705534c0.jpg?1626096898" >Obsidian Charmaw <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>：這張就是來對抗創的，先手有效防止127，並且在前期就能提供壓力。與Blood Moon相比，ETB就能帶來干擾的價值不用擔心被Boseiju，炸一張地也能變向拖慢對手使用<a class="link"   href="https://cards.scryfall.io/large/front/f/0/f0cd5548-ce7b-493a-8119-62f000839e4d.jpg?1673485409" >Oblivion Stone <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>、卡恩和The One Ring的機會。與Blood Moon相比，Obsidian Charmaw能涵蓋的對局確實少了很多，但是如果你認為創是一個必須把握好的對局，那它還是有投入的空間。</p>
+<p><a class="link"   href="https://cards.scryfall.io/large/front/7/c/7c9bd75c-9606-4607-bfa6-d6acdee12820.jpg?1619397276" >Magus of the Moon <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>：與Blood Moon一樣效果，但是現今四色元素太多生物解、創也投入Dismember，因此Magus of the Moon並沒有Blood Moon來的好。</p>
+<p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.imgur.com/pk9vnVf.jpg"
+                      alt="其他3"
+                ></p>
+<p><a class="link"   href="https://cards.scryfall.io/large/front/d/c/dca0a9a8-5ebc-43a3-8450-420ab6b7b76e.jpg?1689996238" >Commandeer <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>：鐵木爾犀牛中含有大量的藍色牌，因此在前期施放它並不是太難，它運用得當可以在創以及所有The One Ring的對局中對對手造成毀滅性的打擊，在內戰中也有奇效。雖然我自己沒使用過它，但是我認為這張牌並不夠好，首先是它3換1的代價在大多數情況而言有點太高了，除了偷The One Ring、卡恩以及內戰偷Crashing Footfalls以外，我實在想不出什麼情況是值得我使用Commandeer去3換1的，再來是中後期抽到Commandeer時手上並不一定會有足夠的藍色牌來免費施放，地牌也不一定夠來正拍。</p>
+<p><a class="link"   href="https://cards.scryfall.io/large/front/5/0/50f7666d-0d60-4fe5-b144-286d4e47b704.jpg?1674421089" >Brotherhood’s End <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>：它與Flame of Anor類似，給予除了摧毀神器以外其它正面效益的選項。除了此之外，這張牌在約格莫夫、紅黑呼魂、人魚、巨錘以及麟甲等對局中表現良好，可以消滅大多數的生物並讓犀牛存活。</p>
+<p><a class="link"   href="https://cards.scryfall.io/large/front/8/6/866b7fd4-86e3-4b42-b1ea-33bad0db1f9f.jpg?1627429955" >Prismari Command <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>：也是一張與Flame of Anor相似的牌，過去這張牌會被投入是因為可以有效對抗巨錘以及創新，但如今創新風光已不再、巨錘也不如果去受歡迎，而且與Flame of Anor的抽2張相比Prismari Command的抽2棄2並不夠好。</p>
+<h3 id="常見對局以及換備策略"><a href="#常見對局以及換備策略" class="headerlink" title="常見對局以及換備策略"></a>常見對局以及換備策略</h3><h4 id="內戰-（鐵木爾犀牛鏡像對局）"><a href="#內戰-（鐵木爾犀牛鏡像對局）" class="headerlink" title="內戰 （鐵木爾犀牛鏡像對局）"></a>內戰 （鐵木爾犀牛鏡像對局）</h4><p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.imgur.com/Z8kSwGq.jpg"
+                      alt="內戰"
+                ></p>
+<p>內戰老話一句：「誰抽得好誰就贏」，當然玩家能力以及套牌構成多少有點影響。我們都有4張 Crashing Footfalls ，通常而言誰先消耗完8隻犀牛誰就輸了，因此我們需要投入更多能夠與犀牛交換或者能夠阻止 Crashing Footfalls 結算的牌像是 Fury 、 Murktide Regent 和康，甚至有時 Endurance 也是值得考慮投入的，因為它可以回收墳場的 Crashing Footfalls 讓我們重新利用。資源優勢也是內戰的一大重點之一， Flame of Anor 在內戰表現良好，有時候也可以保留手上的 Lórien Revealed 來確保後期的資源優勢。<br>記住，確保自己的 Crashing Footfalls 結算、阻止對手 Crashing Footfalls 以及維持資源優勢，剩下的就交給右手吧～</p>
+<h5 id="換備策略"><a href="#換備策略" class="headerlink" title="換備策略"></a>換備策略</h5><p>基本上後手就上寶石洞窟，然後下一張找地，地牌更換不再其他對局中贅述。</p>
+<table>
+<thead>
+<tr>
+<th align="center">Side Out</th>
+<th align="center">Side In</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center">-4 Dead &#x2F;&#x2F; Gone</td>
+<td align="center">+2 Fury</td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="center">+1 Mystical Dispute</td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="center">+1 Flame of Anor</td>
+</tr>
+</tbody></table>
+<p>Dead &#x2F;&#x2F; Gone 在這個對局並不好，因為 Dead 幾乎沒有對象，雖然 Gone 可以有效的解決一隻犀牛或暫時解決 Murktide Regent ，但我認爲不值得。我看到有些人會下掉 Subtlety 但是我沒有，因為對手也有 Fury 和 Murktide Regent ， Subtlety 可以作為這兩張牌的解答以及額外的打點。</p>
+<h4 id="紅黑呼魂"><a href="#紅黑呼魂" class="headerlink" title="紅黑呼魂"></a>紅黑呼魂</h4><p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.imgur.com/wINiU1o.jpg"
+                      alt="紅黑呼魂"
+                ></p>
+<p>對我們而言有優勢的對局，通常來說我們的Topdeck會更好。阻擋 Undying + <a class="link"   href="https://cards.scryfall.io/large/front/e/6/e6befbc4-1320-4f26-bd9f-b1814fedda10.jpg?1626095577" >Grief <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 最簡單的方式就是一對犀牛，雖然我們會被迫棄兩張牌，不過沒有關係我們牌組可是有8張Cascasd牌，我們總是會抽到的。如果它們沒有一回 Undying + Grief ，那他們就是一套普普通通的中速套牌，「消滅場上的一切，問問他們被犀牛角撞到是什麼感覺」。 Subtlety 和 Fury 在這個對局中表現良好，都能破壞他們的遊戲計畫，也能像 Murktide Regent 在我們叫不出犀牛時為我們提供另一種獲勝方式。<br>備牌局他們雖然會投入 Chalice of the Void 、 <a class="link"   href="https://cards.scryfall.io/large/front/4/2/420bf1e9-f2ec-4dff-b540-e64de71e58be.jpg?1599709112" >Engineered Explosives <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 或者 <a class="link"   href="https://cards.scryfall.io/large/front/8/e/8e910464-329a-4de1-930a-be85b1956676.jpg?1656453394" >Hidetsugu Consumes All <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 來對抗我們的犀牛，不過我們也有拆除或者其他的獲勝手段。唯一的問題可能就是<a class="link"   href="https://cards.scryfall.io/large/front/d/6/d67be074-cdd4-41d9-ac89-0a0456c4e4b2.jpg?1674057568" >希歐蕊 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>，4&#x2F;5的體質可以完美交換犀牛，但我們也有所準備並不是完全沒輒。<br>總而言之，我們的遊戲計劃很簡單：「<strong>摧毀一切，透過我們的牌張來獲得有利的資源交換，並用剩下的資源獲勝。</strong>」在這個對局不要急，因為這個對局直到後期也對我們有利。</p>
+<h5 id="換備策略-1"><a href="#換備策略-1" class="headerlink" title="換備策略"></a>換備策略</h5><table>
+<thead>
+<tr>
+<th align="center">Side Out</th>
+<th align="center">Side In</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center">-4 Force of Negation</td>
+<td align="center">+2 Fury</td>
+</tr>
+<tr>
+<td align="center">-3 Mystical Dispute</td>
+<td align="center">+1 Flame of Anor</td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="center">+1 Subtlety</td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="center">+2 Endurance</td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="center">+1 Boseiju, Who Endures</td>
+</tr>
+</tbody></table>
+<p>我們選擇下掉我們所有的康，加入更多的解以及抽牌，因為這個對局會快速進入Topdeck的階段，Topdeck抽到康的時候並不夠好。Endurance我認為在這個對局單純就是做個輔助的做用，擋得住他們大多數的生物，防止他們使用Scam假死，最後就是回收自己的犀牛，如果你有更好的卡，Endurance就沒有那麼必要。</p>
+<blockquote>
+</blockquote>
+<h4 id="四色元素"><a href="#四色元素" class="headerlink" title="四色元素"></a>四色元素</h4><p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.imgur.com/VBq3Q9x.jpg"
+                      alt="4C"
+                ></p>
+<p>在<a class="link"   href="https://cards.scryfall.io/large/front/2/d/2d5e991f-23b2-4db0-a452-7755125b1fd2.jpg?1692939184" >Up the Beanstalk <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>被投入之前我認為這個對局是好的，他們前期需要消耗超過兩張手牌的資源來解我們的犀牛，這樣的資源差距能讓我們在對局中一直保持領先的地位，因此即使我們沒有在遊戲前期獲勝，只要不讓The One Ring落地我們也可以透過資源差距讓對手慢性死亡就好。<br>不過，自從Up the Beanstalk被開始投入之後，這個對局的變得不太一樣了，他們前期追趕資源的能力比過去優秀很多，我們在前期也很難阻止對手施放Up the Beanstalk。在我的經驗中，如果對手只有一張Up the Beanstalk那我們雙方就是在同一個水平面較量，如果對手有兩張甚至更多，那對局對我們而言就很不妙了。也因為如此，我們必須在前期就快速解決遊戲，中期的我們還有機會終結比賽，再晚一點點我們的勝率將會大幅度的下滑。</p>
+<h5 id="換備策略-2"><a href="#換備策略-2" class="headerlink" title="換備策略"></a>換備策略</h5><table>
+<thead>
+<tr>
+<th align="center">Side Out</th>
+<th align="center">Side In</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center">-4 Dead &#x2F;&#x2F; Gone</td>
+<td align="center">+2 Fury</td>
+</tr>
+<tr>
+<td align="center">-1 Murktide Regent</td>
+<td align="center">+1 Flame of Anor</td>
+</tr>
+<tr>
+<td align="center">-4 Fire &#x2F;&#x2F; Ice</td>
+<td align="center">+1 Subtlety</td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="center">+3 Blood Moon</td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="center">+1 Mystical Dispute</td>
+</tr>
+</tbody></table>
+<p>刪除Dead &#x2F;&#x2F; Gone的原因與內戰相同，對於對局幾乎沒有幫助。Murktide Regent在這個對局太容易被解掉，所以刪除。 我覺得Fire &#x2F;&#x2F; Ice在這個對局也不好，Fire的部分無法有效去除他們的生物，Ice你沒有二回施放的話都略為雞肋。</p>
+<h4 id="約格莫夫"><a href="#約格莫夫" class="headerlink" title="約格莫夫"></a>約格莫夫</h4><p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.imgur.com/VTgqFPZ.jpg"
+                      alt="約格莫夫"
+                ></p>
+<p>雖然約格莫夫在經過幾次的新牌洗禮，獲得了高強度的加強，但是套牌的本質不變，只是運作方式變得更加複雜以及華麗。<br>我認為這個對局這種點分為三個重點：首先，是了解整個套牌的運作方式，<a class="link"   href="https://cards.scryfall.io/large/front/0/1/019b51b0-e5c6-4208-922b-7736686dddcd.jpg?1692939838" >Agatha’s Soul Cauldron <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>為這個套牌帶來了更多的制勝手段，請務必瞭解這套牌的所有運作方式，免得你在毫無防備下被對手的一頓華麗操作射滿臉。再來，要知道這套牌的前期強度取決於場上生物的數量，理論上我們的目標就是盡力消滅他們的生物，我們就有時間拍出我們的犀牛讓我們處於優勢。最後，「<strong>全力阻止醫生落地</strong>」，醫生的問題不在於會做無限組合技，而是在減少你生物體質的同時賺取大量的資源，只要醫生不落地這對局絕對輕鬆。<br>總結，殺死他們的生物、阻止醫生落地、拍出我們的犀牛、壓迫他們的血量，然後逼迫他們做出不利於他們的交換，最後取得勝利。</p>
+<h5 id="換備策略-3"><a href="#換備策略-3" class="headerlink" title="換備策略"></a>換備策略</h5><table>
+<thead>
+<tr>
+<th align="center">Side Out</th>
+<th align="center">Side In</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center">-4 Force of Negation</td>
+<td align="center">+2 Fury</td>
+</tr>
+<tr>
+<td align="center">-3 Mystical Dispute</td>
+<td align="center">+1 Flame of Anor</td>
+</tr>
+<tr>
+<td align="center">-1 Murktide Regent</td>
+<td align="center">+1 Subtlety</td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="center">+3 Endurance</td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="center">+1 Mystical Dispute</td>
+</tr>
+</tbody></table>
+<h4 id="創-（Tron）"><a href="#創-（Tron）" class="headerlink" title="創 （Tron）"></a>創 （Tron）</h4><p><img  
+                     lazyload
+                     src="/images/loading.svg"
+                     data-src="https://i.imgur.com/6MX7Wyl.jpg"
+                      alt="Tron"
+                ></p>
+<p>我不喜歡遇到這個對局，但是這個對局沒有想像中的差。他們拍出的質量遠比我們大，如果我們沒有康掉他們的牌，勝利的平衡會快速的倒向他們，也因為我們需要每回合留出法力來解決對手的威脅，我們也不一定會有空檔做出犀牛施加壓力。最終，我們會在手上干擾不足、沒有犀牛的情況下被創的高質量牌壓死。這也是為什麼Obsidian Charmaw在這個對局很厲害，因為它能夠同時做到「干擾」以及「施加壓力」。<br>因此，我們能做的就是在前期手上有FON或Subtlety的情況下拍出犀牛，這樣我們才能在前期就做到干擾以及用犀牛施壓。</p>
+<h5 id="換備策略-4"><a href="#換備策略-4" class="headerlink" title="換備策略"></a>換備策略</h5><table>
+<thead>
+<tr>
+<th align="center">Side Out</th>
+<th align="center">Side In</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center">-4 Dead &#x2F;&#x2F; Gone</td>
+<td align="center">+1 Flame of Anor</td>
+</tr>
+<tr>
+<td align="center">-1 Dismember</td>
+<td align="center">+1 Subtlety</td>
+</tr>
+<tr>
+<td align="center">-3 Mystical Dispute</td>
+<td align="center">+3 Blood Moon</td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="center">+2 Force of vigor</td>
+</tr>
+<tr>
+<td align="center"></td>
+<td align="center">+1 Mystical Dispute</td>
+</tr>
+</tbody></table>
+<h2 id="結語"><a href="#結語" class="headerlink" title="結語"></a>結語</h2><p>我很高興這次<a class="link"   href="https://www.facebook.com/guildmagesforumtw" >Guildmages’ Forum <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>團隊的邀請，好久沒有花這麼多時間來分析一套我熟悉的套牌了，前陣子我也終於選上了第五季的RC資格，我可是試了6次啊～而且有5次進八強另1次是小分不夠。這一次我只介紹了我認為環境中最容易遇到的5個對局，等哪天學校的事情沒那麼忙以後，我會再補上的。<br>如果真的很想提早知道我對特定對局的想法以及換被策略，也可以到FB搜尋「<a class="link"   href="https://www.facebook.com/DreamOnStudio1560" >夢續工作室DreamOn Studio <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>」並私訊我們，我們可以在那裡為你解惑，也希望大家可以聽聽我們的Podcast:「<a class="link"   href="https://podcasts.apple.com/us/podcast/%E9%BE%8D%E5%B0%8A%E8%88%87%E8%8D%92%E9%87%8E%E9%A8%8E%E5%A3%AB%E7%9A%84%E7%8E%84%E5%A2%83%E4%B9%8B%E8%AB%87/id1680452807" >龍尊與荒野騎士的玄境之談 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>」現在在<a class="link"   href="https://open.spotify.com/show/0bnxC5SBsGN8bBh3n4Af18?si=c24b9a0b169245ac&nd=1" >Spotify <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>以及<a class="link"   href="https://podcasts.apple.com/us/podcast/%E9%BE%8D%E5%B0%8A%E8%88%87%E8%8D%92%E9%87%8E%E9%A8%8E%E5%A3%AB%E7%9A%84%E7%8E%84%E5%A2%83%E4%B9%8B%E8%AB%87/id1680452807" >Apple Podcast <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>上都聽得到喔～</p>
+]]></content>
+      <categories>
+        <category>Construct</category>
+        <category>Modern</category>
+      </categories>
+      <tags>
+        <tag>Modern</tag>
+        <tag>ClarkShih</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>近代紅黑中速 Rakdos Scam：近代環境的霸主</title>
     <url>/Modern-Rakdos-Scam/</url>
     <content><![CDATA[<h2 id="Before-We-Start"><a href="#Before-We-Start" class="headerlink" title="Before We Start"></a>Before We Start</h2><p>之前有提到我在 LTR 發售之後，龍侯被弓箭手點成智障（<a href="/Modern-Mono-Black-Coffers">醬汁在這</a>），秉持著打不贏就加入他的精神，我也搞了一套 Scam 來。<br>最初本來是要想要打 Death’s Shadow，但稍微摸了一下這不是我預期中的感覺，可能我 Legacy 比賽看多了，沒有 <a class="link"   href="https://cards.scryfall.io/large/front/d/0/d03bff25-0d5e-4dcf-8d75-6df846afea3b.jpg?1562632115" >Daze <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 跟 <a class="link"   href="https://cards.scryfall.io/large/front/9/a/9a879b60-4381-447d-8a5a-8e0b6a1d49ca.jpg?1562769672" >Force of Will <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 的我是廢物。</p>
@@ -6551,298 +6969,6 @@
         <tag>MiohitoKiri5474</tag>
         <tag>Modern</tag>
         <tag>Deck Tech</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>鐵木爾犀牛：強攻與控制的完美融合</title>
-    <url>/Modern-Temur-Crashing-Footballs/</url>
-    <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>第五季的RCQ （Regional Championship Qualifer, 台灣區稱為MIT）已經開始一段時間了，我也將在這一週開始到處跑卡店、爭戰RCQ。因為我曾經在個人版上分享過一篇自稱全台灣最詳細的先驅紅黑中速的文章，所以這次收到<a class="link"   href="https://www.facebook.com/guildmagesforumtw" >Guildmages’ Forum <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>團隊的邀請，希望我可以用當時的一半功力，來介紹這套我打了快一年、在美國贏到快爛掉的近代套牌。</p>
-<h2 id="為何你應該選擇鐵木爾犀牛"><a href="#為何你應該選擇鐵木爾犀牛" class="headerlink" title="為何你應該選擇鐵木爾犀牛"></a>為何你應該選擇鐵木爾犀牛</h2><p>如果你問我現在近代該打什麼？我一定會毫不猶豫地回答你：「鐵木爾犀牛」。我認為這套牌大多數的對局都是處於主動的一方，沒有套牌能夠很輕易地阻止3回兩隻4&#x2F;4踐踏的犀牛，在這個前提下對手都需要做出對他們而言不划算的交易，更別提我們還有大量的康牌以及去除。另一個點就是除了套牌的最主要核心以外，任何其餘的卡位都是可以隨這環境進行更改的，這個特性讓這個套牌的環境適應力異常的強大，只要不要環境的強度超越本身這套牌的本質或者關鍵單卡被禁，我認為這套牌能夠打的很長久，不用太頻繁地去更換套牌。</p>
-<h2 id="關於鐵木爾犀牛"><a href="#關於鐵木爾犀牛" class="headerlink" title="關於鐵木爾犀牛"></a>關於鐵木爾犀牛</h2><p>如標題，鐵木爾犀牛是一套「強攻與控制完美融合」的套牌。以強攻的部分而言，它能夠在前期就建立場面給予對手高度的壓力，並快速降低對手的血線。而以控制的方面來說，整套牌充滿了各種的康牌與去除咒語，讓對手在遊戲的前中期都無法順利展開。</p>
-<p><strong>「三回<a class="link"   href="https://cards.scryfall.io/large/front/a/8/a8cca2a2-69e3-4136-936c-7a2774c19351.jpg?1562202050" >犀牛 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>，康康康康康康…..結束」</strong></p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://i.imgur.com/8ls4JVa.jpg"
-                     
-                ></p>
-<!---畫線這一段你google文件裡沒有，看看要不要保留還是刪掉--->
-
-<h2 id="套牌構成"><a href="#套牌構成" class="headerlink" title="套牌構成"></a>套牌構成</h2><p>這是我現在的牌表，我會分為幾個部分說明</p>
-<p><a class="link"   href="https://www.mtggoldfish.com/deck/5625589#paper" >牌表連結 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a></p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://i.imgur.com/VThf7Jl.jpg"
-                     
-                ></p>
-<h3 id="套牌核心"><a href="#套牌核心" class="headerlink" title="套牌核心"></a>套牌核心</h3><p>也就是我認為無法刪減的卡牌，包含以下這些牌：</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://i.imgur.com/Z8kSwGq.jpg"
-                      alt="犀牛"
-                ></p>
-<p><a class="link"   href="https://cards.scryfall.io/large/front/a/8/a8cca2a2-69e3-4136-936c-7a2774c19351.jpg?1562202050" >Crashing Footfalls <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> &#x2F; <a class="link"   href="https://cards.scryfall.io/large/front/b/0/b0824e77-c84b-464a-aa0c-44af5f6faa50.jpg?1626100788" >Shardless Agent <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> &#x2F; <a class="link"   href="https://cards.scryfall.io/large/front/1/b/1b58856a-f88e-4625-8636-62b5c717b956.jpg?1562639969" >Violent Outburst <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>：套牌的運作系統，不解釋。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://i.imgur.com/EN4Sl3N.jpg"
-                      alt="餅乾牌"
-                ></p>
-<p><a class="link"   href="https://cards.scryfall.io/large/front/0/e/0e09b054-4d33-4a12-bf2a-9b0009f33044.jpg?1660845942" >Fire &#x2F;&#x2F; Ice <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>：「完美」的配合牌，鐵木爾犀牛套牌得在3回後才能開始運作，這張牌可以很有效地彌補我們前兩回的不足。就Fire而言，低費的去除、直傷手段正好都是我們需要的。而就Ice而言，2費的準時干擾，可以拖慢對手的節奏，也可以讓我們過牌找到Cascade牌。</p>
-<p><a class="link"   href="https://cards.scryfall.io/large/front/4/5/45b090c7-f1ba-4656-8b51-915fc1876922.jpg?1666020618" >Dead &#x2F;&#x2F; Gone <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>：Dead和Fire很像，但是更有效率。不過Gone在現在的環境就有點尷尬，因為現在的生物大多都有ETB的能力，彈對手的生物都沒什麼用、對手可以重新拍那問題一樣沒有解決。這張牌我原本想放在下一個部分講，因為現今的環境它沒有像過去那麼很用，但是有鑒於它一直都存在在鐵木爾犀牛中，最後還是決定把它放在這裡。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://i.imgur.com/A1a7PZR.jpg"
-                     
-                ></p>
-<p><a class="link"   href="https://cards.scryfall.io/large/front/1/8/1825a719-1b2a-4af9-9cd2-7cb497cd0317.jpg?1673147298" >Force of Negation <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>：就是0費用的干擾，近代的環境很少有投入少量非生物咒語的套牌，理論上Force of Negation一定有它的發揮空間。再來是只要鐵木爾犀牛繼續在Meta中存活，其他套牌一定會投入相對應的備牌來針對我們，通常而言Force of Negation都能有效地幫我避開這些針對牌。</p>
-<p><a class="link"   href="https://cards.scryfall.io/large/front/0/c/0ce44270-a684-4489-9077-521456e6dfaa.jpg?1687210977" >Lórien Revealed <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>：前期作為變相找地而且不會被<a class="link"   href="https://cards.scryfall.io/large/front/d/0/d072e9ca-aae7-45dc-8025-3ce590bae63f.jpg?1599706217" >Blood Moon <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>干擾、後期的強力補牌、然後就是「它是藍色」，因為<a class="link"   href="https://cards.scryfall.io/large/front/1/8/1825a719-1b2a-4af9-9cd2-7cb497cd0317.jpg?1673147298" >FON <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>, <a class="link"   href="https://cards.scryfall.io/large/front/7/0/701256d5-1389-48b7-9581-d6037209bd06.jpg?1626095059" >Subtlety <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>和<a class="link"   href="https://cards.scryfall.io/large/front/d/c/dca0a9a8-5ebc-43a3-8450-420ab6b7b76e.jpg?1689996238" >Commandeer <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>的關係我們的套牌需要很多藍色牌，這點為它拿來找地以外有多了一個用處，當然循環後可以做為快速做出<a class="link"   href="https://cards.scryfall.io/large/front/2/0/20c4aae1-7665-4df7-bd51-a1d95bf8a17d.jpg?1626094651" >Murktide Regent <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>的材料。</p>
-<h3 id="其他輔助牌"><a href="#其他輔助牌" class="headerlink" title="其他輔助牌"></a>其他輔助牌</h3><p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://i.imgur.com/S14Bziw.jpg"
-                      alt="輔助牌1"
-                ></p>
-<p><a class="link"   href="https://cards.scryfall.io/large/front/2/0/20c4aae1-7665-4df7-bd51-a1d95bf8a17d.jpg?1626094651" >Murktide Regent <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>：我們套牌本身的墳場堆疊就很快，強力的飛行生物為我們提供了除了犀牛撞死人的一個選項。它在很多對局都很有用，像是強調資源交換的紅黑呼魂，以及對高體質飛行生物比較無解的犀牛。很多人會放2但是我只放1，因為我認為它不是必要的，而且連續抽到兩張時很尷尬。</p>
-<p><a class="link"   href="https://cards.scryfall.io/large/front/7/0/701256d5-1389-48b7-9581-d6037209bd06.jpg?1626095059" >Subtlety <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>：基本上是對抗環境的必要牌，對抗紅黑、元素等都有用，能夠軟處理小泰也是一個蠻重要的因素。</p>
-<p><a class="link"   href="https://cards.scryfall.io/large/front/b/d/bd281158-8180-40b9-a5b7-03cfc712d81a.jpg?1626096626" >Fury <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>：解牌，基於環境有紅黑呼魂以及四色元素，我認為這張還是不能少放，除了前期可以當作一個即時的解牌以外，這張牌我認為更重要的是透過正拍來幫助我們中後期的強度。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://i.imgur.com/jLKrMt4.jpg"
-                      alt="輔助牌2"
-                ></p>
-<p><a class="link"   href="https://cards.scryfall.io/large/front/f/b/fbe04cb8-a8b9-4241-baae-b398a2509a3a.jpg?1572489956" >Mystical Dispute <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>：就是一張康，在內戰、元素、龍喉和創的對局中表現良好，但是在對抗紅黑、巨錘和約格莫夫不太好用。我認為正備編加起來至少要3而我是正3備1，畢竟如果你正編局遇到用不到它的情況，前期也可以作為FON和Subtlety的材料，中後期則是一張堪用的康。</p>
-<p><a class="link"   href="https://cards.scryfall.io/large/front/3/d/3d286cf6-3e16-4941-9326-1818b1e06d69.jpg?1562261132" >Dismember <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>：自從魔戒系列推出以後重新被採用的單卡，除了可以去除環境中大部分的生物以外，我認為最重要的是可以以低費以及4滴血的代價來解決「高於自損4滴血價值」的生物，例如：紅黑呼魂的一回元素、希歐蕊、約格莫夫以及歐納斯。不過這張牌也止於如此，這張牌就是應對現今主流的一張牌，4滴血的代價在大多數時對我而言不值得。</p>
-<p><a class="link"   href="https://cards.scryfall.io/large/front/0/4/04779a7e-b453-48b9-b392-6d6fd0b8d283.jpg?1686969766" >Flame of Anor <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>：我當時看到這張牌的第一個反應：「幹又沒有巫師？而且屁股5的到底有啥，我不如繼續Fury放滿還可以當打點」，後面就發現我錯了，拆神器可以作為解決<a class="link"   href="https://cards.scryfall.io/large/front/1/f/1f0d2e8e-c8f2-4b31-a6ba-6283fc8740d4.jpg?1562433485" >Chalice of the Void <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>的答案、打5跟Dismember一樣可以處理環境中大部分的生物、抽兩張十分強力、本身又是紅藍色可以幫助我們施放FON, Subtlety, Commandeer和Fury。缺點就是它3費，在極端時刻並沒有Dismember來得好。至於巫師的部分我們可以放<a class="link"   href="https://cards.scryfall.io/large/front/5/2/52cc2f10-142d-4e6a-984e-b25f566cc960.jpg?1674142985" >Mutavault <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>來提高這張牌的上限。</p>
-<h3 id="地牌的選擇"><a href="#地牌的選擇" class="headerlink" title="地牌的選擇"></a>地牌的選擇</h3><p>電震地各1、三色循環1張：這個基本不解釋，我看有人紅藍電震地會多放，但是我覺得沒有必要。</p>
-<p>紅綠、藍綠找各4張、紅藍找1：也算是基本不解釋，紅藍找可能因為各個玩家的考量所以有所增減。</p>
-<p><a class="link"   href="https://cards.scryfall.io/large/front/7/f/7f273641-c5f3-48bc-b89e-3cff52d26a0b.jpg?1619399338" >Gemstone Caverns <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>：這張牌就是來提高上限的，我原本是正2，但是我多放了1張Mutavault，所以放了1張到備牌。我覺得現今的環境正備加起來2就差不多了，1對我而言有點少不過基於重複抽到會出事的理由我認為也是可以理解，放3張心臟要很大顆不過後手幾乎可以確保一定有。</p>
-<p><a class="link"   href="https://cards.scryfall.io/large/front/2/1/2135ac5a-187b-4dc9-8f82-34e8d1603416.jpg?1654568912" >Boseiju, Who Endures <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>：神器結界解、在對抗創、泰坦以及巨錘時表現良好，正備1~2都可以。</p>
-<p><a class="link"   href="https://cards.scryfall.io/large/front/4/8/486d7edc-d983-41f0-8b78-c99aecd72996.jpg?1654568960" >Otawara, Soaring City <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>：就和Boseiju差不多，大多數時比Boseiju更差，但是可以處理旅法以及生物這點比Boseiju更好。</p>
-<p><a class="link"   href="https://cards.scryfall.io/large/front/5/2/52cc2f10-142d-4e6a-984e-b25f566cc960.jpg?1674142985" >Mutavault <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>：這是選配，就單純配合Flame of Anor提高上限，必要的時候當個打點，但是兩個情況發生的機率都有點低，我有在考慮把它拔掉。</p>
-<p>基本地：我是海島2、樹林1、山脈1，原本是海島樹林各2張，但是前陣子我這裡有人開始玩燒所以放1張山脈回來。我認為現今海島2是有必要的，我們確保遇到Blood Moon時還能正常運作，至於要不要樹林2就看自己，我有點想放回2張的版本，山脈的部分就是來確保自己不會因為扣太多血死亡，這點在需要一回Dead &#x2F;&#x2F; Gone時特別重要。</p>
-<h3 id="備牌的選擇"><a href="#備牌的選擇" class="headerlink" title="備牌的選擇"></a>備牌的選擇</h3><!---跟主牌重複了，看看要不要刪掉符合這段最後一句--->
-
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://i.imgur.com/4yhEw4g.jpg"
-                      alt="備牌"
-                ></p>
-<p><a class="link"   href="https://cards.scryfall.io/large/front/d/0/d072e9ca-aae7-45dc-8025-3ce590bae63f.jpg?1599706217" >Blood Moon <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>：處罰多色套牌和創的好東西，我自己喜歡放3，有人不會放那麼多，投入一些Obsidian Charmaw來對抗創，我認為這也是可行的，不過我更喜歡Blood Moon能夠涵蓋更多對局的特點。</p>
-<p><a class="link"   href="https://cards.scryfall.io/large/front/e/b/eb0e0404-4846-4891-acfa-bd0951ecf9c6.jpg?1626097375" >Endurance <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>：有效的墳場克制，只要對手能夠與墳場互動我就會上，有時可以選擇自己回收Cascade牌和Crashing Footfalls重新利用。最後，還有一個我認為有用的小知識，那就是Endurance可以擋死Fury, <a class="link"   href="https://cards.scryfall.io/large/front/4/7/47a6234f-309f-4e03-9263-66da48b57153.jpg?1626094105" >Solitude <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>以及Subtlety，這點在某些對局會用到。</p>
-<p><a class="link"   href="https://cards.scryfall.io/large/front/0/1/017c415b-d635-43c6-92b8-8c95d1c4ff8d.jpg?1562202072" >Force of Vigor <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>：神器結界拆，在部分對局會用得到尤其是巨錘和最近很夯的麟甲，我認為1~2就可以了。<br>（其他牌跟正編重複的我就不多做說明）</p>
-<h3 id="其他可投入牌"><a href="#其他可投入牌" class="headerlink" title="其他可投入牌"></a>其他可投入牌</h3><p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://i.imgur.com/Ax1t2Ko.jpg"
-                      alt="其他1"
-                ></p>
-<p><a class="link"   href="https://cards.scryfall.io/large/front/c/2/c2089ec9-0665-448f-bfe9-d181de127814.jpg?1616182088" >Brazen Borrower <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>：最近又被重新投入使用，可以作為Chalice of the Void的一個暫時性解答，3&#x2F;1飛行閃現也提供穿透性的打點。但是，我覺得這張牌的投入價值還有待確認，首先對於處理針對牌而言它只是暫時性的，彈生物回手在如今很多ETP生物存在的環境也不太優秀，至於生物部分我認為如果沒有需要它的歷險，也不需用討論它生物部分對於戰場的影響力。</p>
-<p><a class="link"   href="https://cards.scryfall.io/large/front/e/4/e41cf82d-3213-47ce-a015-6e51a8b07e4f.jpg?1572490640" >Questing Beast <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>：我以前標準的愛牌，除了規避<a class="link"   href="https://cards.scryfall.io/large/front/d/5/d5806e68-1054-458e-866d-1f2470f682b2.jpg?1696020224" >The One Ring <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>的無敵特性以外，在約格莫夫套牌難以阻擋它並幫助我們處理<a class="link"   href="https://cards.scryfall.io/large/front/6/9/69af2825-18c2-4463-b6ba-42eaa070ccc1.jpg?1626098484" >Grist <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>、可以對<a class="link"   href="https://cards.scryfall.io/large/front/3/e/3ec0c0fb-1a4f-45f4-85b7-346a6d3ce2c5.jpg?1566819742" >卡恩 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>施加壓力、處理四色元素中的旅法師，還有一個特點就是：可以處理<a class="link"   href="https://cards.scryfall.io/large/front/5/c/5cb76266-ae50-4bbc-8f96-d98f309b02d3.jpg?1681130129" >小泰 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>，當時我看到玩家投入這張牌時，我認為Questing Beast就是對抗這個環境的答案。不過，這張牌在內戰以及紅黑呼魂的對局中貧弱，再來就是它不能「完美解決小泰」有意識的對手會讓小泰 [+1] 來規避我們下回合使用Questing Beast和Fury，如果你的賽場中有很多四色元素和創，確實還是有投入的空間。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://i.imgur.com/jP6IH07.jpg"
-                      alt="其他2"
-                ></p>
-<p><a class="link"   href="https://cards.scryfall.io/large/front/e/e/ee6d08be-a6fc-44a5-932d-b6a8705534c0.jpg?1626096898" >Obsidian Charmaw <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>：這張就是來對抗創的，先手有效防止127，並且在前期就能提供壓力。與Blood Moon相比，ETB就能帶來干擾的價值不用擔心被Boseiju，炸一張地也能變向拖慢對手使用<a class="link"   href="https://cards.scryfall.io/large/front/f/0/f0cd5548-ce7b-493a-8119-62f000839e4d.jpg?1673485409" >Oblivion Stone <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>、卡恩和The One Ring的機會。與Blood Moon相比，Obsidian Charmaw能涵蓋的對局確實少了很多，但是如果你認為創是一個必須把握好的對局，那它還是有投入的空間。</p>
-<p><a class="link"   href="https://cards.scryfall.io/large/front/7/c/7c9bd75c-9606-4607-bfa6-d6acdee12820.jpg?1619397276" >Magus of the Moon <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>：與Blood Moon一樣效果，但是現今四色元素太多生物解、創也投入Dismember，因此Magus of the Moon並沒有Blood Moon來的好。</p>
-<p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://i.imgur.com/pk9vnVf.jpg"
-                      alt="其他3"
-                ></p>
-<p><a class="link"   href="https://cards.scryfall.io/large/front/d/c/dca0a9a8-5ebc-43a3-8450-420ab6b7b76e.jpg?1689996238" >Commandeer <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>：鐵木爾犀牛中含有大量的藍色牌，因此在前期施放它並不是太難，它運用得當可以在創以及所有The One Ring的對局中對對手造成毀滅性的打擊，在內戰中也有奇效。雖然我自己沒使用過它，但是我認為這張牌並不夠好，首先是它3換1的代價在大多數情況而言有點太高了，除了偷The One Ring、卡恩以及內戰偷Crashing Footfalls以外，我實在想不出什麼情況是值得我使用Commandeer去3換1的，再來是中後期抽到Commandeer時手上並不一定會有足夠的藍色牌來免費施放，地牌也不一定夠來正拍。</p>
-<p><a class="link"   href="https://cards.scryfall.io/large/front/5/0/50f7666d-0d60-4fe5-b144-286d4e47b704.jpg?1674421089" >Brotherhood’s End <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>：它與Flame of Anor類似，給予除了摧毀神器以外其它正面效益的選項。除了此之外，這張牌在約格莫夫、紅黑呼魂、人魚、巨錘以及麟甲等對局中表現良好，可以消滅大多數的生物並讓犀牛存活。</p>
-<p><a class="link"   href="https://cards.scryfall.io/large/front/8/6/866b7fd4-86e3-4b42-b1ea-33bad0db1f9f.jpg?1627429955" >Prismari Command <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>：也是一張與Flame of Anor相似的牌，過去這張牌會被投入是因為可以有效對抗巨錘以及創新，但如今創新風光已不再、巨錘也不如果去受歡迎，而且與Flame of Anor的抽2張相比Prismari Command的抽2棄2並不夠好。</p>
-<h3 id="常見對局以及換備策略"><a href="#常見對局以及換備策略" class="headerlink" title="常見對局以及換備策略"></a>常見對局以及換備策略</h3><h4 id="內戰-（鐵木爾犀牛鏡像對局）"><a href="#內戰-（鐵木爾犀牛鏡像對局）" class="headerlink" title="內戰 （鐵木爾犀牛鏡像對局）"></a>內戰 （鐵木爾犀牛鏡像對局）</h4><p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://i.imgur.com/Z8kSwGq.jpg"
-                      alt="內戰"
-                ></p>
-<p>內戰老話一句：「誰抽得好誰就贏」，當然玩家能力以及套牌構成多少有點影響。我們都有4張 Crashing Footfalls ，通常而言誰先消耗完8隻犀牛誰就輸了，因此我們需要投入更多能夠與犀牛交換或者能夠阻止 Crashing Footfalls 結算的牌像是 Fury 、 Murktide Regent 和康，甚至有時 Endurance 也是值得考慮投入的，因為它可以回收墳場的 Crashing Footfalls 讓我們重新利用。資源優勢也是內戰的一大重點之一， Flame of Anor 在內戰表現良好，有時候也可以保留手上的 Lórien Revealed 來確保後期的資源優勢。<br>記住，確保自己的 Crashing Footfalls 結算、阻止對手 Crashing Footfalls 以及維持資源優勢，剩下的就交給右手吧～</p>
-<h5 id="換備策略"><a href="#換備策略" class="headerlink" title="換備策略"></a>換備策略</h5><p>基本上後手就上寶石洞窟，然後下一張找地，地牌更換不再其他對局中贅述。</p>
-<table>
-<thead>
-<tr>
-<th align="center">Side Out</th>
-<th align="center">Side In</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="center">-4 Dead &#x2F;&#x2F; Gone</td>
-<td align="center">+2 Fury</td>
-</tr>
-<tr>
-<td align="center"></td>
-<td align="center">+1 Mystical Dispute</td>
-</tr>
-<tr>
-<td align="center"></td>
-<td align="center">+1 Flame of Anor</td>
-</tr>
-</tbody></table>
-<p>Dead &#x2F;&#x2F; Gone 在這個對局並不好，因為 Dead 幾乎沒有對象，雖然 Gone 可以有效的解決一隻犀牛或暫時解決 Murktide Regent ，但我認爲不值得。我看到有些人會下掉 Subtlety 但是我沒有，因為對手也有 Fury 和 Murktide Regent ， Subtlety 可以作為這兩張牌的解答以及額外的打點。</p>
-<h4 id="紅黑呼魂"><a href="#紅黑呼魂" class="headerlink" title="紅黑呼魂"></a>紅黑呼魂</h4><p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://i.imgur.com/wINiU1o.jpg"
-                      alt="紅黑呼魂"
-                ></p>
-<p>對我們而言有優勢的對局，通常來說我們的Topdeck會更好。阻擋 Undying + <a class="link"   href="https://cards.scryfall.io/large/front/e/6/e6befbc4-1320-4f26-bd9f-b1814fedda10.jpg?1626095577" >Grief <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 最簡單的方式就是一對犀牛，雖然我們會被迫棄兩張牌，不過沒有關係我們牌組可是有8張Cascasd牌，我們總是會抽到的。如果它們沒有一回 Undying + Grief ，那他們就是一套普普通通的中速套牌，「消滅場上的一切，問問他們被犀牛角撞到是什麼感覺」。 Subtlety 和 Fury 在這個對局中表現良好，都能破壞他們的遊戲計畫，也能像 Murktide Regent 在我們叫不出犀牛時為我們提供另一種獲勝方式。<br>備牌局他們雖然會投入 Chalice of the Void 、 <a class="link"   href="https://cards.scryfall.io/large/front/4/2/420bf1e9-f2ec-4dff-b540-e64de71e58be.jpg?1599709112" >Engineered Explosives <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 或者 <a class="link"   href="https://cards.scryfall.io/large/front/8/e/8e910464-329a-4de1-930a-be85b1956676.jpg?1656453394" >Hidetsugu Consumes All <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> 來對抗我們的犀牛，不過我們也有拆除或者其他的獲勝手段。唯一的問題可能就是<a class="link"   href="https://cards.scryfall.io/large/front/d/6/d67be074-cdd4-41d9-ac89-0a0456c4e4b2.jpg?1674057568" >希歐蕊 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>，4&#x2F;5的體質可以完美交換犀牛，但我們也有所準備並不是完全沒輒。<br>總而言之，我們的遊戲計劃很簡單：「<strong>摧毀一切，透過我們的牌張來獲得有利的資源交換，並用剩下的資源獲勝。</strong>」在這個對局不要急，因為這個對局直到後期也對我們有利。</p>
-<h5 id="換備策略-1"><a href="#換備策略-1" class="headerlink" title="換備策略"></a>換備策略</h5><table>
-<thead>
-<tr>
-<th align="center">Side Out</th>
-<th align="center">Side In</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="center">-4 Force of Negation</td>
-<td align="center">+2 Fury</td>
-</tr>
-<tr>
-<td align="center">-3 Mystical Dispute</td>
-<td align="center">+1 Flame of Anor</td>
-</tr>
-<tr>
-<td align="center"></td>
-<td align="center">+1 Subtlety</td>
-</tr>
-<tr>
-<td align="center"></td>
-<td align="center">+2 Endurance</td>
-</tr>
-<tr>
-<td align="center"></td>
-<td align="center">+1 Boseiju, Who Endures</td>
-</tr>
-</tbody></table>
-<p>我們選擇下掉我們所有的康，加入更多的解以及抽牌，因為這個對局會快速進入Topdeck的階段，Topdeck抽到康的時候並不夠好。Endurance我認為在這個對局單純就是做個輔助的做用，擋得住他們大多數的生物，防止他們使用Scam假死，最後就是回收自己的犀牛，如果你有更好的卡，Endurance就沒有那麼必要。</p>
-<blockquote>
-</blockquote>
-<h4 id="四色元素"><a href="#四色元素" class="headerlink" title="四色元素"></a>四色元素</h4><p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://i.imgur.com/VBq3Q9x.jpg"
-                      alt="4C"
-                ></p>
-<p>在<a class="link"   href="https://cards.scryfall.io/large/front/2/d/2d5e991f-23b2-4db0-a452-7755125b1fd2.jpg?1692939184" >Up the Beanstalk <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>被投入之前我認為這個對局是好的，他們前期需要消耗超過兩張手牌的資源來解我們的犀牛，這樣的資源差距能讓我們在對局中一直保持領先的地位，因此即使我們沒有在遊戲前期獲勝，只要不讓The One Ring落地我們也可以透過資源差距讓對手慢性死亡就好。<br>不過，自從Up the Beanstalk被開始投入之後，這個對局的變得不太一樣了，他們前期追趕資源的能力比過去優秀很多，我們在前期也很難阻止對手施放Up the Beanstalk。在我的經驗中，如果對手只有一張Up the Beanstalk那我們雙方就是在同一個水平面較量，如果對手有兩張甚至更多，那對局對我們而言就很不妙了。也因為如此，我們必須在前期就快速解決遊戲，中期的我們還有機會終結比賽，再晚一點點我們的勝率將會大幅度的下滑。</p>
-<h5 id="換備策略-2"><a href="#換備策略-2" class="headerlink" title="換備策略"></a>換備策略</h5><table>
-<thead>
-<tr>
-<th align="center">Side Out</th>
-<th align="center">Side In</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="center">-4 Dead &#x2F;&#x2F; Gone</td>
-<td align="center">+2 Fury</td>
-</tr>
-<tr>
-<td align="center">-1 Murktide Regent</td>
-<td align="center">+1 Flame of Anor</td>
-</tr>
-<tr>
-<td align="center">-4 Fire &#x2F;&#x2F; Ice</td>
-<td align="center">+1 Subtlety</td>
-</tr>
-<tr>
-<td align="center"></td>
-<td align="center">+3 Blood Moon</td>
-</tr>
-<tr>
-<td align="center"></td>
-<td align="center">+1 Mystical Dispute</td>
-</tr>
-</tbody></table>
-<p>刪除Dead &#x2F;&#x2F; Gone的原因與內戰相同，對於對局幾乎沒有幫助。Murktide Regent在這個對局太容易被解掉，所以刪除。 我覺得Fire &#x2F;&#x2F; Ice在這個對局也不好，Fire的部分無法有效去除他們的生物，Ice你沒有二回施放的話都略為雞肋。</p>
-<h4 id="約格莫夫"><a href="#約格莫夫" class="headerlink" title="約格莫夫"></a>約格莫夫</h4><p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://i.imgur.com/VTgqFPZ.jpg"
-                      alt="約格莫夫"
-                ></p>
-<p>雖然約格莫夫在經過幾次的新牌洗禮，獲得了高強度的加強，但是套牌的本質不變，只是運作方式變得更加複雜以及華麗。<br>我認為這個對局這種點分為三個重點：首先，是了解整個套牌的運作方式，<a class="link"   href="https://cards.scryfall.io/large/front/0/1/019b51b0-e5c6-4208-922b-7736686dddcd.jpg?1692939838" >Agatha’s Soul Cauldron <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>為這個套牌帶來了更多的制勝手段，請務必瞭解這套牌的所有運作方式，免得你在毫無防備下被對手的一頓華麗操作射滿臉。再來，要知道這套牌的前期強度取決於場上生物的數量，理論上我們的目標就是盡力消滅他們的生物，我們就有時間拍出我們的犀牛讓我們處於優勢。最後，「<strong>全力阻止醫生落地</strong>」，醫生的問題不在於會做無限組合技，而是在減少你生物體質的同時賺取大量的資源，只要醫生不落地這對局絕對輕鬆。<br>總結，殺死他們的生物、阻止醫生落地、拍出我們的犀牛、壓迫他們的血量，然後逼迫他們做出不利於他們的交換，最後取得勝利。</p>
-<h5 id="換備策略-3"><a href="#換備策略-3" class="headerlink" title="換備策略"></a>換備策略</h5><table>
-<thead>
-<tr>
-<th align="center">Side Out</th>
-<th align="center">Side In</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="center">-4 Force of Negation</td>
-<td align="center">+2 Fury</td>
-</tr>
-<tr>
-<td align="center">-3 Mystical Dispute</td>
-<td align="center">+1 Flame of Anor</td>
-</tr>
-<tr>
-<td align="center">-1 Murktide Regent</td>
-<td align="center">+1 Subtlety</td>
-</tr>
-<tr>
-<td align="center"></td>
-<td align="center">+3 Endurance</td>
-</tr>
-<tr>
-<td align="center"></td>
-<td align="center">+1 Mystical Dispute</td>
-</tr>
-</tbody></table>
-<h4 id="創-（Tron）"><a href="#創-（Tron）" class="headerlink" title="創 （Tron）"></a>創 （Tron）</h4><p><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="https://i.imgur.com/6MX7Wyl.jpg"
-                      alt="Tron"
-                ></p>
-<p>我不喜歡遇到這個對局，但是這個對局沒有想像中的差。他們拍出的質量遠比我們大，如果我們沒有康掉他們的牌，勝利的平衡會快速的倒向他們，也因為我們需要每回合留出法力來解決對手的威脅，我們也不一定會有空檔做出犀牛施加壓力。最終，我們會在手上干擾不足、沒有犀牛的情況下被創的高質量牌壓死。這也是為什麼Obsidian Charmaw在這個對局很厲害，因為它能夠同時做到「干擾」以及「施加壓力」。<br>因此，我們能做的就是在前期手上有FON或Subtlety的情況下拍出犀牛，這樣我們才能在前期就做到干擾以及用犀牛施壓。</p>
-<h5 id="換備策略-4"><a href="#換備策略-4" class="headerlink" title="換備策略"></a>換備策略</h5><table>
-<thead>
-<tr>
-<th align="center">Side Out</th>
-<th align="center">Side In</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="center">-4 Dead &#x2F;&#x2F; Gone</td>
-<td align="center">+1 Flame of Anor</td>
-</tr>
-<tr>
-<td align="center">-1 Dismember</td>
-<td align="center">+1 Subtlety</td>
-</tr>
-<tr>
-<td align="center">-3 Mystical Dispute</td>
-<td align="center">+3 Blood Moon</td>
-</tr>
-<tr>
-<td align="center"></td>
-<td align="center">+2 Force of vigor</td>
-</tr>
-<tr>
-<td align="center"></td>
-<td align="center">+1 Mystical Dispute</td>
-</tr>
-</tbody></table>
-<h2 id="結語"><a href="#結語" class="headerlink" title="結語"></a>結語</h2><p>我很高興這次<a class="link"   href="https://www.facebook.com/guildmagesforumtw" >Guildmages’ Forum <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>團隊的邀請，好久沒有花這麼多時間來分析一套我熟悉的套牌了，前陣子我也終於選上了第五季的RC資格，我可是試了6次啊～而且有5次進八強另1次是小分不夠。這一次我只介紹了我認為環境中最容易遇到的5個對局，等哪天學校的事情沒那麼忙以後，我會再補上的。<br>如果真的很想提早知道我對特定對局的想法以及換被策略，也可以到FB搜尋「<a class="link"   href="https://www.facebook.com/DreamOnStudio1560" >夢續工作室DreamOn Studio <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>」並私訊我們，我們可以在那裡為你解惑，也希望大家可以聽聽我們的Podcast:「<a class="link"   href="https://podcasts.apple.com/us/podcast/%E9%BE%8D%E5%B0%8A%E8%88%87%E8%8D%92%E9%87%8E%E9%A8%8E%E5%A3%AB%E7%9A%84%E7%8E%84%E5%A2%83%E4%B9%8B%E8%AB%87/id1680452807" >龍尊與荒野騎士的玄境之談 <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>」現在在<a class="link"   href="https://open.spotify.com/show/0bnxC5SBsGN8bBh3n4Af18?si=c24b9a0b169245ac&nd=1" >Spotify <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>以及<a class="link"   href="https://podcasts.apple.com/us/podcast/%E9%BE%8D%E5%B0%8A%E8%88%87%E8%8D%92%E9%87%8E%E9%A8%8E%E5%A3%AB%E7%9A%84%E7%8E%84%E5%A2%83%E4%B9%8B%E8%AB%87/id1680452807" >Apple Podcast <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>上都聽得到喔～</p>
-]]></content>
-      <categories>
-        <category>Construct</category>
-        <category>Modern</category>
-      </categories>
-      <tags>
-        <tag>Modern</tag>
-        <tag>ClarkShih</tag>
       </tags>
   </entry>
   <entry>
