@@ -67,7 +67,7 @@ Tishana's Tidebinder 我們可以當作是一發三費的生物版 [Stifle](http
 ### Mono-Green Tron
 
 綠創則是如前面提到的會被 Tidebinder 處理掉太多情況，需要有更多維度的思考。
-同時因為 Scam 變少甚至可以說是消失了，因此能減少 [Dismember](https://cards.scryfall.io/large/front/3/d/3d286cf6-3e16-4941-9326-1818b1e06d69.jpg?1562261132) 數量。
+同時因為 Scam 變少甚至可以說是消失了（至少不用面對一回 Fury 被敲兩下打死），因此能減少 [Dismember](https://cards.scryfall.io/large/front/3/d/3d286cf6-3e16-4941-9326-1818b1e06d69.jpg?1562261132) 數量。
 
 ### Yawgmoth
 
