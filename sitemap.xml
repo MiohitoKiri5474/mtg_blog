@@ -20,7 +20,25 @@
   </url>
   
   <url>
+    <loc>https://guildmagesforum.tw/WOE-mechanism/</loc>
+    
+    <lastmod>2023-12-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://guildmagesforum.tw/What-is-Alternative-Cost/</loc>
+    
+    <lastmod>2023-12-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://guildmagesforum.tw/casting-spell-without-mana-cost/</loc>
     
     <lastmod>2023-12-19</lastmod>
     
@@ -38,7 +56,16 @@
   </url>
   
   <url>
-    <loc>https://guildmagesforum.tw/casting-spell-without-mana-cost/</loc>
+    <loc>https://guildmagesforum.tw/WOE-White/</loc>
+    
+    <lastmod>2023-12-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://guildmagesforum.tw/WOE-WOT/</loc>
     
     <lastmod>2023-12-19</lastmod>
     
@@ -92,7 +119,7 @@
   </url>
   
   <url>
-    <loc>https://guildmagesforum.tw/Pioneer-Meta-Inspection-20230918/</loc>
+    <loc>https://guildmagesforum.tw/Pioneer-Lotus-Field/</loc>
     
     <lastmod>2023-12-19</lastmod>
     
@@ -101,7 +128,7 @@
   </url>
   
   <url>
-    <loc>https://guildmagesforum.tw/Pioneer-Lotus-Field/</loc>
+    <loc>https://guildmagesforum.tw/Pioneer-Meta-Inspection-20230918/</loc>
     
     <lastmod>2023-12-19</lastmod>
     
@@ -137,7 +164,7 @@
   </url>
   
   <url>
-    <loc>https://guildmagesforum.tw/Saga-and-Moon/</loc>
+    <loc>https://guildmagesforum.tw/Standard-Boros-Equipment-Standard/</loc>
     
     <lastmod>2023-12-19</lastmod>
     
@@ -146,7 +173,7 @@
   </url>
   
   <url>
-    <loc>https://guildmagesforum.tw/Standard-Boros-Equipment-Standard/</loc>
+    <loc>https://guildmagesforum.tw/Saga-and-Moon/</loc>
     
     <lastmod>2023-12-19</lastmod>
     
@@ -164,7 +191,7 @@
   </url>
   
   <url>
-    <loc>https://guildmagesforum.tw/Standard-Jeskai-Mechtitan-Core/</loc>
+    <loc>https://guildmagesforum.tw/Standard-Gruul-Dinosaurs/</loc>
     
     <lastmod>2023-12-19</lastmod>
     
@@ -182,7 +209,7 @@
   </url>
   
   <url>
-    <loc>https://guildmagesforum.tw/Standard-Gruul-Dinosaurs/</loc>
+    <loc>https://guildmagesforum.tw/Standard-Jeskai-Mechtitan-Core/</loc>
     
     <lastmod>2023-12-19</lastmod>
     
@@ -210,15 +237,6 @@
   
   <url>
     <loc>https://guildmagesforum.tw/Trigger-Check/</loc>
-    
-    <lastmod>2023-12-19</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://guildmagesforum.tw/WOE-mechanism/</loc>
     
     <lastmod>2023-12-19</lastmod>
     
@@ -335,15 +353,6 @@
   </url>
   
   <url>
-    <loc>https://guildmagesforum.tw/WOE-Green/</loc>
-    
-    <lastmod>2023-12-19</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://guildmagesforum.tw/WOE-Red/</loc>
     
     <lastmod>2023-12-19</lastmod>
@@ -353,16 +362,7 @@
   </url>
   
   <url>
-    <loc>https://guildmagesforum.tw/WOE-WOT/</loc>
-    
-    <lastmod>2023-12-19</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://guildmagesforum.tw/WOE-White/</loc>
+    <loc>https://guildmagesforum.tw/WOE-Green/</loc>
     
     <lastmod>2023-12-19</lastmod>
     
@@ -381,6 +381,15 @@
   
   <url>
     <loc>https://guildmagesforum.tw/Standard-UW-Control/</loc>
+    
+    <lastmod>2023-12-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://guildmagesforum.tw/Modern-Mono-Blue-Merfolk/</loc>
     
     <lastmod>2023-12-19</lastmod>
     
@@ -524,7 +533,7 @@
   </url>
   
   <url>
-    <loc>https://guildmagesforum.tw/LCI-Green/</loc>
+    <loc>https://guildmagesforum.tw/LCI-Red/</loc>
     
     <lastmod>2023-12-19</lastmod>
     
@@ -533,7 +542,7 @@
   </url>
   
   <url>
-    <loc>https://guildmagesforum.tw/LCI-Red/</loc>
+    <loc>https://guildmagesforum.tw/LCI-Green/</loc>
     
     <lastmod>2023-12-19</lastmod>
     
@@ -588,15 +597,6 @@
   
   <url>
     <loc>https://guildmagesforum.tw/LCI-multicolors/</loc>
-    
-    <lastmod>2023-12-19</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://guildmagesforum.tw/Modern-Mono-Blue-Merfolk/</loc>
     
     <lastmod>2023-12-19</lastmod>
     
