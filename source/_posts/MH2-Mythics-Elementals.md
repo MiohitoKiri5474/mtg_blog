@@ -7,8 +7,9 @@ tags:
 cover: "https://i.imgur.com/8BIokGB.jpg"
 thumbnail: "https://i.imgur.com/8BIokGB.jpg"
 excerpt: "大江東去浪淘盡，千古風雲元素"
-catagories:
+categories:
   - "Others"
+  - "Modern"
 ---
 
 ## 前言：MH2之夏

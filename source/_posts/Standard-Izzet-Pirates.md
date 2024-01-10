@@ -8,6 +8,9 @@ tags:
 excerpt: "限制賽強悍的紅藍海盜在標準有沒有搞頭呢？"
 cover: "https://i.imgur.com/yeT6cEQ.png"
 thumbnail: "https://i.imgur.com/yeT6cEQ.png"
+categories:
+  - "Construct"
+  - "Standard"
 ---
 
 

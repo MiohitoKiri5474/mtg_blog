@@ -7,6 +7,8 @@ tags:
 excerpt: "Lets Fight Fire with Fire."
 cover: "https://i.imgur.com/GfQlTbB.jpg"
 thumbnail: "https://i.imgur.com/GfQlTbB.jpg"
+categories:
+  - "Others"
 ---
 
 

@@ -8,6 +8,9 @@ tags:
 excerpt: "新年之始 萬象更新 祥龍獻瑞 鳳凰來儀"
 cover: "https://i.imgur.com/uDGrBk8.png"
 thumbnail: "https://i.imgur.com/uDGrBk8.png"
+categories:
+  - "Construct"
+  - "Standard"
 ---
 
 
