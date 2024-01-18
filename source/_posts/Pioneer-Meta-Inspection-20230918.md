@@ -1,19 +1,18 @@
 ---
-title: 'Pioneer 環境考察 2023/09/18'
+title: "Pioneer 環境考察 2023/09/18"
 date: 2023-09-18 01:05:45
 tags:
- - MiohitoKiri5474
- - Pioneer
- - Inspection
-cover: 'https://mktg-assets.tcgplayer.com/fit-in/600x600/filters:quality(75)/content/opengraph/MTG-Up-the-Beanstalk-WOE.jpg'
-thumbnail: 'https://mktg-assets.tcgplayer.com/fit-in/600x600/filters:quality(75)/content/opengraph/MTG-Up-the-Beanstalk-WOE.jpg'
-excerpt: '雖然距離 MIT#4 還有一段時間，但還是稍微接觸一下現在的先驅環境吧'
+  - MiohitoKiri5474
+  - Pioneer
+  - Inspection
+cover: "https://mktg-assets.tcgplayer.com/fit-in/600x600/filters:quality(75)/content/opengraph/MTG-Up-the-Beanstalk-WOE.jpg"
+thumbnail: "https://mktg-assets.tcgplayer.com/fit-in/600x600/filters:quality(75)/content/opengraph/MTG-Up-the-Beanstalk-WOE.jpg"
+excerpt: "雖然距離 MIT#4 還有一段時間，但還是稍微接觸一下現在的先驅環境吧"
 
 categories:
   - Construct
   - Pioneer
 ---
-
 
 ## Before We Start
 
@@ -57,6 +56,7 @@ categories:
 ### Hidden String/Lotus Field Combo
 
 蓮花田其實沒有太多的變動啦，只是想要提一下蓮花田自從 MOM 發售後就分成兩種組法：
+
 1. 只有放 Chandra, Hope's Beacon 當作唯一的 wincon
 2. Chandra & 傳統 Wish 類型的都有
 
@@ -137,7 +137,7 @@ Convoke 的非地永久物非常多，自然很適合 Regal Bunnicorn。
 傳統的傑斯凱霸權，是藉由 [Sylvan Awakening](https://cards.scryfall.io/large/front/9/3/93ac4d3d-064e-459d-b3a4-6c0872a2da8c.jpg?1591104718) 運作的套牌，有四費且場上已經有 Jeskai Ascendancy 之後用 Sylvan Awakening 把所有地變成生物（馬那頭），接著用大量的低費咒語使得場面屯超過 20 點，全推對手收工。
 但現在是更偏向純組合技了，用兩張 [Mox Amber](https://cards.scryfall.io/large/front/6/6/66024e69-ad60-4c9a-a0ca-da138d33ad80.jpg?1685554120) 和 [Emry, Lurker of the Loch](https://cards.scryfall.io/large/front/2/0/20fec02d-77af-4975-b410-7097c7c28e7e.jpg?1651655696) 做無限組合技，或是用 [Retraction Helix](https://cards.scryfall.io/large/front/7/a/7aa3fdd0-34d8-47b3-9753-d2929838732e.jpg?1562437109) 加上任意一張零點神器，做出無限場面後收工。
 
-### Epilogue
+## Epilogue
 
 這週我們回顧了 WOE 發售之後的環境改變，不過沒有改變太多的 meta 結構，不少牌組都有獲得一些補強，但不足以影響整個環境。
 最近練習近代以外還有空閒的朋友，可以試著先組出來測一下牌，減少下個月的練習負擔喔XD。
