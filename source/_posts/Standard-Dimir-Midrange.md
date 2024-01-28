@@ -1,6 +1,6 @@
 ---
 title: "豬鼻子的標準藍黑中速分析與戰報"
-date: "2024-01-28 15:14:19"
+date: "2024-01-28 16:13:22"
 tags:
   - "Standard"
   - "cephille"
@@ -154,7 +154,7 @@ LCI發售後黑底中速不變的班底就會是：[深窟蝙蝠](https://cards.
 | -1 [人間消失](https://cards.scryfall.io/large/front/3/f/3f2d6a21-ea77-484b-9e3a-1bd49806f907.jpg?1664410347) | +2 [寄生之攫](https://cards.scryfall.io/large/front/0/7/0713adf7-1770-4d5b-80f7-d6cbd24f7890.jpg?1643590056) |
 | -3 [直刺咽喉](https://cards.scryfall.io/large/front/5/4/5446e1ba-c745-45b2-ad05-b22abf04daec.jpg?1682209037) | +2 [折磨賜聖](https://cards.scryfall.io/large/front/f/7/f7dc55a8-290f-4666-90ce-aa632e87c5e7.jpg?1675957006) |
 | -2 [仙靈才俊](https://cards.scryfall.io/large/front/5/2/52d3005f-a1c7-4ef5-911f-ccc0752f4181.jpg?1682203104) | +2 [斬落](https://cards.scryfall.io/large/front/7/5/753db072-5d6a-4f37-8f7d-255572ecd3bd.jpg?1673307061) |
-| -1 [復生的爾泰](https://cards.scryfall.io/large/front/7/f/7f7e780e-fbc5-4dc0-b5c7-efcb8645c7c6.jpg?1673307944) | +1 [險峻途徑](https://cards.scryfall.io/large/front/f/0/f0c5449a-d63b-4b22-9432-8f0365c3c4d9.jpg?1643590080)|
+| -1 [復生的爾泰](https://cards.scryfall.io/large/front/7/f/7f7e780e-fbc5-4dc0-b5c7-efcb8645c7c6.jpg?1673307944) | +1 [險峻路途](https://cards.scryfall.io/large/front/f/0/f0c5449a-d63b-4b22-9432-8f0365c3c4d9.jpg?1643590080)|
 
 - 第二盤調度一後看到二三四曲線跟三塊地也只好接了，四張斬落一張都沒摸到，被對手備牌換上來的[消滅邪物](https://cards.scryfall.io/large/front/4/f/4f7862ef-2c8d-4d28-9e50-7cc41861f245.jpg?1673306430)連殺兩隻希歐蕊並拍了[斯勒夫的巢穴](https://cards.scryfall.io/large/front/f/f/ffbd77ec-fc81-41d5-934f-c3dd844cb053.jpg?1675956934)生了三隻1/1蟲械，接著拍[景仰腐敗僧侶](https://cards.scryfall.io/large/front/d/1/d1b032e3-14e3-48ba-ab8a-d2b4f8d31a7d.jpg?1675957177)，打到我5個毒後用[漩霧行進](https://cards.scryfall.io/large/front/1/0/100171d8-7436-44c8-b4cb-0101ffa05c25.jpg?1654566768) X=3 躍離了他的僧侶、一隻剛派出的1/1蟲、還有我的阻擋者（我7毒）後三隻1/1蟲全攻我毒發身亡。
 
@@ -201,7 +201,7 @@ LCI發售後黑底中速不變的班底就會是：[深窟蝙蝠](https://cards.
 
 | Side Out | Side In |
 | :-: | :-: |
-| -2 [約格莫夫判官基克斯](https://cards.scryfall.io/large/front/2/c/2c76f7e0-37e7-4e87-93a3-a25ba0674645.jpg?1675567458) | +1 [險峻途徑](https://cards.scryfall.io/large/front/f/0/f0c5449a-d63b-4b22-9432-8f0365c3c4d9.jpg?1643590080) |
+| -2 [約格莫夫判官基克斯](https://cards.scryfall.io/large/front/2/c/2c76f7e0-37e7-4e87-93a3-a25ba0674645.jpg?1675567458) | +1 [險峻路途](https://cards.scryfall.io/large/front/f/0/f0c5449a-d63b-4b22-9432-8f0365c3c4d9.jpg?1643590080) |
 | | +1 [逼從](https://cards.scryfall.io/large/front/3/5/3557e601-9b71-4ce9-9047-1a8baa72e574.jpg?1675957024) |
 
 - 第三盤對手先手但調度二，對手場上只有二回出一隻迅矛僧一直打，我一回塞連二回蝙蝠中[閃電煉擊](https://cards.scryfall.io/large/front/7/d/7d541125-bfb8-4f88-8bf3-ad7b6af7ad1d.jpg?1673307449)，看到剩下兩張手牌是[娜希莉興戰](https://cards.scryfall.io/large/front/a/0/a0453fea-3c88-4eb1-818a-9efa01986852.jpg?1682204387)跟[窪巴司的鍛冶爐](https://cards.scryfall.io/large/front/6/8/68f9f9d8-9ea0-4608-a79c-a09a87918186.jpg?1675957116)。第三回合我吃掉地圖看到牌庫頂的[大築金師安塔斯](https://cards.scryfall.io/large/front/1/6/164b07e6-48ba-4789-bd8f-7cada1fec8a9.jpg?1675956999)讓塞連變2/2打完換人；對手卡在三塊地迅矛僧攻擊後用戲火作樂點我的頭被我回應[折磨賜聖](https://cards.scryfall.io/large/front/f/7/f7dc55a8-290f-4666-90ce-aa632e87c5e7.jpg?1675957006)解掉。下回反手出希歐蕊逼掉對手的[娜希莉興戰](https://cards.scryfall.io/large/front/a/0/a0453fea-3c88-4eb1-818a-9efa01986852.jpg?1682204387)，接著出安塔斯準備防守對手的鍛冶爐，用安塔斯阻擋 + 塞連攻擊觸發抽棄苟了三個回合，不過中間把兩張[寄生之攫](https://cards.scryfall.io/large/front/0/7/0713adf7-1770-4d5b-80f7-d6cbd24f7890.jpg?1643590056)棄掉沒有棄會讓我掉血的基克斯真的是有點太托大了。對手中間出連續出了第二、三個鍛冶爐，但第一、二個鍛冶爐四顆豆跳觸發時分別被我的一號、二號潮縛師康掉剩下最小的那個，最後對手血剩11我剩4時對手出了[熔爐懲罰者](https://cards.scryfall.io/large/front/6/5/65e5fc08-7a04-4bba-81ba-990889cae96a.jpg?1675957086)無手牌，我全家包含藍黑變身地全打 + 起動安塔斯第三條異能灌了3攻拿下。嗯...雖然贏了但不要學我亂打XD
