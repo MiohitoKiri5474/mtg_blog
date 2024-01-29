@@ -15,6 +15,8 @@ thumbnail: "https://i.imgur.com/k7KGwmH.jpg"
 categories:
   - Construct
   - Standard
+authors:
+  - "JerobaMTG"
 ---
 
 ## Before We Start
@@ -56,7 +58,6 @@ categories:
 實際運作起來會是什麼樣子呢？請見以下經濟版演示影片：
 {%youtube LHL-p36j7Sk %}
 
-
 ## 全副武裝：$114美元豪華版
 
 [牌表連結](https://www.mtggoldfish.com/deck/5856678)
@@ -82,7 +83,7 @@ categories:
 
 > 然而，面對白底的莎利雅套牌，除了應對莎利雅的解牌外，同時也要考慮到對手可能備牌會換上來的的「反」反制手段。像是純白人類可能會有的[進軍高巴汗](https://scryfall.com/card/mom/22/invasion-of-gobakhan-lightshield-array)、[援救能手](https://cards.scryfall.io/large/front/b/4/b404d6c7-0b65-4c6a-b141-9dffbeb120db.jpg?1664409628)等；而使用兄弟反目清場時要特別留意對手可能會有[濟世翻湧](https://cards.scryfall.io/large/front/4/1/41d25ee5-0348-4206-bb6a-ccb0a599ac87.jpg?1682202925)這類的牌。
 
-### 2. 非瑞克西亞抹煞獸/雪恨獸 
+### 2. 非瑞克西亞抹煞獸/雪恨獸
 
 ![](https://i.imgur.com/HMCUmTo.jpg)
 
@@ -104,4 +105,3 @@ categories:
 ![](https://i.imgur.com/q66PscY.png)
 
 > 值得討論的是，爐疆劍反紅保護的效果在使用上會是雙面刃，雖然可以讓你的生物無法被燒牌去除而且可以打穿紅底套牌的防線，但同樣也會讓紅色的武具無法被佩帶，在適合的meta中可以嘗試，但記得如果要使用的話也勢必要調整一些主牌的紅色武具數量。
-

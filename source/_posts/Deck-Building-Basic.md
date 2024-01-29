@@ -7,13 +7,15 @@ tags:
 cover: "https://i.imgur.com/1xH08bF.png"
 thumbnail: "https://i.imgur.com/1xH08bF.png"
 excerpt: "套牌要怎麼組才會順？其實是有訣竅的。"
-categories: 
+categories:
   - Others
+authors:
+  - "JerobaMTG"
 ---
+
 ## Before We Start
 
 「這張牌看起來好酷！好想玩它的套牌...可是都找不到牌表...」相信這是許多魔法風雲會入門玩家都會遇到的煩惱，一見鍾情的牌被老玩家嫌棄、上網找半天找不到牌表、自己又不知道怎麼下手...好不容易東拼西湊組出來，打不贏其他人就算了，還常常卡得亂七八糟...究竟該怎麼自組套牌呢？本回就來介紹構築套牌的基本方法，幫助你組出一副可以正常運作的套牌。
-
 
 ## 選出你的九張牌
 
@@ -25,17 +27,17 @@ categories:
 
 ![](https://i.imgur.com/ywpnEJi.jpg)
 **[戈厄塔與馬仁](https://cards.scryfall.io/large/front/a/9/a9ec900f-1e31-4440-a75a-20b256734d5b.jpg)**
->踐踏
->每當你攻擊時，選擇一項～
->‧派出一個X/X綠色，具踐踏異能的恐龍衍生生物，其為橫置且正進行攻擊，X為進行攻擊之其他生物中的最大力量。
->‧派出X個1/1白色，具繫命異能的吸血鬼衍生生物，X為進行攻擊之其他生物的數量。
+
+> 踐踏
+> 每當你攻擊時，選擇一項～
+> ‧派出一個X/X綠色，具踐踏異能的恐龍衍生生物，其為橫置且正進行攻擊，X為進行攻擊之其他生物中的最大力量。
+> ‧派出X個1/1白色，具繫命異能的吸血鬼衍生生物，X為進行攻擊之其他生物的數量。
 
 [戈厄塔與馬仁](https://cards.scryfall.io/large/front/a/9/a9ec900f-1e31-4440-a75a-20b256734d5b.jpg)是張魔力值高達七費的白綠雙色生物，且異能需要有其他生物進攻才能觸發，以滿足這兩項需求為前提，我們可以從白綠這兩個顏色去切入，尋找可以協助我們快速施放[戈厄塔與馬仁](https://cards.scryfall.io/large/front/a/9/a9ec900f-1e31-4440-a75a-20b256734d5b.jpg)、以及當這張牌進場時就有生物可以觸發異能的其他八張牌。
 
 至於如何鎖定這些牌，除了可以向熱心的玩家尋求建議或是在店家翻閱卡本尋找靈感，也可以善用線上資源去查閱可用牌張，以筆者自己的習慣來說，通常是利用[scryfall](https://scryfall.com/advanced)的進階搜尋去設定條件尋找自己想要的牌張，或是到[mtggoldfish](https://www.mtggoldfish.com/metagame/standard#paper)或[晴屋](https://www.hareruyamtg.com/en/deck/)看牌表瞭解賽場狀況以及找尋可以參考利用的牌型。
 
 如果是對英文苦手的新手玩家，可以利用[繁體中文卡牌查詢網站](https://www.mtgct.com/)查詢《多明納里亞：眾志成城》以後的中文翻譯，如果是《新卡佩納》以前出的中文牌可直接使用[scryfall](https://scryfall.com/advanced)查詢。挑選時可利用中文組牌網[第三代水牛比爾](https://buffalobill.idv.tw/)暫存牌張，這個網站會幫你保留選牌，只要你是從同一個裝置同一個瀏覽器登入，他就會秀出你最後的選牌狀態，對於無法快速組完牌的人來說相當方便。（如果是從複數裝置或瀏覽器登入則會在各自暫存一份牌表）
-
 
 ## 計算魔法力曲線
 
@@ -55,7 +57,6 @@ categories:
 
 回到兩費應該放幾張的問題，假設我們希望第二回合（先手共抽8張牌）時手上會抽到1張，抽到的機率至少是**⅛ = 0.125** ，**0.125 x 60 = 7.5**，也就是至少要放8張。當然我們還要考量到被去除以及會想額外抽到低費去除，那麼先手二回抽到兩張二費需要的構築張數就是**7.5 x 2 = 15**張。其他費用的數量都可以用這個方式來計算數量上是否合理，以此為基準去篩選調整每個費用的牌張數量。
 
-
 ## 原型套牌表範例
 
 以下是筆者利用上述計算方法堆砌出的[戈厄塔與馬仁](https://cards.scryfall.io/large/front/a/9/a9ec900f-1e31-4440-a75a-20b256734d5b.jpg)的原型牌表：
@@ -65,7 +66,6 @@ categories:
 這副套牌參考現行領土套牌的架構，九張牌選用[戈厄塔與馬仁](https://cards.scryfall.io/large/front/a/9/a9ec900f-1e31-4440-a75a-20b256734d5b.jpg)、[鋼鐵熾天使](https://cards.scryfall.io/large/front/1/b/1b6ef5f5-4058-4f89-a573-9e2da87a9f2e.jpg)、[豆莖亞龍](https://cards.scryfall.io/large/front/1/9/19f20c0a-22be-4a9c-96ce-4047f7a2d424.jpg)、[進軍贊迪卡](https://cards.scryfall.io/large/front/8/f/8fed056f-a8f5-41ec-a7d2-a80a238872d1.jpg)、[綠雕跺地獸](https://cards.scryfall.io/large/front/4/c/4cc2d984-d7e1-47c8-bc88-a9a6977dea48.jpg)、[刺藤傭獸](https://cards.scryfall.io/large/front/4/7/475d7e9a-759d-4523-a5cd-2a6e0d1b14ea.jpg)、[爬上豆莖](https://cards.scryfall.io/large/front/2/d/2d5e991f-23b2-4db0-a452-7755125b1fd2.jpg)、[消滅邪物](https://cards.scryfall.io/large/front/4/f/4f7862ef-2c8d-4d28-9e50-7cc41861f245.jpg)、[艾紫培的重擊](https://cards.scryfall.io/large/front/f/0/f03a480f-de67-4611-9db7-c0c3d020f597.jpg)，地牌則先用一組C卡雙色地[植物廣場](https://cards.scryfall.io/large/front/9/7/9745ec4d-0bcd-4b4c-9bf8-0344882f8d85.jpg)去填補。一費牌4張，二費（含歷險）牌有16張，運用上列方式計算，我們起手可以抽到2.33張二費以下咒語，二費加速牌則會在第二回合抽到1.06張。中間曲線的加速牌[綠雕跺地獸](https://cards.scryfall.io/large/front/4/c/4cc2d984-d7e1-47c8-bc88-a9a6977dea48.jpg)與[進軍贊迪卡](https://cards.scryfall.io/large/front/8/f/8fed056f-a8f5-41ec-a7d2-a80a238872d1.jpg)有八張，在第三回合可抽到1.125張，也就是說這副套牌初期是可以順利運作的，最快四回合上到七費。雖然[戈厄塔與馬仁](https://cards.scryfall.io/large/front/a/9/a9ec900f-1e31-4440-a75a-20b256734d5b.jpg)只有4張，四回僅能抽到0.67張，但別忘了我們還有[刺藤傭獸](https://cards.scryfall.io/large/front/4/7/475d7e9a-759d-4523-a5cd-2a6e0d1b14ea.jpg)的歷險可用，多濾七張下去就會變成1.13張，幾乎是篤定能拍出來。演示影片如下：
 
 {%youtube C2J3qm_8GaA %}
-
 
 ## 這樣就夠了嗎？
 

@@ -8,6 +8,8 @@ tags:
 excerpt: "品嘗《依夏蘭迷窟》帶給傳統大綠強攻的新滋味。"
 cover: "https://i.imgur.com/5JSHH1D.png"
 thumbnail: "https://i.imgur.com/5JSHH1D.png"
+authors:
+  - "JerobaMTG"
 ---
 
 ## Before We Start
@@ -29,13 +31,11 @@ thumbnail: "https://i.imgur.com/5JSHH1D.png"
 [套牌列表](https://www.mtggoldfish.com/deck/5997677#paper)
 ![](https://i.imgur.com/TxEcSoL.png)
 
-
 說完核心元件後來談談其他組件。既然魔法力會自己噴出來又不能放冰箱，那麼我們就需要具備需要大把魔力啟動能力、本身體格又不差的優質打點，[返生的波祿卡諾斯](https://cards.scryfall.io/large/front/4/7/47f7d313-8333-41fe-8bfa-c96774dac228.jpg) // [破壞引擎波祿卡諾斯](https://cards.scryfall.io/large/back/4/7/47f7d313-8333-41fe-8bfa-c96774dac228.jpg)、[沃文森異獸](https://cards.scryfall.io/large/front/5/f/5fdf5fc4-69c8-4a59-9095-c2feefb64371.jpg) // [沃文森貝西摩斯](https://cards.scryfall.io/large/back/5/f/5fdf5fc4-69c8-4a59-9095-c2feefb64371.jpg)、[弗霖凱](https://cards.scryfall.io/large/front/e/2/e24b5289-d3b5-4b4d-bb37-69bf2c3b48bc.jpg) // [大進化](https://cards.scryfall.io/large/back/e/2/e24b5289-d3b5-4b4d-bb37-69bf2c3b48bc.jpg)皆是一時之選。
 
 ![](https://i.imgur.com/oaZuBi5.png)
 ![](https://i.imgur.com/DwzJcq0.png)
 ![](https://i.imgur.com/ckloD6C.png)
-
 
 除了轉化牌外，還有[昇華物靈師妮莎](https://cards.scryfall.io/large/front/1/d/1dd64b1d-bcef-476c-bf0b-3ac7df7cbed3.jpg)、[刺藤傭獸](https://cards.scryfall.io/large/front/4/7/475d7e9a-759d-4523-a5cd-2a6e0d1b14ea.jpg)這兩個可以七費施放的咒語。[刺藤傭獸](https://cards.scryfall.io/large/front/4/7/475d7e9a-759d-4523-a5cd-2a6e0d1b14ea.jpg)前期可以作為2費加速曲線使用，完整施放的[昇華物靈師妮莎](https://cards.scryfall.io/large/front/1/d/1dd64b1d-bcef-476c-bf0b-3ac7df7cbed3.jpg)則能直接開大給予對手致命一擊。
 
@@ -47,14 +47,12 @@ thumbnail: "https://i.imgur.com/5JSHH1D.png"
 
 ## 巨身爭鬥：實戰演示
 
-
 {%youtube cnVcGCy6Rp8 %}
 
 大綠的風格就是這麼簡單暴力，靠著體格優勢直接把對手壓在地摩擦。備牌局倒也沒什麼好說的，萬能的[安息鰭背龍](https://cards.scryfall.io/large/front/5/b/5b647377-d47e-4630-8ccc-933ef6127880.jpg)、強力打手[霸蛛暴龍](https://cards.scryfall.io/large/front/0/f/0fb52b44-da5f-4f7a-a6c2-7924b855e051.jpg?1675957171)與[破誡巨魔圖倫](https://cards.scryfall.io/large/front/6/d/6d9f51dd-0393-4b3c-bea5-8f74634ab0e5.jpg)、防點殺的[泰瓦奮戰](https://cards.scryfall.io/large/front/c/7/c7b362a5-382a-4016-b4f2-aa7b683354c4.jpg)、增強續戰力的[永誌世界樹](https://cards.scryfall.io/large/front/c/0/c0cdeaba-fc21-44e6-bf99-aa1ff379401b.jpg)與[進軍山德拉](https://cards.scryfall.io/large/front/5/f/5f80764e-8fa2-44e2-84c6-3b55f1c40ee7.jpg)、應對起動式異能的[穿髓金針](https://cards.scryfall.io/large/front/e/f/ef4ecff2-49e9-468f-81f0-5acb596055a4.jpg)等家常良品。
 
 ![](https://i.imgur.com/iTxsZHH.png)
 ![](https://i.imgur.com/zVC3Nr5.png)
-
 
 ## 結論
 

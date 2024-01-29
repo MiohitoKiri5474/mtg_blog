@@ -1,13 +1,13 @@
 ---
 date: 2023-10-16 19:15:45
 
-title: '器械進擊：標準潔思凱合體'
+title: "器械進擊：標準潔思凱合體"
 
-tags: 
- - JerobaMTG
- - Standard
+tags:
+  - JerobaMTG
+  - Standard
 
-excerpt: '大哥，現在怎麼辦？那還用說嗎？當然是合體啊。'
+excerpt: "大哥，現在怎麼辦？那還用說嗎？當然是合體啊。"
 
 cover: "https://i.imgur.com/ITmNCfU.jpg"
 thumbnail: "https://i.imgur.com/ITmNCfU.jpg"
@@ -15,7 +15,8 @@ thumbnail: "https://i.imgur.com/ITmNCfU.jpg"
 categories:
   - Construct
   - Standard
-
+authors:
+  - "JerobaMTG"
 ---
 
 ## Before We Start
@@ -23,7 +24,6 @@ categories:
 ![](https://i.imgur.com/cAO2PuS.png)
 
 在《神河霓朝記》中，可以把神器生物或載具合體成超級機器人的[機體泰坦核心](https://cards.scryfall.io/large/front/7/b/7bdbba95-a743-4686-9070-096a5f73e3cd.jpg)，風味滿點的設計正中機器人動畫世代的紅心。無獨有偶的，《兄弟之戰》推出史上第一張融合黑框旅法[鵬洛客克撒](https://cards.scryfall.io/large/front/4/0/40a01679-3224-427e-bd1d-b797b0ab68b7.jpg)，同樣勾動骨灰玩家情懷。這兩個組合在標準要怎麼玩才玩得動呢？就讓我們來合體一下吧！
-
 
 ## 揚升構念：主題分析
 
@@ -40,15 +40,15 @@ categories:
 
 [護國勳爵克撒](https://cards.scryfall.io/large/front/8/a/8aefe8bd-216a-4ec1-9362-3f9dbf7fd083.jpg)
 
->你施放的神器、瞬間與巫術咒語減少{一}來施放。
->{七}：如果由你同時擁有並操控護國勳爵克撒和一個名稱為強能石與弱能石的神器，則放逐它們，然後將它們融合為鵬洛客克撒。只能於巫術時機起動。
+> 你施放的神器、瞬間與巫術咒語減少{一}來施放。
+> {七}：如果由你同時擁有並操控護國勳爵克撒和一個名稱為強能石與弱能石的神器，則放逐它們，然後將它們融合為鵬洛客克撒。只能於巫術時機起動。
 
 [強能石與弱能石](https://cards.scryfall.io/large/front/0/2/02aea379-b444-46a3-82f4-3038f698d4f4.jpg)
 
->當強能石與弱能石進戰場時，選擇一項～
->‧抽兩張牌。
->‧目標生物得-5/-5直到回合結束。{橫置}：加{無}{無}。此魔法力不能用來施放非神器咒語。
->（與護國勳爵克撒融合。）
+> 當強能石與弱能石進戰場時，選擇一項～
+> ‧抽兩張牌。
+> ‧目標生物得-5/-5直到回合結束。{橫置}：加{無}{無}。此魔法力不能用來施放非神器咒語。
+> （與護國勳爵克撒融合。）
 
 首先我們要進行[機體泰坦核心](https://cards.scryfall.io/large/front/7/b/7bdbba95-a743-4686-9070-096a5f73e3cd.jpg)的合體需要另外四個神器生物/載具，要累積到這個數量基本上有兩條路線：
 
@@ -56,7 +56,6 @@ categories:
 2. 容易展開的神器生物衍生物。
 
 如果[幫派劫庫械](https://cards.scryfall.io/large/front/a/c/acf3f766-f92a-4975-a56d-3647d2f30e7b.jpg)沒被禁的話載具或許是個不錯的路線，現階段誘因只剩[駭流機體](https://cards.scryfall.io/large/front/2/e/2eceedd0-7d2c-47b4-ac35-d4e513594b65.jpg)說實在有些不足，因此我們朝衍生物的方向構組，這個任務[鵬洛客克撒](https://cards.scryfall.io/large/front/4/0/40a01679-3224-427e-bd1d-b797b0ab68b7.jpg)也能做到。然而如果想要克撒進行有效率的合體需要大把魔力，剛好[機體泰坦核心](https://cards.scryfall.io/large/front/7/b/7bdbba95-a743-4686-9070-096a5f73e3cd.jpg)既是神器主題也同樣需要魔力合體，那麼[魔力石](https://cards.scryfall.io/large/front/d/4/d45fe4b6-aeaf-4f84-b660-c7b482ed8512.jpg)路線就是合理的方向。
-
 
 ## 整修充能：套牌構築
 
@@ -77,7 +76,6 @@ categories:
 
 剩下的五個位置我們填入[絲金大師莎希莉](https://cards.scryfall.io/large/front/a/3/a3657562-323c-40d0-a261-d029ed549695.jpg)、[崇史學徒羅蘭](https://cards.scryfall.io/large/front/9/9/9998f898-1f08-481b-8505-b890f0fec5e0.jpg)與[進軍卡拉德許](https://cards.scryfall.io/large/front/4/f/4f7231f6-8adc-4a68-9984-e56b974c087b.jpg)。[絲金大師莎希莉](https://cards.scryfall.io/large/front/a/3/a3657562-323c-40d0-a261-d029ed549695.jpg)的技能組完美契合神器套牌的需求，派出的振翼機衍生物也能作為[機體泰坦核心](https://cards.scryfall.io/large/front/7/b/7bdbba95-a743-4686-9070-096a5f73e3cd.jpg)的合體材料；[崇史學徒羅蘭](https://cards.scryfall.io/large/front/9/9/9998f898-1f08-481b-8505-b890f0fec5e0.jpg)負責回收神器，不僅和[實界晶片](https://cards.scryfall.io/large/front/f/e/fea3088a-b9a0-4396-a03e-e67416392774.jpg)、[護國勳爵克撒](https://cards.scryfall.io/large/front/8/a/8aefe8bd-216a-4ec1-9362-3f9dbf7fd083.jpg)互動良好，還可以和[巨型原身械](https://cards.scryfall.io/large/front/4/2/420f0b81-8b87-4854-9dc4-6da84cc38623.jpg)玩出神器回收循環組合技；[進軍卡拉德許](https://cards.scryfall.io/large/front/4/f/4f7231f6-8adc-4a68-9984-e56b974c087b.jpg)的進場效果雖然不怎麼樣，轉化後的[金鱗旗艦乙太翼號](https://cards.scryfall.io/large/back/4/f/4f7231f6-8adc-4a68-9984-e56b974c087b.jpg)在這副套牌卻是鬼神般的存在，隨隨便便就有6以上的神器飛行打點，有時候光靠它就能輕鬆擊敗對手。
 
-
 ## 全裝上陣：實戰演示
 
 總之套牌列表就是這樣了。
@@ -97,7 +95,6 @@ categories:
 
 [鵬洛客克撒](https://cards.scryfall.io/large/front/4/0/40a01679-3224-427e-bd1d-b797b0ab68b7.jpg)
 {%youtube cXnbDDCQEzU %}
-
 
 ## 結語
 

@@ -11,9 +11,9 @@ thumbnail: "https://i.imgur.com/yeT6cEQ.png"
 categories:
   - "Construct"
   - "Standard"
+authors:
+  - "JerobaMTG"
 ---
-
-
 
 ## Before We Start
 
@@ -44,7 +44,6 @@ categories:
 
 ![](https://i.imgur.com/vfN0c4Y.png)
 
-
 ## 掠盜突襲：實戰演示
 
 {%youtube STka5n3vwzo %}
@@ -52,7 +51,6 @@ categories:
 伊捷海盜的理想場面是[布里奇](https://cards.scryfall.io/large/front/a/a/aadf5028-8dfe-40d3-89b4-22bd7ed0aae6.jpg)+[速騰船長](https://cards.scryfall.io/large/front/1/4/14c65f5a-10bd-4f9b-b816-46c2240b11ff.jpg)的黃金組合，但打牌不可能天天過年，一般情況下多半是飛兵掛武具，在[反抗迸火](https://cards.scryfall.io/large/front/c/d/cd37d1b1-70ce-466e-890d-36be82433035.jpg)等去除掩護下進攻搶血，場面累積個二到三張生物或單兵掛武具可以穩定輸出時就可以視情況扣住生物迴避掃場，被掃場後再利用閃現[馬科姆](https://cards.scryfall.io/large/front/1/9/19d6834d-afa3-4747-a62d-0654f4d9729f.jpg)或敏捷[古墓奇鬼](https://cards.scryfall.io/large/front/0/1/018160fe-f602-43f5-8495-241a08eaa69c.jpg)撿起武具繼續給對手壓力，變身地[不息尖塔](https://cards.scryfall.io/large/front/6/6/66386fe8-9d3c-47f7-9cd3-4cd30051535f.jpg)、[米斯拉的鑄造廠](https://cards.scryfall.io/large/front/d/a/da7699b2-e1af-4bc0-8c5b-84ba3e868d7c.jpg)除了變身費用低廉可以直接拿武具進攻外，也可以用來開動[岩漿巨帆船](https://cards.scryfall.io/large/front/4/4/4471a833-11b9-4146-a9c0-84a6896c94d8.jpg)去撞對手。備牌就反擊、掃場與剋墳能力去做補強，除了常見的[失效](https://cards.scryfall.io/large/front/8/1/81752db1-374e-4723-b695-a2f4a634dfc6.jpg)、[倨傲擊](https://cards.scryfall.io/large/front/5/8/588c6217-c460-417e-98bf-de5475780baf.jpg)、[礫岩齊擊](https://cards.scryfall.io/large/front/c/4/c45a5f4a-2174-4885-aa5a-c4c24cc732f0.jpg)、[點破咒語](https://cards.scryfall.io/large/front/4/7/473e411b-e8d5-4fe0-b62c-58f3a034bf4d.jpg)、[兄弟反目](https://cards.scryfall.io/large/front/5/0/50f7666d-0d60-4fe5-b144-286d4e47b704.jpg)外，剋墳選用適合生物套牌的[無牌靈車](https://cards.scryfall.io/large/front/5/c/5c1a4708-7924-40b4-b6bb-8cc794b0bb0f.jpg)，續戰力的部分則是放入可以噴珍寶又能將珍寶轉變為手牌的[藏寶圖](https://cards.scryfall.io/large/front/a/9/a924fe1e-a85e-4e14-88d2-ac55130638ab.jpg) // [藏寶海灣](https://cards.scryfall.io/large/back/a/9/a924fe1e-a85e-4e14-88d2-ac55130638ab.jpg)，還有就是反制大型生物的[變驢變馬](https://cards.scryfall.io/large/front/5/0/50b96a97-0d7d-4e05-9e2f-0b99a039b655.jpg)。
 
 ![](https://i.imgur.com/JWOJFJr.png)
-
 
 ## 結論
 

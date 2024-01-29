@@ -8,14 +8,13 @@ tags:
 excerpt: "兩個依尼翠環境是否足夠撐起先驅狼人種族呢？"
 cover: "https://i.imgur.com/Sv9G5Pm.jpg"
 thumbnail: "https://i.imgur.com/Sv9G5Pm.jpg"
+authors:
+  - "JerobaMTG"
 ---
-
-
 
 ## Before We Start
 
 自2011年《依尼翠》將狼人做成有系統的種族以來已經過了12個年頭，直到2021年底的《腥紅婚誓》已經累積了相當數量的單卡，即便是牌池較小的先驅也跨了兩個《依尼翠》環境，目前以標準剩餘的系列來看應該不太有機會再補料，那麼在先驅有沒有搞頭呢？我們這就來試試看吧！
-
 
 ## 首領集群：單卡解析
 
@@ -46,13 +45,11 @@ thumbnail: "https://i.imgur.com/Sv9G5Pm.jpg"
 
 ![](https://i.imgur.com/KFgqomB.png)
 
-
 ## 夜狼群之吼：實戰演示
 
 {%youtube mROZOpdDLU4 %}
 
 由於[夜群襲狼](https://cards.scryfall.io/large/front/8/5/85dbd72f-d715-4ddb-8cc4-008926cd0c4f.jpg)的特異性，這副狼人套牌三費以下與四費以上呈現截然不同的樣態，三費以下的曲線是傳統的拍生物進攻型，四費以上進入場面壓制模式，前期如果能順風搶下優勢賺取牌差自然是最好，前期吸收的殺牌也意味著[夜群襲狼](https://cards.scryfall.io/large/front/8/5/85dbd72f-d715-4ddb-8cc4-008926cd0c4f.jpg)擁有更高的存活率，如同影片所示，前期的逆風與中期連續抽地幾乎單靠[夜群襲狼](https://cards.scryfall.io/large/front/8/5/85dbd72f-d715-4ddb-8cc4-008926cd0c4f.jpg)與[易形地窖](https://cards.scryfall.io/large/front/8/4/8455665b-4222-4f1a-96b8-5ba69fa6e730.jpg)撐起戰線，再加上後續抽到的[托瓦拉](https://cards.scryfall.io/large/front/f/9/f953fad3-0cd1-48aa-8ed9-d7d2e293e6e2.jpg)補充牌差並最後給予踐踏貫穿決定勝負。
-
 
 ## 結論
 

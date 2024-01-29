@@ -11,6 +11,8 @@ thumbnail: "https://i.imgur.com/7ApwCck.png"
 categories:
   - "Construct"
   - "Standard"
+authors:
+  - "JerobaMTG"
 ---
 
 ## Before We Start
@@ -18,7 +20,6 @@ categories:
 ![](https://i.imgur.com/lhev73s.png)
 
 《依夏蘭迷窟》上市了！雖然出人意料的不再以種族為主題，不過依夏蘭傳統的四大種族還是獲得一定程度的支援，恐龍套牌更是許多愛好者的首要目標，就讓我們來試組一個版本看看吧！
-
 
 ## 霆群遷徙：單卡解析
 
@@ -42,17 +43,16 @@ categories:
 
 ![](https://i.imgur.com/COo3XEn.png)
 
-
 ## 恐龍狂奔：實戰演示
 
 {%youtube tsnyXN9ISgQ %}
->如果有看影片應該會注意到，不過還是提醒一下，[依夏理記史人](https://cards.scryfall.io/large/front/4/b/4bc94ded-458d-4458-9c0b-136d825b885d.jpg)產出的魔力不能支付恐龍來源觸發式異能的費用，也就是不能拿來付[基撒斯之後伊金斯](https://cards.scryfall.io/large/front/7/1/7112c366-b36a-4bc8-aa64-6bad16bebc39.jpg)的異能費用。
+
+> 如果有看影片應該會注意到，不過還是提醒一下，[依夏理記史人](https://cards.scryfall.io/large/front/4/b/4bc94ded-458d-4458-9c0b-136d825b885d.jpg)產出的魔力不能支付恐龍來源觸發式異能的費用，也就是不能拿來付[基撒斯之後伊金斯](https://cards.scryfall.io/large/front/7/1/7112c366-b36a-4bc8-aa64-6bad16bebc39.jpg)的異能費用。
 
 ![](https://i.imgur.com/nVy1o9f.png)
 ![](https://i.imgur.com/GzuOPIj.png)
 
 由於正編局是因應一般中速對局，備牌局的部分選擇強化敏捷等直擊打點去應對領土等去除掃場強悍的套牌，[霸蛛暴龍](https://cards.scryfall.io/large/front/0/f/0fb52b44-da5f-4f7a-a6c2-7924b855e051.jpg)、[莽闖迅猛龍](https://cards.scryfall.io/large/front/6/4/64b80ddb-ce55-4ebc-b587-77843abc8bad.jpg)就是在此思路下的選牌。功能豐富的[安息鰭背龍](https://cards.scryfall.io/large/front/5/b/5b647377-d47e-4630-8ccc-933ef6127880.jpg)則做為應對不同對手的補充戰力，補血打快攻、中速拆成婚、放墳打堆墳等，如果是需要比拚資源量的對局就是[聚骨駭威龍](https://cards.scryfall.io/large/front/2/2/2220ed60-3f8f-4dd2-8319-6a06896a5350.jpg)的表現時間。所剩不多的位置則置入防點殺的[皇族禮遇](https://cards.scryfall.io/large/front/b/6/b6516b8f-ecfb-401e-ba8e-bf561aa2be64.jpg)以及對付橫向展開的[兄弟反目](https://cards.scryfall.io/large/front/5/0/50f7666d-0d60-4fe5-b144-286d4e47b704.jpg)。
-
 
 ## 結語
 
