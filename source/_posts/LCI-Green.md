@@ -5,7 +5,7 @@ tags:
   - "LCI"
   - "Limited"
   - "cephille"
-  - "kappa"
+  - "Kappa"
   - "JruMTG"
 cover: "https://i.imgur.com/cdtpUhQ.png"
 thumbnail: "https://i.imgur.com/cdtpUhQ.png"
@@ -15,7 +15,7 @@ categories:
   - "LCI-Limited"
 authors:
   - "cephille"
-  - "kappa"
+  - "Kappa"
   - "JruMTG"
 ---
 

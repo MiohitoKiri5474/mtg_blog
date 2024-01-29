@@ -12,6 +12,9 @@ excerpt: "不管你缺恐龍還缺神器，來找紅色就對了！"
 categories:
   - Limited
   - LCI-Limited
+authors:
+  - "JruMTG"
+  - "Kappa"
 ---
 
 依夏蘭迷窟（The Lost Caverns of Ixalan, LCI）將於2023年11月10日舉行售前賽活動，而於隔一週2023年11月17日正式發行，想更了解單卡在限制賽的單卡評分與一些可能的有趣搭配嗎？那就來看看這一系列的LCI限制賽介紹吧！
@@ -21,7 +24,7 @@ categories:
 ## 評分標準
 
 5.0：無條件必拿
-4.0：有首選價值 
+4.0：有首選價值
 3.5：強度夠但不一定要首選
 3.0：高於平均（會很希望他能放進最終牌組）
 2.5：平均水準，maybe輪抽第6、第7 pick左右
@@ -33,7 +36,7 @@ categories:
 ![紅色](https://i.imgur.com/8Nf0OgA.png)
 
 > 紅色各稀有度的數量
-> 
+>
 > C：19
 > U：14
 > R：8
@@ -105,7 +108,7 @@ categories:
 
 ![140](https://cards.scryfall.io/large/front/e/9/e964f026-9cbf-4fa2-acdc-60d19b88f183.jpg?1699044247)
 
-**Jru**：2.5 
+**Jru**：2.5
 
 落墳一次合格，落墳第二次以後開始比較有收益，由於這系列大身材的生物佔比不低，想要讓他強化到在生物戰中有優勢要多費點功夫。
 
@@ -240,7 +243,7 @@ categories:
 題外話，這張卡圖啟蒙了我。(我只是按照卡面台詞朗讀喔)
 
 > **cephile**：
-我沒有要評分，但三費這張結界接四費[自動龍械](https://cards.scryfall.io/large/front/9/d/9de1a93e-ec71-45fa-b0b8-2c21123e390c.jpg?1699044263)然後五回兩隻恐龍打出去生兩個珍寶跳七費真的是太炸了！果然莎希莉會很喜歡！（然後這兩個人的表情超有戲XD）
+> 我沒有要評分，但三費這張結界接四費[自動龍械](https://cards.scryfall.io/large/front/9/d/9de1a93e-ec71-45fa-b0b8-2c21123e390c.jpg?1699044263)然後五回兩隻恐龍打出去生兩個珍寶跳七費真的是太炸了！果然莎希莉會很喜歡！（然後這兩個人的表情超有戲XD）
 
 ![162](https://cards.scryfall.io/large/front/8/b/8bab3f8f-cb06-466d-a35d-0b5e1a2b524c.jpg?1698583122)
 

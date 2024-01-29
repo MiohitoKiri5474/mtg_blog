@@ -1,5 +1,4 @@
 ---
-
 title: "什麼是可複製特徵"
 date: "2023-12-28 21:54:27"
 tags:
@@ -10,6 +9,8 @@ thumbnail: "https://i.imgur.com/cggbVm7.jpg"
 excerpt: "Kiki-Jiki複製一塊成為生物的變身地會得到什麼？"
 categories:
   - "MTG-Rules"
+authors:
+  - "JruMTG"
 ---
 
 ## Before We Start
@@ -19,9 +20,8 @@ categories:
 Layer規則極為深邃，且其中引用的許多規則中，又經常互相引用對方，因此對於該用怎樣的順序才能系統性的介紹這點，筆者也是想破了頭腦...。
 
 最終筆者的答案是：先對較複雜且拋開Layer效應不談也值得介紹的小區塊主題進行單獨講解，再開始完整的Layer結構解析，並將先前介紹的小區塊重新整合進大系統。
- 
-在本篇文章中，我們會優先介紹一切物件的基礎資訊，也就是它的 **「可複製特徵」** ，對於一些需要使用Layer觀念才能完整解析的問題，本文或許不會完整展開，僅先給出簡易理解法，正式的詳細規則解讀會保留至Layer結構正文中。
 
+在本篇文章中，我們會優先介紹一切物件的基礎資訊，也就是它的 **「可複製特徵」** ，對於一些需要使用Layer觀念才能完整解析的問題，本文或許不會完整展開，僅先給出簡易理解法，正式的詳細規則解讀會保留至Layer結構正文中。
 
 ![封面](https://i.imgur.com/4i5NRpI.jpg)
 
@@ -32,7 +32,7 @@ Layer規則極為深邃，且其中引用的許多規則中，又經常互相引
 首先讓我們來看看可複製特徵最核心的規則定義：
 
 - 707.2 當複製某物件時，該複製獲得被複製對象之所有可複製特徵值。
-**「可複製特徵值」意指，從物件上所印製之敘述文字中得知的數值（該類文字包括名稱、魔法力費用、顏色標誌、類別、超類別、副類別、規則敘述、力量、防禦力和/或忠誠值）**；而受到其他複製效應、其牌面朝下的狀態、設定力量和防禦力（以及其他更多特徵）的「於...進入戰場」和「於...翻回正面時」異能之影響。其他效應（包括改變類別和改變文字敘述的效應）、狀態、指示物，以及貼紙均不會被複製。
+  **「可複製特徵值」意指，從物件上所印製之敘述文字中得知的數值（該類文字包括名稱、魔法力費用、顏色標誌、類別、超類別、副類別、規則敘述、力量、防禦力和/或忠誠值）**；而受到其他複製效應、其牌面朝下的狀態、設定力量和防禦力（以及其他更多特徵）的「於...進入戰場」和「於...翻回正面時」異能之影響。其他效應（包括改變類別和改變文字敘述的效應）、狀態、指示物，以及貼紙均不會被複製。
 
 ![](https://cards.scryfall.io/large/front/d/6/d67be074-cdd4-41d9-ac89-0a0456c4e4b2.jpg?1674057568)
 
@@ -68,45 +68,49 @@ Layer規則極為深邃，且其中引用的許多規則中，又經常互相引
 
 {% notel blue 複製咒語案例1 %}
 ![複製瞬間0](https://i.imgur.com/NDf68Tx.jpg)
->[復詠法師](https://scryfall.com/card/2xm/124/dualcaster-mage)：當復詠法師進戰場時，複製目標瞬間或巫術咒語。你可以為該複製品選擇新的目標。
->[抉擇](https://scryfall.com/card/xln/65/opt)：占卜1。抽一張牌。
->[年輕烈焰術士](https://scryfall.com/card/2x2/131/young-pyromancer)：每當你施放瞬間或巫術咒語時，派出一個1/1紅色元素衍生生物。
+
+> [復詠法師](https://scryfall.com/card/2xm/124/dualcaster-mage)：當復詠法師進戰場時，複製目標瞬間或巫術咒語。你可以為該複製品選擇新的目標。
+> [抉擇](https://scryfall.com/card/xln/65/opt)：占卜1。抽一張牌。
+> [年輕烈焰術士](https://scryfall.com/card/2x2/131/young-pyromancer)：每當你施放瞬間或巫術咒語時，派出一個1/1紅色元素衍生生物。
 
 當你使用復詠法師的ETB異能複製抉擇時，因為複製的咒語並沒有被施放，因此無法觸發年輕烈焰術士的施放觸發異能。
 {% endnotel %}
 
 {% notel blue 複製咒語案例2 %}
 ![複製瞬間1](https://i.imgur.com/qglhKQ0.jpg)
->[復詠法師](https://scryfall.com/card/2xm/124/dualcaster-mage)：當復詠法師進戰場時，複製目標瞬間或巫術咒語。你可以為該複製品選擇新的目標。
->[投擲](https://scryfall.com/card/eld/126/fling)：犧牲一個生物，以作為施放此咒語的額外費用。投擲對任意一個目標造成傷害，其數量等同於所犧牲生物的力量。
->[取自明日](https://scryfall.com/card/2x2/62/pull-from-tomorrow)：抽X張牌，然後棄一張牌。
+
+> [復詠法師](https://scryfall.com/card/2xm/124/dualcaster-mage)：當復詠法師進戰場時，複製目標瞬間或巫術咒語。你可以為該複製品選擇新的目標。
+> [投擲](https://scryfall.com/card/eld/126/fling)：犧牲一個生物，以作為施放此咒語的額外費用。投擲對任意一個目標造成傷害，其數量等同於所犧牲生物的力量。
+> [取自明日](https://scryfall.com/card/2x2/62/pull-from-tomorrow)：抽X張牌，然後棄一張牌。
 
 無論是投擲可以造成的傷害數值，或是取自明日的X變量，都屬於這個咒語的可複製特徵，好比說你施放了X=4的取自明日並複製了一次，那就是做兩次抽4棄1。另外要注意的是，投擲的犧牲一個生物是它的費用，不是它的效果，費用是不會被複製的，所以當你複製了投擲時，就是單純的再選一個目標打同樣的傷害，類似的配合還有[電流迭變](https://scryfall.com/card/mid/224/galvanic-iteration)+[大幹一票](https://scryfall.com/card/snc/102/big-score)。
 {% endnotel %}
 
 {% notel blue 複製咒語案例3 %}
 ![複製瞬間2](https://i.imgur.com/FqM4LH5.jpg)
->[復詠法師](https://scryfall.com/card/2xm/124/dualcaster-mage)：當復詠法師進戰場時，複製目標瞬間或巫術咒語。你可以為該複製品選擇新的目標。
->[速速退離](https://scryfall.com/card/lci/14/get-lost)：消滅目標生物、結界或鵬洛客，其操控者派出兩個地圖衍生物。
->[消滅邪物](https://scryfall.com/card/dmu/17/destroy-evil)：選擇一項～
-•消滅目標防禦力等於或大於4的生物。
-•消滅目標結界。
+
+> [復詠法師](https://scryfall.com/card/2xm/124/dualcaster-mage)：當復詠法師進戰場時，複製目標瞬間或巫術咒語。你可以為該複製品選擇新的目標。
+> [速速退離](https://scryfall.com/card/lci/14/get-lost)：消滅目標生物、結界或鵬洛客，其操控者派出兩個地圖衍生物。
+> [消滅邪物](https://scryfall.com/card/dmu/17/destroy-evil)：選擇一項～
+> •消滅目標防禦力等於或大於4的生物。
+> •消滅目標結界。
 
 複製咒語時會複製為其所做的所有決定，這其中就包括模式。速速退離在施放時沒有任何模式選擇，當你使用復詠法師複製速速退離時，可以自由選擇要以哪個生物、結界、鵬洛客為目標；但消滅邪物就不同了，他在施放時就會選擇模式，並讓這個模式成為此咒語的可複製特徵，因此假設原版的消滅邪物施放時選擇「消滅目標結界」，你複製了這發消滅邪物，也只能以結界為目標，沒辦法選擇「消滅目標防禦力等於或大於4的生物」。
 {% endnotel %}
 
 {% notel blue 複製咒語案例4 %}
 ![複製瞬間3](https://i.imgur.com/mLHEAQ4.jpg)
->[復詠法師](https://scryfall.com/card/2xm/124/dualcaster-mage)：當復詠法師進戰場時，複製目標瞬間或巫術咒語。你可以為該複製品選擇新的目標。
->[記憶奔騰](https://scryfall.com/card/mid/62/memory-deluge)：檢視你牌庫頂的X張牌，X為施放此咒語時所支付的魔法力數量。將其中兩張置於你手上，其餘的牌則以隨機順序置於你的牌庫底。
->[虹彩終局](https://scryfall.com/card/mh2/25/prismatic-ending)：聚輝～如果目標非地永久物的魔法力值等於或小於施放此咒語時用來支付費用的魔法力顏色數量，則放逐該非地永久物。
+
+> [復詠法師](https://scryfall.com/card/2xm/124/dualcaster-mage)：當復詠法師進戰場時，複製目標瞬間或巫術咒語。你可以為該複製品選擇新的目標。
+> [記憶奔騰](https://scryfall.com/card/mid/62/memory-deluge)：檢視你牌庫頂的X張牌，X為施放此咒語時所支付的魔法力數量。將其中兩張置於你手上，其餘的牌則以隨機順序置於你的牌庫底。
+> [虹彩終局](https://scryfall.com/card/mh2/25/prismatic-ending)：聚輝～如果目標非地永久物的魔法力值等於或小於施放此咒語時用來支付費用的魔法力顏色數量，則放逐該非地永久物。
 
 還有一種容易被誤會是可複製特徵的資訊，那就是施放咒語時所支付的魔法力費用，以上面[取自明日](https://scryfall.com/card/2x2/62/pull-from-tomorrow)的例子來說，實際上被複製的是你宣告的X值，而不是你總共花了多少費用來施放這個咒語，正常X=4的取自明日要6費，或許你因為[瑟班守護者莎利雅](https://scryfall.com/card/vow/38/thalia-guardian-of-thraben)的存在花了7費才施放，但這些都跟可複製特徵沒關係，它只會在意你的X是多少。
 
 回到此案例的狀況，當你複製一發記憶奔騰時，遊戲根本檢查不到你的原版花了幾費施放，只會知道這發複製的記憶奔騰施放時沒有花費用（也可以說是0費），因此結算的結果就是看牌庫頂0張牌；複製虹彩終局也是同理，這發複製品就只能放逐0費的非地永久物，好消息是起碼不是完全沒用，或許還是能殺個Token之類的。
 
->此外都提到瑟班守護者莎利雅&虹彩終局了，就順便說個與他們有關的規則處理：
->虹彩終局可以以任何非地永久物為目標施放，只是結算時如果那個永久物的費用大於聚輝顏色數，就不會產生任何效果，而被瑟班守護者莎利雅增加的咒語費用，同樣是你施放這個咒語時所支付的費用，因此如果你想要使用虹彩終局處理瑟班守護者莎利雅，可以宣言X=0，之後被莎利雅增加1費，實際上依舊是支付2費來施放，只要你這2費包含兩種顏色，就能順利除掉莎利雅。
+> 此外都提到瑟班守護者莎利雅&虹彩終局了，就順便說個與他們有關的規則處理：
+> 虹彩終局可以以任何非地永久物為目標施放，只是結算時如果那個永久物的費用大於聚輝顏色數，就不會產生任何效果，而被瑟班守護者莎利雅增加的咒語費用，同樣是你施放這個咒語時所支付的費用，因此如果你想要使用虹彩終局處理瑟班守護者莎利雅，可以宣言X=0，之後被莎利雅增加1費，實際上依舊是支付2費來施放，只要你這2費包含兩種顏色，就能順利除掉莎利雅。
 
 {% endnotel %}
 
@@ -120,17 +124,19 @@ Layer規則極為深邃，且其中引用的許多規則中，又經常互相引
 
 {% notel blue 複製永久物案例1 %}
 ![707.2a](https://i.imgur.com/sUpt2U8.jpg)
->[食夢史芬斯](https://scryfall.com/card/grn/38/dream-eater)：是個6費生物。
->[偽體擬形](https://scryfall.com/card/grn/51/quasiduplicate)：派出一個衍生物，此衍生物為目標由你操控的生物之複製品。
->[煤煙儀式](https://scryfall.com/card/grn/84/ritual-of-soot)：消滅所有總魔法力值等於或小於3的生物。
+
+> [食夢史芬斯](https://scryfall.com/card/grn/38/dream-eater)：是個6費生物。
+> [偽體擬形](https://scryfall.com/card/grn/51/quasiduplicate)：派出一個衍生物，此衍生物為目標由你操控的生物之複製品。
+> [煤煙儀式](https://scryfall.com/card/grn/84/ritual-of-soot)：消滅所有總魔法力值等於或小於3的生物。
 
 雖然一般來講Token的魔法力值（Mana Value）都是0，但如果是一個永久物的複製品Token，則會連同魔法力值也一起複製，因為魔法力費用也是可複製特徵之一。好比說現在我用偽體擬形派出了一個食夢史芬斯的複製品Token，這Token一樣是一個6費的生物，並不會被煤煙儀式消滅。
 {% endnotel %}
 
 {% notel blue 複製永久物案例2 %}
 ![707.2](https://i.imgur.com/kYHDHs3.jpg)
->[奇奇幾奇映影](https://scryfall.com/card/neo/141/fable-of-the-mirror-breaker-reflection-of-kiki-jiki?back)：{T}：派出一個衍生物，此衍生物為另一個目標由你操控且非傳奇的生物之複製品，但它具有敏捷異能。在下一個結束步驟開始時，將它犧牲。
->[幫派劫庫械](https://scryfall.com/card/neo/255/reckoner-bankbuster)：是個載具。
+
+> [奇奇幾奇映影](https://scryfall.com/card/neo/141/fable-of-the-mirror-breaker-reflection-of-kiki-jiki?back)：{T}：派出一個衍生物，此衍生物為另一個目標由你操控且非傳奇的生物之複製品，但它具有敏捷異能。在下一個結束步驟開始時，將它犧牲。
+> [幫派劫庫械](https://scryfall.com/card/neo/255/reckoner-bankbuster)：是個載具。
 
 假設目前幫派劫庫械已經透過搭載異能變成生物，現在我使用奇奇幾奇映影的異能派出一個幫派劫庫械的複製品，它會是個生物嗎？
 
@@ -143,9 +149,10 @@ Layer規則極為深邃，且其中引用的許多規則中，又經常互相引
 
 {% notel blue 複製永久物案例3 %}
 ![OKO](https://i.imgur.com/ksaNcmi.jpg)
->[竊冠甌柯（+1）](https://scryfall.com/card/eld/197/oko-thief-of-crowns)：目標神器或生物失去所有異能，且成為基礎力量與防禦力為3/3的綠色麋鹿生物。
->[金鵝](https://scryfall.com/card/eld/160/gilded-goose)：複製對象生物。
->[鏡身影](https://scryfall.com/card/j22/62/mirror-image)：你可以使鏡身影當成任一由你操控之生物的複製品來進入戰場。
+
+> [竊冠甌柯（+1）](https://scryfall.com/card/eld/197/oko-thief-of-crowns)：目標神器或生物失去所有異能，且成為基礎力量與防禦力為3/3的綠色麋鹿生物。
+> [金鵝](https://scryfall.com/card/eld/160/gilded-goose)：複製對象生物。
+> [鏡身影](https://scryfall.com/card/j22/62/mirror-image)：你可以使鏡身影當成任一由你操控之生物的複製品來進入戰場。
 
 我有一隻金鵝，被竊冠甌柯的+1能力變成一隻3/3麋鹿，現在我讓鏡身影做為這個變成麋鹿的金鵝的複製品進場，鏡身影會長甚麼樣子？
 
@@ -154,18 +161,20 @@ Layer規則極為深邃，且其中引用的許多規則中，又經常互相引
 
 {% notel blue 複製永久物案例4 %}
 ![魔戒](https://i.imgur.com/GVJyADd.jpg)
->[竊冠甌柯（+1）](https://scryfall.com/card/eld/197/oko-thief-of-crowns)：目標神器或生物失去所有異能，且成為基礎力量與防禦力為3/3的綠色麋鹿生物。
->[至尊魔戒](https://scryfall.com/card/ltr/246/the-one-ring)：一個非生物傳奇神器。
->[鏡身影](https://scryfall.com/card/j22/62/mirror-image)：你可以使鏡身影當成任一由你操控之生物的複製品來進入戰場。
+
+> [竊冠甌柯（+1）](https://scryfall.com/card/eld/197/oko-thief-of-crowns)：目標神器或生物失去所有異能，且成為基礎力量與防禦力為3/3的綠色麋鹿生物。
+> [至尊魔戒](https://scryfall.com/card/ltr/246/the-one-ring)：一個非生物傳奇神器。
+> [鏡身影](https://scryfall.com/card/j22/62/mirror-image)：你可以使鏡身影當成任一由你操控之生物的複製品來進入戰場。
 
 同樣是竊冠甌柯的+1，現在變成麋鹿的對象是我的至尊魔戒，因為至尊魔戒成為生物了，所以我可以讓鏡身影作為至尊魔戒的複製品進場，不過與上一題的原理相同，因為竊冠甌柯不會改變可複製特徵，所以鏡身影最終落地時會是個正常的至尊魔戒，而不是綠色3/3麋鹿，此外竊冠甌柯並不會消去卡名與傳奇類別，因此現在我操控著兩個同樣名為至尊魔戒的傳奇永久物，基於傳奇規則我必須要犧牲到剩下一個為止。
 {% endnotel %}
 
 {% notel blue 複製永久物案例5 %}
 ![707.3](https://i.imgur.com/2Xy7jI8.jpg)
->[無名城哨衛](https://scryfall.com/card/lci/211/sentinel-of-the-nameless-city)：複製對象生物。
->[深澗念世靈](https://scryfall.com/card/lci/228/deepfathom-echo)：在你回合的戰鬥開始時，令深澗念世靈勘察。然後你可以使它成為另一個由你操控的生物之複製品直到回合結束。
->[鏡身影](https://scryfall.com/card/j22/62/mirror-image)：你可以使鏡身影當成任一由你操控之生物的複製品來進入戰場。
+
+> [無名城哨衛](https://scryfall.com/card/lci/211/sentinel-of-the-nameless-city)：複製對象生物。
+> [深澗念世靈](https://scryfall.com/card/lci/228/deepfathom-echo)：在你回合的戰鬥開始時，令深澗念世靈勘察。然後你可以使它成為另一個由你操控的生物之複製品直到回合結束。
+> [鏡身影](https://scryfall.com/card/j22/62/mirror-image)：你可以使鏡身影當成任一由你操控之生物的複製品來進入戰場。
 
 假設我先讓深澗念世靈透過自己的能力，變成無名城哨衛的複製品直到回合結束，再讓鏡身影做為（目前是無名城哨衛複製品的）深澗念世靈複製品進場，我的鏡身影現在長怎樣？回合結束時會發生變化嗎？
 
@@ -176,9 +185,10 @@ Layer規則極為深邃，且其中引用的許多規則中，又經常互相引
 
 {% notel blue 複製永久物案例6 %}
 ![707.4](https://i.imgur.com/I5lpEkt.jpg)
->[無名城哨衛](https://scryfall.com/card/lci/211/sentinel-of-the-nameless-city)：複製對象生物。
->[深澗念世靈](https://scryfall.com/card/lci/228/deepfathom-echo)：在你回合的戰鬥開始時，令深澗念世靈勘察。然後你可以使它成為另一個由你操控的生物之複製品直到回合結束。
->[巨力成長](https://scryfall.com/card/woe/191/titanic-growth)：目標生物得+4/+4直到回合結束。
+
+> [無名城哨衛](https://scryfall.com/card/lci/211/sentinel-of-the-nameless-city)：複製對象生物。
+> [深澗念世靈](https://scryfall.com/card/lci/228/deepfathom-echo)：在你回合的戰鬥開始時，令深澗念世靈勘察。然後你可以使它成為另一個由你操控的生物之複製品直到回合結束。
+> [巨力成長](https://scryfall.com/card/woe/191/titanic-growth)：目標生物得+4/+4直到回合結束。
 
 深澗念世靈當下身材為初始的4/4，對其使用巨力成長讓它變成8/8，然後使用自己的異能成為身材為3/4的無名城哨衛複製品（假設勘察到了地牌，不影響身材），那麼深澗念世靈現在身材是多少？
 
@@ -189,9 +199,10 @@ Layer規則極為深邃，且其中引用的許多規則中，又經常互相引
 
 {% notel blue 複製永久物案例7 %}
 ![707.5](https://i.imgur.com/LwVrJ3n.jpg)
->[珠寶盜賊](https://scryfall.com/card/snc/151/jewel-thief)：當珠寶盜賊進戰場時，派出一個珍寶衍生物。
->[鏡身影](https://scryfall.com/card/j22/62/mirror-image)：你可以使鏡身影當成任一由你操控之生物的複製品來進入戰場。
->[深澗念世靈](https://scryfall.com/card/lci/228/deepfathom-echo)：在你回合的戰鬥開始時，令深澗念世靈勘察。然後你可以使它成為另一個由你操控的生物之複製品直到回合結束。
+
+> [珠寶盜賊](https://scryfall.com/card/snc/151/jewel-thief)：當珠寶盜賊進戰場時，派出一個珍寶衍生物。
+> [鏡身影](https://scryfall.com/card/j22/62/mirror-image)：你可以使鏡身影當成任一由你操控之生物的複製品來進入戰場。
+> [深澗念世靈](https://scryfall.com/card/lci/228/deepfathom-echo)：在你回合的戰鬥開始時，令深澗念世靈勘察。然後你可以使它成為另一個由你操控的生物之複製品直到回合結束。
 
 我分別讓鏡身影做為珠寶盜賊的複製品進場，以及讓深澗念世靈成為珠寶盜賊的複製品，可以得到珍寶Token嗎？
 
@@ -202,9 +213,10 @@ Layer規則極為深邃，且其中引用的許多規則中，又經常互相引
 
 {% notel blue 複製永久物案例8 %}
 ![707.6](https://i.imgur.com/ikrcj3m.jpg)
->[靈魂洞窟](https://scryfall.com/card/lci/269/cavern-of-souls)：於靈魂洞窟進戰場時，選擇一個生物類別。
->[維蘇瓦](https://scryfall.com/card/tsr/289/vesuva)：你可以使維蘇瓦當成戰場上任一地的複製品來進入戰場。
->[悲劇舞台](https://scryfall.com/card/2xm/327/thespians-stage)：{2}，{T}：悲劇舞台成為目標地之複製品，且獲得此異能。
+
+> [靈魂洞窟](https://scryfall.com/card/lci/269/cavern-of-souls)：於靈魂洞窟進戰場時，選擇一個生物類別。
+> [維蘇瓦](https://scryfall.com/card/tsr/289/vesuva)：你可以使維蘇瓦當成戰場上任一地的複製品來進入戰場。
+> [悲劇舞台](https://scryfall.com/card/2xm/327/thespians-stage)：{2}，{T}：悲劇舞台成為目標地之複製品，且獲得此異能。
 
 那麼如果把題目改成靈魂洞窟進場時喊了元素類別，讓維蘇瓦做為靈魂洞窟的複製品進場，以及讓悲劇舞台成為靈魂洞窟的複製品，分別會變成甚麼樣子？
 
@@ -215,9 +227,10 @@ Layer規則極為深邃，且其中引用的許多規則中，又經常互相引
 
 {% notel blue 複製永久物案例9 %}
 ![707.9a](https://i.imgur.com/PodTJVS.jpg)
->[非瑞克西亞大無畏戰艦](https://scryfall.com/card/g10/3/phyrexian-dreadnought)：當非瑞克西亞大無畏戰艦進戰場時，除非你犧牲力量總和大於等於12的任意數量生物，否則將它犧牲。
->[形蹤掠奪靈](https://scryfall.com/card/woe/208/likeness-looter)：{X}：選擇目標在你墳墓場中且魔法力值為X的生物牌。形蹤掠奪靈成為該牌的複製品，但它具有飛行與此異能。只能於巫術時機起動。
->[鏡身影](https://scryfall.com/card/j22/62/mirror-image)：你可以使鏡身影當成任一由你操控之生物的複製品來進入戰場。
+
+> [非瑞克西亞大無畏戰艦](https://scryfall.com/card/g10/3/phyrexian-dreadnought)：當非瑞克西亞大無畏戰艦進戰場時，除非你犧牲力量總和大於等於12的任意數量生物，否則將它犧牲。
+> [形蹤掠奪靈](https://scryfall.com/card/woe/208/likeness-looter)：{X}：選擇目標在你墳墓場中且魔法力值為X的生物牌。形蹤掠奪靈成為該牌的複製品，但它具有飛行與此異能。只能於巫術時機起動。
+> [鏡身影](https://scryfall.com/card/j22/62/mirror-image)：你可以使鏡身影當成任一由你操控之生物的複製品來進入戰場。
 
 假設我讓形蹤掠奪靈成為墳場中非瑞克西亞大無畏戰艦的複製品，再讓鏡身影做為形蹤掠奪靈的複製品進場，結果會如何？
 
@@ -229,9 +242,10 @@ Layer規則極為深邃，且其中引用的許多規則中，又經常互相引
 
 {% notel blue 複製永久物案例10 %}
 ![額外類別](https://i.imgur.com/OzHU46v.jpg)
->[靈念伴侶](https://scryfall.com/card/cmm/838/spirited-companion)：當靈念伴侶進戰場時，抽一張牌。
->[璃池擬態妖](https://scryfall.com/card/znr/60/glasspool-mimic-glasspool-shore)：你可以使璃池擬態妖當成任一由你操控的生物之複製品來進入戰場，但它額外具有「變形獸／浪客」此兩個類別。
->[鏡身影](https://scryfall.com/card/j22/62/mirror-image)：你可以使鏡身影當成任一由你操控之生物的複製品來進入戰場。
+
+> [靈念伴侶](https://scryfall.com/card/cmm/838/spirited-companion)：當靈念伴侶進戰場時，抽一張牌。
+> [璃池擬態妖](https://scryfall.com/card/znr/60/glasspool-mimic-glasspool-shore)：你可以使璃池擬態妖當成任一由你操控的生物之複製品來進入戰場，但它額外具有「變形獸／浪客」此兩個類別。
+> [鏡身影](https://scryfall.com/card/j22/62/mirror-image)：你可以使鏡身影當成任一由你操控之生物的複製品來進入戰場。
 
 - 707.9 複製效應可能會對複製過程添加修改或例外。
 - 707.9b 一些複製效應在複製過程中修改特徵。該特徵的一組最終值成為該複製的可複製特徵值的一部分。
@@ -241,12 +255,13 @@ Layer規則極為深邃，且其中引用的許多規則中，又經常互相引
 
 {% notel blue 複製永久物案例11 %}
 ![基定](https://i.imgur.com/3XguZY9.jpg)
->[基定尤拉（0）](https://scryfall.com/card/cmm/822/gideon-jura)：
->直到回合結束，基定尤拉成為6/6的人類／士兵生物，且仍然是鵬洛客。 防止本回合中將對他造成的所有傷害。
->[烏鋒基定](https://scryfall.com/card/war/13/gideon-blackblade)：
->只要是在你的回合中，烏鋒基定便是4/4，具不滅異能的人類／士兵生物，且仍然是鵬洛客。
->[火花替身](https://scryfall.com/card/war/68/spark-double)：
->你可以使火花替身當成任一由你操控之生物或鵬洛客的複製品來進入戰場，但如果該永久物是傳奇，則火花替身不是傳奇，且如果火花替身是生物，則它進戰場時上面額外有一個+1/+1指示物，且如果火花替身是鵬洛客，則它進戰場時上面額外有一個忠誠指示物。
+
+> [基定尤拉（0）](https://scryfall.com/card/cmm/822/gideon-jura)：
+> 直到回合結束，基定尤拉成為6/6的人類／士兵生物，且仍然是鵬洛客。 防止本回合中將對他造成的所有傷害。
+> [烏鋒基定](https://scryfall.com/card/war/13/gideon-blackblade)：
+> 只要是在你的回合中，烏鋒基定便是4/4，具不滅異能的人類／士兵生物，且仍然是鵬洛客。
+> [火花替身](https://scryfall.com/card/war/68/spark-double)：
+> 你可以使火花替身當成任一由你操控之生物或鵬洛客的複製品來進入戰場，但如果該永久物是傳奇，則火花替身不是傳奇，且如果火花替身是生物，則它進戰場時上面額外有一個+1/+1指示物，且如果火花替身是鵬洛客，則它進戰場時上面額外有一個忠誠指示物。
 
 讓我們來個中途小統整，應用前面提到的規則來回答這題。現在在我的回合，我有因為（0）異能成為生物的基定尤拉，以及因為靜止式異能自動成為生物的烏鋒基定，火花替身分別以這兩個基定的複製品進場，這火花替身最後會是甚麼樣子？
 
@@ -259,8 +274,9 @@ Layer規則極為深邃，且其中引用的許多規則中，又經常互相引
 
 {% notel blue 複製永久物案例12 %}
 ![貓車歐尼希茲](https://i.imgur.com/wUfL4xy.jpg)
->[魔頭歐尼希茲](https://scryfall.com/card/snc/206/ob-nixilis-the-adversary)：催命X。該複製品不是傳奇，且起始忠誠為X。（於你施放此咒語時，你可以犧牲一個力量為X的生物。當你如此作時，複製此咒語。所成之複製品會成為衍生物。）
->[埃西卡的戰車](https://scryfall.com/card/khm/169/esikas-chariot)：每當埃西卡的戰車攻擊時，派出一個衍生物，此衍生物為目標由你操控之衍生物的複製品。
+
+> [魔頭歐尼希茲](https://scryfall.com/card/snc/206/ob-nixilis-the-adversary)：催命X。該複製品不是傳奇，且起始忠誠為X。（於你施放此咒語時，你可以犧牲一個力量為X的生物。當你如此作時，複製此咒語。所成之複製品會成為衍生物。）
+> [埃西卡的戰車](https://scryfall.com/card/khm/169/esikas-chariot)：每當埃西卡的戰車攻擊時，派出一個衍生物，此衍生物為目標由你操控之衍生物的複製品。
 
 說到派出非傳奇鵬洛客Token，歐尼醬貓車也是一個經典案例。魔頭歐尼希茲的催命會改變最終產出Token的特徵，失去傳奇類別這點好理解，結算後的歐尼希茲Token起始忠誠為催命時定義的X這點也好理解（先假設催命時犧牲的是[遠古祖神](https://scryfall.com/card/lci/222/the-ancient-one)，X為8好了），但是我如果用埃西卡的戰車派出一個歐尼希茲Token，這個Token的複製品Token起始忠誠是3還是8呢？
 
@@ -269,9 +285,10 @@ Layer規則極為深邃，且其中引用的許多規則中，又經常互相引
 
 {% notel blue 複製永久物案例13 %}
 ![707.9e](https://i.imgur.com/F1dnmCG.jpg)
->[靈念伴侶](https://scryfall.com/card/cmm/838/spirited-companion)：當靈念伴侶進戰場時，抽一張牌。
->[鏡身影](https://scryfall.com/card/j22/62/mirror-image)：你可以使鏡身影當成任一由你操控之生物的複製品來進入戰場。
->[另我離影](https://scryfall.com/card/soi/241/altered-ego)：你可以使另我離影當成戰場上任一生物的複製品來進入戰場，但它進戰場時上面額外有X個+1/+1指示物。
+
+> [靈念伴侶](https://scryfall.com/card/cmm/838/spirited-companion)：當靈念伴侶進戰場時，抽一張牌。
+> [鏡身影](https://scryfall.com/card/j22/62/mirror-image)：你可以使鏡身影當成任一由你操控之生物的複製品來進入戰場。
+> [另我離影](https://scryfall.com/card/soi/241/altered-ego)：你可以使另我離影當成戰場上任一生物的複製品來進入戰場，但它進戰場時上面額外有X個+1/+1指示物。
 
 - 707.9e 一些產生複製效應的替代效應包含一個本身為額外效應的例外（而非對受影響物件之特徵的修改）。如果另一個複製效應在具此類例外的複製效應生效後對該物件生效，則該例外的效應不會發生。
 
@@ -280,8 +297,9 @@ Layer規則極為深邃，且其中引用的許多規則中，又經常互相引
 
 {% notel blue 複製永久物案例14 %}
 ![707.9f](https://i.imgur.com/HSa5CE8.jpg)
->[冰霜摩立特](https://scryfall.com/card/khm/223/moritte-of-the-frost)：你可以使冰霜摩立特當成任一由你操控之永久物的複製品來進入戰場，但它額外具有傳奇與雪境此兩種類別，且如果它是生物，則它進戰場時上面額外有兩個+1/+1指示物並具有化形異能。
->[多頭蛇蜥巢穴](https://scryfall.com/card/afr/259/lair-of-the-hydra)：{X}{G}：直到回合結束，多頭蛇蜥巢穴成為X/X綠色多頭龍生物。它仍然是地。X不能為0。
+
+> [冰霜摩立特](https://scryfall.com/card/khm/223/moritte-of-the-frost)：你可以使冰霜摩立特當成任一由你操控之永久物的複製品來進入戰場，但它額外具有傳奇與雪境此兩種類別，且如果它是生物，則它進戰場時上面額外有兩個+1/+1指示物並具有化形異能。
+> [多頭蛇蜥巢穴](https://scryfall.com/card/afr/259/lair-of-the-hydra)：{X}{G}：直到回合結束，多頭蛇蜥巢穴成為X/X綠色多頭龍生物。它仍然是地。X不能為0。
 
 假設我先讓讓多頭蛇蜥巢穴成為1/1的多頭龍地生物，再讓冰霜摩立特做為多頭蛇蜥巢穴的複製品進場，這時的冰霜摩立特特徵如何？
 
@@ -298,8 +316,9 @@ Layer規則極為深邃，且其中引用的許多規則中，又經常互相引
 
 {% notel blue 複製雙面永久物案例1 %}
 ![707.8](https://i.imgur.com/BnkMpgr.jpg)
->[墓地擅闖客/墓地飽食獸](https://scryfall.com/card/mid/104/graveyard-trespasser-graveyard-glutton)：一個轉化式雙面生物牌。（以下簡稱黑狼人）
->[鏡身影](https://scryfall.com/card/j22/62/mirror-image)：你可以使鏡身影當成任一由你操控之生物的複製品來進入戰場。
+
+> [墓地擅闖客/墓地飽食獸](https://scryfall.com/card/mid/104/graveyard-trespasser-graveyard-glutton)：一個轉化式雙面生物牌。（以下簡稱黑狼人）
+> [鏡身影](https://scryfall.com/card/j22/62/mirror-image)：你可以使鏡身影當成任一由你操控之生物的複製品來進入戰場。
 
 - 707.8 複製已融合的永久物或其他雙面牌時，使用該永久物當前面朝上的可複製特徵值來決定複製品的特徵。
 
@@ -308,8 +327,9 @@ Layer規則極為深邃，且其中引用的許多規則中，又經常互相引
 
 {% notel blue 複製雙面永久物案例2 %}
 ![707.8a](https://i.imgur.com/TDIysw9.jpg)
->[墓地擅闖客/墓地飽食獸](https://scryfall.com/card/mid/104/graveyard-trespasser-graveyard-glutton)：一個轉化式雙面生物牌。（以下簡稱黑狼人）
->[偽體擬形](https://scryfall.com/card/grn/51/quasiduplicate)：派出一個衍生物，此衍生物為目標由你操控的生物之複製品。
+
+> [墓地擅闖客/墓地飽食獸](https://scryfall.com/card/mid/104/graveyard-trespasser-graveyard-glutton)：一個轉化式雙面生物牌。（以下簡稱黑狼人）
+> [偽體擬形](https://scryfall.com/card/grn/51/quasiduplicate)：派出一個衍生物，此衍生物為目標由你操控的生物之複製品。
 
 - 707.8a 若一個效應派出一個衍生物，且其為某轉化式永久物或某不在戰場上的轉化式雙面牌之複製品，則派出的衍生物為同時具有正面和背面的轉化式衍生物。每個面的特徵由其複製的永久物對應面之可複製特徵值決定，並受對該永久物生效的其他複製效應影響。若該衍生物為某背面朝上的轉化式永久物之複製品，則其進戰場時背面朝上。此規則不適用於根據自身特徵派出，但由於某替代性效應作為一個轉化式永久物的複製品進戰場之衍生物。
 
@@ -320,8 +340,9 @@ Layer規則極為深邃，且其中引用的許多規則中，又經常互相引
 
 {% notel blue 複製雙面永久物案例3 %}
 ![恐怖玩具屋](https://i.imgur.com/VkBBEaJ.jpg)
->[墓地擅闖客/墓地飽食獸](https://scryfall.com/card/mid/104/graveyard-trespasser-graveyard-glutton)：一個轉化式雙面生物牌。（以下簡稱黑狼人）
->[恐怖玩具屋](https://scryfall.com/card/vow/255/dollhouse-of-horrors)：{1}，{T}，從你的墳墓場放逐一張生物牌：派出一個衍生物，此衍生物為所放逐之牌的複製品，但它是0/0組構體神器，仍具有原本類別，且具有「你每操控一個組構體，此生物便得+1/+1。」它獲得敏捷異能直到回合結束。只能於巫術時機起動。
+
+> [墓地擅闖客/墓地飽食獸](https://scryfall.com/card/mid/104/graveyard-trespasser-graveyard-glutton)：一個轉化式雙面生物牌。（以下簡稱黑狼人）
+> [恐怖玩具屋](https://scryfall.com/card/vow/255/dollhouse-of-horrors)：{1}，{T}，從你的墳墓場放逐一張生物牌：派出一個衍生物，此衍生物為所放逐之牌的複製品，但它是0/0組構體神器，仍具有原本類別，且具有「你每操控一個組構體，此生物便得+1/+1。」它獲得敏捷異能直到回合結束。只能於巫術時機起動。
 
 再讓我們把前面提到的規則整合一下，如果派出一個轉化式雙面永久物/牌的複製品Token，又對這Token做了特徵修改時會怎麼樣。
 
@@ -334,9 +355,10 @@ Layer規則極為深邃，且其中引用的許多規則中，又經常互相引
 
 {% notel blue 複製雙面永久物案例4 %}
 ![鎖血天使](https://i.imgur.com/qqCgz80.jpg)
->[死靈奇才盧德維](https://scryfall.com/card/mid/233/ludevic-necrogenius-olag-ludevics-hubris)：可以轉化成盧德維巨作歐拉格。
->[盧德維巨作歐拉格](https://scryfall.com/card/mid/233/ludevic-necrogenius-olag-ludevics-hubris?back)：於此生物轉化為盧德維巨作歐拉格時，它成為一張以其放逐之生物牌的複製品，但其名稱是盧德維巨作歐拉格，為4/4，額外是藍黑雙色的傳奇殭屍，且仍具有原本顏色與類別。
->[永續天使](https://scryfall.com/card/mid/17/enduring-angel-angelic-enforcer)：如果你的總生命將降至0或更少，則改為轉化永續天使且你的總生命成為3。然後如果永續天使未以此法轉化，則你輸掉這盤遊戲。
+
+> [死靈奇才盧德維](https://scryfall.com/card/mid/233/ludevic-necrogenius-olag-ludevics-hubris)：可以轉化成盧德維巨作歐拉格。
+> [盧德維巨作歐拉格](https://scryfall.com/card/mid/233/ludevic-necrogenius-olag-ludevics-hubris?back)：於此生物轉化為盧德維巨作歐拉格時，它成為一張以其放逐之生物牌的複製品，但其名稱是盧德維巨作歐拉格，為4/4，額外是藍黑雙色的傳奇殭屍，且仍具有原本顏色與類別。
+> [永續天使](https://scryfall.com/card/mid/17/enduring-angel-angelic-enforcer)：如果你的總生命將降至0或更少，則改為轉化永續天使且你的總生命成為3。然後如果永續天使未以此法轉化，則你輸掉這盤遊戲。
 
 在 **[轉化式雙面牌與複製效應](https://guildmagesforum.tw/DFC-Copy/)** 這篇也提過的經典案例，讓我們再來快速複習一次。
 
@@ -387,8 +409,9 @@ Layer規則極為深邃，且其中引用的許多規則中，又經常互相引
 
 {% notel blue 倒轉牌案例1 %}
 ![707.3](https://i.imgur.com/fNyMYIg.jpg)
->[入聖空民偉代/偉代菁華](https://scryfall.com/card/sok/35/erayo-soratami-ascendant-erayos-essence)：倒轉牌，一般狀態為傳奇生物（入聖空民偉代），倒轉後是傳奇結界（偉代菁華）。
->[複製結界](https://scryfall.com/card/rvr/39/copy-enchantment)：你可以讓複製結界當成戰場上任一結界的複製品來進入戰場。
+
+> [入聖空民偉代/偉代菁華](https://scryfall.com/card/sok/35/erayo-soratami-ascendant-erayos-essence)：倒轉牌，一般狀態為傳奇生物（入聖空民偉代），倒轉後是傳奇結界（偉代菁華）。
+> [複製結界](https://scryfall.com/card/rvr/39/copy-enchantment)：你可以讓複製結界當成戰場上任一結界的複製品來進入戰場。
 
 假設目前我操控偉代菁華（狀態為倒轉），並讓複製結界做為偉代菁華的複製品進場，這個複製結界會長甚麼樣？
 
@@ -399,9 +422,10 @@ Layer規則極為深邃，且其中引用的許多規則中，又經常互相引
 
 {% notel blue 倒轉牌案例2 %}
 ![倒轉牌](https://i.imgur.com/SGphzqm.jpg)
->[深澗念世靈](https://scryfall.com/card/lci/228/deepfathom-echo)：在你回合的戰鬥開始時，令深澗念世靈勘察。然後你可以使它成為另一個由你操控的生物之複製品直到回合結束。
->[學徒術士/示現師智也](https://scryfall.com/card/chk/70/jushi-apprentice-tomoya-the-revealer)：倒轉牌，一般狀態為生物（學徒術士），倒轉後是傳奇生物（示現師智也）。現為倒轉後。
->[入聖空民偉代/偉代菁華](https://scryfall.com/card/sok/35/erayo-soratami-ascendant-erayos-essence)：倒轉牌，一般狀態為傳奇生物（入聖空民偉代），倒轉後是傳奇結界（偉代菁華）。現為一般狀態。
+
+> [深澗念世靈](https://scryfall.com/card/lci/228/deepfathom-echo)：在你回合的戰鬥開始時，令深澗念世靈勘察。然後你可以使它成為另一個由你操控的生物之複製品直到回合結束。
+> [學徒術士/示現師智也](https://scryfall.com/card/chk/70/jushi-apprentice-tomoya-the-revealer)：倒轉牌，一般狀態為生物（學徒術士），倒轉後是傳奇生物（示現師智也）。現為倒轉後。
+> [入聖空民偉代/偉代菁華](https://scryfall.com/card/sok/35/erayo-soratami-ascendant-erayos-essence)：倒轉牌，一般狀態為傳奇生物（入聖空民偉代），倒轉後是傳奇結界（偉代菁華）。現為一般狀態。
 
 假設我先讓深澗念世靈成為示現師智也的複製品，因為深澗念世靈的狀態為「未倒轉」，因此深澗念世靈最終會成為學徒術士，現在我使用深澗念世靈複製過來的倒轉異能，讓它倒轉為示現師智也（因為是個傳奇生物，所以要犧牲到沒有同名牌為止，這邊選擇犧牲原版），回合結束時複製效應終止，它變回深澗念世靈，但保持「倒轉」的狀態。下回合我讓深澗念世靈變成入聖空民偉代的複製品，因為我現在的狀態是「倒轉」，複製的結果會成為偉代菁華。
 {% endnotel %}
@@ -430,28 +454,31 @@ Layer規則極為深邃，且其中引用的許多規則中，又經常互相引
 
 {% notel blue 面朝下的永久物案例1 %}
 ![變身1](https://i.imgur.com/7gNtl0X.jpg)
->[鏡身影](https://scryfall.com/card/j22/62/mirror-image)：你可以使鏡身影當成任一由你操控之生物的複製品來進入戰場。
->[陰森腸占師](https://scryfall.com/card/clb/754/grim-haruspex)：變身{B}
+
+> [鏡身影](https://scryfall.com/card/j22/62/mirror-image)：你可以使鏡身影當成任一由你操控之生物的複製品來進入戰場。
+> [陰森腸占師](https://scryfall.com/card/clb/754/grim-haruspex)：變身{B}
 
 陰森腸占師目前是面朝下的狀態，鏡身影做為它的複製品進場，鏡身影會成為2/2無色生物，沒有名稱、類別、異能、魔法力費用，因為這些是面朝下的永久物的可複製特徵（規則708.2a定義）。
 {% endnotel %}
 
 {% notel blue 面朝下的永久物案例2 %}
 ![變身2](https://i.imgur.com/dvCIhL3.jpg)
->[怒火天使愛若瑪](https://scryfall.com/card/tsr/150/akroma-angel-of-fury)：變身{3}{R}{R}{R}。
->[共魂利刃](https://scryfall.com/card/one/42/blade-of-shared-souls)：每當共魂利刃新貼附在任一生物上時，於共魂利刃持續貼附於其上期間，你可以使該生物成為另一個目標由你操控之生物的複製品。
->[陰森腸占師](https://scryfall.com/card/clb/754/grim-haruspex)：變身{B}
+
+> [怒火天使愛若瑪](https://scryfall.com/card/tsr/150/akroma-angel-of-fury)：變身{3}{R}{R}{R}。
+> [共魂利刃](https://scryfall.com/card/one/42/blade-of-shared-souls)：每當共魂利刃新貼附在任一生物上時，於共魂利刃持續貼附於其上期間，你可以使該生物成為另一個目標由你操控之生物的複製品。
+> [陰森腸占師](https://scryfall.com/card/clb/754/grim-haruspex)：變身{B}
 
 假設現在我操控面朝下的怒火天使愛若瑪&面朝上的陰森腸占師，並使用共魂利刃讓愛若瑪成為陰森腸占師的複製品，雖然你複製了陰森腸占師的特徵，但因為愛若瑪目前狀態是「面朝下」，因此你依舊是個無色2/2（..後略），此時如果你想支付變身費用讓愛若瑪翻回正面，你要支付的是陰森腸占師的{B}，而非愛若瑪原本的{3}{R}{R}{R}，因為這項特徵你也一併複製過去了，翻回正面後你會是陰森腸占師的複製品。
 {% endnotel %}
 
 {% notel blue 面朝下的永久物案例3 %}
 ![變身3](https://i.imgur.com/HDKHj8y.jpg)
->[怒火天使愛若瑪](https://scryfall.com/card/tsr/150/akroma-angel-of-fury)：變身{3}{R}{R}{R}。
->[共魂利刃](https://scryfall.com/card/one/42/blade-of-shared-souls)：每當共魂利刃新貼附在任一生物上時，於共魂利刃持續貼附於其上期間，你可以使該生物成為另一個目標由你操控之生物的複製品。
->[墓地擅闖客/墓地飽食獸](https://scryfall.com/card/mid/104/graveyard-trespasser-graveyard-glutton)：一個轉化式雙面生物牌。
 
-同樣是面朝下的怒火天使愛若瑪，現在改成用共魂利刃變成墓地擅闖客（正面）的複製品會如何？ 
+> [怒火天使愛若瑪](https://scryfall.com/card/tsr/150/akroma-angel-of-fury)：變身{3}{R}{R}{R}。
+> [共魂利刃](https://scryfall.com/card/one/42/blade-of-shared-souls)：每當共魂利刃新貼附在任一生物上時，於共魂利刃持續貼附於其上期間，你可以使該生物成為另一個目標由你操控之生物的複製品。
+> [墓地擅闖客/墓地飽食獸](https://scryfall.com/card/mid/104/graveyard-trespasser-graveyard-glutton)：一個轉化式雙面生物牌。
+
+同樣是面朝下的怒火天使愛若瑪，現在改成用共魂利刃變成墓地擅闖客（正面）的複製品會如何？
 
 首先要明確一點，雖然面朝下跟雙面牌在實際遊戲中都會物理層面上的翻來翻去，但兩者是完全不同的概念，你可以把雙面牌想成兩張各自擁有牌背的卡黏在一起，他們被變成面朝下狀態時與一般卡片無異，不會出現面朝下=轉化的現象。
 
@@ -471,16 +498,17 @@ Layer規則極為深邃，且其中引用的許多規則中，又經常互相引
 
 合變會給生物咒語一個替代性費用，你可以支付合變費用來施放這個生物咒語（以下稱A），並以一個由你擁有的非人類生物為目標（以下稱B）施放，如果這個合變咒語成功結算，選擇將A放在B的上面或下面，這些永久物結聚為一個永久物，這個永久物的特徵（好比說類別、費用、身材等）看最上面的組件是誰，但擁有這團結聚永久物的所有異能。如果這個B是已經有其他生物合變過的結聚永久物，那A只能放在這整團B的最上面或最下面，不能插入中間。
 
->筆者OS：這段我放棄引用原規則條文了... 不但規則條目數量多，需要的其他先備知識量也大，如果對其他基本定義規則不熟，閱讀起來很容易產生歧義。
+> 筆者OS：這段我放棄引用原規則條文了... 不但規則條目數量多，需要的其他先備知識量也大，如果對其他基本定義規則不熟，閱讀起來很容易產生歧義。
 
 {% notel blue 合變案例1 %}
 ![合變](https://i.imgur.com/WLbawFO.jpg)
->[夢翎蒼鷺](https://scryfall.com/card/iko/47/dreamtail-heron)：
->合變{3}{U}（如果你支付此咒語的合變費用來施放之，則將它放置在目標由你擁有之非人類生物的頂上或底下。它們合變作頂上的生物，外加具有底下所有異能。）
-飛行。
-每當此生物合變時，抽一張牌。
->[天資乙太種](https://scryfall.com/card/aer/61/gifted-aetherborn)：死觸，繫命。
->[鏡身影](https://scryfall.com/card/j22/62/mirror-image)：你可以使鏡身影當成任一由你操控之生物的複製品來進入戰場。
+
+> [夢翎蒼鷺](https://scryfall.com/card/iko/47/dreamtail-heron)：
+> 合變{3}{U}（如果你支付此咒語的合變費用來施放之，則將它放置在目標由你擁有之非人類生物的頂上或底下。它們合變作頂上的生物，外加具有底下所有異能。）
+> 飛行。
+> 每當此生物合變時，抽一張牌。
+> [天資乙太種](https://scryfall.com/card/aer/61/gifted-aetherborn)：死觸，繫命。
+> [鏡身影](https://scryfall.com/card/j22/62/mirror-image)：你可以使鏡身影當成任一由你操控之生物的複製品來進入戰場。
 
 假設現在你將夢翎蒼鷺合變在天資乙太種上，你可以自由選擇要將夢翎蒼鷺放在上方或下方，合變後選擇讓夢翎蒼鷺在上方會像下圖左邊結果，讓夢翎蒼鷺在下方會像下圖右邊結果。
 
@@ -491,26 +519,29 @@ Layer規則極為深邃，且其中引用的許多規則中，又經常互相引
 
 {% notel blue 合變案例2 %}
 ![複製合變咒語](https://i.imgur.com/maDDfWt.jpg)
->[雙重主修](https://scryfall.com/card/stx/179/double-major)：複製目標由你操控的生物咒語，但如果該咒語是傳奇，則複製品不是傳奇。
->[歡笑竊咒客艾薇](https://scryfall.com/card/dmu/201/ivy-gleeful-spellthief)：每當任一玩家施放僅以單一生物為目標的咒語，且該生物不是歡笑竊咒客艾薇時，你可以複製該咒語。該複製品以艾薇為目標。
->[碎晶狂獸](https://scryfall.com/card/iko/155/gemrazer)：合變{1}{G}{G}。
+
+> [雙重主修](https://scryfall.com/card/stx/179/double-major)：複製目標由你操控的生物咒語，但如果該咒語是傳奇，則複製品不是傳奇。
+> [歡笑竊咒客艾薇](https://scryfall.com/card/dmu/201/ivy-gleeful-spellthief)：每當任一玩家施放僅以單一生物為目標的咒語，且該生物不是歡笑竊咒客艾薇時，你可以複製該咒語。該複製品以艾薇為目標。
+> [碎晶狂獸](https://scryfall.com/card/iko/155/gemrazer)：合變{1}{G}{G}。
 
 合變的咒語是一個以生物為目標的生物咒語，因此無論是雙重主修或是歡笑竊咒客艾薇都可以複製該咒語，不過要注意，雙重主修不會讓你選擇新的目標，因此複製後的合變咒語還是以同一隻生物為目標，而歡笑竊咒客艾薇則是強制以她為目標。
 {% endnotel %}
 
 {% notel blue 合變案例3 %}
 ![合變N次](https://i.imgur.com/9FUtAEw.jpg)
->[箭羽鸚鵡](https://scryfall.com/card/iko/128/porcuparrot)：{T}：此生物對任意一個目標造成X點傷害，X為此生物已合變的次數。
->[鏡身影](https://scryfall.com/card/j22/62/mirror-image)：你可以使鏡身影當成任一由你操控之生物的複製品來進入戰場。
+
+> [箭羽鸚鵡](https://scryfall.com/card/iko/128/porcuparrot)：{T}：此生物對任意一個目標造成X點傷害，X為此生物已合變的次數。
+> [鏡身影](https://scryfall.com/card/j22/62/mirror-image)：你可以使鏡身影當成任一由你操控之生物的複製品來進入戰場。
 
 箭羽鸚鵡的異能會檢查自己合變過幾次（X也可以簡單理解成這疊牌的組件數-1），假設現在有一個合變了2次的箭羽鸚鵡被鏡身影複製了，鏡身影啟動箭羽鸚鵡可以造成幾點傷害？ 答案是X=0，一個永久物合變了幾次並不屬於他的可複製特徵，對鏡身影而言，這整疊合變過後的生物就像一個本來就長這樣的單一物件。
 {% endnotel %}
 
 {% notel blue 合變案例4 %}
 ![合變變身](https://i.imgur.com/uFdaA3y.jpg)
->[威儀金角獸](https://scryfall.com/card/iko/22/majestic-auricorn)：每當此生物合變時，你獲得4點生命。
->[陰森腸占師](https://scryfall.com/card/clb/754/grim-haruspex)：變身{B}
->[夢翎蒼鷺](https://scryfall.com/card/iko/47/dreamtail-heron)：每當此生物合變時，抽一張牌。
+
+> [威儀金角獸](https://scryfall.com/card/iko/22/majestic-auricorn)：每當此生物合變時，你獲得4點生命。
+> [陰森腸占師](https://scryfall.com/card/clb/754/grim-haruspex)：變身{B}
+> [夢翎蒼鷺](https://scryfall.com/card/iko/47/dreamtail-heron)：每當此生物合變時，抽一張牌。
 
 現在來點刺激的，如果以一個面朝下的生物為目標合變會怎麼樣呢？ 除了前面提到的有關面朝下永久物的規則外，合變這塊最重要的規則是這兩條：
 
@@ -520,10 +551,10 @@ Layer規則極為深邃，且其中引用的許多規則中，又經常互相引
 先從簡單一點的情況開始，假設我有一個面朝下的陰森腸占師，目前是個無色無副類別的2/2生物，並且讓夢翎蒼鷺以陰森腸占師為目標合變（無副類別=不是人類類別，滿足合變限制條件）：
 
 - 情境A：選擇夢翎蒼鷺在上，面朝下的陰森腸占師在下
-如此一來得到的還是一個夢翎蒼鷺，並且合變時抽一張牌的異能會觸發，不過面朝上的夢翎蒼鷺在上，也就意味著整疊永久物視同面朝上，這麼一來陰森腸占師就不能再用變身費用翻回面朝上了。
+  如此一來得到的還是一個夢翎蒼鷺，並且合變時抽一張牌的異能會觸發，不過面朝上的夢翎蒼鷺在上，也就意味著整疊永久物視同面朝上，這麼一來陰森腸占師就不能再用變身費用翻回面朝上了。
 
 - 情境B：選擇面朝下的陰森腸占師在上，夢翎蒼鷺在下
-你依舊會看到一個2/2無色面朝下的生物，甚至連夢翎蒼鷺的合變抽一異能都不會觸發，因為你的這疊永久物是面朝下的狀態，陰森腸占師可以支付變身費用翻回面朝上，一旦翻回面朝上夢翎蒼鷺的異能也就回來了，不過因為你已經錯過了合變的時機點，因此翻回正面的當下夢翎蒼鷺不會讓你抽牌。
+  你依舊會看到一個2/2無色面朝下的生物，甚至連夢翎蒼鷺的合變抽一異能都不會觸發，因為你的這疊永久物是面朝下的狀態，陰森腸占師可以支付變身費用翻回面朝上，一旦翻回面朝上夢翎蒼鷺的異能也就回來了，不過因為你已經錯過了合變的時機點，因此翻回正面的當下夢翎蒼鷺不會讓你抽牌。
 
 理解了上面的原理後我們就可以把問題拓展一下了，假設現在同樣是已經合變的情況，面朝下的陰森腸占師在上，夢翎蒼鷺在下，這時我又把威儀金角獸合變在這疊上物上，而且選擇威儀金角獸在上，這麼一來會怎麼樣呢？
 
@@ -532,10 +563,11 @@ Layer規則極為深邃，且其中引用的許多規則中，又經常互相引
 
 {% notel blue 合變案例5 %}
 ![合變複製](https://i.imgur.com/n6WVJL9.jpg)
->[撒拉天使](https://scryfall.com/card/dom/33/serra-angel)：飛行，警戒。
->[天資乙太種](https://scryfall.com/card/aer/61/gifted-aetherborn)：死觸，繫命。
->[共魂利刃](https://scryfall.com/card/one/42/blade-of-shared-souls)：每當共魂利刃新貼附在任一生物上時，於共魂利刃持續貼附於其上期間，你可以使該生物成為另一個目標由你操控之生物的複製品。
->[碎晶狂獸](https://scryfall.com/card/iko/155/gemrazer)：延勢，踐踏。合變{1}{G}{G}。
+
+> [撒拉天使](https://scryfall.com/card/dom/33/serra-angel)：飛行，警戒。
+> [天資乙太種](https://scryfall.com/card/aer/61/gifted-aetherborn)：死觸，繫命。
+> [共魂利刃](https://scryfall.com/card/one/42/blade-of-shared-souls)：每當共魂利刃新貼附在任一生物上時，於共魂利刃持續貼附於其上期間，你可以使該生物成為另一個目標由你操控之生物的複製品。
+> [碎晶狂獸](https://scryfall.com/card/iko/155/gemrazer)：延勢，踐踏。合變{1}{G}{G}。
 
 如果在天資乙太種上佩帶共魂利刃，並讓它成為撒拉天使的複製品，之後讓碎晶狂獸合變於天資乙太種，並選擇碎晶狂獸位於頂部，會得到一個怎樣的生物？ 共魂利刃卸裝後又會發生甚麼變化。
 
@@ -556,11 +588,12 @@ Layer規則極為深邃，且其中引用的許多規則中，又經常互相引
 最後用個練習題來看看複習今天所學到的規則吧！
 
 ![小試身手](https://i.imgur.com/g3ojjTB.jpg)
->[短牙鼠人/可憎的刺鬚](https://scryfall.com/card/chk/131/nezumi-shortfang-stabwhisker-the-odious)：倒轉牌，一般狀態為生物（短牙鼠人），倒轉後是傳奇生物（可憎的刺鬚）。
->[肯理斯化身](https://scryfall.com/card/eld/164/kenriths-transformation)：所結附的生物失去所有異能，且是基礎力量與防禦力為3/3的綠色麋鹿生物。（它會失去其他牌張類別和生物類別。）
->[薩谷虐殺獸](https://scryfall.com/card/c19/200/sagu-mauler)：變身{3}{G}{U}。
->[共魂利刃](https://scryfall.com/card/one/42/blade-of-shared-souls)：每當共魂利刃新貼附在任一生物上時，於共魂利刃持續貼附於其上期間，你可以使該生物成為另一個目標由你操控之生物的複製品。
->[恆羽鳳凰](https://scryfall.com/card/iko/114/everquill-phoenix)：合變{3}{R}。
+
+> [短牙鼠人/可憎的刺鬚](https://scryfall.com/card/chk/131/nezumi-shortfang-stabwhisker-the-odious)：倒轉牌，一般狀態為生物（短牙鼠人），倒轉後是傳奇生物（可憎的刺鬚）。
+> [肯理斯化身](https://scryfall.com/card/eld/164/kenriths-transformation)：所結附的生物失去所有異能，且是基礎力量與防禦力為3/3的綠色麋鹿生物。（它會失去其他牌張類別和生物類別。）
+> [薩谷虐殺獸](https://scryfall.com/card/c19/200/sagu-mauler)：變身{3}{G}{U}。
+> [共魂利刃](https://scryfall.com/card/one/42/blade-of-shared-souls)：每當共魂利刃新貼附在任一生物上時，於共魂利刃持續貼附於其上期間，你可以使該生物成為另一個目標由你操控之生物的複製品。
+> [恆羽鳳凰](https://scryfall.com/card/iko/114/everquill-phoenix)：合變{3}{R}。
 
 請聽題：
 
@@ -570,7 +603,6 @@ Layer規則極為深邃，且其中引用的許多規則中，又經常互相引
 
 ![小試身手](https://i.imgur.com/9vEmlrf.jpg)
 
-
 讓我們從倒轉老鼠開始解析起，首先肯理斯化身不修改可複製特徵（與上面竊冠甌柯案例原理相同），在這題肯理斯化身就是個單純的干擾項，可以忽略；雖然這老鼠現在是可憎的刺鬚（倒轉後），但讓一個「狀態」為未倒轉的生物成為它的複製品，呈現出來的也是未倒轉的特徵，複製的結果會是短牙鼠人。
 
 接著讓我們看看面朝下的薩谷虐殺獸，雖然它現在成為了短牙鼠人的複製品，不過因為 **面朝下** 的「狀態」所定義的特徵將會覆蓋原有的特徵，所以你看到的依舊是一個無色無副類別2/2生物。此外因為薩谷虐殺獸已經成為了短牙鼠人的複製品，也意味著它失去了變身異能，無法支付變身費用翻回面朝上。
@@ -579,10 +611,9 @@ Layer規則極為深邃，且其中引用的許多規則中，又經常互相引
 
 那如果讓恆羽鳳凰合變時位於底部呢...？ 因為這個合變生物頂部的組件是個面朝下的生物，所以你依舊是個無色無異能的2/2生物，連合變時觸發的異能都沒有了，而且因為上述原因，你還不能透過支付薩谷虐殺獸變身費用變回面朝上。
 
-
 ---
 
-## Next：特徵定義異能 CDA 
+## Next：特徵定義異能 CDA
 
 本期作為Layer系列專欄的開胃菜，希望各位讀者還能順利消化，現階段有些案例如果不能完全理解其中運作原理的話，就只先記結果也無妨，因為其中有些問題確實不能單靠可複製特徵的觀念解釋，而是要套入完整的Layer架構才能真正徹底地回答該問題。
 
