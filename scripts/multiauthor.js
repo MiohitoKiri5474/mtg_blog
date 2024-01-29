@@ -22,14 +22,17 @@ hexo.extend.helper.register("post_author", function (post_obj) {
   }
   post.author = "";
   post.avatar = "";
+  if (post_authors.length > 1) {
+    post.avatar = "/images/logo.jpg";
+  } else {
+    post.avatar = authors[0].avatar;
+  }
   for (const p_author of post_authors) {
     const author = authorData.find((a) => a.username === p_author);
     if (author && post.author) {
       post.author = post.author + " & " + author.name;
-      post.avatar = "/images/logo.png";
     } else {
       post.author = author.name;
-      post.avatar = author.avatar;
     }
   }
 

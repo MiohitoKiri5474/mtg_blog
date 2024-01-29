@@ -7,6 +7,8 @@ tags:
 cover: "https://i.imgur.com/ta3fvVY.jpg"
 thumbnail: "https://i.imgur.com/ta3fvVY.jpg"
 excerpt: "想知道為什麼我標準賽選擇藍黑中速嗎？來看看這一篇吧！"
+authors:
+  - "cephille"
 ---
 
 ## Before We Start
@@ -17,13 +19,13 @@ excerpt: "想知道為什麼我標準賽選擇藍黑中速嗎？來看看這一�
 
 這次的標準賽季，我本來在掙扎著要選擇紅黑還是藍黑中速，紅黑還是偏用高質量的生物以及傾探體系壓垮對手，但這麼喜歡用資源壓勝為什麼不去打Domain呢？而紅黑除了殺以外的互動都是巫術時機這件事，也讓打節奏套牌習慣的我一直很難適應（不會閃現生物就不會打牌的我）。因此，當天ALG八強套牌公布以後我就秒轉藍黑中速了，也才有今天的這篇文章。
 
-這是我所參考，在第一次ALG MITQ#6中取得資格的黃永銘大大的牌表：[藍黑中速_20240107_ALG MITQ#6_黃永銘](https://i.imgur.com/JxUipAm.jpg)
+這是我所參考，在第一次ALG MITQ#6中取得資格的黃永銘大大的牌表：[藍黑中速*20240107_ALG MITQ#6*黃永銘](https://i.imgur.com/JxUipAm.jpg)
 
 而開始使用藍黑中速後我也去其他比賽測試過，賽報連結可以參考這邊：[20240113_MagicStar MITQ#6](https://www.facebook.com/Pignosemtgworld/posts/pfbid02GBrcjTubQM8oRHriyBv7Q95oDUJwAgNjZvpk2bJsnoUxpihVq5gNDCcVu6UqWHKNl)。
 
 ## 套牌介紹
 
-這是我今天2024年1月27日參賽的版本：[藍黑中速_20240127_ALG MITQ#6_陳盈孝](https://www.mtggoldfish.com/deck/6144160#paper)
+這是我今天2024年1月27日參賽的版本：[藍黑中速*20240127_ALG MITQ#6*陳盈孝](https://www.mtggoldfish.com/deck/6144160#paper)
 
 ![](https://i.imgur.com/srggKPP.jpg)
 
@@ -119,12 +121,12 @@ LCI發售後黑底中速不變的班底就會是：[深窟蝙蝠](https://cards.
 
 - 第一盤對手滿手[歡騰鬥客泰瓦](https://cards.scryfall.io/large/front/6/6/66605fe1-9a20-4c95-b53e-1249cedb978b.jpg?1675957216)有三張吧，然後出了一張後被我接下來的三隻蝙蝠壓掉剩下兩張，出了兩張還三張[法拉吉考古學家](https://cards.scryfall.io/large/front/b/0/b0eab397-25a6-4377-8e12-e8acef9675cf.jpg?1674420492)但都拿不到東西變成1/4在地面上發呆；唯一的打點是變成[咒眠仙靈](https://cards.scryfall.io/large/front/3/1/31051436-68f2-457e-8293-2b10ccf7684e.jpg?1692937247)的[形蹤掠奪靈](https://cards.scryfall.io/large/front/2/9/2957472a-825e-4904-b7e8-62bef1cb432d.jpg?1692939367)，雖然對手在終盤有出了[鍋子](https://cards.scryfall.io/large/front/0/1/019b51b0-e5c6-4208-922b-7736686dddcd.jpg?1692939838)但基本上撐不住我場面的攻勢，我解掉形蹤掠奪靈後全打獲勝。
 
-| Side Out | Side In |
-| :-: | :-: |
-| -3 [望遠塞連](https://cards.scryfall.io/large/front/4/1/41e54343-95e5-4dc4-9f18-e4a415fe5e0a.jpg?1699043946)  | +2 [折磨賜聖](https://cards.scryfall.io/large/front/f/7/f7dc55a8-290f-4666-90ce-aa632e87c5e7.jpg?1675957006) |
-| -2 [地底縱帆船](https://cards.scryfall.io/large/front/9/4/94b6881a-b00e-4e90-92e6-602ed8e0e090.jpg?1699043964) | +1 [失效](https://cards.scryfall.io/large/front/8/1/81752db1-374e-4723-b695-a2f4a634dfc6.jpg?1682203304) |
-|  | +1 [垂影琴瀨](https://cards.scryfall.io/large/front/3/1/314e97b5-cd43-4f5e-acdd-a107208e061c.jpg?1654568534) |
-|  | +1 [逼從](https://cards.scryfall.io/large/front/3/5/3557e601-9b71-4ce9-9047-1a8baa72e574.jpg?1675957024)|
+|                                                    Side Out                                                    |                                                   Side In                                                    |
+| :------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------: |
+|  -3 [望遠塞連](https://cards.scryfall.io/large/front/4/1/41e54343-95e5-4dc4-9f18-e4a415fe5e0a.jpg?1699043946)  | +2 [折磨賜聖](https://cards.scryfall.io/large/front/f/7/f7dc55a8-290f-4666-90ce-aa632e87c5e7.jpg?1675957006) |
+| -2 [地底縱帆船](https://cards.scryfall.io/large/front/9/4/94b6881a-b00e-4e90-92e6-602ed8e0e090.jpg?1699043964) |   +1 [失效](https://cards.scryfall.io/large/front/8/1/81752db1-374e-4723-b695-a2f4a634dfc6.jpg?1682203304)   |
+|                                                                                                                | +1 [垂影琴瀨](https://cards.scryfall.io/large/front/3/1/314e97b5-cd43-4f5e-acdd-a107208e061c.jpg?1654568534) |
+|                                                                                                                |   +1 [逼從](https://cards.scryfall.io/large/front/3/5/3557e601-9b71-4ce9-9047-1a8baa72e574.jpg?1675957024)   |
 
 - 第二盤對手的鍋子很快就湊齊組件，我看了一下還有10幾分鐘就果斷投降了。
 - 第三盤拿回先手優勢殺光對手的生物就贏了。
@@ -133,28 +135,29 @@ LCI發售後黑底中速不變的班底就會是：[深窟蝙蝠](https://cards.
 
 - 第一盤對手挖回[狂妄巨靈](https://cards.scryfall.io/large/front/3/5/35095a68-b7c0-4805-b0b6-6ca15a338692.jpg?1673306736)被放逐解掉後雖然有出[寺院明師](https://cards.scryfall.io/large/front/7/5/75665c2f-a100-4e3f-be8e-b5cc3c9a090b.jpg?1682202772)並生了一隻靈技人，但攻擊時被我閃現[仙靈才俊](https://cards.scryfall.io/large/front/5/2/52d3005f-a1c7-4ef5-911f-ccc0752f4181.jpg?1682203104)開船擋死明師後基本上就遊戲結束了。
 
-| Side Out | Side In |
-| :-: | :-: |
-| -2 [斬落](https://cards.scryfall.io/large/front/7/5/753db072-5d6a-4f37-8f7d-255572ecd3bd.jpg?1673307061) | +2 [折磨賜聖](https://cards.scryfall.io/large/front/f/7/f7dc55a8-290f-4666-90ce-aa632e87c5e7.jpg?1675957006) |
-| -3 [望遠塞連](https://cards.scryfall.io/large/front/4/1/41e54343-95e5-4dc4-9f18-e4a415fe5e0a.jpg?1699043946) | +1 [失效](https://cards.scryfall.io/large/front/8/1/81752db1-374e-4723-b695-a2f4a634dfc6.jpg?1682203304) |
-|  | +1 [垂影琴瀨](https://cards.scryfall.io/large/front/3/1/314e97b5-cd43-4f5e-acdd-a107208e061c.jpg?1654568534) |
-|  | +1 [逼從](https://cards.scryfall.io/large/front/3/5/3557e601-9b71-4ce9-9047-1a8baa72e574.jpg?1675957024)|
+|                                                   Side Out                                                   |                                                   Side In                                                    |
+| :----------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------: |
+|   -2 [斬落](https://cards.scryfall.io/large/front/7/5/753db072-5d6a-4f37-8f7d-255572ecd3bd.jpg?1673307061)   | +2 [折磨賜聖](https://cards.scryfall.io/large/front/f/7/f7dc55a8-290f-4666-90ce-aa632e87c5e7.jpg?1675957006) |
+| -3 [望遠塞連](https://cards.scryfall.io/large/front/4/1/41e54343-95e5-4dc4-9f18-e4a415fe5e0a.jpg?1699043946) |   +1 [失效](https://cards.scryfall.io/large/front/8/1/81752db1-374e-4723-b695-a2f4a634dfc6.jpg?1682203304)   |
+|                                                                                                              | +1 [垂影琴瀨](https://cards.scryfall.io/large/front/3/1/314e97b5-cd43-4f5e-acdd-a107208e061c.jpg?1654568534) |
+|                                                                                                              |   +1 [逼從](https://cards.scryfall.io/large/front/3/5/3557e601-9b71-4ce9-9047-1a8baa72e574.jpg?1675957024)   |
 
 - 第二盤對手很卡，被蝙蝠壓掉唯一一張解[速速退離](https://cards.scryfall.io/large/front/5/2/522aa72b-2b8c-484c-872b-f082101cee35.jpg?1699043186)後看到兩張[漩霧行進](https://cards.scryfall.io/large/front/1/0/100171d8-7436-44c8-b4cb-0101ffa05c25.jpg?1654566768)後，留著[失效](https://cards.scryfall.io/large/front/8/1/81752db1-374e-4723-b695-a2f4a634dfc6.jpg?1682203304)跟殺後毫無懸念拿下這個對局。
 
 ### 第三輪 0-2 對手班特毒
 
 - 第一盤持續被1/1毒人毒打，又灌大又增殖，好不容易靠著閃現的生物阻擋到4隻毒人清場，當時剩9毒退無可退。我場面剩一個基克斯開始反打打了兩拳，又多叫了仙靈才俊跟蝙蝠對手血剩8想說穩了，但對手拍下[叛逃蟲械斯勒夫](https://cards.scryfall.io/large/front/6/0/60b565da-a49b-479c-b0c4-8ff3dd20cc0b.jpg?1675956933)後接上[景仰腐敗僧侶](https://cards.scryfall.io/large/front/d/1/d1b032e3-14e3-48ba-ab8a-d2b4f8d31a7d.jpg?1675957177)做錯事導致錯失這一勝：
+
 1. 我看錯僧侶的被動是被咒語瞄才會中毒，所以用大田原彈是異能不會；我過早地在僧侶落地前先彈斯勒夫，結果當然是對手反手拍回來。
 2. 輪到我時我還是仙靈跟蝙蝠繼續打，這邊應該只讓蝙蝠或基克斯打就好，必須留一藍一黑生物防斯勒夫的異能。所以就被灌異能的僧侶打到毒發身亡。
-賽後檢討：其實繼續推是沒錯，因為對手可能自摸一個增殖我就爆了，我不能打慢，關鍵在於僧侶異能沒看對白給了大田原；正確的打法是我就留一隻基克斯其他兩隻繼續打，再用大田原把給異能的僧侶彈回去拖住對手就贏了。
+   賽後檢討：其實繼續推是沒錯，因為對手可能自摸一個增殖我就爆了，我不能打慢，關鍵在於僧侶異能沒看對白給了大田原；正確的打法是我就留一隻基克斯其他兩隻繼續打，再用大田原把給異能的僧侶彈回去拖住對手就贏了。
 
-| Side Out | Side In |
-| :-: | :-: |
-| -1 [人間消失](https://cards.scryfall.io/large/front/3/f/3f2d6a21-ea77-484b-9e3a-1bd49806f907.jpg?1664410347) | +2 [寄生之攫](https://cards.scryfall.io/large/front/0/7/0713adf7-1770-4d5b-80f7-d6cbd24f7890.jpg?1643590056) |
-| -3 [直刺咽喉](https://cards.scryfall.io/large/front/5/4/5446e1ba-c745-45b2-ad05-b22abf04daec.jpg?1682209037) | +2 [折磨賜聖](https://cards.scryfall.io/large/front/f/7/f7dc55a8-290f-4666-90ce-aa632e87c5e7.jpg?1675957006) |
-| -2 [仙靈才俊](https://cards.scryfall.io/large/front/5/2/52d3005f-a1c7-4ef5-911f-ccc0752f4181.jpg?1682203104) | +2 [斬落](https://cards.scryfall.io/large/front/7/5/753db072-5d6a-4f37-8f7d-255572ecd3bd.jpg?1673307061) |
-| -1 [復生的爾泰](https://cards.scryfall.io/large/front/7/f/7f7e780e-fbc5-4dc0-b5c7-efcb8645c7c6.jpg?1673307944) | +1 [險峻路途](https://cards.scryfall.io/large/front/f/0/f0c5449a-d63b-4b22-9432-8f0365c3c4d9.jpg?1643590080)|
+|                                                    Side Out                                                    |                                                   Side In                                                    |
+| :------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------: |
+|  -1 [人間消失](https://cards.scryfall.io/large/front/3/f/3f2d6a21-ea77-484b-9e3a-1bd49806f907.jpg?1664410347)  | +2 [寄生之攫](https://cards.scryfall.io/large/front/0/7/0713adf7-1770-4d5b-80f7-d6cbd24f7890.jpg?1643590056) |
+|  -3 [直刺咽喉](https://cards.scryfall.io/large/front/5/4/5446e1ba-c745-45b2-ad05-b22abf04daec.jpg?1682209037)  | +2 [折磨賜聖](https://cards.scryfall.io/large/front/f/7/f7dc55a8-290f-4666-90ce-aa632e87c5e7.jpg?1675957006) |
+|  -2 [仙靈才俊](https://cards.scryfall.io/large/front/5/2/52d3005f-a1c7-4ef5-911f-ccc0752f4181.jpg?1682203104)  |   +2 [斬落](https://cards.scryfall.io/large/front/7/5/753db072-5d6a-4f37-8f7d-255572ecd3bd.jpg?1673307061)   |
+| -1 [復生的爾泰](https://cards.scryfall.io/large/front/7/f/7f7e780e-fbc5-4dc0-b5c7-efcb8645c7c6.jpg?1673307944) | +1 [險峻路途](https://cards.scryfall.io/large/front/f/0/f0c5449a-d63b-4b22-9432-8f0365c3c4d9.jpg?1643590080) |
 
 - 第二盤調度一後看到二三四曲線跟三塊地也只好接了，四張斬落一張都沒摸到，被對手備牌換上來的[消滅邪物](https://cards.scryfall.io/large/front/4/f/4f7862ef-2c8d-4d28-9e50-7cc41861f245.jpg?1673306430)連殺兩隻希歐蕊並拍了[斯勒夫的巢穴](https://cards.scryfall.io/large/front/f/f/ffbd77ec-fc81-41d5-934f-c3dd844cb053.jpg?1675956934)生了三隻1/1蟲械，接著拍[景仰腐敗僧侶](https://cards.scryfall.io/large/front/d/1/d1b032e3-14e3-48ba-ab8a-d2b4f8d31a7d.jpg?1675957177)，打到我5個毒後用[漩霧行進](https://cards.scryfall.io/large/front/1/0/100171d8-7436-44c8-b4cb-0101ffa05c25.jpg?1654566768) X=3 躍離了他的僧侶、一隻剛派出的1/1蟲、還有我的阻擋者（我7毒）後三隻1/1蟲全攻我毒發身亡。
 
@@ -162,11 +165,11 @@ LCI發售後黑底中速不變的班底就會是：[深窟蝙蝠](https://cards.
 
 - 第一盤對手小卡，而且對手[進軍傳令羅娜](https://scryfall.com/card/mom/75/rona-herald-of-invasion-rona-tolarian-obliterator)的抽棄顧慮到我場上的[仙靈才俊](https://cards.scryfall.io/large/front/5/2/52d3005f-a1c7-4ef5-911f-ccc0752f4181.jpg?1682203104)沒有做幾次，關鍵生物都殺後被我定下[大築金師安塔斯](https://cards.scryfall.io/large/front/1/6/164b07e6-48ba-4789-bd8f-7cada1fec8a9.jpg?1675956999)狂抽一堆就投降了。
 
-| Side Out | Side In |
-| :-: | :-: |
-| -3 [望遠塞連](https://cards.scryfall.io/large/front/4/1/41e54343-95e5-4dc4-9f18-e4a415fe5e0a.jpg?1699043946) | +2 [寄生之攫](https://cards.scryfall.io/large/front/0/7/0713adf7-1770-4d5b-80f7-d6cbd24f7890.jpg?1643590056) |
+|                                                    Side Out                                                    |                                                   Side In                                                    |
+| :------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------: |
+|  -3 [望遠塞連](https://cards.scryfall.io/large/front/4/1/41e54343-95e5-4dc4-9f18-e4a415fe5e0a.jpg?1699043946)  | +2 [寄生之攫](https://cards.scryfall.io/large/front/0/7/0713adf7-1770-4d5b-80f7-d6cbd24f7890.jpg?1643590056) |
 | -2 [地底縱帆船](https://cards.scryfall.io/large/front/9/4/94b6881a-b00e-4e90-92e6-602ed8e0e090.jpg?1699043964) | +2 [折磨賜聖](https://cards.scryfall.io/large/front/f/7/f7dc55a8-290f-4666-90ce-aa632e87c5e7.jpg?1675957006) |
-|  | +1 [垂影琴瀨](https://cards.scryfall.io/large/front/3/1/314e97b5-cd43-4f5e-acdd-a107208e061c.jpg?1654568534) |
+|                                                                                                                | +1 [垂影琴瀨](https://cards.scryfall.io/large/front/3/1/314e97b5-cd43-4f5e-acdd-a107208e061c.jpg?1654568534) |
 
 - 第二盤對手二回羅娜輪到我主回合解掉後對手出[傳承遺寶](https://cards.scryfall.io/large/front/6/4/64a2809e-c441-416c-90ff-6fb1e246dff3.jpg?1673308219)我出三2/4，但對手接著拍下的[戮日者格莉莎](https://cards.scryfall.io/large/front/b/2/b2bf633e-0470-4b87-99ed-5ad1683b0954.jpg?1675957191)頂住我一回的攻擊，雖然接著兩邊開始互毆，但對手出了[烈陽總督因提](https://cards.scryfall.io/large/front/f/a/fa7a55aa-ae61-4933-b7a4-dcc55dac6fcd.jpg?1699044306)讓格莉莎越打越大，我後來拍下的希歐蕊被解掉後就崩盤了。
 - 第三盤我的殺都有跟上，打生物型組合技靠殺就會贏。
@@ -191,28 +194,28 @@ LCI發售後黑底中速不變的班底就會是：[深窟蝙蝠](https://cards.
 
 - 第一盤對手先手，我卡兩地對面場攻7我血剩11放棄掙扎。GG
 
-| Side Out | Side In |
-| :-: | :-: |
-| -4 [仙靈才俊](https://cards.scryfall.io/large/front/5/2/52d3005f-a1c7-4ef5-911f-ccc0752f4181.jpg?1682203104) | +2 [斬落](https://cards.scryfall.io/large/front/7/5/753db072-5d6a-4f37-8f7d-255572ecd3bd.jpg?1673307061) |
-| -1 [慘痛勝利](https://cards.scryfall.io/large/front/0/5/05bdd22c-3e11-4c29-bdfa-d3dfc0e90a9f.jpg?1699044085) | +2 [折磨賜聖](https://cards.scryfall.io/large/front/f/7/f7dc55a8-290f-4666-90ce-aa632e87c5e7.jpg?1675957006) |
+|                                                    Side Out                                                    |                                                   Side In                                                    |
+| :------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------: |
+|  -4 [仙靈才俊](https://cards.scryfall.io/large/front/5/2/52d3005f-a1c7-4ef5-911f-ccc0752f4181.jpg?1682203104)  |   +2 [斬落](https://cards.scryfall.io/large/front/7/5/753db072-5d6a-4f37-8f7d-255572ecd3bd.jpg?1673307061)   |
+|  -1 [慘痛勝利](https://cards.scryfall.io/large/front/0/5/05bdd22c-3e11-4c29-bdfa-d3dfc0e90a9f.jpg?1699044085)  | +2 [折磨賜聖](https://cards.scryfall.io/large/front/f/7/f7dc55a8-290f-4666-90ce-aa632e87c5e7.jpg?1675957006) |
 | -1 [復生的爾泰](https://cards.scryfall.io/large/front/7/f/7f7e780e-fbc5-4dc0-b5c7-efcb8645c7c6.jpg?1673307944) | +2 [寄生之攫](https://cards.scryfall.io/large/front/0/7/0713adf7-1770-4d5b-80f7-d6cbd24f7890.jpg?1643590056) |
 
 - 第二盤一二三四雖然希歐蕊一號被解但還有二號，Win。
 
-| Side Out | Side In |
-| :-: | :-: |
+|                                                        Side Out                                                        |                                                   Side In                                                    |
+| :--------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------: |
 | -2 [約格莫夫判官基克斯](https://cards.scryfall.io/large/front/2/c/2c76f7e0-37e7-4e87-93a3-a25ba0674645.jpg?1675567458) | +1 [險峻路途](https://cards.scryfall.io/large/front/f/0/f0c5449a-d63b-4b22-9432-8f0365c3c4d9.jpg?1643590080) |
-| | +1 [逼從](https://cards.scryfall.io/large/front/3/5/3557e601-9b71-4ce9-9047-1a8baa72e574.jpg?1675957024) |
+|                                                                                                                        |   +1 [逼從](https://cards.scryfall.io/large/front/3/5/3557e601-9b71-4ce9-9047-1a8baa72e574.jpg?1675957024)   |
 
 - 第三盤對手先手但調度二，對手場上只有二回出一隻迅矛僧一直打，我一回塞連二回蝙蝠中[閃電煉擊](https://cards.scryfall.io/large/front/7/d/7d541125-bfb8-4f88-8bf3-ad7b6af7ad1d.jpg?1673307449)，看到剩下兩張手牌是[娜希莉興戰](https://cards.scryfall.io/large/front/a/0/a0453fea-3c88-4eb1-818a-9efa01986852.jpg?1682204387)跟[窪巴司的鍛冶爐](https://cards.scryfall.io/large/front/6/8/68f9f9d8-9ea0-4608-a79c-a09a87918186.jpg?1675957116)。第三回合我吃掉地圖看到牌庫頂的[大築金師安塔斯](https://cards.scryfall.io/large/front/1/6/164b07e6-48ba-4789-bd8f-7cada1fec8a9.jpg?1675956999)讓塞連變2/2打完換人；對手卡在三塊地迅矛僧攻擊後用戲火作樂點我的頭被我回應[折磨賜聖](https://cards.scryfall.io/large/front/f/7/f7dc55a8-290f-4666-90ce-aa632e87c5e7.jpg?1675957006)解掉。下回反手出希歐蕊逼掉對手的[娜希莉興戰](https://cards.scryfall.io/large/front/a/0/a0453fea-3c88-4eb1-818a-9efa01986852.jpg?1682204387)，接著出安塔斯準備防守對手的鍛冶爐，用安塔斯阻擋 + 塞連攻擊觸發抽棄苟了三個回合，不過中間把兩張[寄生之攫](https://cards.scryfall.io/large/front/0/7/0713adf7-1770-4d5b-80f7-d6cbd24f7890.jpg?1643590056)棄掉沒有棄會讓我掉血的基克斯真的是有點太托大了。對手中間出連續出了第二、三個鍛冶爐，但第一、二個鍛冶爐四顆豆跳觸發時分別被我的一號、二號潮縛師康掉剩下最小的那個，最後對手血剩11我剩4時對手出了[熔爐懲罰者](https://cards.scryfall.io/large/front/6/5/65e5fc08-7a04-4bba-81ba-990889cae96a.jpg?1675957086)無手牌，我全家包含藍黑變身地全打 + 起動安塔斯第三條異能灌了3攻拿下。嗯...雖然贏了但不要學我亂打XD
 
 ## 結語：藍黑中速與其他黑底中速的比較
 
-|   類型   | 優點                        | 缺點 |
-|:--------:|:--------------------------- |:----:|
-| 藍黑中速 | 1. 節奏最好 2. 抽牌能力最高 | 1. 生物質量較弱 2. 操控難度最高     |
-| 紅黑中速 | 1. 進攻性最強 2. Unfair能力最佳                            | 1. 互動幾乎都是巫術時機     | 
-| 黑綠中速 | 1. 解牌全面，不怕結界  2. 多一個用變身地獲勝的Plan B                          | 1. 主牌打Domain很難贏     |
-| 黑白中速 | 1. 解牌全面，不怕結界 2. 可以帶掃場 3. 可以帶主流的強力結界                            |  1. 主牌打Domain很難贏    |
+|   類型   | 優點                                                        |              缺點               |
+| :------: | :---------------------------------------------------------- | :-----------------------------: |
+| 藍黑中速 | 1. 節奏最好 2. 抽牌能力最高                                 | 1. 生物質量較弱 2. 操控難度最高 |
+| 紅黑中速 | 1. 進攻性最強 2. Unfair能力最佳                             |     1. 互動幾乎都是巫術時機     |
+| 黑綠中速 | 1. 解牌全面，不怕結界 2. 多一個用變身地獲勝的Plan B         |      1. 主牌打Domain很難贏      |
+| 黑白中速 | 1. 解牌全面，不怕結界 2. 可以帶掃場 3. 可以帶主流的強力結界 |      1. 主牌打Domain很難贏      |
 
 就我個人的理解做了這樣的整理表格，可以看到其實黑綠與黑白中速也有他們擅長的地方，對於藍黑與紅黑非常頭痛的結界也都有更好的應對手段；但是因為環境中佔據meta第一位的Domain控制存在的關係，直接壓縮了這兩種色組的黑底中速生存空間。不過這也只是這一季的標準meta而已，下周就是新系列MKM的發售，屆時想必標準賽制也會風雲變色，再有嶄新的氣象吧。

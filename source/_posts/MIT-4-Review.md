@@ -15,7 +15,6 @@ excerpt: "第四季MIT結束了，想知道這次Guildmages' Forum有參賽的�
 categories:
   - "Others"
 authors:
-- "Pioneer"
   - "MiohitoKiri5474"
   - "cephille"
   - "T1BloodMoon"
