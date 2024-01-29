@@ -2,9 +2,9 @@ name: Auto Deploy to GitHub Pages
 
 on:
   push:
-    branches: [ "main" ]
+    branches: ["main"]
   pull_request:
-    branches: [ "main" ]
+    branches: ["main"]
 
   workflow_dispatch:
 
@@ -18,21 +18,21 @@ jobs:
       - name: Set Time Zone
         run: sudo timedatectl set-timezone 'Asia/Taipei'
 
-      - name: Add GitHub into ssh_known
+      - name: Configuration environment
+        env:
+          HEXO_DEPLOY_PRI: ${{secrets.BLOG_SEC}}
         run: |
-          mkdir -p ~/.ssh
+          mkdir -p ~/.ssh/
+          echo "$HEXO_DEPLOY_PRI" > ~/.ssh/id_rsa
+          chmod 600 ~/.ssh/id_rsa
           ssh-keyscan github.com >> ~/.ssh/known_hosts
-
-      - name: Node.js Setup
-        uses: actions/setup-node@v2
-        with:
-          node-version: "18.12.1"
-          cache: 'npm'
+          git config --global user.name "MiohitoKiri5474"
+          git config --global user.email "lltzpp@gmail.com"
 
       - name: Node.js Package install
         run: npm i -g hexo-cli && npm i
 
       - name: Deploy
-        uses: sma11black/hexo-action@v1.0.3
-        with:
-          deploy_key: ${{ secrets.BLOG_SEC }}
+        run: |
+          rm -rf node_modules && npm install --force
+          hexo clean && hexo g && hexo d
