@@ -2,7 +2,6 @@
 title: "Mio's Izzet Murktide List"
 date: 2023-09-05 14:24:59
 tags:
-  - MiohitoKiri5474
   - Modern
   - Deck Tech
 
@@ -12,6 +11,8 @@ excerpt: '好啦，上一篇那樣太明目張膽了，這一次多給了一堆�
 categories:
   - Construct
   - Modern
+authors:
+  - MiohitoKiri5474
 ---
 
 ## Before We Start
