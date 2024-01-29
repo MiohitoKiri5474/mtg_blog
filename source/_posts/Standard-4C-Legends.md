@@ -10,7 +10,10 @@ excerpt: "標準賽制？多色？生物牌？你以為是domain嗎？NO，是�
 categories:
   - "Construct"
   - "Standard"
+authors:
+  - "Enki"
 ---
+
 ## 前言
 
 身為一個一直有在Follow標準賽制的玩家，說到傳奇套牌就會讓人想到之前較常在賽場出現的**艾斯波傳奇**，套牌主打強大的藍白黑色傳奇生物(如[瑟班守護者莎利雅](https://scryfall.com/card/vow/38/thalia-guardian-of-thraben)、[卜策魔拉斐茵](https://scryfall.com/card/snc/213/zht/%E5%8D%9C%E7%AD%96%E9%AD%94%E6%8B%89%E6%96%90%E8%8C%B5)、[華輝護教軍艾德琳](https://scryfall.com/card/moc/167/adeline-resplendent-cathar)...等等)並投入大量神河系列的魂力地，利用傳奇生物站在場上會使魂力地減少費用的特性達到在鋪場的同時做出干擾的節奏壓制效果，後續再用上述的傳奇生物快速將對手斬殺以取得勝利。
@@ -52,7 +55,6 @@ categories:
 作用是快速濾牌，抽棄時除了可以觸發[烈陽總督因提](https://scryfall.com/card/lci/156/inti-seneschal-of-the-sun)的賺牌異能之外，將地牌棄置更可以主動觸發[流漿王斯羅咕](https://scryfall.com/card/mid/324/zht/%E6%B5%81%E6%BC%BF%E7%8E%8B%E6%96%AF%E7%BE%85%E5%92%95)的第一條加康異能，快速讓它達成自保條件。
 雖然不常用到，有時候會有機會用多餘的費用將它翻面，讓它變成一個有踐踏異能的打手。
 
-
 ![](https://cards.scryfall.io/large/front/6/4/64a2809e-c441-416c-90ff-6fb1e246dff3.jpg?1673308219)
 
 多明納里亞：眾志成城（DMU）推出的傳奇deck專用的產費神器。
@@ -91,6 +93,7 @@ categories:
 可以看到附上的卡表中的正編有投入[至美心智傑斯](https://scryfall.com/card/one/57/zhs/%E8%87%B3%E7%BE%8E%E5%BF%83%E6%99%BA%E6%9D%B0%E6%96%AF)這張單卡，通常叫出來就是直接[-5]磨對手15張，後續透過使用[荒澤竹沼](https://scryfall.com/card/neo/278/takenuma-abandoned-mire)便可以將使用過的[至美心智傑斯](https://scryfall.com/card/one/57/zhs/%E8%87%B3%E7%BE%8E%E5%BF%83%E6%99%BA%E6%9D%B0%E6%96%AF)給從墳場撿回來，而若場上有[流漿王斯羅咕](https://scryfall.com/card/mid/324/zht/%E6%B5%81%E6%BC%BF%E7%8E%8B%E6%96%AF%E7%BE%85%E5%92%95)，使用第三條異能便又可以將使用過的[荒澤竹沼](https://scryfall.com/card/neo/278/takenuma-abandoned-mire)回手，如此製造出能夠反覆施放[至美心智傑斯](https://scryfall.com/card/one/57/zhs/%E8%87%B3%E7%BE%8E%E5%BF%83%E6%99%BA%E6%9D%B0%E6%96%AF)的狀況，並將對手牌庫清空使對手因無法抽牌而落敗。
 
 ## 結語
+
 四色傳奇總地來說我認為在標準就是一套中規中矩的套牌吧，要注意單卡之間有的互動性和能做出奇妙combo的時機和方法，操作上算是相當困難，因此對於練習、掌握度的需求很高。
 
 根據筆者自己的經驗，操作牌組時需要注意以下幾點:
