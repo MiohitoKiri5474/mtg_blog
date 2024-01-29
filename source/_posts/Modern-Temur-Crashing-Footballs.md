@@ -11,11 +11,16 @@ excerpt: "三回犀牛，康康康康康康…結束，好玩遊戲每天玩"
 categories:
   - Construct
   - Modern
+authors:
+  - "ClarkShih"
 ---
+
 ## 前言
+
 第五季的RCQ （Regional Championship Qualifer, 台灣區稱為MIT）已經開始一段時間了，我也將在這一週開始到處跑卡店、爭戰RCQ。因為我曾經在個人版上分享過一篇自稱全台灣最詳細的先驅紅黑中速的文章，所以這次收到[Guildmages' Forum](https://www.facebook.com/guildmagesforumtw)團隊的邀請，希望我可以用當時的一半功力，來介紹這套我打了快一年、在美國贏到快爛掉的近代套牌。
 
 ## 為何你應該選擇鐵木爾犀牛
+
 如果你問我現在近代該打什麼？我一定會毫不猶豫地回答你：「鐵木爾犀牛」。我認為這套牌大多數的對局都是處於主動的一方，沒有套牌能夠很輕易地阻止3回兩隻4/4踐踏的犀牛，在這個前提下對手都需要做出對他們而言不划算的交易，更別提我們還有大量的康牌以及去除。另一個點就是除了套牌的最主要核心以外，任何其餘的卡位都是可以隨這環境進行更改的，這個特性讓這個套牌的環境適應力異常的強大，只要不要環境的強度超越本身這套牌的本質或者關鍵單卡被禁，我認為這套牌能夠打的很長久，不用太頻繁地去更換套牌。
 
 ## 關於鐵木爾犀牛
@@ -26,10 +31,10 @@ categories:
 
 ![](https://i.imgur.com/8ls4JVa.jpg)
 
-
 <!---畫線這一段你google文件裡沒有，看看要不要保留還是刪掉--->
 
 ## 套牌構成
+
 這是我現在的牌表，我會分為幾個部分說明
 
 [牌表連結](https://www.mtggoldfish.com/deck/5625589#paper)
@@ -37,6 +42,7 @@ categories:
 ![](https://i.imgur.com/VThf7Jl.jpg)
 
 ### 套牌核心
+
 也就是我認為無法刪減的卡牌，包含以下這些牌：
 
 ![犀牛](https://i.imgur.com/Z8kSwGq.jpg)
@@ -73,7 +79,7 @@ categories:
 
 [Flame of Anor](https://cards.scryfall.io/large/front/0/4/04779a7e-b453-48b9-b392-6d6fd0b8d283.jpg?1686969766)：我當時看到這張牌的第一個反應：「幹又沒有巫師？而且屁股5的到底有啥，我不如繼續Fury放滿還可以當打點」，後面就發現我錯了，拆神器可以作為解決[Chalice of the Void](https://cards.scryfall.io/large/front/1/f/1f0d2e8e-c8f2-4b31-a6ba-6283fc8740d4.jpg?1562433485)的答案、打5跟Dismember一樣可以處理環境中大部分的生物、抽兩張十分強力、本身又是紅藍色可以幫助我們施放FON, Subtlety, Commandeer和Fury。缺點就是它3費，在極端時刻並沒有Dismember來得好。至於巫師的部分我們可以放[Mutavault](https://cards.scryfall.io/large/front/5/2/52cc2f10-142d-4e6a-984e-b25f566cc960.jpg?1674142985)來提高這張牌的上限。
 
-### 地牌的選擇	
+### 地牌的選擇
 
 電震地各1、三色循環1張：這個基本不解釋，我看有人紅藍電震地會多放，但是我覺得沒有必要。
 
@@ -137,11 +143,11 @@ categories:
 
 基本上後手就上寶石洞窟，然後下一張找地，地牌更換不再其他對局中贅述。
 
-| Side Out | Side In |
-| :-: | :-: |
-| -4 Dead // Gone | +2 Fury |
-| | +1 Mystical Dispute |
-| | +1 Flame of Anor |
+|    Side Out     |       Side In       |
+| :-------------: | :-----------------: |
+| -4 Dead // Gone |       +2 Fury       |
+|                 | +1 Mystical Dispute |
+|                 |  +1 Flame of Anor   |
 
 Dead // Gone 在這個對局並不好，因為 Dead 幾乎沒有對象，雖然 Gone 可以有效的解決一隻犀牛或暫時解決 Murktide Regent ，但我認爲不值得。我看到有些人會下掉 Subtlety 但是我沒有，因為對手也有 Fury 和 Murktide Regent ， Subtlety 可以作為這兩張牌的解答以及額外的打點。
 
@@ -155,16 +161,18 @@ Dead // Gone 在這個對局並不好，因為 Dead 幾乎沒有對象，雖然 
 
 ##### 換備策略
 
-| Side Out | Side In |
-| :-: | :-: |
-| -4 Force of Negation | +2 Fury |
-| -3 Mystical Dispute | +1 Flame of Anor |
-| | +1 Subtlety |
-| | +2 Endurance |
-| | +1 Boseiju, Who Endures |
+|       Side Out       |         Side In         |
+| :------------------: | :---------------------: |
+| -4 Force of Negation |         +2 Fury         |
+| -3 Mystical Dispute  |    +1 Flame of Anor     |
+|                      |       +1 Subtlety       |
+|                      |      +2 Endurance       |
+|                      | +1 Boseiju, Who Endures |
 
 我們選擇下掉我們所有的康，加入更多的解以及抽牌，因為這個對局會快速進入Topdeck的階段，Topdeck抽到康的時候並不夠好。Endurance我認為在這個對局單純就是做個輔助的做用，擋得住他們大多數的生物，防止他們使用Scam假死，最後就是回收自己的犀牛，如果你有更好的卡，Endurance就沒有那麼必要。
-> 
+
+>
+
 #### 四色元素
 
 ![4C](https://i.imgur.com/VBq3Q9x.jpg)
@@ -173,13 +181,14 @@ Dead // Gone 在這個對局並不好，因為 Dead 幾乎沒有對象，雖然 
 不過，自從Up the Beanstalk被開始投入之後，這個對局的變得不太一樣了，他們前期追趕資源的能力比過去優秀很多，我們在前期也很難阻止對手施放Up the Beanstalk。在我的經驗中，如果對手只有一張Up the Beanstalk那我們雙方就是在同一個水平面較量，如果對手有兩張甚至更多，那對局對我們而言就很不妙了。也因為如此，我們必須在前期就快速解決遊戲，中期的我們還有機會終結比賽，再晚一點點我們的勝率將會大幅度的下滑。
 
 ##### 換備策略
-| Side Out | Side In |
-| :-: | :-: |
-| -4 Dead // Gone | +2 Fury |
-| -1 Murktide Regent | +1 Flame of Anor |
-| -4 Fire // Ice | +1 Subtlety |
-| | +3 Blood Moon |
-| | +1 Mystical Dispute |
+
+|      Side Out      |       Side In       |
+| :----------------: | :-----------------: |
+|  -4 Dead // Gone   |       +2 Fury       |
+| -1 Murktide Regent |  +1 Flame of Anor   |
+|   -4 Fire // Ice   |     +1 Subtlety     |
+|                    |    +3 Blood Moon    |
+|                    | +1 Mystical Dispute |
 
 刪除Dead // Gone的原因與內戰相同，對於對局幾乎沒有幫助。Murktide Regent在這個對局太容易被解掉，所以刪除。 我覺得Fire // Ice在這個對局也不好，Fire的部分無法有效去除他們的生物，Ice你沒有二回施放的話都略為雞肋。
 
@@ -192,13 +201,14 @@ Dead // Gone 在這個對局並不好，因為 Dead 幾乎沒有對象，雖然 
 總結，殺死他們的生物、阻止醫生落地、拍出我們的犀牛、壓迫他們的血量，然後逼迫他們做出不利於他們的交換，最後取得勝利。
 
 ##### 換備策略
-| Side Out | Side In |
-| :-: | :-: |
-| -4 Force of Negation | +2 Fury |
-| -3 Mystical Dispute | +1 Flame of Anor |
-| -1 Murktide Regent | +1 Subtlety |
-| | +3 Endurance |
-| | +1 Mystical Dispute |
+
+|       Side Out       |       Side In       |
+| :------------------: | :-----------------: |
+| -4 Force of Negation |       +2 Fury       |
+| -3 Mystical Dispute  |  +1 Flame of Anor   |
+|  -1 Murktide Regent  |     +1 Subtlety     |
+|                      |    +3 Endurance     |
+|                      | +1 Mystical Dispute |
 
 #### 創 （Tron）
 
@@ -208,13 +218,14 @@ Dead // Gone 在這個對局並不好，因為 Dead 幾乎沒有對象，雖然 
 因此，我們能做的就是在前期手上有FON或Subtlety的情況下拍出犀牛，這樣我們才能在前期就做到干擾以及用犀牛施壓。
 
 ##### 換備策略
-| Side Out | Side In |
-| :-: | :-: |
-| -4 Dead // Gone | +1 Flame of Anor |
-| -1 Dismember | +1 Subtlety |
-| -3 Mystical Dispute | +3 Blood Moon |
-| | +2 Force of vigor |
-| | +1 Mystical Dispute |
+
+|      Side Out       |       Side In       |
+| :-----------------: | :-----------------: |
+|   -4 Dead // Gone   |  +1 Flame of Anor   |
+|    -1 Dismember     |     +1 Subtlety     |
+| -3 Mystical Dispute |    +3 Blood Moon    |
+|                     |  +2 Force of vigor  |
+|                     | +1 Mystical Dispute |
 
 ## 結語
 

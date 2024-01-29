@@ -11,6 +11,8 @@ excerpt: "萬眾矚目的白長老恐龍始輝澤塔帕要重出江湖了嗎？�
 categories:
   - Limited
   - LCI-Limited
+authors:
+  - "Kappa"
 ---
 
 依夏蘭迷窟（The Lost Caverns of Ixalan, LCI）將於2023年11月10日舉行售前賽活動，而於隔一週2023年11月17日正式發行，想更了解單卡在限制賽的單卡評分與一些可能的有趣搭配嗎？那就來看看這一系列的LCI限制賽介紹吧！
@@ -20,7 +22,7 @@ categories:
 ## 評分標準
 
 5.0：無條件必拿
-4.0：有首選價值 
+4.0：有首選價值
 3.5：強度夠但不一定要首選
 3.0：高於平均（會很希望他能放進最終牌組）
 2.5：平均水準，maybe輪抽第6、第7 pick左右
@@ -32,12 +34,11 @@ categories:
 ![白色](https://i.imgur.com/rdkjPci.png)
 
 > 白色各稀有度的數量
-> 
+>
 > C：19
 > U：14
 > R：9
 > MR：2
-
 
 ![001](https://cards.scryfall.io/large/front/f/9/f93b725e-2b9c-4830-ac54-b2562afe09bb.jpg?1699043056)
 
@@ -80,8 +81,7 @@ categories:
 
 **Kappa**：2.0
 
-[基定的怒責](https://cards.scryfall.io/large/front/4/5/453d8ec3-15ae-4851-9efb-161ca2ee6019.jpg?1562911221)，[飄萍干預](
-https://cards.scryfall.io/large/front/4/3/43708ec9-a85a-4244-86b4-67b30b41d854.jpg?1654566557)等等幾張卡的同型再印刷，再怎麼差勁都算是一張解牌，直接打死對手的強攻生物，配合自己的小生物作為combat trick打死對手五血以上的生物也可以，但對手不動就什麼意義都沒有，湊數用解牌。
+[基定的怒責](https://cards.scryfall.io/large/front/4/5/453d8ec3-15ae-4851-9efb-161ca2ee6019.jpg?1562911221)，[飄萍干預](https://cards.scryfall.io/large/front/4/3/43708ec9-a85a-4244-86b4-67b30b41d854.jpg?1654566557)等等幾張卡的同型再印刷，再怎麼差勁都算是一張解牌，直接打死對手的強攻生物，配合自己的小生物作為combat trick打死對手五血以上的生物也可以，但對手不動就什麼意義都沒有，湊數用解牌。
 
 ![008](https://cards.scryfall.io/large/front/3/d/3d771631-0aab-4f09-b9a6-49b6b2d8d2aa.jpg?1698434785)
 

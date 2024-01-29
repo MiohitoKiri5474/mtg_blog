@@ -7,6 +7,8 @@ tags:
 cover: "https://i.imgur.com/taDVdGm.jpg"
 thumbnail: "https://i.imgur.com/taDVdGm.jpg"
 excerpt: "紅黑中速按費拍怪簡單暴力，加上傾探異能施放一個咒語一帶三更是過分！來看看Kappa對紅黑中速的理解以及賽報吧！"
+authors:
+  - "Kappa"
 ---
 
 ## 卡組介紹
@@ -99,10 +101,10 @@ excerpt: "紅黑中速按費拍怪簡單暴力，加上傾探異能施放一個�
 本次採用常見的25地均衡構築，並採用 [基克斯暴行錄](https://cards.scryfall.io/large/front/3/d/3d6e5eb3-25ab-4e9e-96e8-655e0ce74675.jpg?1673307042) + [676](https://cards.scryfall.io/large/front/e/d/edc035ca-f0a3-4814-9405-d6dc6f048315.jpg?1699044357)的組合，增加從墳場挖回來提早出676的可能性，增添少許公平卡組中的不公平動作。和網上的常見構築比，我只改了很少的部分，以下將簡述一下：
 
 1. 正編沒採用滿4張[不息噴口](https://cards.scryfall.io/large/front/e/6/e628e89b-bee9-408d-bb05-1784fda6b8a1.jpg?1699044708)的原因：
-這次紅黑的生物地挺強，4費可以2/3威懾，攻擊時可以棄1抽1，可是考慮到sideboard後有大量一費就要開始的動作，例如duress，cut down，這些對局都是1費是否站著進地就是生命線，因此寧願用多1張沼澤都不要增加躺地的風險，因此用3張取得平衡。
+   這次紅黑的生物地挺強，4費可以2/3威懾，攻擊時可以棄1抽1，可是考慮到sideboard後有大量一費就要開始的動作，例如duress，cut down，這些對局都是1費是否站著進地就是生命線，因此寧願用多1張沼澤都不要增加躺地的風險，因此用3張取得平衡。
 
 2. 備牌用了1張[毅力之美德（黑美德）](https://cards.scryfall.io/large/front/f/1/f1e5cafb-b0e6-4ee5-8c58-6f8e5ef2b9da.jpg?1692937996)及2張[礫岩齊擊](https://cards.scryfall.io/large/front/c/4/c45a5f4a-2174-4885-aa5a-c4c24cc732f0.jpg?1682204356)，取而代之拿走了額外的[直刺咽喉](https://cards.scryfall.io/large/front/5/4/5446e1ba-c745-45b2-ad05-b22abf04daec.jpg?1682209037)、[折磨賜聖](https://cards.scryfall.io/large/front/f/7/f7dc55a8-290f-4666-90ce-aa632e87c5e7.jpg?1675957006)、以及[風化侵蝕](https://cards.scryfall.io/large/front/4/7/47f39b5e-2e85-4f31-bbab-0b0bf58f701d.jpg?1699044218)：
-先說前者，是為了對紅快用，2點生命值也是能吸就吸，可是現環境流行的卡組中太多屁股4，有需要可以換回直刺咽喉，另外兩張完全是針對[Raffine](https://cards.scryfall.io/large/front/7/1/716a44b4-f6b0-4f14-a270-6442aed3251f.jpg?1664413581)，可以用的地方其實不多，有需要可以換回另外2張泛用解牌，可以說這3張都是針對當時想參加的賽場環境，讀者可以再依需求自行調配。
+   先說前者，是為了對紅快用，2點生命值也是能吸就吸，可是現環境流行的卡組中太多屁股4，有需要可以換回直刺咽喉，另外兩張完全是針對[Raffine](https://cards.scryfall.io/large/front/7/1/716a44b4-f6b0-4f14-a270-6442aed3251f.jpg?1664413581)，可以用的地方其實不多，有需要可以換回另外2張泛用解牌，可以說這3張都是針對當時想參加的賽場環境，讀者可以再依需求自行調配。
 
 關於更多關於紅黑中速的卡組介紹以及換備策略，也歡迎大家同步參考另一篇文章：[紅黑 Discover：中速之王](https://guildmagesforum.tw/Standard-Rakdos-Discover-Midrange/)
 
@@ -122,15 +124,15 @@ excerpt: "紅黑中速按費拍怪簡單暴力，加上傾探異能施放一個�
 - Game 1：雖然先攻但調度1，而且也沒抽到2費的生物，全局唯一打中對手面的一次是[叛教幫傳道士](https://scryfall.com/card/lci/113/preacher-of-the-schism)推了一拳，之後被[Sunfall](https://scryfall.com/card/mom/40/sunfall)，後面雖然抽到[深窟蝙蝠](https://scryfall.com/card/lci/102/deep-cavern-bat)，但是看到兩隻[大一統飛將亞崔夏](https://scryfall.com/card/one/196/atraxa-grand-unifier)回天乏力，最後亞崔夏落地，拿5張卡，裏面有[昇華物靈師妮莎](https://scryfall.com/card/one/175/nissa-ascended-animist)，看了一下之後直接投降。
 - Sideboard：（domain不利，所以會換很多）
 
-| Side Out | Side In |
-| :-: | :-: |
-| -2 [斬落](https://cards.scryfall.io/large/front/7/5/753db072-5d6a-4f37-8f7d-255572ecd3bd.jpg?1673307061) | +3 [逼從](https://cards.scryfall.io/large/front/3/5/3557e601-9b71-4ce9-9047-1a8baa72e574.jpg?1675957024) |
-| -1 [折磨賜聖](https://cards.scryfall.io/large/front/f/7/f7dc55a8-290f-4666-90ce-aa632e87c5e7.jpg?1675957006) | +2 [萃取真相](https://cards.scryfall.io/large/front/2/b/2bdb9df1-4475-45e7-bc9c-40937c8c1722.jpg?1664410922) | 
-| -1 [聚骨駭威龍](https://scryfall.com/card/lci/134/bonehoard-dracosaur) | +2 [面紗的莉蓮娜](https://cards.scryfall.io/large/front/a/c/ac506c17-adc8-49c6-9d8d-43db7cb1ec9d.jpg?1562835390) |
+|                                                    Side Out                                                    |                                                     Side In                                                      |
+| :------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------: |
+|    -2 [斬落](https://cards.scryfall.io/large/front/7/5/753db072-5d6a-4f37-8f7d-255572ecd3bd.jpg?1673307061)    |     +3 [逼從](https://cards.scryfall.io/large/front/3/5/3557e601-9b71-4ce9-9047-1a8baa72e574.jpg?1675957024)     |
+|  -1 [折磨賜聖](https://cards.scryfall.io/large/front/f/7/f7dc55a8-290f-4666-90ce-aa632e87c5e7.jpg?1675957006)  |   +2 [萃取真相](https://cards.scryfall.io/large/front/2/b/2bdb9df1-4475-45e7-bc9c-40937c8c1722.jpg?1664410922)   |
+|                     -1 [聚骨駭威龍](https://scryfall.com/card/lci/134/bonehoard-dracosaur)                     | +2 [面紗的莉蓮娜](https://cards.scryfall.io/large/front/a/c/ac506c17-adc8-49c6-9d8d-43db7cb1ec9d.jpg?1562835390) |
 | -4 [長吼食肉龍](https://cards.scryfall.io/large/front/e/d/edc035ca-f0a3-4814-9405-d6dc6f048315.jpg?1699044357) | +1 [洞穿多重宇宙](https://cards.scryfall.io/large/front/d/a/daf51a76-7a57-4462-ae18-a19e817e49e5.jpg?1682203621) |
-| -1 沼澤 | +1 [黑美德](https://scryfall.com/card/woe/115/virtue-of-persistence-locthwain-scorn) |
+|                                                    -1 沼澤                                                     |               +1 [黑美德](https://scryfall.com/card/woe/115/virtue-of-persistence-locthwain-scorn)               |
 
-**簡單解說：** 
+**簡單解說：**
 參考國外的攻略文章，與domain鬥只有兩種手法，一是前期卡爛他的手牌令他跳不了費，在他機能不全的時候將他打死；一是和他比大招的份量，這個sideboard偏重前者，但也擔心有機會不能及時完成遊戲，所以準備了2招大招。
 
 - Game 2：先攻調度1，但sideboard牌都有到，一回[逼從](https://scryfall.com/card/one/92/duress)二回[蝙蝠](https://scryfall.com/card/lci/102/deep-cavern-bat)三回萃取真相，先後把[掃除人口](https://cards.scryfall.io/large/front/c/5/c53c1898-9107-4bf8-b249-d0502fb9596d.jpg?1664409589)，[失效](https://scryfall.com/card/mom/68/negate)，[鉻亮兵團運種鯊](https://scryfall.com/card/mom/51/chrome-host-seedshark)扣住或丟棄，對手一直抽不到有力的解決牌，直接被我用蝙蝠 + [約格莫夫判官基克斯](https://scryfall.com/card/bro/95/gix-yawgmoth-praetor)的組合瘋狂賺資源，幾回合後變成我7手牌，他只有1張手牌的情況，對方意識到回天乏力就投降了，這時候我還沒發現到他sideboard下掉了甚麼……
@@ -142,12 +144,12 @@ excerpt: "紅黑中速按費拍怪簡單暴力，加上傾探異能施放一個�
 
 - Sideboard：
 
-| Side Out | Side In |
-| :-: | :-: |
-| -2 [長吼食肉龍](https://cards.scryfall.io/large/front/e/d/edc035ca-f0a3-4814-9405-d6dc6f048315.jpg?1699044357) | +2 [斬落](https://cards.scryfall.io/large/front/7/5/753db072-5d6a-4f37-8f7d-255572ecd3bd.jpg?1673307061) | 
-| -1 [萃取真相](https://cards.scryfall.io/large/front/2/b/2bdb9df1-4475-45e7-bc9c-40937c8c1722.jpg?1664410922) | +1 [黑美德](https://scryfall.com/card/woe/115/virtue-of-persistence-locthwain-scorn) | 
-| -1 [約格莫夫判官基克斯](https://cards.scryfall.io/large/front/2/c/2c76f7e0-37e7-4e87-93a3-a25ba0674645.jpg?1675567458) | +1 [兄弟反目](https://scryfall.com/card/bro/128/brotherhoods-end) |
-| -1 [基克斯暴行錄](https://cards.scryfall.io/large/front/3/d/3d6e5eb3-25ab-4e9e-96e8-655e0ce74675.jpg?1673307042) | +1 [基克斯的指命](https://scryfall.com/card/bro/97/gixs-command) |
+|                                                        Side Out                                                        |                                                 Side In                                                  |
+| :--------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------: |
+|     -2 [長吼食肉龍](https://cards.scryfall.io/large/front/e/d/edc035ca-f0a3-4814-9405-d6dc6f048315.jpg?1699044357)     | +2 [斬落](https://cards.scryfall.io/large/front/7/5/753db072-5d6a-4f37-8f7d-255572ecd3bd.jpg?1673307061) |
+|      -1 [萃取真相](https://cards.scryfall.io/large/front/2/b/2bdb9df1-4475-45e7-bc9c-40937c8c1722.jpg?1664410922)      |           +1 [黑美德](https://scryfall.com/card/woe/115/virtue-of-persistence-locthwain-scorn)           |
+| -1 [約格莫夫判官基克斯](https://cards.scryfall.io/large/front/2/c/2c76f7e0-37e7-4e87-93a3-a25ba0674645.jpg?1675567458) |                    +1 [兄弟反目](https://scryfall.com/card/bro/128/brotherhoods-end)                     |
+|    -1 [基克斯暴行錄](https://cards.scryfall.io/large/front/3/d/3d6e5eb3-25ab-4e9e-96e8-655e0ce74675.jpg?1673307042)    |                     +1 [基克斯的指命](https://scryfall.com/card/bro/97/gixs-command)                     |
 
 **簡單解說：**
 這個sideboard的調法和對紅快很像，對方速度比我快，我就有必要用多點殺牌來招呼他的飛行生物，特別[仙靈才俊](https://scryfall.com/card/mom/58/faerie-mastermind)這些放著會給他賺手牌的東西要優先解，先從最大費用的卡以及對結界用的卡開始拔，再將2種會自己扣血的卡各減1張，最後換入各種殺牌以及掃場
@@ -164,12 +166,12 @@ excerpt: "紅黑中速按費拍怪簡單暴力，加上傾探異能施放一個�
 
 - Sideboard：
 
-| Side Out | Side In |
-| :-: | :-: |
-| -2 [斬落](https://cards.scryfall.io/large/front/7/5/753db072-5d6a-4f37-8f7d-255572ecd3bd.jpg?1673307061) | +3 [逼從](https://cards.scryfall.io/large/front/3/5/3557e601-9b71-4ce9-9047-1a8baa72e574.jpg?1675957024)  |
-| -1 [折磨賜聖](https://cards.scryfall.io/large/front/f/7/f7dc55a8-290f-4666-90ce-aa632e87c5e7.jpg?1675957006) | +2 [面紗的莉蓮娜](https://scryfall.com/card/dmu/97/liliana-of-the-veil) |
-| -1 [聚骨駭威龍](https://scryfall.com/card/lci/134/bonehoard-dracosaur) | +1 [洞穿多重宇宙](https://cards.scryfall.io/large/front/d/a/daf51a76-7a57-4462-ae18-a19e817e49e5.jpg?1682203621) |
-| -2 [長吼食肉龍](https://cards.scryfall.io/large/front/e/d/edc035ca-f0a3-4814-9405-d6dc6f048315.jpg?1699044357) |  |
+|                                                    Side Out                                                    |                                                     Side In                                                      |
+| :------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------: |
+|    -2 [斬落](https://cards.scryfall.io/large/front/7/5/753db072-5d6a-4f37-8f7d-255572ecd3bd.jpg?1673307061)    |     +3 [逼從](https://cards.scryfall.io/large/front/3/5/3557e601-9b71-4ce9-9047-1a8baa72e574.jpg?1675957024)     |
+|  -1 [折磨賜聖](https://cards.scryfall.io/large/front/f/7/f7dc55a8-290f-4666-90ce-aa632e87c5e7.jpg?1675957006)  |                     +2 [面紗的莉蓮娜](https://scryfall.com/card/dmu/97/liliana-of-the-veil)                      |
+|                     -1 [聚骨駭威龍](https://scryfall.com/card/lci/134/bonehoard-dracosaur)                     | +1 [洞穿多重宇宙](https://cards.scryfall.io/large/front/d/a/daf51a76-7a57-4462-ae18-a19e817e49e5.jpg?1682203621) |
+| -2 [長吼食肉龍](https://cards.scryfall.io/large/front/e/d/edc035ca-f0a3-4814-9405-d6dc6f048315.jpg?1699044357) |                                                                                                                  |
 
 **簡單解說：**
 老實說我也不太記得為何要這樣改了，大概又是想從卡手牌攻略開始，有想過要不要放多2張萃取真相，但是對手的生物以及結界的數量實在不多，決定只放1張，對手真的把黑美德拍出來，就用暴行錄導出來就好
@@ -187,8 +189,8 @@ excerpt: "紅黑中速按費拍怪簡單暴力，加上傾探異能施放一個�
 - Game 1：還是坐下來前就知道對手玩什麼卡組的對局，對手調度2，對手先2還是tap入三色地，我2後準時拍蝙蝠，看到對手手上有2隻[綠雕跺地獸](https://scryfall.com/card/snc/160/topiary-stomper)，1張[短時封鎖](https://scryfall.com/card/dmu/36/temporary-lockdown)，1張黑美德，1張帶黑的三色地，此時檢查一下對手的前兩張三色地是生不出黑色的，手上還有1張蝙蝠，先把[Lockdown](https://scryfall.com/card/dmu/36/temporary-lockdown)壓掉，對手下一回合想拍黑美德歷險那邊的時候才發現沒有黑色，只好再空過一回合，我乘勝追擊拍出[Gix](https://scryfall.com/card/bro/95/gix-yawgmoth-praetor)，順道作為黑美德歷險的誘餌，果然成功用Gix騙走了對手的黑美德，保住了蝙蝠，雖然用第二隻蝙蝠壓住了1隻[跺地獸](https://scryfall.com/card/snc/160/topiary-stomper)，但對手還是連拍兩隻跺地獸，順利跳上7費拍出黑美德的本體。不過雙方墳場只有我先前死掉的Gix，他也只能拉Gix，由於對手已經斷手牌，而且只抽到一張地，只能孤注一擲用Gix的7費效果換我卡組頂一張卡，最後讓他換到[324](https://scryfall.com/card/lci/113/preacher-of-the-schism)。對方開始用跺地獸推我臉想要補牌，我利用先前[逆爐霜劍山](https://scryfall.com/card/neo/276/sokenzan-crucible-of-defiance)生出的token防守，一來不會產生額外的墳場，二來不會讓他打到面觸發Gix效果。下一回合為關鍵回合，對方場上只有324，Gix和跺地獸，除了Gix的兩隻推過來，對手生一隻吸血鬼，我場上有一堆生物，正在考慮阻擋的時候看到自己場上1章的暴行錄，再檢查手牌有2張解，決定賭一下放他兩隻全過，對手扣2抽2，雖然拿到了一張[地脈束縛](https://scryfall.com/card/dmu/24/leyline-binding)壓掉我的黑魔判，但我場上依然有676暴龍為首的攻擊手，下回暴行錄導出一張解牌，3張解牌分別解掉跺地獸，Gix以及小吸血鬼，令對手沒有阻擋者，全推獲勝。
 
 - Sideboard：和預賽第一局幾乎一樣，分別只是換入的黑美德變成[兄弟反目](https://scryfall.com/card/bro/128/brotherhoods-end)。
-**簡單解說：**
-黑美德太早來並不能發揮任何作用，後期作為大招也有可能發生沒有亞崔夏掘這種微妙的狀況，我的sideboard後捨棄了所有676暴龍，若果對手沒東西可以掘的話，掘自己的東西有點微妙，兄弟反目可以一口氣把五隻狗全滅更有作用。
+  **簡單解說：**
+  黑美德太早來並不能發揮任何作用，後期作為大招也有可能發生沒有亞崔夏掘這種微妙的狀況，我的sideboard後捨棄了所有676暴龍，若果對手沒東西可以掘的話，掘自己的東西有點微妙，兄弟反目可以一口氣把五隻狗全滅更有作用。
 
 - Game 2：詳細不太記得了，這場對手調度1的前提，還被我血稅 + Gix 瘋狂壓迫血量以及拉開手牌差，對手跳費也不順，4回下蝙蝠壓走對手的[掃除人口](https://cards.scryfall.io/large/front/c/5/c53c1898-9107-4bf8-b249-d0502fb9596d.jpg?1664409589)，5回下基克斯暴行錄，丟走對手手上的亞崔夏，2回合後掘回來賺了3張卡，對手一直卡在四塊地，手上即使有Sunfall也用不出，最後被亞崔夏以及其他生物一拳打死。
 
@@ -197,7 +199,7 @@ excerpt: "紅黑中速按費拍怪簡單暴力，加上傾探異能施放一個�
 - Game 1：對手調度1，看血量表，我記得好像是用3隻蝙蝠（有1隻探地人找的）從頭打到尾......第1次用蝙蝠開對手手牌的時候是2隻跺地獸，2隻[忿怒大天使](https://scryfall.com/card/dmu/3/archangel-of-wrath)以及1張[Jace](https://scryfall.com/card/one/57/jace-the-perfected-mind)，然後向手上的標記，蝙蝠分別壓的是跺地獸、[入侵贊迪卡](https://scryfall.com/card/mom/194/invasion-of-zendikar-awakened-skyclave)、以及忿怒大天使，還有1張忿怒大天使我記得被萃取真相丟棄了，所以我的蝙蝠才完全沒有死。然後看血量表，應該除了用蝙蝠打對方之外，還有Gix支援我的資源量，我記得那場抽牌抽得很興奮，奇怪了，domain應該是不利對局才對……
 
 - Sideboard：和八強一樣
-**簡單解說：** 卡爛對手手牌就對了，最好要一回逼從開始。
+  **簡單解說：** 卡爛對手手牌就對了，最好要一回逼從開始。
 
 - Game 2：記得這局是一回逼從開始丟[爬上豆莖](https://scryfall.com/card/woe/195/up-the-beanstalk)，然後2回蝙蝠壓對手的[鯊魚](https://scryfall.com/card/mom/51/chrome-host-seedshark)，但由於2回的時候已經看到對手手上有兩張亞崔夏，這局基本上就是與時間競賽，很不幸地對手慢慢一張一張地抽上去，也有用[地脈束縛](https://scryfall.com/card/dmu/24/leyline-binding)壓我的大攻擊生物作適量干擾，最後還是趕不及，被他直接拍了亞崔夏，不止賺5張卡，裏面還有下一隻亞崔夏，對手也還有10血，被反推2拳敗北。
 
@@ -209,17 +211,18 @@ excerpt: "紅黑中速按費拍怪簡單暴力，加上傾探異能施放一個�
 
 - Sideboard：
 
-| Side Out | Side In |
-| :-: | :-: |
-| -2 [長吼食肉龍](https://cards.scryfall.io/large/front/e/d/edc035ca-f0a3-4814-9405-d6dc6f048315.jpg?1699044357)| +2 [斬落](https://cards.scryfall.io/large/front/7/5/753db072-5d6a-4f37-8f7d-255572ecd3bd.jpg?1673307061) |
-| -1 [萃取真相](https://cards.scryfall.io/large/front/2/b/2bdb9df1-4475-45e7-bc9c-40937c8c1722.jpg?1664410922) | +1 [黑美德](https://scryfall.com/card/woe/115/virtue-of-persistence-locthwain-scorn)|
+|                                                        Side Out                                                        |                                                   Side In                                                    |
+| :--------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------: |
+|     -2 [長吼食肉龍](https://cards.scryfall.io/large/front/e/d/edc035ca-f0a3-4814-9405-d6dc6f048315.jpg?1699044357)     |   +2 [斬落](https://cards.scryfall.io/large/front/7/5/753db072-5d6a-4f37-8f7d-255572ecd3bd.jpg?1673307061)   |
+|      -1 [萃取真相](https://cards.scryfall.io/large/front/2/b/2bdb9df1-4475-45e7-bc9c-40937c8c1722.jpg?1664410922)      |             +1 [黑美德](https://scryfall.com/card/woe/115/virtue-of-persistence-locthwain-scorn)             |
 | -1 [約格莫夫判官基克斯](https://cards.scryfall.io/large/front/2/c/2c76f7e0-37e7-4e87-93a3-a25ba0674645.jpg?1675567458) | +1 [兄弟反目](https://cards.scryfall.io/large/front/5/0/50f7666d-0d60-4fe5-b144-286d4e47b704.jpg?1674421089) |
-| -1 [基克斯暴行錄](https://cards.scryfall.io/large/front/3/d/3d6e5eb3-25ab-4e9e-96e8-655e0ce74675.jpg?1673307042) | +1 [基克斯的指命](https://scryfall.com/card/bro/97/gixs-command) |
+|    -1 [基克斯暴行錄](https://cards.scryfall.io/large/front/3/d/3d6e5eb3-25ab-4e9e-96e8-655e0ce74675.jpg?1673307042)    |                       +1 [基克斯的指命](https://scryfall.com/card/bro/97/gixs-command)                       |
 
 **簡短解說：** 殺牌全部上來，高費牌以及扣血牌全部下去，就這樣。
 
 - Game 2：最終決戰卻以莫名其妙的方式收尾......雙方一起調度1，然後對方卡2地，一回以[寺院迅矛僧](https://scryfall.com/card/bro/144/monastery-swiftspear)起手，我除了一開始的斬落和黑美德歷險之外都只抽到地，中段要靠[不息噴口](https://scryfall.com/card/lci/284/restless-vents)站起來幫手防禦，甚至準時7回拍黑美德的本體，然後開始掘對手墳場的生物反打，莫名其妙的一場......這局我的血線甚至沒有低過9血，就這樣在雙方都傻眼的情況下結束了。
 
 ## 後感：
+
 這篇文章內，我提及多少次Gix的名字？（沒獎競猜遊戲）
 還有就是黑色那邊太強，反而變成紅色discover那邊經常都是sideboard優先更換對象⋯⋯

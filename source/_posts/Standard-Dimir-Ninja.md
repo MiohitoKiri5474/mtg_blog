@@ -1,11 +1,11 @@
 ---
-title: '機敏閃避：標準藍黑忍者'
+title: "機敏閃避：標準藍黑忍者"
 date: 2023-10-01 16:30:00
-tags: 
+tags:
   - JerobaMTG
   - Standard
 
-excerpt: '隨著《艾卓荒野》(WOE)的發售，藍黑仙靈一躍進入大眾視野，藍黑中速也以穩健的表現盤據標準meta一隅，本回要討論的藍黑套牌不是上述兩副，而是意外獲得補強的藍黑忍者。'
+excerpt: "隨著《艾卓荒野》(WOE)的發售，藍黑仙靈一躍進入大眾視野，藍黑中速也以穩健的表現盤據標準meta一隅，本回要討論的藍黑套牌不是上述兩副，而是意外獲得補強的藍黑忍者。"
 
 cover: "https://i.imgur.com/7FQFNy3.jpg"
 thumbnail: "https://i.imgur.com/7FQFNy3.jpg"
@@ -13,12 +13,13 @@ thumbnail: "https://i.imgur.com/7FQFNy3.jpg"
 categories:
   - Construct
   - Standard
+authors:
+  - "JerobaMTG"
 ---
 
 ## Before We Start
 
 出自2005年《神河叛將譜》(BOK)的忍者種族時隔17年在《神河霓朝記》(NEO)重新回歸標準環境，帶來一系列比《近代新篇》(MH1)有過之而無不及的中低費優質忍者單卡，還額外提供對浪客的支援，讓忍者種族效應發展不再受限於神河環境，成為一個在標準、甚至是先驅有一戰之力的種族主題。
-
 
 ## 忍術ノ章：異能解說
 
@@ -28,10 +29,10 @@ categories:
 
 如規則文字所示，忍術異能是個將未受阻擋的攻擊生物與手上的忍者交換的能力，風味上就像是忍者褪去偽裝現出真身偷襲對手。基於異能的複雜性，在操作上以下四點需要注意：
 
-* 在宣告完阻擋者後才能啟動忍術異能
-* 回手攻擊生物是費用，只要一啟動忍術異能，生物就已回手
-* 透過忍術異能進場的生物不能變更攻擊對象
-* 忍術進場的攻擊生物可直接作為忍術費用回手
+- 在宣告完阻擋者後才能啟動忍術異能
+- 回手攻擊生物是費用，只要一啟動忍術異能，生物就已回手
+- 透過忍術異能進場的生物不能變更攻擊對象
+- 忍術進場的攻擊生物可直接作為忍術費用回手
 
 從這些特性來看，忍術是一個只能在自己回合戰鬥中啟動的異能，透過忍術避開對手的反擊咒語，讓對手錯估傷害、引誘對手錯誤繳招，也因此比起現行的藍黑仙靈與藍黑中速，忍者套牌更強調主動進攻，在套牌分類上可視為藍黑強攻。
 
@@ -39,14 +40,12 @@ categories:
 
 在NEO忍者中，官方提供了一個必殺影分身組合—[千面影徒](https://cards.scryfall.io/large/front/d/e/def23590-27fc-47a0-a963-bb788785b8b2.jpg)搭配[銀毛師父](https://cards.scryfall.io/large/front/6/9/69b36177-8e89-48ef-ad96-afa228ecc48d.jpg)。作為領主的[銀毛師父](https://cards.scryfall.io/large/front/6/9/69b36177-8e89-48ef-ad96-afa228ecc48d.jpg)不僅提供身材加成，附帶的忍術減費讓[千面影徒](https://cards.scryfall.io/large/front/d/e/def23590-27fc-47a0-a963-bb788785b8b2.jpg)可以做到連續複製，筆者記得在去年某場先驅MITQ中對手幾近滿血、筆者生命剩1時TOP DECK[千面影徒](https://cards.scryfall.io/large/front/d/e/def23590-27fc-47a0-a963-bb788785b8b2.jpg)做出一拳20多點的極限反殺。
 
-
 ## 忍道ノ章：套牌範例
 
 如前所述，由於忍術需要在自己回合付費啟動，朝強攻構組是非常合理的方向。近日晴屋福岡店恰好有一套把忍術強攻特性充分發揮的三勝套牌，請見牌表：
 [牌表連結](https://www.hareruyamtg.com/en/deck/595512/show/)
 
 ![UB Aggro by Hiraishi Kentarou](https://i.imgur.com/mqMRbEA.png)
-
 
 ![](https://i.imgur.com/81kEViC.png)
 ![](https://i.imgur.com/PymtARj.png)
@@ -62,7 +61,6 @@ categories:
 
 ![WOE Ninja Sample](https://i.imgur.com/AHhLZKh.png)
 
-
 在範例牌表中，我們保留了致勝元件[千面影徒](https://cards.scryfall.io/large/front/d/e/def23590-27fc-47a0-a963-bb788785b8b2.jpg)與[銀毛師父](https://cards.scryfall.io/large/front/6/9/69b36177-8e89-48ef-ad96-afa228ecc48d.jpg)，以及同樣帶領主效應的[豐獲竊賊](https://cards.scryfall.io/large/front/f/8/f8bef436-8929-4783-aef1-351fcf08b19c.jpg)與少量[毒血幫銷音客](https://cards.scryfall.io/large/front/5/8/58bf7a03-6030-471e-a20a-4bf8c0d63da6.jpg)，移除了填充物性質的[月路駭客](https://cards.scryfall.io/large/front/e/c/ec43263b-2688-4010-8d47-cefbc3dd162d.jpg)，改將[嚙掌忍者](https://cards.scryfall.io/large/front/7/f/7fc69273-8964-4bb4-a74f-ff2fc2eb3a6f.jpg)放入正編。[嚙掌忍者](https://cards.scryfall.io/large/front/7/f/7fc69273-8964-4bb4-a74f-ff2fc2eb3a6f.jpg)是堅實的三費3/3威懾，自帶一發[夜懼術](https://cards.scryfall.io/large/front/0/d/0dd390f3-aae1-43fc-8775-cef116eeb136.jpg)又能用忍術跳進場，對中慢速套牌來說是夢魘般的存在，兩張[嚙掌忍者](https://cards.scryfall.io/large/front/7/f/7fc69273-8964-4bb4-a74f-ff2fc2eb3a6f.jpg)反覆忍術會讓對手完全留不了手牌。
 
 ![](https://i.imgur.com/tm7UvNu.png)
@@ -74,7 +72,6 @@ categories:
 順帶一提，敏捷生物在WOE推出後也是有可用之兵，那就是[薑餅怪人](https://cards.scryfall.io/large/front/0/9/09a4578a-7dc6-4da3-93ee-913b10be5740.jpg)。1費1/1敏捷，可以付1啟動只能被敏捷生物阻擋常常被用在忍者指揮官套牌中，放在標準亦不失為一個選項。
 對比晴屋版本使用的[妙法逸才](https://cards.scryfall.io/large/front/c/f/cf224968-b676-40dd-83c1-a9ee2ceba574.jpg)，範例版本選用[竊夢仙靈](https://cards.scryfall.io/large/front/5/7/57ca2ec5-442d-4909-be28-93c50fbc5f7a.jpg)作為新牌代表。[竊夢仙靈](https://cards.scryfall.io/large/front/5/7/57ca2ec5-442d-4909-be28-93c50fbc5f7a.jpg)一費1/1飛行不僅滿足前期節奏需求，進場刺探還可發揮潤滑劑作用，降低卡地卡料的機率，又能從墳場放逐回收一張手牌，順風表現不差、逆風可送頭過牌，除了沒有浪客類別有些美中不足外實在是無可挑剔。
 
-
 ## 操術ノ章：技巧重點
 
 ![image alt](https://i.imgur.com/cxlHngk.png)
@@ -83,10 +80,10 @@ categories:
 
 在有限的篇幅內不太可能解說完所有情境，總之筆者大致將忍者套牌操作技巧歸納為以下幾點：
 
-* 不要執著於靠忍術跳生物，視情況可正拍
-* 預判並迴避對手的招，經驗不足可靠逼從彌補
-* 善用守密術士的辟邪與+1/+1指示物製造優勢
-* 忍術時盡可能留有後招，後招可透過回手取得
+- 不要執著於靠忍術跳生物，視情況可正拍
+- 預判並迴避對手的招，經驗不足可靠逼從彌補
+- 善用守密術士的辟邪與+1/+1指示物製造優勢
+- 忍術時盡可能留有後招，後招可透過回手取得
 
 ![](https://i.imgur.com/m5WOXlr.png)
 ![](https://i.imgur.com/MEspdq8.png)
@@ -100,3 +97,4 @@ categories:
 ![](https://i.imgur.com/jmnU5s4.png)
 
 就如前文所敘，NEO忍者將浪客也納入種族支援的一環，讓套牌成長不受限於神河環境，以標準牌池來說，[善變舞咒客](https://cards.scryfall.io/large/front/c/f/cf28c75d-1fb3-44cc-b651-5b2830e22add.jpg)、[金圓蒐集靈](https://cards.scryfall.io/large/front/e/d/edb5f0cc-c826-4e7b-882c-63f6e51fa932.jpg)皆能獲得種族加成，[約格莫夫判官基克斯](https://cards.scryfall.io/large/front/2/c/2c76f7e0-37e7-4e87-93a3-a25ba0674645.jpg)雖然不是浪客，但在小飛兵眾多的忍者套牌中很容易抽到牌，也可以直接挪位置放入[啟示天災希歐蕊](https://cards.scryfall.io/large/front/d/6/d67be074-cdd4-41d9-ac89-0a0456c4e4b2.jpg)、[仁慈仙王塔萊恩](https://cards.scryfall.io/large/front/6/2/62a6b452-c796-45c6-b4d1-0ae3d675e38e.jpg)等旗艦生物，改強的方式要多少有多少，找出最適合自己的打法才是正途。筆者衷心希望每位玩家都能打得開心、玩得快樂。
+
