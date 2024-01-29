@@ -1,17 +1,19 @@
 ---
-title: '純黑柯幫金庫：打牌靠奶，輕鬆自在'
+title: "純黑柯幫金庫：打牌靠奶，輕鬆自在"
 date: 2023-10-20 10:00:00
 tags:
-   - MiohitoKiri5474
-   - Modern
-   - Deck Tech
-cover: 'https://guildmagesforum.tw/images/Modern-Mono-Black-Coffers/Cabal-Coffers.jpg'
-thumbnail: 'https://guildmagesforum.tw/images/Modern-Mono-Black-Coffers/Cabal-Coffers.jpg'
-excerpt: '猴王 MITQ 套牌唯一推薦。'
+  - MiohitoKiri5474
+  - Modern
+  - Deck Tech
+cover: "https://guildmagesforum.tw/images/Modern-Mono-Black-Coffers/Cabal-Coffers.jpg"
+thumbnail: "https://guildmagesforum.tw/images/Modern-Mono-Black-Coffers/Cabal-Coffers.jpg"
+excerpt: "猴王 MITQ 套牌唯一推薦。"
 
 categories:
   - Construct
   - Modern
+authors:
+  - MiohitoKiri5474
 ---
 
 ## Before We Start
@@ -22,9 +24,10 @@ categories:
 後來也有測過 [Death's Shadow](https://cards.scryfall.io/large/front/5/5/5526ff6e-c079-4ad4-ac8d-5e26ecacf50d.jpg?1598304517)，但測起來跟我想像中的不太一樣，可能目前的我還沒辦法駕馭這種套牌。
 
 總之我近半年內的近代心路歷程是：
+
 1. LTR 發售前一個月組了龍侯，感覺短時間內應該不會有把龍侯幹掉的單卡/套牌出現
 2. LTR 印了弓箭手，把龍侯點成智障
-2. PT Barcelona 前弓箭手、戒指滿天飛
+3. PT Barcelona 前弓箭手、戒指滿天飛
 4. 打不贏就加入他，也組了一套 Rakdos Scam
 5. Scam 還沒練好還是被叮的滿頭包
 6. 紙牌屋 MITQ 前一天晚上 11 點臨時決定要在隔天打純黑柯幫金庫
@@ -107,13 +110,14 @@ Sundering Titan：打四色/五色玩家用的，聽說你很多基本地類別�
 至於為什麼會說這個對局是打牌靠奶呢？注意一下我這邊的奶是指補血，靠希歐蕊拼死拼活用力的補就對了！
 
 好啦雖然我這樣說，不過其實這套牌有不少小細節可以提的，例如
-* 我們可以在場上有 Sheoldred 的時候用 [The Stone Brain](https://cards.scryfall.io/large/front/3/5/3570ebf2-a94c-4621-8808-b06e6e830c06.jpg?1674422057) 切他手上有的牌，就可以逼對手抽一張多扣兩點血
-* Karn 的 [-2] 可以撿放逐區的神器（記得 Karn 可以從放逐區抓），有些墳場的神器想要重複利用的時候可以撿備牌的 [Tormod's Crypt](https://cards.scryfall.io/large/front/9/c/9c224bf0-5641-4160-9d5c-46141ea8372a.jpg?1594737584) 放逐自己的墳
-* 弩砲吃 [Leyline Binding](https://cards.scryfall.io/large/front/3/c/3c3ac3dd-35db-447f-8674-37b4680a1ef7.jpg?1673306500) 的時候留一顆豆子不要拔，讓他進放逐區可以再用卡恩再撿回來
-* [Surgical Extraction](https://cards.scryfall.io/large/front/e/1/e15d76ac-1c23-4503-8225-375ac2bf2fb6.jpg?1673147668) 可以在對手的抽牌階段施放，能多看到一張手牌
-* [Liquimetal Coating](https://cards.scryfall.io/large/front/f/6/f631447c-36e3-4d82-a658-19c9767a216b.jpg?1562276535) 可以在自己場上有卡恩的時候，在對手的維持將一塊地（或是旅法）變成神器，這樣他們的異能就不能在主階被啟動
-* [Warping Wail](https://cards.scryfall.io/large/front/a/f/afcc9c88-836b-48b6-9d81-5a6844a6b70f.jpg?1691924615) 可以用來生 token，要犧牲掉產一費或是給 [Beseech the Mirror](https://cards.scryfall.io/large/front/1/8/18c59776-e1f1-4197-a128-db1d603f56b7.jpg?1692937498) Bargain 都可以
-* 用卡恩 [+1] 把戒變成生物起來可以作為阻擋者，或是進攻用的生物
+
+- 我們可以在場上有 Sheoldred 的時候用 [The Stone Brain](https://cards.scryfall.io/large/front/3/5/3570ebf2-a94c-4621-8808-b06e6e830c06.jpg?1674422057) 切他手上有的牌，就可以逼對手抽一張多扣兩點血
+- Karn 的 [-2] 可以撿放逐區的神器（記得 Karn 可以從放逐區抓），有些墳場的神器想要重複利用的時候可以撿備牌的 [Tormod's Crypt](https://cards.scryfall.io/large/front/9/c/9c224bf0-5641-4160-9d5c-46141ea8372a.jpg?1594737584) 放逐自己的墳
+- 弩砲吃 [Leyline Binding](https://cards.scryfall.io/large/front/3/c/3c3ac3dd-35db-447f-8674-37b4680a1ef7.jpg?1673306500) 的時候留一顆豆子不要拔，讓他進放逐區可以再用卡恩再撿回來
+- [Surgical Extraction](https://cards.scryfall.io/large/front/e/1/e15d76ac-1c23-4503-8225-375ac2bf2fb6.jpg?1673147668) 可以在對手的抽牌階段施放，能多看到一張手牌
+- [Liquimetal Coating](https://cards.scryfall.io/large/front/f/6/f631447c-36e3-4d82-a658-19c9767a216b.jpg?1562276535) 可以在自己場上有卡恩的時候，在對手的維持將一塊地（或是旅法）變成神器，這樣他們的異能就不能在主階被啟動
+- [Warping Wail](https://cards.scryfall.io/large/front/a/f/afcc9c88-836b-48b6-9d81-5a6844a6b70f.jpg?1691924615) 可以用來生 token，要犧牲掉產一費或是給 [Beseech the Mirror](https://cards.scryfall.io/large/front/1/8/18c59776-e1f1-4197-a128-db1d603f56b7.jpg?1692937498) Bargain 都可以
+- 用卡恩 [+1] 把戒變成生物起來可以作為阻擋者，或是進攻用的生物
 
 總之這是一套很多小細節的牌組，多打多看~~多被虐~~幫助很大。
 

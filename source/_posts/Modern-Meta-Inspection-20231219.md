@@ -11,6 +11,8 @@ excerpt: "回應你的戒指抽牌：康掉"
 categories:
   - "Construct"
   - "Modern"
+authors:
+  - "MiohitoKiri5474"
 ---
 
 ## Before We Start
@@ -86,6 +88,7 @@ Scam 消失後重返賽場的套牌之一，另外多了 Spelunking 使得套牌
 #### Spelunking & [Amulet of Vigor](https://cards.scryfall.io/large/front/9/9/997bc933-ac30-477b-a4e1-5333b796a99d.jpg?1562292191)
 
 首先我們先來了解一下各個異能分別是什麼類型的：
+
 1. Spelunking 讓地都站進：替代式效應
 2. 躺地（如跳地、[Tolaria West](https://cards.scryfall.io/large/front/b/0/b005eef6-75f3-454f-a42b-d851bc84ac4e.jpg?1619399546)、[Vesuva](https://cards.scryfall.io/large/front/0/7/0726f70a-c1c4-4edb-86fb-9be280d9ea73.jpg?1619399642)）躺進：替代式效應
 3. Amulet of Vigor 重置躺進的永久物：觸發式異能
@@ -103,10 +106,12 @@ Scam 消失後重返賽場的套牌之一，另外多了 Spelunking 使得套牌
 > 這邊是化簡過後的結果，詳細點來說是複數條替代式效應受影響者要怎麼排生效順序（後面的效應會蓋掉前面的）。
 > 假設現在有一條效應會被三條替代式效應替代（這邊我們用 A, B, C 來代表這三條效應），那麼該效應的受影響者可以自己排要以什麼順序生效，例如是 A -> B -> C，那會依序將順序的原始的效應改為被 A 替代的結果、再改為 B 替代的結果、最後才是改為 C 替代的結果。
 > 所以以這邊的例子來看，可以將地進場的替代式效應以：
+>
 > 1. Spelunking 的替代式效應 -> 地本身躺進的替代式效應
 > 2. 地本身躺進的替代式效應 -> Spelunking 的替代式效應
 >
 > 這兩種順序來生效，那他們的替代步驟則是：
+>
 > 1. 地進場時先被 Spelunking 替代為站進、再被地本身躺進的替代式效應替代為躺進
 > 2. 地進場時先被本身躺進的替代式效應替代為躺進、再被 Spelunking 替代為站進
 >

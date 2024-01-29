@@ -1,5 +1,5 @@
 ---
-title: '豬鼻子的艾卓荒野(WOE)限制賽初探 — 藍色'
+title: "豬鼻子的艾卓荒野(WOE)限制賽初探 — 藍色"
 date: 2023-09-05 17:30:21
 tags:
   - cephille
@@ -9,6 +9,8 @@ categories:
   - Limited
   - WOE-Limited
 excerpt: "仙靈與倒楣鬼、術士與冰霜魔法...艾卓荒野(WOE)限制賽中藍色牌的評分與介紹看這邊！"
+authors:
+  - "cephille"
 ---
 
 本文採用LSV以及Reid Duke兩位大神發表在Channelfireball(CFB)網站上的魔戒：中土世界傳奇 (LOTR)的限制賽評分標準以及行文格式。
@@ -17,17 +19,16 @@ excerpt: "仙靈與倒楣鬼、術士與冰霜魔法...艾卓荒野(WOE)限制�
 
 已退休但榮登限制賽炸彈名人堂的霸者們: [Pack Rat](https://cdn1.mtggoldfish.com/images/h/Pack-Rat-RTR-672.jpg), [Umezawa's Jitte](https://cdn1.mtggoldfish.com/images/h/Umezawas-Jitte-BOK-672.jpg), [The Scarab God](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0353_MTGCMM_Main.png).
 
-* 5.0: [Chrome Host Seedshark](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0051_MTGMOM_Main.png). [Breach the Multiverse](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0094_MTGMOM_Main.png). [Sunfall](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0040_MTGMOM_Main.png).
-* 4.5: [Doomskar Warrior](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0185_MTGMOM_Main.png). [Archpriest of Shadows](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0089_MTGMOM_Main.png). [Borborygmos and Fblthp](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0219_MTGMOM_Main.png).
-* 4.0: [Preening Champion](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0073_MTGMOM_Main.png). [Bloated Processor](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0093_MTGMOM_Main.png). [Invasion of Amonkhet](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0231a_MTGMOM_Mai.png).
-* 3.5: [Final Flourish](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0104_MTGMOM_Main.png). [Ephara's Dispersal](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0055_MTGMOM_Main.png). [Stormclaw Rager](https://hackmd.io/_uploads/rySkpHd63.png).
-* 3.0: [Vanquish the Weak](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0129_MTGMOM_Main.png). [Eyes of Gitaxias](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0057_MTGMOM_Main.png). [Zhalfirin Lancer](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0045_MTGMOM_Main.png).
-* 2.5: [Oracle of Tragedy](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0071_MTGMOM_Main.png). [Ichor Drinker](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0111_MTGMOM_Main.png). [Marauding Dreadship](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0153_MTGMOM_Main.png).
-* 2.0: [War Historian](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0214_MTGMOM_Main.png). [Gloomfang Mauler](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0108_MTGMOM_Main.png). [Order of the Mirror](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0072a_MTGMOM_Mai.png).
-* 1.5: [Expedition Lookout](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0056_MTGMOM_Main.png). [Akki Scrapchomper](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0130_MTGMOM_Main.png). [Infected Defector](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0018_MTGMOM_Main.png).
-* 1.0: [Disturbing Conversion](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0054_MTGMOM_Main.png). [Tenured Oilcaster](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0126_MTGMOM_Main.png). [Coming In Hot](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0136_MTGMOM_Main.png).
-* 0.0: [Invasion of Arcavios](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0061a_MTGMOM_Mai.png). [One with Nothing](https://cdn1.mtggoldfish.com/images/h/One-with-Nothing-SOK-672.jpg).
-
+- 5.0: [Chrome Host Seedshark](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0051_MTGMOM_Main.png). [Breach the Multiverse](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0094_MTGMOM_Main.png). [Sunfall](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0040_MTGMOM_Main.png).
+- 4.5: [Doomskar Warrior](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0185_MTGMOM_Main.png). [Archpriest of Shadows](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0089_MTGMOM_Main.png). [Borborygmos and Fblthp](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0219_MTGMOM_Main.png).
+- 4.0: [Preening Champion](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0073_MTGMOM_Main.png). [Bloated Processor](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0093_MTGMOM_Main.png). [Invasion of Amonkhet](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0231a_MTGMOM_Mai.png).
+- 3.5: [Final Flourish](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0104_MTGMOM_Main.png). [Ephara's Dispersal](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0055_MTGMOM_Main.png). [Stormclaw Rager](https://hackmd.io/_uploads/rySkpHd63.png).
+- 3.0: [Vanquish the Weak](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0129_MTGMOM_Main.png). [Eyes of Gitaxias](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0057_MTGMOM_Main.png). [Zhalfirin Lancer](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0045_MTGMOM_Main.png).
+- 2.5: [Oracle of Tragedy](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0071_MTGMOM_Main.png). [Ichor Drinker](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0111_MTGMOM_Main.png). [Marauding Dreadship](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0153_MTGMOM_Main.png).
+- 2.0: [War Historian](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0214_MTGMOM_Main.png). [Gloomfang Mauler](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0108_MTGMOM_Main.png). [Order of the Mirror](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0072a_MTGMOM_Mai.png).
+- 1.5: [Expedition Lookout](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0056_MTGMOM_Main.png). [Akki Scrapchomper](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0130_MTGMOM_Main.png). [Infected Defector](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0018_MTGMOM_Main.png).
+- 1.0: [Disturbing Conversion](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0054_MTGMOM_Main.png). [Tenured Oilcaster](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0126_MTGMOM_Main.png). [Coming In Hot](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0136_MTGMOM_Main.png).
+- 0.0: [Invasion of Arcavios](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0061a_MTGMOM_Mai.png). [One with Nothing](https://cdn1.mtggoldfish.com/images/h/One-with-Nothing-SOK-672.jpg).
 
 ---
 
@@ -261,4 +262,5 @@ Tap皮在這個系列變得更好了，當它進墳時還可以支付一占卜�
 兩費瞬間的保護咒語還可以讓生物變4/4還飛起來，效果很不錯但限制賽基本上就還是一張很靈活的trick而已，可能構築賽會更厲害一點。
 
 ---
+
 以上就是這次WOE藍色的限制賽分析，希望大家都能在接下來的現開與輪抽賽中找到屬於自己的樂趣！

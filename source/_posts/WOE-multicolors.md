@@ -1,5 +1,5 @@
 ---
-title: '豬鼻子的艾卓荒野(WOE)限制賽初探 — 多色、神器、地'
+title: "豬鼻子的艾卓荒野(WOE)限制賽初探 — 多色、神器、地"
 date: 2023-09-05 16:38:58
 tags:
   - cephille
@@ -8,28 +8,31 @@ tags:
 categories:
   - Limited
   - WOE-Limited
-cover: 'https://guildmagesforum.tw/images/WOE-Multicolor-cover.jpg'
-thumbnail: 'https://guildmagesforum.tw/images/WOE-Multicolor-cover.jpg'
-excerpt: '而一個系列限制賽中通常十個雙色色組都有對應的思路，艾卓荒野(WOE)也不例外！讓我們在艾卓時空中的傳奇人物的帶領下來認識雙色的限制賽構築方向，並進一步認識WOE中多色、神器以及地牌的評分與介紹吧！'
+cover: "https://guildmagesforum.tw/images/WOE-Multicolor-cover.jpg"
+thumbnail: "https://guildmagesforum.tw/images/WOE-Multicolor-cover.jpg"
+excerpt: "而一個系列限制賽中通常十個雙色色組都有對應的思路，艾卓荒野(WOE)也不例外！讓我們在艾卓時空中的傳奇人物的帶領下來認識雙色的限制賽構築方向，並進一步認識WOE中多色、神器以及地牌的評分與介紹吧！"
+authors:
+  - "cephille"
 ---
 
 本文採用LSV以及Reid Duke兩位大神發表在Channelfireball(CFB)網站上的魔戒：中土世界傳奇 (LOTR)的限制賽評分標準以及行文格式。
 
 <!--more-->
+
 ## 評分標準 (Grading Scale)
 
 已退休但榮登限制賽炸彈名人堂的霸者們: [Pack Rat](https://https://cdn1.mtggoldfish.com/images/h/Pack-Rat-RTR-672.jpg), [Umezawa's Jitte](https://cdn1.mtggoldfish.com/images/h/Umezawas-Jitte-BOK-672.jpg), [The Scarab God](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0353_MTGCMM_Main.png).
 
-* 5.0: [Chrome Host Seedshark](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0051_MTGMOM_Main.png). [Breach the Multiverse](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0094_MTGMOM_Main.png). [Sunfall](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0040_MTGMOM_Main.png).
-* 4.5: [Doomskar Warrior](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0185_MTGMOM_Main.png). [Archpriest of Shadows](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0089_MTGMOM_Main.png). [Borborygmos and Fblthp](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0219_MTGMOM_Main.png).
-* 4.0: [Preening Champion](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0073_MTGMOM_Main.png). [Bloated Processor](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0093_MTGMOM_Main.png). [Invasion of Amonkhet](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0231a_MTGMOM_Mai.png).
-* 3.5: [Final Flourish](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0104_MTGMOM_Main.png). [Ephara's Dispersal](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0055_MTGMOM_Main.png). [Stormclaw Rager](https://hackmd.io/_uploads/rySkpHd63.png).
-* 3.0: [Vanquish the Weak](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0129_MTGMOM_Main.png). [Eyes of Gitaxias](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0057_MTGMOM_Main.png). [Zhalfirin Lancer](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0045_MTGMOM_Main.png).
-* 2.5: [Oracle of Tragedy](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0071_MTGMOM_Main.png). [Ichor Drinker](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0111_MTGMOM_Main.png). [Marauding Dreadship](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0153_MTGMOM_Main.png).
-* 2.0: [War Historian](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0214_MTGMOM_Main.png). [Gloomfang Mauler](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0108_MTGMOM_Main.png). [Order of the Mirror](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0072a_MTGMOM_Mai.png).
-* 1.5: [Expedition Lookout](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0056_MTGMOM_Main.png). [Akki Scrapchomper](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0130_MTGMOM_Main.png). [Infected Defector](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0018_MTGMOM_Main.png).
-* 1.0: [Disturbing Conversion](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0054_MTGMOM_Main.png). [Tenured Oilcaster](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0126_MTGMOM_Main.png). [Coming In Hot](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0136_MTGMOM_Main.png).
-* 0.0: [Invasion of Arcavios](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0061a_MTGMOM_Mai.png). [One with Nothing](https://cdn1.mtggoldfish.com/images/h/One-with-Nothing-SOK-672.jpg).
+- 5.0: [Chrome Host Seedshark](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0051_MTGMOM_Main.png). [Breach the Multiverse](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0094_MTGMOM_Main.png). [Sunfall](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0040_MTGMOM_Main.png).
+- 4.5: [Doomskar Warrior](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0185_MTGMOM_Main.png). [Archpriest of Shadows](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0089_MTGMOM_Main.png). [Borborygmos and Fblthp](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0219_MTGMOM_Main.png).
+- 4.0: [Preening Champion](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0073_MTGMOM_Main.png). [Bloated Processor](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0093_MTGMOM_Main.png). [Invasion of Amonkhet](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0231a_MTGMOM_Mai.png).
+- 3.5: [Final Flourish](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0104_MTGMOM_Main.png). [Ephara's Dispersal](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0055_MTGMOM_Main.png). [Stormclaw Rager](https://hackmd.io/_uploads/rySkpHd63.png).
+- 3.0: [Vanquish the Weak](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0129_MTGMOM_Main.png). [Eyes of Gitaxias](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0057_MTGMOM_Main.png). [Zhalfirin Lancer](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0045_MTGMOM_Main.png).
+- 2.5: [Oracle of Tragedy](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0071_MTGMOM_Main.png). [Ichor Drinker](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0111_MTGMOM_Main.png). [Marauding Dreadship](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0153_MTGMOM_Main.png).
+- 2.0: [War Historian](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0214_MTGMOM_Main.png). [Gloomfang Mauler](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0108_MTGMOM_Main.png). [Order of the Mirror](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0072a_MTGMOM_Mai.png).
+- 1.5: [Expedition Lookout](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0056_MTGMOM_Main.png). [Akki Scrapchomper](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0130_MTGMOM_Main.png). [Infected Defector](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0018_MTGMOM_Main.png).
+- 1.0: [Disturbing Conversion](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0054_MTGMOM_Main.png). [Tenured Oilcaster](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0126_MTGMOM_Main.png). [Coming In Hot](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0136_MTGMOM_Main.png).
+- 0.0: [Invasion of Arcavios](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0061a_MTGMOM_Mai.png). [One with Nothing](https://cdn1.mtggoldfish.com/images/h/One-with-Nothing-SOK-672.jpg).
 
 ## 多色 (Multicolor)
 
@@ -75,7 +78,6 @@ excerpt: '而一個系列限制賽中通常十個雙色色組都有對應的思�
 > 說完了白雪公主，那接下來就輪到我們的小紅ㄇㄠˋ...啊不對！是小紅玉Ruby！在艾卓的洗禮下，小紅玉轉職變成手持機關弩隨地亂丟蘋果的大膽追跡人(Daring Tracker)；既然說她大膽那有個敏捷也是很合理的吧。
 
 小紅玉除了是一個二費1/2敏捷的mana頭外，當她跟4攻以上的生物一同攻擊時還會獲得+2/+2直到回合結束，非常符合紅綠前期加速中後期跟著打的思路。
-
 
 ![Obyra, Dreaming Duelist](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0210_MTGWOE_Main.png)
 
@@ -432,7 +434,6 @@ excerpt: '而一個系列限制賽中通常十個雙色色組都有對應的思�
 
 萬金油的牌，但因為可以打生物2所以給予2.5分；其他白藍套牌如果的缺tap源、食品缺食品也都可以放。
 
-
 ## 地 (Lands)
 
 ![Crystal Grotto](https://magicwizards.s3.ap-northeast-1.amazonaws.com/images/cards/0254_MTGWOE_Main.png)
@@ -486,4 +487,6 @@ excerpt: '而一個系列限制賽中通常十個雙色色組都有對應的思�
 > 當然，即使如此，五張變身地因為身具調色以及不容易去除的地生物優勢，只要你的色組有對應的變身地可用，都還是非常值得把它們放入套牌中喔。
 
 ---
+
 以上就是這次WOE多色、神器及地的限制賽分析，希望大家都能在接下來的現開與輪抽賽中找到屬於自己的樂趣！
+

@@ -12,6 +12,8 @@ excerpt: "雖然距離 MIT#4 還有一段時間，但還是稍微接觸一下現
 categories:
   - Construct
   - Pioneer
+authors:
+  - "MiohitoKiri5474"
 ---
 
 ## Before We Start

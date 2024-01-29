@@ -12,6 +12,8 @@ thumbnail: "https://i.imgur.com/AbD2v4Y.jpg"
 categories:
   - Construct
   - Modern
+authors:
+  - "T1BloodMoon"
 ---
 
 ## 一、前言

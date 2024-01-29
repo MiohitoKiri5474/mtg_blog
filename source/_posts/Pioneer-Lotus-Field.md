@@ -1,16 +1,19 @@
 ---
-title: '先驅蓮花田組合技：從入門到放棄'
+title: "先驅蓮花田組合技：從入門到放棄"
 date: 2023-10-01 15:58:50
-cover: 'https://i0.wp.com/mtgazone.com/wp-content/uploads/2020/12/Lotus-Field.jpg?w=930&ssl=1'
-thumbnail: 'https://i0.wp.com/mtgazone.com/wp-content/uploads/2020/12/Lotus-Field.jpg?w=930&ssl=1'
+cover: "https://i0.wp.com/mtgazone.com/wp-content/uploads/2020/12/Lotus-Field.jpg?w=930&ssl=1"
+thumbnail: "https://i0.wp.com/mtgazone.com/wp-content/uploads/2020/12/Lotus-Field.jpg?w=930&ssl=1"
 tags:
   - MiohitoKiri5474
   - Pioneer
   - Deck Tech
-excerpt: '組合技玩家從入門到放棄的心路歷程。'
+excerpt: "組合技玩家從入門到放棄的心路歷程。"
 categories:
   - Construct
   - Pioneer
+
+authors:
+  - "MiohitoKiri5474"
 ---
 
 ## Before We Start
@@ -33,15 +36,17 @@ categories:
 但後來因為種種原因拆掉了，等等後續會提為什麼。
 
 另外這套牌適合：
+
 1. 喜歡屯手牌的玩家
 2. 組合技玩家
 3. 風暴玩家
 
 而這套牌不適合：
+
 1. 中速玩家
-3. 喜歡跟對手有來有往的對局
-4. 右手很臭（例如我）的玩家
-5. 不喜歡被快攻爆打的玩家
+2. 喜歡跟對手有來有往的對局
+3. 右手很臭（例如我）的玩家
+4. 不喜歡被快攻爆打的玩家
 
 ## Decklist
 
@@ -71,6 +76,7 @@ categories:
 ### Combo Line
 
 主要的組合技有兩種：
+
 1. [Chandra, Hope's Beacon](https://cards.scryfall.io/large/front/a/1/a146ea07-ec1c-448d-b67a-dd9f9e27c2e0.jpg?1682204090)
 2. [Approach of the Second Sun](https://cards.scryfall.io/large/front/f/d/fdf59a6e-7708-45a1-884d-d12e9f7b9ed9.jpg?1543674579)
 
@@ -80,6 +86,7 @@ categories:
 
 茜卓路線是這半年內才出現的新科技（廢話她也才出半年），大致上來說是靠著本身的觸發式異能來賺更多的資源。
 等到法力足夠了之後，用以下路線收掉對手的頭，手中和墳場必須有兩張巴勒格復甦 + 足夠的法力（或是場上有 [Omniscience](https://cards.scryfall.io/large/front/5/2/5249f9dc-d5e2-4e1f-b7da-8fcbf574f276.jpg?1692933086) ）+ 茜卓在場上：
+
 1. 茜卓 [-5] 打對手的頭五點
 2. 用第一張巴勒格復甦將茜卓撿回手上
 3. 將茜卓拍回場上，施放第二張巴勒格復甦，此時會被茜卓複製，其中一發撿墳場中的巴勒格復甦，另一張隨意
@@ -112,13 +119,13 @@ categories:
 #### Ramp Card Choose
 
 1. [Voyaging Satyr](https://cards.scryfall.io/large/front/1/8/180773da-dadc-414a-92c6-f4e13c753718.jpg?1576383133)
-最常見的加速，配合 Hidden Strings 可以當作是第二塊蓮花田。
+   最常見的加速，配合 Hidden Strings 可以當作是第二塊蓮花田。
 2. [Hope Tender](https://cards.scryfall.io/large/front/9/f/9ffb676d-54b7-4d30-9c84-ff9b48030705.jpg?1562808877)
-其他的加速手段，除了本身可以當作第五張 Hidden String 以外，配合 Hidden String 和兩塊蓮花田可以爆出更多的法力，但需要額外付一費，最近幾乎沒有看到 Hope Tender 出現在環境中。
+   其他的加速手段，除了本身可以當作第五張 Hidden String 以外，配合 Hidden String 和兩塊蓮花田可以爆出更多的法力，但需要額外付一費，最近幾乎沒有看到 Hope Tender 出現在環境中。
 3. [Growth Spiral](https://cards.scryfall.io/large/front/7/d/7d0ae655-c64e-470d-a7ae-e06b89c77e57.jpg?1673305543)
-Growth Spiral 是我很喜歡的一張牌，加速的同時還能多抽一張牌，但指定色偏重，而且深度不太夠，中後期抽到很無力。
+   Growth Spiral 是我很喜歡的一張牌，加速的同時還能多抽一張牌，但指定色偏重，而且深度不太夠，中後期抽到很無力。
 4. [Baral, Chief of Compliance](https://cards.scryfall.io/large/front/6/0/60e16d94-1166-4050-8554-686e153a7f80.jpg?1576381454)
-雖然沒有增加法力，不太算是實質上的加速，不過降低巫術瞬間的費用（或是拿來抵銷萬惡的 [Thalia, Guardian of Thraben](https://cards.scryfall.io/large/front/c/9/c9f8b8fb-1cd8-450e-a1fe-892e7a323479.jpg?1643587106) 的多一費），應該也能算是加速的一種吧（？
+   雖然沒有增加法力，不太算是實質上的加速，不過降低巫術瞬間的費用（或是拿來抵銷萬惡的 [Thalia, Guardian of Thraben](https://cards.scryfall.io/large/front/c/9/c9f8b8fb-1cd8-450e-a1fe-892e7a323479.jpg?1643587106) 的多一費），應該也能算是加速的一種吧（？
 
 #### Lands Choose
 
@@ -148,6 +155,7 @@ Sideboard Guild 之類的東西我就不付上了，半年前的內容到現在�
 
 我覺得打蓮花田組合技（或是各種組合技）最重要的是心理建設。
 首先，我們需要先有一些認知：
+
 1. 這是一套會正編輸給幾乎所有快攻的套牌
 2. 會被希歐蕊 & 莎莉亞懲罰
 3. 練習量很高，想法要很靈活
@@ -177,7 +185,7 @@ Sideboard Guild 之類的東西我就不付上了，半年前的內容到現在�
 ## Update: Oct 3rd, 2023
 
 文章本身寫完好幾天了，在整理資料的時候發現歐洲 RC 打完了。
-先恭喜 	Adrián Iñigo Tastet 以蓮花田組合技拿到冠軍（[牌表連結](https://melee.gg/Decklist/View/329396)）。
+先恭喜 Adrián Iñigo Tastet 以蓮花田組合技拿到冠軍（[牌表連結](https://melee.gg/Decklist/View/329396)）。
 ![](/images/EURO-RC-4-Champ.jpg)
 
 看一下牌表，會發現多帶了一張牌：Discontinuity。
@@ -187,3 +195,4 @@ Sideboard Guild 之類的東西我就不付上了，半年前的內容到現在�
 同時已經有六點法力時，也可以在對手的維持階段切他的回合、或是回應他的咒語切回合，可以躲掉一些威脅。
 
 這種構築在過去一個月中的使用率逐漸上升中，加上歐洲冠軍也有投入使用，預計在接下來的環境中會有許多類似的構築。
+

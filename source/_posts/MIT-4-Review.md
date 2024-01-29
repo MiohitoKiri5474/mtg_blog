@@ -14,6 +14,13 @@ thumbnail: "https://i.imgur.com/uIpdNUO.png"
 excerpt: "第四季MIT結束了，想知道這次Guildmages' Forum有參賽的選手們的心得與心路歷程嗎？想知道MIT賽場有什麼有趣的活動以及軼事嗎？那你一定不能錯過這一篇！"
 categories:
   - "Others"
+authors:
+- "Pioneer"
+  - "MiohitoKiri5474"
+  - "cephille"
+  - "T1BloodMoon"
+  - "Kappa"
+  - "jeffchen"
 ---
 
 > 文章主筆為cephille，大部份內容都出於我個人參賽兩天的主觀記錄，再整合其他Guildmages' Forum寫手們的意見回饋寫成這篇回顧。相關使用到的照片、臉書粉專、以及個人帳號上發表的內容均已取得原作者的同意在這篇文章中使用，但讀者如需進一步轉載仍需再與原作者確認。
@@ -54,8 +61,8 @@ categories:
 
 九點半開賽後就是主辦單位遊戲平方的郭子敬、以及主審Muscle的致詞，相關賽場回顧平方也有撰文整理，歡迎大家點擊下面的連結去看：
 
-[2023 MIT第四輪冠軍賽賽事精彩回顧  上集](https://gamesquare.tw/mit-champion-detail.php?cid=6&id=498&fbclid=IwAR1aLtebXHnqsukeGj6WdBgOPmp4g3ceD0zBS49mSy0p8JPgrJ6dKEu5GKQ)
-[2023 MIT第四輪冠軍賽賽事精彩回顧  下集](https://gamesquare.tw/mit-champion-detail.php?cid=6&id=514)
+[2023 MIT第四輪冠軍賽賽事精彩回顧 上集](https://gamesquare.tw/mit-champion-detail.php?cid=6&id=498&fbclid=IwAR1aLtebXHnqsukeGj6WdBgOPmp4g3ceD0zBS49mSy0p8JPgrJ6dKEu5GKQ)
+[2023 MIT第四輪冠軍賽賽事精彩回顧 下集](https://gamesquare.tw/mit-champion-detail.php?cid=6&id=514)
 
 在經過預賽七局的對局後，最終由這八位選手獲選八強：
 
@@ -67,7 +74,6 @@ categories:
 - 曾正增 aka 曾曾曾 - [伊捷鳳凰](https://melee.gg/Decklist/View/338069)
 - 方萃辰 - [黑綠獻力](https://melee.gg/Decklist/View/338152)
 - 林政勳 - [五色人類](https://melee.gg/Decklist/View/338124)
-
 
 而最終由蹦蹦操控的紅黑中速奪冠，而另一位台北玩家何志懋操控的蓮花田組合技則取得亞軍，兩位都獲選2024年PT的參賽資格，而冠軍更獲選第30屆世界大賽的參賽資格，讓我們預祝兩位選手在國際賽事上都能再獲佳績！
 

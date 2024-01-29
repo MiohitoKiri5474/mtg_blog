@@ -12,6 +12,8 @@ excerpt: "說到限制賽就不能不從十張多色的U卡來看起，讓我們
 categories:
   - Limited
   - LCI-Limited
+authors:
+  - "cephille"
 ---
 
 依夏蘭迷窟（The Lost Caverns of Ixalan, LCI）將於2023年11月10日舉行售前賽活動，而於隔一週2023年11月17日正式發行，想更了解單卡在限制賽的單卡評分與一些可能的有趣搭配嗎？那就來看看這一系列的LCI限制賽介紹吧！
@@ -21,7 +23,7 @@ categories:
 ## 評分標準
 
 5.0：無條件必拿
-4.0：有首選價值 
+4.0：有首選價值
 3.5：強度夠但不一定要首選
 3.0：高於平均（會很希望他能放進最終牌組）
 2.5：平均水準，maybe輪抽第6、第7 pick左右
@@ -108,7 +110,6 @@ categories:
 
 **cephille**：2.5
 紅黑色組這次的主題則是關注**在你的結束步驟開始時，你本回合有沒有落墳過（descended）**。而這張牌除了二費2/2死觸是一個適合向上交換的身材外，當你本回合有落墳過的話，每位對手要棄一張牌或犧牲一個永久物，對手都不選的話他則會對對手造成3點傷害。基本上只要你可以穩定的觸發落墳的話就可以把你跟對手的手牌、場面、或血量這三方面拉開距離，BUT，落墳關注的是有沒有一張永久物牌進入墳場，所以像掰掉珍寶產費這種衍生物進墳則無法計入，這點需要稍微留意一下。
-
 
 說完了這十張非普通傳奇牌後，我們繼續來說說多色的其他牌吧！
 
@@ -208,7 +209,6 @@ categories:
 **cephille**：2.5
 不能達到落墳8的話單選一個選項都偏弱，上限是一張巫術時機回非地永久物的[退縮](https://cards.scryfall.io/large/front/2/2/225f700c-fdf6-41ea-a091-36b0f75f0211.jpg?1562903083) + [戰略計畫](https://cards.scryfall.io/large/front/0/0/0050801d-8d39-47e1-bff3-175ac677d3b3.jpg?1645822127)。
 
-
 ## 無色
 
 ![無色](https://i.imgur.com/18UWs3l.png)
@@ -256,7 +256,7 @@ categories:
 二費2/1只是填充物等級，犧牲可以放逐單一墳場中至多四張牌來阻止對手的落墳4/8/無邊主題，但是巫術時機還是稍嫌尷尬；死去的時候可以考慮要不要付四費來做傾探4是一個添頭。這些全部加在一起，給他個平均分吧。
 
 > 欸不是，這個系列又是地侏（Gnome）又是魔像（Golem）的，真的不是把BRO兄弟之戰裡沒用上的牌拿來依夏蘭賦予新的生命~~回收再利用~~嗎？
-> 
+>
 > 老威：「我最討厭像你這種直覺敏銳的玩家了。」
 
 ![253](https://cards.scryfall.io/large/front/7/8/7802ca61-6fcc-4965-9f8f-dd58fe82c6bf.jpg?1699044608)
@@ -281,10 +281,10 @@ categories:
 
 ![257](https://cards.scryfall.io/large/front/d/e/deabba7f-05ef-41cf-ae3a-d950d051cf1e.jpg?1698434965)
 
-**cephille**：0.0 
+**cephille**：0.0
 我試著以第一回合出它，每回合穩定下一張地，不增加其他永久物的前提來概算一下：
 
-> Turn 1: 0 time counter 
+> Turn 1: 0 time counter
 > Turn 2: 1 time counter (+1 = 1 land untapped), double to be 2 time counters
 > Turn 3: 5 time counters (+3 = 2 lands + itself untapped), double to be 10 time counters
 > Turn 4: 14 time counters (+4 = 3 lands + itself untapped), double to be 28 time counters

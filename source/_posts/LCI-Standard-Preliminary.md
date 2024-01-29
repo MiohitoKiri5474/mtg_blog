@@ -1,5 +1,4 @@
 ---
-
 title: "依夏蘭迷窟標準初探"
 date: "2023-11-23 12:17:46"
 tags:
@@ -13,7 +12,12 @@ excerpt: "來看看依夏蘭迷窟有甚麼新的標準構築"
 categories:
   - "Construct"
   - "Standard"
+authors:
+  - "cephille"
+  - "JruMTG"
+  - "JerobaMTG"
 ---
+
 ## Before We Start
 
 新系列上市最振奮人心的莫過開發新套牌了，這次依夏蘭迷窟又能給標準注入怎麼樣的新血呢？ 讓我們來點腦力激盪，看看新系列的標準構築吧！
@@ -33,7 +37,6 @@ categories:
 
 ![昆托力歷險](https://i.imgur.com/FIMeyZI.jpg)
 
-
 ### 紅黑挖墳
 
 [紅黑挖墳牌表連結](https://www.mtggoldfish.com/deck/5985737#paper)
@@ -42,7 +45,6 @@ categories:
 [長吼食肉龍](https://scryfall.com/card/lci/171/trumpeting-carnosaur)的偽魂力異能除了是個去除外，也是個主動堆墳，加上自己強力的進場異能，幾乎就是把「挖墳目標」幾個字寫在自己臉上了，這裡選用[基克斯暴行錄](https://scryfall.com/card/dmu/87/the-cruelty-of-gix)作為主要挖墳手段，加上[血稅收集官](https://scryfall.com/card/vow/232/bloodtithe-harvester)的血滴、[大幹一票](https://scryfall.com/card/snc/102/big-score)等棄牌手段，以及最強的挖墳目標[始霸埃泰力](https://scryfall.com/card/mom/137/etali-primal-conqueror-etali-primal-sickness)，再配上一些適合作為棄牌肥料與前期曲線潤滑套牌的[頑強敗犬](https://scryfall.com/card/snc/97/tenacious-underdog)，整合成了這套紅黑挖墳。因為這套有著一些加速能力，有時不用執著於挖墳，湊到足夠費用正拍也是可行的。如果想拚更高的上限也可以考慮加入[洞穿多重宇宙](https://scryfall.com/card/mom/94/breach-the-multiverse)，集去除、抽棄、打點於一身的[長老龍之戰](https://scryfall.com/card/dmu/121/the-elder-dragon-war)也是個不錯的可用潤滑元件。
 
 ![紅黑挖墳](https://i.imgur.com/erlnNrl.jpg)
-
 
 ### 藍黑中速
 
@@ -64,22 +66,19 @@ categories:
 
 ![格利極中速](https://i.imgur.com/JCA6IUK.jpg)
 
-
 ### 格利極落墳
 
 [格利極落墳牌表連結](https://www.mtggoldfish.com/deck/5985685#paper)
 ![格利極落墳](https://i.imgur.com/EoJ29kF.jpg)
 
-[遠古祖神](https://scryfall.com/card/lci/222/the-ancient-one)有著2費8/8的身材，但卻不見得能夠滿足參與攻防的條件，那該怎麼辦呢？[魔頭歐尼希茲](https://scryfall.com/card/snc/206/ob-nixilis-the-adversary)覺得好吃，催命8後即使開了-7的大招都還有剩。不過當然不可能只把遠古祖神作為純粹的肥料，能夠參與戰鬥還是最理想的，這套強化了自磨堆墳的能力，目標是讓遠古祖神、[失落者靈魂](https://scryfall.com/card/lci/121/souls-of-the-lost)、[	殘忍噬懼怪](https://scryfall.com/card/woe/222/cruel-somnophage-cant-wake-up)快速變成合格的強力威脅。
+[遠古祖神](https://scryfall.com/card/lci/222/the-ancient-one)有著2費8/8的身材，但卻不見得能夠滿足參與攻防的條件，那該怎麼辦呢？[魔頭歐尼希茲](https://scryfall.com/card/snc/206/ob-nixilis-the-adversary)覺得好吃，催命8後即使開了-7的大招都還有剩。不過當然不可能只把遠古祖神作為純粹的肥料，能夠參與戰鬥還是最理想的，這套強化了自磨堆墳的能力，目標是讓遠古祖神、[失落者靈魂](https://scryfall.com/card/lci/121/souls-of-the-lost)、[ 殘忍噬懼怪](https://scryfall.com/card/woe/222/cruel-somnophage-cant-wake-up)快速變成合格的強力威脅。
 
 ![格利極落墳](https://i.imgur.com/oaJa6LF.jpg)
-
 
 ### 黑綠豆莖收成節
 
 [黑綠豆莖收成節牌表連結](https://www.mtggoldfish.com/deck/5985763#paper)
 ![黑綠豆莖收成節](https://i.imgur.com/KSdBKOi.jpg)
-
 
 [爬上豆莖](https://scryfall.com/card/woe/195/up-the-beanstalk)跟[衝擊收成節](https://scryfall.com/card/mid/200/storm-the-festival)都好賺好想玩，該怎麼取捨呢？ 我全都要！
 
@@ -88,7 +87,6 @@ categories:
 如果覺得這套5費那票主力傳奇生物造價太高，[車間戰酋長](https://scryfall.com/card/snc/165/workshop-warchief)是個不錯的經濟版替換選項，在部分對局的表現甚至優於目前牌表。另外要注意，爬上豆莖是施放大於等於5費的咒語時抽牌，用衝擊收成節將5費的永久物放進戰場是不會觸發爬上豆莖的抽牌能力的。
 
 ![黑綠豆莖收成節](https://i.imgur.com/wHQKZDH.jpg)
-
 
 ### 黑綠操縱比賽
 
@@ -101,7 +99,6 @@ categories:
 
 ![黑綠操縱比賽](https://i.imgur.com/gHw5ySy.jpg)
 
-
 ### 黑綠加碼
 
 [黑綠加碼牌表連結](https://www.mtggoldfish.com/deck/5989365#paper)
@@ -111,7 +108,6 @@ categories:
 
 ![黑綠加碼](https://i.imgur.com/gwM5MtZ.jpg)
 
-
 ### 黑白加碼
 
 [黑白加碼牌表連結](https://www.mtggoldfish.com/deck/5989369#paper)
@@ -120,7 +116,6 @@ categories:
 與上面的黑綠加碼概念十分接近，不過在這裡更加強調橫向展開的能力，比起上面使用[勇敢餅人](https://scryfall.com/card/woe/193/tough-cookie)轉換出額外威脅的打法，更接近傳統以犧牲作為資源引擎的中速，[懇求魔鏡](https://scryfall.com/card/woe/82/beseech-the-mirror)在這裡徹底的工具箱化了，黑白色組的4費牌功能非常全面，無論威脅、去除、賺牌都可以找到最頂級的選項，讀者也可以根據自己的喜好調整工具箱內容，甚至是增加懇求魔鏡的數量。
 
 ![黑白加碼](https://i.imgur.com/YLBGbak.jpg)
-
 
 ### 白藍閃現
 
@@ -132,7 +127,6 @@ categories:
 仔細觀察這套的牌表，可以發現其中士兵相關料的佔比不低，也可以考慮往更士兵流的方向構築，並將部份地牌改為[築防灘頭](https://scryfall.com/card/bro/262/fortified-beachhead)來提升威脅能力。
 
 ![白藍閃現](https://i.imgur.com/lxJaWaJ.jpg)
-
 
 ### 白藍控制
 
@@ -147,7 +141,6 @@ categories:
 
 ![白藍控制](https://i.imgur.com/s22jTEP.jpg)
 
-
 ### 紅神快攻
 
 [紅神快攻牌表連結](https://www.mtggoldfish.com/deck/5992971#paper)
@@ -156,7 +149,6 @@ categories:
 以[深邃勇力安雄理尊神](https://scryfall.com/card/lci/158/ojer-axonil-deepest-might-temple-of-power)為賣點的紅色快攻，為了發揮新紅神的價值，大量增加了燒的比率，能夠持續造成傷害的[盛裝茜卓](https://scryfall.com/card/vow/149/chandra-dressed-to-kill)也做為主力投入使用。
 
 ![紅神快攻](https://i.imgur.com/sx4wkbK.jpg)
-
 
 ### 純紅中速
 
@@ -167,7 +159,6 @@ categories:
 
 ![純紅中速](https://i.imgur.com/JIzfPho.jpg)
 
-
 ### 紅綠洞窟
 
 [紅綠洞窟牌表連結](https://www.mtggoldfish.com/deck/5989350#paper)
@@ -177,7 +168,6 @@ categories:
 
 ![紅綠洞窟](https://i.imgur.com/ozfgbFj.jpg)
 
-
 ### 白綠歐佐晶岩
 
 [白綠歐佐晶岩牌表連結](https://www.mtggoldfish.com/deck/5989359#paper)
@@ -185,9 +175,7 @@ categories:
 
 套牌主體秉持著神器鱗甲的思路，這類套牌最怕的就是想拚一波大的把打手拼命灌大後被對面瞬間殺了，甚至於[破碎尖塔歐佐晶岩](https://scryfall.com/card/mom/198/ozolith-the-shattered-spire)的起動還是巫術時機，[豹族模範庫琪](https://scryfall.com/card/lci/232/kutzil-malamet-exemplar)的保護能力在這方面毫無疑問是最頂級的，對手在你的回合連咒語都不能施放了，鱗甲思路的生物毫無疑問會比原始身材大，也容易發揮豹族模範庫琪&[豹王歐奇尼亞豪](https://scryfall.com/card/lci/240/sovereign-okinec-ahau)的灌大回報異能，不過由於這套的骨架是神器鱗甲快攻，對於非神器的中高費曲線容忍度有限，因此目前僅少量投入使用，能否提高用量還是要再經實驗證明。
 
-
 ![白綠歐佐晶岩](https://i.imgur.com/MlsjHhv.jpg)
-
 
 ### 藍綠人魚
 
@@ -200,7 +188,6 @@ categories:
 最後，畢竟這副套牌是比較偏鋪場型的種族套牌，所以還是較怕[烈日墮威](https://cards.scryfall.io/large/front/3/2/32e29c7d-ed4b-4eff-b3c2-d99e5b63ef8d.jpg?1682202915)這類的掃場牌，因此在靈活卡位上先帶了四張[人間消失](https://cards.scryfall.io/large/front/3/f/3f2d6a21-ea77-484b-9e3a-1bd49806f907.jpg?1664410347)作為干擾。地牌的部分因為有充分的勘查源所以只先放了22地，當有水流通導師妮坎琪在場時還可以讓你每次勘查到地牌時改為放進場ramp，在高費曲線不多的情況下預設是起手2地以上就能運作的構築方式。當然，這只是一個初步的雛形，實際強度與微調仍有賴玩家進行實測！
 
 ![](https://i.imgur.com/YqfscBV.jpg)
-
 
 ### 純白天使
 

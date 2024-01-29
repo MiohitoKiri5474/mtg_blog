@@ -13,6 +13,10 @@ excerpt: "恐龍這個主題還是出在熟悉的依夏蘭最對味！在這次L
 categories:
   - "Limited"
   - "LCI-Limited"
+authors:
+  - "cephille"
+  - "kappa"
+  - "JruMTG"
 ---
 
 依夏蘭迷窟（The Lost Caverns of Ixalan, LCI）將於2023年11月10日舉行售前賽活動，而於隔一週2023年11月17日正式發行，想更了解單卡在限制賽的單卡評分與一些可能的有趣搭配嗎？那就來看看這一系列的LCI限制賽介紹吧！
@@ -22,7 +26,7 @@ categories:
 ## 評分標準
 
 5.0：無條件必拿
-4.0：有首選價值 
+4.0：有首選價值
 3.5：強度夠但不一定要首選
 3.0：高於平均（會很希望他能放進最終牌組）
 2.5：平均水準，maybe輪抽第6、第7 pick左右
@@ -34,7 +38,7 @@ categories:
 ![綠色](https://i.imgur.com/cdtpUhQ.png)
 
 > 綠色各稀有度的數量
-> 
+>
 > C：19
 > U：14
 > R：8
@@ -268,7 +272,7 @@ categories:
 ![216](https://cards.scryfall.io/large/front/d/5/d52ef7c1-dacb-4204-b64e-5fa3ae3b1ace.jpg?1698263955)
 
 **cephille**：3.5
-[痛擊霆偉龍]([https:/](https://cards.scryfall.io/large/front/4/5/45caf791-931c-4a61-8523-b1ca48182b39.jpg?1646103007)/)重印，三費3/4的身材非常可靠，犧牲可以拆神器結界更是讓你在中後期打不過去時多了更靈活的使用方式。
+[痛擊霆偉龍](<[https:/](https://cards.scryfall.io/large/front/4/5/45caf791-931c-4a61-8523-b1ca48182b39.jpg?1646103007)/>)重印，三費3/4的身材非常可靠，犧牲可以拆神器結界更是讓你在中後期打不過去時多了更靈活的使用方式。
 
 ![217](https://i.imgur.com/rsZdHjd.jpg)
 

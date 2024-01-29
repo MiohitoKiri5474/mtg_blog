@@ -1,5 +1,5 @@
 ---
-title: 'Something About Rakdos Midrange'
+title: "Something About Rakdos Midrange"
 date: 2023-08-20 20:21:01
 tags:
   - MiohitoKiri5474
@@ -7,10 +7,13 @@ tags:
   - Decktech
 cover: "https://cdnb.artstation.com/p/assets/images/images/017/692/791/large/adam-paquette-402481-r.jpg?1556986302"
 thumbnail: "https://cdnb.artstation.com/p/assets/images/images/017/692/791/large/adam-paquette-402481-r.jpg?1556986302"
-excerpt: '看起來好像似曾相識的標題？這就對啦！'
+excerpt: "看起來好像似曾相識的標題？這就對啦！"
 categories:
   - Construct
   - Pioneer
+
+authors:
+  - "MiohitoKiri5474"
 ---
 
 ## Before We Start
@@ -61,6 +64,7 @@ categories:
 有點小尷尬的牌，主要是在現在環境中的放墳大多數都希望能全部放逐，但是是他的補血在某些對局（內戰、快攻）中又十份重要，暫時找不到更好的替代品。
 2x Sheoldread, the Apocalypse + 2x Archfiend of the Dross
 數量偏多的 4 drop 生物們，其中 Archfiend of the Dross 是最近這一兩個月才出現的黑科技，為了是打那一狗票的快攻以及生物 deck，打綠獻也有奇效（雖然還會被綠騎擋住但至少他不會死），加上我們本來就是殺牌偏多的牌組，他的扣血效果可以加速遊戲的進行，但缺點是會壓縮 Sheoldread 的位置，看環境再做調整，如果他的效益不高的話我會把這邊改回三張 Sheoldread 加上一張黑召現或一張雲威號。
+
 > Edit(July 12, 2023):
 > 我後來改成 3x Sheoldread, the Apocalypse + 1x Kalitas, Traitor of Ghet，我們快一年不見的老朋友。
 > 主要原因現在環境 convoke 很多，打雖然 Archfiend of the Dross 打犧牲會比較舒服，但說實在台中以南打犧牲而且打的好的玩家數跟 convoke 比起來真的太少，而且現在不少人紅黑中速都顧慮 Archfiend of the Dross 不放 Power Word Kill 改放 Heartless Act 了，Kalitas 有機會以犧牲一隻殭屍 or 吸血鬼躲掉 Heartless Act 所以選擇放回老朋友。
@@ -154,6 +158,7 @@ categories:
 看什麼時候有空再把這部分的內容一口氣寫完吧。
 
 另外最近也在研究格利極的構築，目前測過
+
 1. 複製皮惡魔
 2. 純格利極中速
 3. 格利極約利昂 80 張
@@ -170,8 +175,8 @@ categories:
 
 這篇是當時我在自己的部落格發的[文章](https://miohitokiri5474.github.io/game/Rakdos-Midrange/) ~~我絕對不會說是為了湊網站初期的文章數才搬運過來的~~。
 不過距離撰文當下也過了蠻久的，中間一度使用量跌落至二線套牌的水準，但在八月底後又慢慢爬回一線。
-另外既然 WOE 準備要發售了，這邊順便寫一下在 WOE 後我會想要怎麼改善套牌。進入我眼中的牌有兩張：
-2. [The End](https://cards.scryfall.io/large/front/b/1/b18402dc-c4ab-417c-92d1-5e4d9cfb840d.jpg)
+另外既然 WOE 準備要發售了，這邊順便寫一下在 WOE 後我會想要怎麼改善套牌。進入我眼中的牌有兩張：2. [The End](https://cards.scryfall.io/large/front/b/1/b18402dc-c4ab-417c-92d1-5e4d9cfb840d.jpg)
+
 1. [Beseech the Mirror](https://cards.scryfall.io/large/front/1/8/18c59776-e1f1-4197-a128-db1d603f56b7.jpg)
 
 ### The End
@@ -188,6 +193,7 @@ The End 不用說，當然是要打綠獻的，直接把綠騎或卡恩放逐，
 
 Beseech the Mirror 則是用來取代掉第三張 Sheoldred 或是 Kalitas 的位置，很少對局會用到第三張 Sheoldred，通常用到也快要輸了。
 與其這樣不如把其中一張的位置換成 Beseech the Mirror 這種比較靈活的牌，可以視情況找 Sheoldred，或是在備牌局去找換進來的針對備牌。
+
 > 像是在打綠獻的時候，Extinction Event 有時會比 Sheoldred 來的更重要，而且也能減少備牌中重複單卡的數量，把位置給其他備牌。
 
 另外紅黑中速的 token 非常之多，完全不用擔心 Bargain 會無法觸發，再不濟就把奇奇或是劫庫械吃掉去找牌，總比什麼事都不能做來的好。

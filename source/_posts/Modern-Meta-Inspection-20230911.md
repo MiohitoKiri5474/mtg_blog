@@ -5,13 +5,16 @@ tags:
   - MiohitoKiri5474
   - Modern
   - Inspection
-thumbnail: 'https://guildmagesforum.tw/images/not-dead-after-all.jpg'
-cover: 'https://guildmagesforum.tw/images/not-dead-after-all.jpg'
-excerpt: 'MITQ#5 開打啦，是時候來更新一點資訊囉。'
+thumbnail: "https://guildmagesforum.tw/images/not-dead-after-all.jpg"
+cover: "https://guildmagesforum.tw/images/not-dead-after-all.jpg"
+excerpt: "MITQ#5 開打啦，是時候來更新一點資訊囉。"
 
 categories:
   - Construct
   - Modern
+
+authors:
+  - "MiohitoKiri5474"
 ---
 
 ## Before We Start
@@ -41,7 +44,6 @@ Scam 在 WOE 獲得小小的強化，更強的假死術：Not Dead After All。
 因為上面沒有放 +1/+1 counter，Undying Evil 也重新回到 Scam 的 list 中。
 ![](https://cards.scryfall.io/large/front/3/2/325f2243-54fd-484b-a742-166cea7ec179.jpg?1562906805)
 
-
 ### Temur Rhinos
 
 Rhinos 看起來十分地正常，沒有太多的變動，真的要說就是多了備牌的 Drannith Magistrate 可以在打 cascade 內戰時跳出來陰人。
@@ -52,7 +54,6 @@ Rhinos 看起來十分地正常，沒有太多的變動，真的要說就是多�
 
 另外最近 4C Rhinos 重新回到 meta 上了，多了 Ardent Plea 可以接一些比較貪心的起手，top deck 數量變多了比較好抽到，但正邊局比較擠少了四張 [Mystical Dispute](https://cards.scryfall.io/large/front/b/6/b6175fea-1de4-4d82-b86c-3c3140a3c286.jpg?1675977367)，在打 Living End 的對局中更為劣勢。
 ![](https://cards.scryfall.io/large/front/9/d/9d521737-ee07-4387-bc07-5ced53db374d.jpg?1562643193)
-
 
 ### Murktide
 
@@ -66,13 +67,11 @@ Rhinos 看起來十分地正常，沒有太多的變動，真的要說就是多�
 > 但就在我寫完這一段過沒多久，MO Modern Super Qualifier standing 公開後就被打臉了:p，top 8 有兩套 Murktide。
 > 兩個人都是打 17 lands + 4 Murktide 的構築，改天有空組出來測看看@@
 
-
 ### Hammer Time
 
 Hammer Time 則是穩定的吃著 Murktide 以及 Scam 上位，只要別撞到 Tron 三回小卡恩一切好說。
 近期大多數人都還是打純白，說實在除了備牌的小泰以外其他牌都有替代品（[Surge of Salvation](https://cards.scryfall.io/large/front/4/1/41d25ee5-0348-4206-bb6a-ccb0a599ac87.jpg?1682202925) 真的好強），而且純白的備牌可以放一些更兇猛的東西，像是放滿 [Sanctifier en-Vec](https://cards.scryfall.io/large/front/f/8/f8c3cca4-23c0-4c14-ab56-51ba011f5974.jpg?1626093977) 跟 [Solitude](https://cards.scryfall.io/large/front/4/7/47a6234f-309f-4e03-9263-66da48b57153.jpg?1626094105)，打某些特定對局（特別是 Scam）會舒服很多。
 不過還是有些人會為了 [The Reality Chip](https://cards.scryfall.io/large/front/d/8/d859de3a-0be1-4e66-b438-1c3d4ee756cd.jpg?1654566909) 或是 [Lavinia, Azorius Renegade](https://cards.scryfall.io/large/front/c/4/c497d496-1232-4614-93b0-9864fa93c29f.jpg?1584831655) 這些東西打白藍色，說實話都可以，看自己想要針對哪方面的套牌。
-
 
 ### 4C/5C Omnath
 
@@ -81,7 +80,6 @@ Omnath 算是我近期很看好的套牌，最主要的原因是多了這張：
 我現在花一費做一張 [Leyline Binding](https://cards.scryfall.io/large/front/3/c/3c3ac3dd-35db-447f-8674-37b4680a1ef7.jpg?1673306500)，壓你一張牌我抽一張牌，有夠 unfair 我喜歡。
 或是丟 [Solitude](https://cards.scryfall.io/large/front/4/7/47a6234f-309f-4e03-9263-66da48b57153.jpg?1626094105) 多補一張牌，感覺資源量很驚人，加上 [The One Ring](https://cards.scryfall.io/large/front/d/5/d5806e68-1054-458e-866d-1f2470f682b2.jpg?1690817875)，手牌多到滿出來應該會是常態。
 預計打 Scam 的勝率會提高很多，所有紅黑底套牌最怕的就是這種一補多的東西。
-
 
 ### Yawgmoth & Hardened Scales
 
@@ -93,6 +91,7 @@ Omnath 算是我近期很看好的套牌，最主要的原因是多了這張：
 在 Yawgmoth 中有另一個更華麗的操作：用 Agatha's Soul Cauldron 吃掉墳場的 Grist, the Hunger Tide。
 ![](https://cards.scryfall.io/large/front/6/9/69af2825-18c2-4463-b6ba-42eaa070ccc1.jpg?1626098484)
 我們仔細看一下 Grist 的敘述：
+
 > As long as Grist, the Hunger Tide isn’t on the battlefield, it’s a 1/1 Insect creature in addition to its other types.
 
 因為 Grist 在放逐區時會有生物這個額外類別，所以場上有 +1/+1 的生物全部都是一隻 Grist，可以在他們身上放一個忠誠指示物，然後磨一張生一隻 1/1 昆蟲......好噁心。
@@ -101,23 +100,21 @@ Omnath 算是我近期很看好的套牌，最主要的原因是多了這張：
 Hardened Scales 則是可以很過分的做一個 X = 0 的弩砲 BM 對手......我是說手動把弩砲丟進墳然後吃掉。
 同時 Agtha's Soul Cauldron 也可以用來規避 [Pithing Needle](https://cards.scryfall.io/large/front/7/7/776899f8-e977-42b7-8b54-6f726a349e3c.jpg?1673149414)，即便被鎖住生物的啟動式異能，也可以把該生物丟進墳場之後吃掉，將啟動式異能轉給其他牌名的生物（像是把 Yawgmoth 轉給 1/1 昆蟲），大大提高了生物組合技套牌對上 Pithing Needle 的勝率。
 
-
 ### Jund Sagavan & 5C Creativity
 
 一個是近期被弓箭手強化，另一個則是因為環境變太快而跌下來，最後跑到差不多的位置。
 不過兩者都有同樣的問題：贏太慢，現在的對局很容易在兩者做完該做的事情之前就結束或大局已定了，造成兩者的發揮空間不多。
 但並不是說他們是不好的套牌，如果喜歡中速對局的玩家還是很適合這兩套牌。
 
-
 ### Mono-Black Coffers Control
 
 最後一套會提到的套牌是 Coffers Control，近期表現不俗，而且現在多了 Beseech the Mirror 這種可以變成任意一張牌庫內的牌（雖然撰文的當下還沒有任何一套有放 Beseech the Mirror 的牌組拿到上位的成績），靈活性變高很多。
 ![](https://cards.scryfall.io/large/front/1/8/18c59776-e1f1-4197-a128-db1d603f56b7.jpg?1692937498)
 
-
 ## MO Modern Super Qualifier
 
 最後提一下 [MO Modern Super Qualifier ](https://www.mtggoldfishcm/tournament/modern-super-qualifier-2023-09-10#paper)，top 8 的套牌分佈分別是：
+
 1. [4C Omnath](https://www.mtggoldfish.com/deck/5855695)
 2. [Amulate Titan](https://www.mtggoldfish.com/deck/5855693)
 3. [Izzet Murktide](https://www.mtggoldfish.com/deck/5855705)
@@ -142,3 +139,4 @@ Hardened Scales 則是可以很過分的做一個 X = 0 的弩砲 BM 對手.....
 這週我們回顧一下過去兩週近代賽場的變動，如果要我選出最近適合打 RCQ 的套牌，我會推薦 4C Rhinos，他打的比較 aggressive 一些，但如果確定會有 Living End 玩家參賽而且比例較高的話，會推薦打 Omnath, Burn, Tron 或是比較 meta 邊緣的牌組，賭對手沒有做好應對（不過這是建立在有練好牌的前提）。
 下週預計會是回顧先驅賽場，雖然 MIT 要等到十一月才打，不過先做點準備肯定是不錯的，先開始收牌、調整牌組，加減做一些練習。
 希望這個系列可以作為常態性的文章一路寫下去，如果有什麼意見或是想討論的，都歡迎在下方留言，我們下週見！
+

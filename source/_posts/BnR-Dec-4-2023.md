@@ -10,6 +10,8 @@ thumbnail: "https://guildmagesforum.tw/images/Silver-Fury.jpg"
 excerpt: "被禁掉的各位，慢走不送"
 categories:
   - "Construct"
+authors:
+  - "MiohitoKiri5474"
 ---
 
 ## Dec 4 Banned And Restricted Announcement
@@ -17,19 +19,20 @@ categories:
 [R&B 公告原始連結](https://magic.wizards.com/en/news/announcements/december-4-2023-banned-and-restricted-announcement)
 
 先來看看這一則 R&B 到底禁了什麼：
-* **Standard:**
-No Changes 
-* **Pioneer, Explorer:**
-[萬創卡恩（Karn, the Great Creator）](https://cards.scryfall.io/large/front/3/e/3ec0c0fb-1a4f-45f4-85b7-346a6d3ce2c5.jpg?1701690505) 被禁
-[探地人（Geological Appraiser）](https://cards.scryfall.io/large/front/7/f/7f9c1a82-695b-4df2-8e51-2d71a62e7baf.jpg?1701690520) 被禁
-[走私直升機（Smuggler's Copter）](https://cards.scryfall.io/large/front/7/8/7832abb5-5107-4603-904e-491b221bd3e3.jpg?1576383425) 解禁
-* **Modern:**
-[怒火（Fury）](https://cards.scryfall.io/large/front/b/d/bd281158-8180-40b9-a5b7-03cfc712d81a.jpg?1701690468) 被禁
-[爬上豆莖（Up the Beanstalk）](https://cards.scryfall.io/large/front/2/d/2d5e991f-23b2-4db0-a452-7755125b1fd2.jpg?1701690489) 被禁
-* **Legacy, Vintage:**
-No Changes
-* **Pauper:**
-[寺院迅矛僧（Monastery Swiftspear）](https://cards.scryfall.io/large/front/4/3/439d4ade-45c8-414b-a2fe-a57f9672bceb.jpg?1619401709) 被禁
+
+- **Standard:**
+  No Changes
+- **Pioneer, Explorer:**
+  [萬創卡恩（Karn, the Great Creator）](https://cards.scryfall.io/large/front/3/e/3ec0c0fb-1a4f-45f4-85b7-346a6d3ce2c5.jpg?1701690505) 被禁
+  [探地人（Geological Appraiser）](https://cards.scryfall.io/large/front/7/f/7f9c1a82-695b-4df2-8e51-2d71a62e7baf.jpg?1701690520) 被禁
+  [走私直升機（Smuggler's Copter）](https://cards.scryfall.io/large/front/7/8/7832abb5-5107-4603-904e-491b221bd3e3.jpg?1576383425) 解禁
+- **Modern:**
+  [怒火（Fury）](https://cards.scryfall.io/large/front/b/d/bd281158-8180-40b9-a5b7-03cfc712d81a.jpg?1701690468) 被禁
+  [爬上豆莖（Up the Beanstalk）](https://cards.scryfall.io/large/front/2/d/2d5e991f-23b2-4db0-a452-7755125b1fd2.jpg?1701690489) 被禁
+- **Legacy, Vintage:**
+  No Changes
+- **Pauper:**
+  [寺院迅矛僧（Monastery Swiftspear）](https://cards.scryfall.io/large/front/4/3/439d4ade-45c8-414b-a2fe-a57f9672bceb.jpg?1619401709) 被禁
 
 然後下面是詳細的禁牌理由，沒有禁牌的賽制就略過了，反正就是講為什麼現在很平衡。
 Pauper 的禁牌文章太長了且廢話頗多沒有看完。
@@ -47,7 +50,6 @@ Smuggler's Copter 則是當時先驅賽制剛出來時，還沒有那麼多的�
 而在這之後過了四年（當時是 Dec 2019 ban 掉的），先驅賽制中也多了更多系列，現在的環境應該可以承受著這張牌了。
 
 > 備註：目前 MTGA 牌池尚無收錄 Smuggler's Copter，因此雖然 Pioneer 解禁了，但在 MTGA 的 Explorer 中依然沒有 Smuggler's Copter 可用。
-
 
 ### Modern
 

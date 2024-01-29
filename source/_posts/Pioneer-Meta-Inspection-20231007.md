@@ -1,31 +1,34 @@
 ---
-title: 'Pioneer 環境考察 2023/10/07'
+title: "Pioneer 環境考察 2023/10/07"
 date: 2023-10-07 09:00:00
 tags:
   - MiohitoKiri5474
   - Pioneer
   - Inspection
-cover: 'https://files.hareruyamtg.com/article/wp-content/uploads/2020/07/06194309/Discontinuity.jpg'
-thumbnail: 'https://files.hareruyamtg.com/article/wp-content/uploads/2020/07/06194309/Discontinuity.jpg'
-excerpt: '加拿大 RC 和歐洲 RC 在上週末結束了，讓我們來看看有哪些突出的套牌吧！'
+cover: "https://files.hareruyamtg.com/article/wp-content/uploads/2020/07/06194309/Discontinuity.jpg"
+thumbnail: "https://files.hareruyamtg.com/article/wp-content/uploads/2020/07/06194309/Discontinuity.jpg"
+excerpt: "加拿大 RC 和歐洲 RC 在上週末結束了，讓我們來看看有哪些突出的套牌吧！"
 categories:
   - Construct
   - Pioneer
+authors:
+  - "MiohitoKiri5474"
 ---
 
 ## Before We Start
 
 各地區的 RC 在十月陸續展開，開始之前先提一下各個地區的比賽時間：
-* ~~Canada (F2F Tour): Sep 29 - Oct 1~~
-* ~~European (Legacy): Sep 30 - Oct 1~~
-* Australia & New Zealand (Good Game): Oct 27 - 29
-* Southeast Asia (Oracle Events): Nov 4 - 5
-* Taiwan (GameSquare): Nov 4 - 5
-* Brazil (City Class Games): Nov 4 - 5
-* Mexico & Central America & Caribbean (Yellow Rabbit): Nov 4 - 5
-* South America (Magicsur): Nov 24 - 26
-* China (Kadou): TBA（或是我爛沒查到）
-* Japan & Korea(Big Magic): TBA（或是我爛沒查到）
+
+- ~~Canada (F2F Tour): Sep 29 - Oct 1~~
+- ~~European (Legacy): Sep 30 - Oct 1~~
+- Australia & New Zealand (Good Game): Oct 27 - 29
+- Southeast Asia (Oracle Events): Nov 4 - 5
+- Taiwan (GameSquare): Nov 4 - 5
+- Brazil (City Class Games): Nov 4 - 5
+- Mexico & Central America & Caribbean (Yellow Rabbit): Nov 4 - 5
+- South America (Magicsur): Nov 24 - 26
+- China (Kadou): TBA（或是我爛沒查到）
+- Japan & Korea(Big Magic): TBA（或是我爛沒查到）
 
 所以目前我預計最近會先在 MA 上面先大概抓一下紅黑中速（或是犧牲）的構築練一下，等到十月底澳洲/紐西蘭那邊打完了再來看需不需要改牌。
 
@@ -75,7 +78,6 @@ Day 2：則是額外六輪之後取八強單淘汰。
 | 8 | [Portable Hole](https://cards.scryfall.io/large/front/8/0/80fca8c0-ae3e-439e-b202-228b9f360e9a.jpg?1627702369) | 403 | 18% |
 | 9 | [Elvish Mystic](https://cards.scryfall.io/large/front/7/5/75918859-c93f-41b4-9ad0-a4a96c389f0d.jpg?1689998466) | 394 | 15% |
 | 10 | [Llanowar Elves](https://cards.scryfall.io/large/front/8/b/8bbcfb77-daa1-4ce5-b5f9-48d0a8edbba9.jpg?1592765148) | 393 | 15% |
-
 
 然後列一下八強套牌，這邊以最終名次排名，紀錄為預賽紀錄。
 | Rank | Player | Decklist | Record |
@@ -143,7 +145,9 @@ Day 2：則是額外六輪之後取八強單淘汰。
 ![](https://cards.scryfall.io/large/front/6/6/66605fe1-9a20-4c95-b53e-1249cedb978b.jpg?1675957216)
 
 而 [Tyvar, Jubilant Brawler](https://cards.scryfall.io/large/front/6/6/66605fe1-9a20-4c95-b53e-1249cedb978b.jpg?1675957216) 則是用於無限費之後抽棄，或是用來找資源，還有讓生物的啟動式異能不會受到召喚失調影響。
+
 > 這邊簡單提一下怎麼用 Tyvar 做無限抽棄。
+>
 > 1. 在場上有 Tyvar 之後，先用前面的 loop 產出無限黑綠
 > 2. 橫置 Rona 彈 Tyvar 回手
 > 3. 拍 Tyvar 重置 Rona
@@ -279,7 +283,6 @@ Day 2：額外的五輪瑞士輪之後取八強單淘汰。
 正編構築部分，選擇多帶一張 [Cityscape Leveler](https://cards.scryfall.io/large/front/6/7/67a87278-4c82-4056-8354-253d86b0ef3d.jpg?1674421950)。
 備牌則是很標準的卡恩工具箱。
 
-
 ### Enigmatic Fires
 
 ![](https://cdn.melee.gg/decklists/fd710409-e44c-4026-89e4-403148b2e673.jpg?v=3)
@@ -364,3 +367,4 @@ Day 2：額外的五輪瑞士輪之後取八強單淘汰。
 最後整合我這禮拜打 MA Explorer Event 的感覺，應該也是從紅黑犧牲還有紅黑中速這兩套在選，還在觀望中。
 
 最後希望各位都能找到各自喜歡的套牌，大家十一月賽場見！
+
