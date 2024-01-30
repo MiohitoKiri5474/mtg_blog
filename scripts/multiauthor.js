@@ -35,7 +35,9 @@ hexo.extend.helper.register("post_author", function (post_obj) {
       post.author = post.author + " & " + author.name;
     } else {
       post.author = author.name;
-      // post.avatar = author.avatar;
+      if (post_authors.length < 2) {
+        post.avatar = author.avatar;
+      }
     }
   }
 
