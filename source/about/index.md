@@ -77,7 +77,7 @@ aka荒野騎士，專攻構築賽的賽場玩家，最近主要都在先驅和�
 
 aka [中二紳士想會打牌](https://www.facebook.com/bruce1235566)，很喜歡輪抽賽制，混亂輪抽、cube都愛玩，偶爾也能在構築賽見到我的身影，希望這圈子的大家能喜歡輪抽，能看到越來越多人在店裡玩輪抽的身影。
 
-## [GY_Player](/tags/GY_Player/)
+## [GY_Player](/tags/GY-Player/)
 
 標準、先驅、近代、PAUPER、指揮官（官禁多人、法禁、破誓者、CEDH、PEDH）都有接觸。
 樣樣通樣樣鬆型玩家。
