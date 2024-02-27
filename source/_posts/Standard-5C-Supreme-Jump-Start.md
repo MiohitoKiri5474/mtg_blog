@@ -8,6 +8,8 @@ tags:
 excerpt: "既然回到拉尼卡，那就是現世十會盟的回合了！"
 cover: "https://i.imgur.com/EyPlJ9j.png"
 thumbnail: "https://i.imgur.com/EyPlJ9j.png"
+authors:
+  - "JerobaMTG"
 ---
 
 ## Before We Start
