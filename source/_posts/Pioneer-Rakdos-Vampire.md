@@ -7,7 +7,8 @@ tags:
 cover: "https://i.postimg.cc/76wnqf1y/WYdgQmG.jpg"
 thumbnail: "https://i.postimg.cc/76wnqf1y/WYdgQmG.jpg"
 excerpt: "驕傲血領索霖：五年寒窗少人問，一朝成名天下知"
-authors: "cephille"
+authors:
+  - "cephille"
 ---
 
 ## Before We Start

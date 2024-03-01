@@ -8,7 +8,8 @@ tags:
 cover: "https://i.postimg.cc/HxVv1wkh/rhinos.jpg"
 thumbnail: "https://i.postimg.cc/HxVv1wkh/rhinos.jpg"
 excerpt: "DEN24 Sat 9:00 - U.S. Regional Championship 11-3 #28"
-authors: "ClarkShih"
+authors:
+  - "ClarkShih"
 ---
 
 
