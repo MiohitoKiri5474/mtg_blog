@@ -7,7 +7,8 @@ tags:
 cover: "https://www.mtgnexus.com/img/gallery/1689731076/1733-hidden-strings.jpg"
 thumbnail: "https://www.mtgnexus.com/img/gallery/1689731076/1733-hidden-strings.jpg"
 excerpt: "來看看MIT#4獲得亞軍的蓮花田攻略吧！"
-authors: "zhi-mao"
+authors:
+  - "zhi-mao"
 ---
 
 ![](https://i.imgur.com/Jymm5ah.jpeg)
