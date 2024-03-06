@@ -2,7 +2,8 @@
 title: {{ title }}
 date: {{ date }}
 tags:
-cover: 
+cover:
 thumbnail:
-excerpt: 
+excerpt:
+authors:
 ---
