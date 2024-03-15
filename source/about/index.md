@@ -84,8 +84,12 @@ aka [中二紳士想會打牌](https://www.facebook.com/bruce1235566)，很喜�
 永遠喜歡墳場套牌，但實際上最常打的則是節奏套牌。
 最近在做CUBE。
 
-
 ## [何志懋](/tags/zhi-mao/)
 
 喜歡構築賽以及限制賽的玩家，只有指揮官不太玩，常駐在台北，有看到都能一起玩牌～
 
+## David Yeh
+
+- David Yeh aka 魔風三寶爸
+- 前[Mystic Zone](https://mysticzonetw.blogspot.com/)主編
+- 喜歡Arena限制賽、近代賽中速、與控制套牌
