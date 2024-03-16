@@ -88,7 +88,7 @@ aka [中二紳士想會打牌](https://www.facebook.com/bruce1235566)，很喜�
 
 喜歡構築賽以及限制賽的玩家，只有指揮官不太玩，常駐在台北，有看到都能一起玩牌～
 
-## David Yeh
+## [David Yeh](/tags/David-Yeh/)
 
 - David Yeh aka 魔風三寶爸
 - 前[Mystic Zone](https://mysticzonetw.blogspot.com/)主編
