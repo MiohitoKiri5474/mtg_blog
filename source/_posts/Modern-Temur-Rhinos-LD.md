@@ -1,5 +1,4 @@
 ---
-
 title: "鐵木爾犀牛的最後一舞 - MIT#5冠軍的心路歷程與賽報分享"
 date: "2024-03-16 11:27:31"
 tags:
@@ -9,7 +8,7 @@ cover: "https://i.postimg.cc/4Z2RqqXx/RHINO-TOKEN.png"
 thumbnail: "https://i.postimg.cc/4Z2RqqXx/RHINO-TOKEN.png"
 excerpt: "雖然暴烈迸發離開我們了，但鐵木爾犀牛依舊在最後一刻綻放光芒！來看看David為我們帶來的分享！"
 authors:
-  - "David Yeh"
+  - "david-yeh"
 ---
 
 ## Introduction
@@ -18,12 +17,11 @@ authors:
 
 ![](https://i.postimg.cc/rmjtPkPv/David-championship.jpg)
 
-
 ## 賽前準備
 
 ### Before MKM releases
 
-[MITQ#5_桌遊侍_Temur Rhinos_David Yeh](https://www.mtggoldfish.com/deck/5963553#paper)
+[MITQ#5\_桌遊侍\_Temur Rhinos_David Yeh](https://www.mtggoldfish.com/deck/5963553#paper)
 
 ![](https://i.postimg.cc/t9m6Vrzv/MITQ-5-Temur-Rhinos-David-Yeh.png)
 
@@ -32,7 +30,7 @@ authors:
 ![](https://i.postimg.cc/dQj8dVXw/20231204-B-R.jpg)
 
 [DECEMBER 4, 2023, BANNED AND RESTRICTED ANNOUNCEMENT](https://magic.wizards.com/en/news/announcements/december-4-2023-banned-and-restricted-announcement)
- 
+
 誰知MITQ打到資格的隔天[怒火](https://scryfall.com/card/mh2/126/fury)就被禁了，原本偷吃步只放[怒火](https://scryfall.com/card/mh2/126/fury)不放[去死//走開](https://scryfall.com/card/tsr/161/dead-gone)來應對小生物，這下沒了。
 
 好吃的Scam變少了，難纏的4C Omnath也變少了。少了怒火以後，可預期小生物套牌變多，較強的錘子、鱗甲共鳴、人類、黑綠醫生、白綠神砲應該會多一些；而妖精、人魚、共鳴、侵染、死稅、班特雲移這些稀有動物應該也會有。原先只想用[碎骨巨人](https://scryfall.com/card/eld/115/bonecrusher-giant-stomp)取代[怒火](https://scryfall.com/card/mh2/126/fury)就好......
@@ -52,11 +50,11 @@ authors:
 ![](https://cards.scryfall.io/large/front/f/5/f58cfb23-4d99-4133-bf4b-d7e7c7d17cea.jpg?1708201628)
 
 Domain Zoo與Domain Rhinos變多，也讓許多套牌開始放MKM最強C卡 — [挑選毒藥](https://scryfall.com/card/mkm/170/pick-your-poison)在備牌來跳[骸龍後裔](https://scryfall.com/card/mh2/323/scion-of-draco)與[十會盟地脈](https://scryfall.com/card/mkm/217/leyline-of-the-guildpact)簡單有效。另外，伊捷龍侯拉綠除了挑選毒藥，也開始看到上古神獸[塔莫耶夫](https://scryfall.com/card/fut/153/tarmogoyf)，這套本來就很會湊躁狂，用塔莫來頂住犀牛與[據地卡甫](https://scryfall.com/card/mh2/216/territorial-kavu)綽綽有餘。
- 
+
 > 寫到這邊發現[暴烈迸發](https://scryfall.com/card/arb/63/violent-outburst)被禁了......
 >
 > ![](https://i.postimg.cc/BbwnWv4P/20240311-B-R.jpg)
-> 
+>
 > 打完MITQ隔天[怒火](https://scryfall.com/card/mh2/126/fury)被禁......
 > 打完MIT隔天[暴烈迸發](https://scryfall.com/card/arb/63/violent-outburst)被禁......
 
@@ -71,15 +69,16 @@ Domain Zoo與Domain Rhinos變多，也讓許多套牌開始放MKM最強C卡 — 
 ![](https://cdn.melee.gg/decklists/30b0ae85-2ed3-4d93-942a-ae922432e88b.jpg?v=1)
 
 要說Domain Rhinos最明顯的差異應該是：
-1. 三色地選[尚奪爾的酒廊](https://scryfall.com/card/snc/260/xanders-lounge)或[因達沙群系](https://scryfall.com/card/iko/248/indatha-triome)，這兩塊地對應到的找地地與電震地 / 刺探地自然不同。 
+
+1. 三色地選[尚奪爾的酒廊](https://scryfall.com/card/snc/260/xanders-lounge)或[因達沙群系](https://scryfall.com/card/iko/248/indatha-triome)，這兩塊地對應到的找地地與電震地 / 刺探地自然不同。
 2. 備牌是否有四張[據地卡甫](https://scryfall.com/card/mh2/216/territorial-kavu)：LSV在RC是放[因達沙群系](https://scryfall.com/card/iko/248/indatha-triome)，我自己覺得[因達沙群系](https://scryfall.com/card/iko/248/indatha-triome)搭[蒸氣噴發口](https://scryfall.com/card/rvr/288/steam-vents) + [雷鳴瀑布](https://scryfall.com/card/mkm/269/thundering-falls)，應會比[尚奪爾的酒廊](https://scryfall.com/card/snc/260/xanders-lounge)搭[殿堂花園](https://scryfall.com/card/rvr/290/temple-garden) + [蔥鬱門廊](https://scryfall.com/card/mkm/263/lush-portico)來的好，畢竟Domain Rhinos還是以紅藍綠為主，應該不會想有兩塊白綠地。
 
 ![](https://i.postimg.cc/TYCpBSmg/Domain-lands.jpg)
-  
+
 也有想過另一種三色與兩色地的組合，黑色最無用，因此要跟三色地綁在一起，這樣一回[拉斐茵的高塔](https://scryfall.com/card/snc/254/raffines-tower)，二回無論是[晃動大地](https://scryfall.com/card/rvr/289/stomping-ground)或[商貿城區](https://scryfall.com/card/mkm/259/commercial-district)都行，二回有白有藍要[地脈束縛](https://scryfall.com/card/dmu/24/leyline-binding)或[神秘干擾](https://scryfall.com/card/eld/58/mystical-dispute)都行，但這樣缺點是三回有可能發不出[暴烈迸發](https://scryfall.com/card/arb/63/violent-outburst)。~~（也沒差，都被禁了.....）~~
 
 另外備牌放[據地卡甫](https://scryfall.com/card/mh2/216/territorial-kavu)的算少數，上備後變得更像是Domain Zoo，可避開[虛空聖杯](https://scryfall.com/card/a25/222/chalice-of-the-void)等剋牌；而身材夠大可撞贏犀牛，攻擊時把手上多餘的地脈棄抽找料，對上Living End也能移個幾張墳場生物。（雖然被做一次應該還是死......）
- 
+
 MIT的前兩週湊齊Domain Rhinos的料，雖然起手地脈二回骸龍很爽，就算只有二回骸龍感覺也不錯，但怎麼打還是覺得怪怪的，總覺得招式沒以前三色犀牛多又靈活，地牌也就只是多三色地與刺探地。
 
 ![](https://cards.scryfall.io/large/front/1/0/10bf4693-668e-4498-a652-a9d5eb77f9b7.jpg?1674074201)
@@ -87,7 +86,7 @@ MIT的前兩週湊齊Domain Rhinos的料，雖然起手地脈二回骸龍很爽�
 有想過放一張[永世陰謀家祖爾](https://scryfall.com/card/dmu/228/zur-eternal-schemer)，讓套牌八張地脈變成辟邪、死觸、繫命的類[亞龍捲引擎](https://scryfall.com/card/2xm/308/wurmcoil-engine)來增加威脅；另一方面，祖爾帶藍色也能餵給[否認之力](https://scryfall.com/card/2x2/50/force-of-negation)與[銳敏](https://scryfall.com/card/mh2/67/subtlety)。
 
 ![](https://i.postimg.cc/DwthJdL8/OAN.jpg)
-   
+
 又或是其他優秀的多色牌，例如[生機核歐那斯](https://scryfall.com/card/znr/312/omnath-locus-of-creation)、[重聯君王亞拉岡](https://scryfall.com/card/ltr/192/aragorn-the-uniter)、[先兆娜希麗](https://scryfall.com/card/cmm/929/nahiri-the-harbinger)之類的，總之胡思亂想了幾天，試圖讓套牌不那麼單調。之後又嘗試組了Domain [變境](https://scryfall.com/card/m19/201/scapeshift)、4C歐那斯拉骸龍.....
 
 比賽前三天，剛好看到[施兆恩aka荒野騎士](https://guildmagesforum.tw/tags/ClarkShih/)在[Guildmages' Forum](http://guildmagesforum.tw)發了一篇文章 — [鐵木爾犀牛的RC構築指南](https://guildmagesforum.tw/Modern-Temur-Rhinos-for-RC/)。看完以後獲益良多，下定決心回歸鐵木爾犀牛。
@@ -151,6 +150,7 @@ MIT的前兩週湊齊Domain Rhinos的料，雖然起手地脈二回骸龍很爽�
 ### 備牌介紹
 
 #### 沒有使用的備牌
+
 ![](https://i.postimg.cc/GmbCWpQ7/SB-No.jpg)
 
 再來是備牌的選擇，先說說沒有放的備牌，[霸佔](https://scryfall.com/card/cmm/80/commandeer)主要是用來偷對面的[至尊魔戒](https://scryfall.com/card/ltr/697/the-one-ring)，現在有帶魔戒的套牌像是4C歐那斯、泰坦護身符、白藍控制沒Cascade來得多，況且[提莎娜的縛潮師](https://scryfall.com/card/lci/335/tishanas-tidebinder)已能處理魔戒。而[黑曜石焰喉龍](https://scryfall.com/card/mh2/137/obsidian-charmaw)就是針對綠創類的傢俱組套牌而已，以往對四[墨蛾連結點](https://scryfall.com/card/mbs/145/inkmoth-nexus)四[克撒傳](https://scryfall.com/card/mh2/259/urzas-saga)的錘子、鱗甲我也會上；但這類套牌數量不多，靠康拆應該就足夠。
@@ -180,6 +180,7 @@ MIT的前兩週湊齊Domain Rhinos的料，雖然起手地脈二回骸龍很爽�
 ![](https://cards.scryfall.io/large/front/a/3/a32dbdc6-3321-4d77-8d2f-acbcb1a29090.jpg?1682720438)
 
 最後就是很多人問的[寇格拉與依達羅](https://scryfall.com/card/mom/311/kogla-and-yidaro)，這張起初是在泰坦護身符的備牌有看到過，我認為這跟有些護身符在備牌放[長吼食肉龍](https://scryfall.com/card/lci/171/trumpeting-carnosaur)用意類似，都是用生物的異能繞過康牌來解決像[腥紅之月](https://scryfall.com/card/2xm/118/blood-moon)或[虛空聖杯](https://scryfall.com/card/a25/222/chalice-of-the-void)這類的神器//結界haters。而正拍金剛進場後的兩個異能的應對範圍也不少，放一張當萬用的備牌。
+
 - 六費正拍的互鬥可以解[道西虛空行者](https://scryfall.com/card/mh2/81/dauthi-voidwalker)、[無魂獄卒](https://scryfall.com/card/one/241/soulless-jailer)、[俄佐立變節者拉溫妮](https://scryfall.com/card/rvr/195/lavinia-azorius-renegade)、[卓尼斯官員](https://scryfall.com/card/iko/11/drannith-magistrate)、[擾咒法師](https://scryfall.com/card/2xm/210/meddling-mage)、或[紅月賢者](https://scryfall.com/card/tsr/175/magus-of-the-moon)等hater；
 - 而在沒有干擾的狀況甚至能敏捷打掉[理時泰菲力](https://scryfall.com/card/war/221/teferi-time-raveler)，或一拳擊殺血線低的對手。
 
@@ -202,10 +203,12 @@ MIT的前兩週湊齊Domain Rhinos的料，雖然起手地脈二回骸龍很爽�
 比賽詳細過程記不清楚，還請對手們包容。套牌連結與對局紀錄可參考[Melee上的對局列表](https://melee.gg/Decklist/View/376466)。
 
 ### 第一局 黑綠怨靈復仇 2-1
+
 - 第一盤後手被三回[萬世創傷伊莫庫](https://scryfall.com/card/2x2/1/emrakul-the-aeons-torn)炸光。
 - 無奈備牌策略沒寫到這套，還好靠[堅忍](https://scryfall.com/card/mh2/157/endurance)撐住；第二、三盤用拆、燒、回手跟[克撒傳](https://scryfall.com/card/mh2/259/urzas-saga)派出的組構體衍生物做拉鋸戰後獲勝。
 
 ### 第二局 綠創 2-1
+
 - 第一盤被快速湊套出[不休飢渴鎢拉莫](https://scryfall.com/card/cmm/5/ulamog-the-ceaseless-hunger)勸退。
 - 上備後有康有炸就好打了，還叫出[慷慨樹人](https://scryfall.com/card/ltr/169/generous-ent)扁人。
 
@@ -220,34 +223,42 @@ MIT的前兩週湊齊Domain Rhinos的料，雖然起手地脈二回骸龍很爽�
 - 第三盤時間到，對手用循環地抽到[最高裁決](https://scryfall.com/card/2x2/280/supreme-verdict)，打不掉最後幾點血而和局。
 
 ### 第四局 白藍控制 2-0
+
 OpenList確認沒有[揭帷娜爾施](https://scryfall.com/card/war/61/narset-parter-of-veils)感覺好多了，兩盤都不求穩穩出犀牛，每回都用生物進攻，慢慢蠶食血量獲勝。
 
 ## 第五局 紅黑Scam帶藍 2-0
+
 OpenList看到正三[提莎娜的縛潮師](https://scryfall.com/card/lci/335/tishanas-tidebinder)與備三[神秘干擾](https://scryfall.com/card/eld/58/mystical-dispute)（大驚）
+
 - 第一盤被Scam一套，靠犀牛頂住獲勝。
 - 第二盤施放犀牛被跳[提莎娜的縛潮師](https://scryfall.com/card/lci/335/tishanas-tidebinder)，我用[銳敏](https://scryfall.com/card/mh2/67/subtlety)頂回去獲勝。
 
 ### 第六局 泰坦護身符 2-0
+
 對手套牌有一張彎彎的，請裁判檢查後獲勝。聽說是[維蘇瓦](https://scryfall.com/card/tsr/289/vesuva) @@
 
 ### 第七局 大黑金庫 約和
 
 ### 八強 白綠神砲軍伍 2-1
+
 Open List一看，太久沒看到軍伍，跟想像中不太一樣。正有[白塔守護波羅莫](https://scryfall.com/card/ltr/4/boromir-warden-of-the-tower)、[阿嘉莎的靈魂鼎鑊](https://scryfall.com/card/woe/242/agathas-soul-cauldron)，備有[臨水之戰](https://scryfall.com/card/ltr/2/the-battle-of-bywater)、波羅莫、[秘羅聖戰軍](https://scryfall.com/card/mbs/14/mirran-crusader)。
+
 - 第一盤先手，三回犀牛，四五回歷險借物靈 + 碎骨巨人干擾獲勝。筆記沒有白綠軍伍，下[否認之力](https://scryfall.com/card/2x2/50/force-of-negation)，上[兄弟反目](https://scryfall.com/card/bro/128/brotherhoods-end)、[爾泰的輕蔑](https://scryfall.com/card/dmu/48/ertais-scorn)、[金剛](https://scryfall.com/card/mom/311/kogla-and-yidaro)。
 - 第二盤被[歐瑞克鬥士](https://scryfall.com/card/5dn/3/auriok-champion)、[日冠赫利歐德](https://scryfall.com/card/cmm/29/heliod-sun-crowned)、[盟會導師](https://scryfall.com/card/m21/216/conclave-mentor)撐住地面攻勢，太陽神給導師繫命完全無法血量競賽。
 - 第三盤發功，對手調度三次，下樹林與母聖樹而已。
 
 ### 四強 黑綠醫生 2-1
- Open List看應該是典型的醫生。
+
+Open List看應該是典型的醫生。
+
 - 第一盤先手 二回碎骨了[快樂的半身人](https://scryfall.com/card/ltr/158/delighted-halfling)，三、四回犀牛，[銳敏](https://scryfall.com/card/mh2/67/subtlety)推一次醫生，最後醫生到場了但生物與血量撐不住四頭犀牛。
 - 第二盤 對手一二回都是頭，我三回犀牛，手上留了[堅忍](https://scryfall.com/card/mh2/157/endurance)，對面三回醫生丟-1/-1狂抽，下回犀牛們死光，[司毒維齊爾哈芭恰](https://scryfall.com/card/akh/199/hapatra-vizier-of-poisons)進場後生物都站不住場。
 - 第三盤 起手[神秘干擾](https://scryfall.com/card/eld/58/mystical-dispute)兩張、[厚顏借物靈](https://scryfall.com/card/eld/281/brazen-borrower-petty-theft)、[堅忍](https://scryfall.com/card/mh2/157/endurance)、[暴烈迸發](https://scryfall.com/card/arb/63/violent-outburst)、兩塊地。對手[攫取思緒](https://scryfall.com/card/2xm/109/thoughtseize)掉[暴烈迸發](https://scryfall.com/card/arb/63/violent-outburst)後，一樣鋪場[根牆](https://scryfall.com/card/tsb/89/wall-of-roots)、半身人、[幼狼](https://scryfall.com/card/dka/134/young-wolf)，我出[堅忍](https://scryfall.com/card/mh2/157/endurance)撐住地面攻勢，對手繼續抽地牌與法力源，中間有出一個[阿嘉莎的靈魂鼎鑊](https://scryfall.com/card/woe/242/agathas-soul-cauldron)，給根牆灌了兩次後，兩邊墳場沒生物。我抽了一發[亞爾諾熾炎](https://scryfall.com/card/ltr/406/flame-of-anor)、一發[揭現羅瑞安](https://scryfall.com/card/ltr/60/l%C3%B3rien-revealed)，跳[厚顏借物靈](https://scryfall.com/card/eld/281/brazen-borrower-petty-theft)打四回合獲勝。
-打完後對手翻開牌庫頂是[和聲召集](https://scryfall.com/card/rvr/134/chord-of-calling)，但我手上有[神秘干擾](https://scryfall.com/card/eld/58/mystical-dispute)兩張、[厚顏借物靈](https://scryfall.com/card/eld/281/brazen-borrower-petty-theft)、[堅忍](https://scryfall.com/card/mh2/157/endurance)、[提莎娜的縛潮師](https://scryfall.com/card/lci/335/tishanas-tidebinder)、[亞爾諾熾炎](https://scryfall.com/card/ltr/406/flame-of-anor)與[爾泰的輕蔑](https://scryfall.com/card/dmu/48/ertais-scorn).....
+  打完後對手翻開牌庫頂是[和聲召集](https://scryfall.com/card/rvr/134/chord-of-calling)，但我手上有[神秘干擾](https://scryfall.com/card/eld/58/mystical-dispute)兩張、[厚顏借物靈](https://scryfall.com/card/eld/281/brazen-borrower-petty-theft)、[堅忍](https://scryfall.com/card/mh2/157/endurance)、[提莎娜的縛潮師](https://scryfall.com/card/lci/335/tishanas-tidebinder)、[亞爾諾熾炎](https://scryfall.com/card/ltr/406/flame-of-anor)與[爾泰的輕蔑](https://scryfall.com/card/dmu/48/ertais-scorn).....
 
 ### 冠亞 大黑金庫 2-1
-Open List先看過，正備都有[道西](https://scryfall.com/card/mh2/81/dauthi-voidwalker)與[致命掩蓋](https://scryfall.com/card/mkm/83/deadly-cover-up)很麻煩，好在對手沒有要去世界賽，讓我有一次圓夢的機會！
 
+Open List先看過，正備都有[道西](https://scryfall.com/card/mh2/81/dauthi-voidwalker)與[致命掩蓋](https://scryfall.com/card/mkm/83/deadly-cover-up)很麻煩，好在對手沒有要去世界賽，讓我有一次圓夢的機會！
 
 ## 結語
 
