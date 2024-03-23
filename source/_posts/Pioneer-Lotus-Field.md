@@ -96,7 +96,7 @@ authors:
 
 如果是此路線，牌組中除了 Chandra, Hope's Beacon 並不需要特別放其他配合的牌，可以放更多的加速源（例如 Voyaging Satyr），不過缺點是只要茜卓被切掉很難收頭。
 
-### Approach of the Second Sun Line
+#### Approach of the Second Sun Line
 
 ![](https://cards.scryfall.io/large/front/f/d/fdf59a6e-7708-45a1-884d-d12e9f7b9ed9.jpg?1543674579)
 
@@ -104,7 +104,7 @@ authors:
 
 另外神日迫臨的版本需要多帶 Mastermind's Acquistion，以及更多的過牌（我最多帶了七張的看四拿一）。
 
-#### Emergent Ultimatum
+### Emergent Ultimatum
 
 ![](https://cards.scryfall.io/large/front/3/a/3a6a52ab-6d38-4429-9969-90064e615152.jpg?1591228007)
 
@@ -116,7 +116,7 @@ authors:
 
 ![](https://cards.scryfall.io/large/front/7/8/78fb8900-d28d-4e33-96a7-66fcbc117adf.jpg?1634348984)
 
-#### Ramp Card Choose
+### Ramp Card Choose
 
 1. [Voyaging Satyr](https://cards.scryfall.io/large/front/1/8/180773da-dadc-414a-92c6-f4e13c753718.jpg?1576383133)
    最常見的加速，配合 Hidden Strings 可以當作是第二塊蓮花田。
@@ -127,7 +127,7 @@ authors:
 4. [Baral, Chief of Compliance](https://cards.scryfall.io/large/front/6/0/60e16d94-1166-4050-8554-686e153a7f80.jpg?1576381454)
    雖然沒有增加法力，不太算是實質上的加速，不過降低巫術瞬間的費用（或是拿來抵銷萬惡的 [Thalia, Guardian of Thraben](https://cards.scryfall.io/large/front/c/9/c9f8b8fb-1cd8-450e-a1fe-892e7a323479.jpg?1643587106) 的多一費），應該也能算是加速的一種吧（？
 
-#### Lands Choose
+### Lands Choose
 
 地基本上會帶 22 左右，大部分會長這樣：
 4x Lotus Field
@@ -195,4 +195,3 @@ Sideboard Guild 之類的東西我就不付上了，半年前的內容到現在�
 同時已經有六點法力時，也可以在對手的維持階段切他的回合、或是回應他的咒語切回合，可以躲掉一些威脅。
 
 這種構築在過去一個月中的使用率逐漸上升中，加上歐洲冠軍也有投入使用，預計在接下來的環境中會有許多類似的構築。
-
