@@ -93,3 +93,7 @@ aka [中二紳士想會打牌](https://www.facebook.com/bruce1235566)，很喜�
 - David Yeh aka 魔風三寶爸
 - 前[Mystic Zone](https://mysticzonetw.blogspot.com/)主編
 - 喜歡Arena限制賽、近代賽中速、與控制套牌
+
+## 偉特
+
+a.k.a [特別亂打](https://www.facebook.com/egavasmtg)，努力不要亂打的魔風業餘玩家，常居競爭級賽制（標準、先驅、近代、CEDH），本命是近代格利極死影＆先驅艾莉霸權（~~雖然兩個現在墳上的草都很高~~），喜歡打高操作套牌跟 Fair Deck，魔風生涯最大的危機是記憶力爛到常常亂打。
