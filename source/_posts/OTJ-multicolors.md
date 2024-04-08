@@ -1,6 +1,6 @@
 ---
 title: "光雷驛鏢客（OTJ）限制賽介紹 — 多色、無色、地"
-date: "2024-04-08 00:37:36"
+date: "2024-04-08 10:54:39"
 tags:
   - "Limited"
   - "OTJ"
@@ -19,7 +19,7 @@ authors:
 ## 評分標準
 
 5.0：無條件必拿
-4.0：有首選價值 
+4.0：有首選價值
 3.5：強度夠但不一定要首選
 3.0：高於平均（會很希望他能放進最終牌組）
 2.5：平均水準，maybe輪抽第6、第7 pick左右
@@ -63,7 +63,7 @@ authors:
 
 ![193](https://cards.scryfall.io/large/front/8/9/897d594d-b5b0-43dc-b877-b483942416ce.jpg?1712356046)
 
-**cephille:** 3.0 
+**cephille:** 3.0
 
 三費結界，在你的回合狂徒有先攻，然後犯下罪行可以派出一隻1/1紅色傭兵（狂徒），雖然每回合只能觸發一次，但有機會的話我們可以拿多張這個結界，然後反覆的在自己以及對手回合犯下罪行來造出我們狂徒大軍！
 
@@ -201,7 +201,7 @@ authors:
 
 ![214](https://cards.scryfall.io/large/front/9/5/958a3e6b-7e20-40ea-8b2c-7c728934b5e5.jpg?1711498450)
 
-**cephille:** 3.0 
+**cephille:** 3.0
 
 四費2/3飛及格邊緣，之後如果有辦法一回合做兩件事才會變大+抽牌，能觸發一次以上就很好，但沒辦法的話就比較普通。但紅藍色組應該還是蠻容易觸發他的異能的，因此先給高一點。
 
@@ -229,19 +229,19 @@ authors:
 
 三費3/3靈技在紅藍色組非常容易獲得加成，而當你從手上施放多色瞬間或巫術時，結算後不用進墳還可以設謀下回合再做一次？異能看起來超強，但OTJ主系列的多色的巫術/瞬間總共只有 5 張而已；但別忘了，OTP + BIG 中還有總計24張的多色瞬間/巫術呢！讓我們來研究一下這張牌的綜合上限吧！
 
-|色組| 牌名A | 牌名B | 牌名C | 牌名D | 牌名E | 小計 |
-|:--------:|:---------------------------:|:----:|:----:|:----:|:----:|:----:|
-| **<font color="#FD0214">紅</font><font color="#023FFD">藍</font>** | [Slick Sequence](https://scryfall.com/card/otj/233/slick-sequence) | [Hypothesizzle](https://scryfall.com/card/otp/48/hypothesizzle) | ~~[Ionize](https://scryfall.com/card/otp/49/ionize)~~ | NA | NA | 3 |
-| **<font color="#FD0214">紅</font><font color="#FED761">白</font>** | [Form a Posse](https://scryfall.com/card/otj/204/form-a-posse) | [Ride Down](https://scryfall.com/card/otp/52/ride-down) | NA | NA | NA | 2 |
-| **<font color="#FD0214">紅</font><font color="#0A883B">綠</font>** |   [Decimate](https://scryfall.com/card/otp/41/decimate)    |   [Savage Smash](https://scryfall.com/card/otp/53/savage-smash)   | NA | NA | NA | 2 |
-| **<font color="#FD0214">紅</font>黑** |   [Bedevil](https://scryfall.com/card/otp/37/bedevil)    |   [Terminal Agony](https://scryfall.com/card/otp/55/terminal-agony)   | NA | NA | NA | 2 |
-| **<font color="#023FFD">藍</font><font color="#FED761">白</font>** |   [Fractured Identity](https://scryfall.com/card/otp/45/fractured-identity)    |   ~~[Hindering Light](https://scryfall.com/card/otp/46/hindering-light)~~   | NA | NA | NA | 2 |
-| **<font color="#023FFD">藍</font><font color="#0A883B">綠</font>** | [Make Your Own Luck](https://scryfall.com/card/otj/218/make-your-own-luck) |  [Decisive Denial](https://scryfall.com/card/otp/42/decisive-denial)    |   ~~[Voidslime](https://scryfall.com/card/otp/60/voidslime)~~   | NA | NA | 3 |
-| **<font color="#023FFD">藍</font>黑** |   [Siphon Insight](https://scryfall.com/card/otp/54/siphon-insight)    |   [Tyrants Scorn](https://scryfall.com/card/otp/56/tyrants-scorn)   | NA | NA | NA | 2 |
-| **黑<font color="#0A883B">綠</font>** |    [Pillage the Bog](https://scryfall.com/card/otj/224/pillage-the-bog) | [Badlands Revival](https://scryfall.com/card/otj/194/badlands-revival) | [Abrupt Decay](https://scryfall.com/card/otp/34/abrupt-decay)    |   [Back for More](https://scryfall.com/card/otp/36/back-for-more)   |NA | 4 |
-| **黑<font color="#FED761">白</font>** |   [Anguished Unmaking](https://scryfall.com/card/otp/35/anguished-unmaking)    |   [Humiliate](https://scryfall.com/card/otp/47/humiliate)   | [Vanishing Verse](https://scryfall.com/card/otp/57/vanishing-verse) | [Pest Control](https://scryfall.com/card/big/22/pest-control) | NA | 3 |
-| **<font color="#FED761">白</font><font color="#0A883B">綠</font>** | NA | NA | NA | NA | NA | 0 |
-| **三色** | [Crime//Punishment](https://scryfall.com/card/otp/39/crime-punishment)     |  [Cruel Ultimatum](https://scryfall.com/card/otp/40/cruel-ultimatum)   | [Void Rend](https://scryfall.com/card/otp/59/void-rend) | [Endless Detour](https://scryfall.com/card/otp/44/endless-detour) | [Villainous Wealth](https://scryfall.com/card/otp/58/villainous-wealth) | 5 |
+|                                色組                                |                                   牌名A                                    |                                  牌名B                                  |                                牌名C                                |                               牌名D                               |                                  牌名E                                  | 小計 |
+| :----------------------------------------------------------------: | :------------------------------------------------------------------------: | :---------------------------------------------------------------------: | :-----------------------------------------------------------------: | :---------------------------------------------------------------: | :---------------------------------------------------------------------: | :--: |
+| **<font color="#FD0214">紅</font><font color="#023FFD">藍</font>** |     [Slick Sequence](https://scryfall.com/card/otj/233/slick-sequence)     |     [Hypothesizzle](https://scryfall.com/card/otp/48/hypothesizzle)     |        ~~[Ionize](https://scryfall.com/card/otp/49/ionize)~~        |                                NA                                 |                                   NA                                    |  3   |
+| **<font color="#FD0214">紅</font><font color="#FED761">白</font>** |       [Form a Posse](https://scryfall.com/card/otj/204/form-a-posse)       |         [Ride Down](https://scryfall.com/card/otp/52/ride-down)         |                                 NA                                  |                                NA                                 |                                   NA                                    |  2   |
+| **<font color="#FD0214">紅</font><font color="#0A883B">綠</font>** |           [Decimate](https://scryfall.com/card/otp/41/decimate)            |      [Savage Smash](https://scryfall.com/card/otp/53/savage-smash)      |                                 NA                                  |                                NA                                 |                                   NA                                    |  2   |
+|               **<font color="#FD0214">紅</font>黑**                |            [Bedevil](https://scryfall.com/card/otp/37/bedevil)             |    [Terminal Agony](https://scryfall.com/card/otp/55/terminal-agony)    |                                 NA                                  |                                NA                                 |                                   NA                                    |  2   |
+| **<font color="#023FFD">藍</font><font color="#FED761">白</font>** | [Fractured Identity](https://scryfall.com/card/otp/45/fractured-identity)  | ~~[Hindering Light](https://scryfall.com/card/otp/46/hindering-light)~~ |                                 NA                                  |                                NA                                 |                                   NA                                    |  2   |
+| **<font color="#023FFD">藍</font><font color="#0A883B">綠</font>** | [Make Your Own Luck](https://scryfall.com/card/otj/218/make-your-own-luck) |   [Decisive Denial](https://scryfall.com/card/otp/42/decisive-denial)   |     ~~[Voidslime](https://scryfall.com/card/otp/60/voidslime)~~     |                                NA                                 |                                   NA                                    |  3   |
+|               **<font color="#023FFD">藍</font>黑**                |     [Siphon Insight](https://scryfall.com/card/otp/54/siphon-insight)      |     [Tyrants Scorn](https://scryfall.com/card/otp/56/tyrants-scorn)     |                                 NA                                  |                                NA                                 |                                   NA                                    |  2   |
+|               **黑<font color="#0A883B">綠</font>**                |    [Pillage the Bog](https://scryfall.com/card/otj/224/pillage-the-bog)    | [Badlands Revival](https://scryfall.com/card/otj/194/badlands-revival)  |    [Abrupt Decay](https://scryfall.com/card/otp/34/abrupt-decay)    |  [Back for More](https://scryfall.com/card/otp/36/back-for-more)  |                                   NA                                    |  4   |
+|               **黑<font color="#FED761">白</font>**                | [Anguished Unmaking](https://scryfall.com/card/otp/35/anguished-unmaking)  |         [Humiliate](https://scryfall.com/card/otp/47/humiliate)         | [Vanishing Verse](https://scryfall.com/card/otp/57/vanishing-verse) |   [Pest Control](https://scryfall.com/card/big/22/pest-control)   |                                   NA                                    |  3   |
+| **<font color="#FED761">白</font><font color="#0A883B">綠</font>** |                                     NA                                     |                                   NA                                    |                                 NA                                  |                                NA                                 |                                   NA                                    |  0   |
+|                              **三色**                              |   [Crime//Punishment](https://scryfall.com/card/otp/39/crime-punishment)   |   [Cruel Ultimatum](https://scryfall.com/card/otp/40/cruel-ultimatum)   |       [Void Rend](https://scryfall.com/card/otp/59/void-rend)       | [Endless Detour](https://scryfall.com/card/otp/44/endless-detour) | [Villainous Wealth](https://scryfall.com/card/otp/58/villainous-wealth) |  5   |
 
 限制賽 OTJ + OTP + BIG 總共 29 張多色瞬間/巫術牌中，先扣掉無法因為Lilah異能獲益的 3 張康牌（[Ionize](https://scryfall.com/card/otp/49/ionize)、[Hindering Light](https://scryfall.com/card/otp/46/hindering-light)、[Voidslime](https://scryfall.com/card/otp/60/voidslime)）後剩下的 26 張瞬間/巫術牌中，紅藍雙色可用 2 張、紅藍混一色可用有 12 張（包含 1 張 **<font color="#023FFD">格</font>利<font color="#FD0214">極</font>** 色組的[Cruel Ultimatum](https://scryfall.com/card/otp/40/cruel-ultimatum)）、另有12張至少要打到四色以上才用得出來。考慮到大部分紅藍雙色、或紅藍混一色的牌稀有度僅為U卡，而OTP又是獨立站一個卡包卡位，輪抽時如果早期看到這張傳奇的話，或許可以試著圍繞著她去組一個紅藍混色咒語的思路！
 
@@ -295,7 +295,7 @@ authors:
 
 ![226](https://cards.scryfall.io/large/front/b/b/bb34babd-1b85-4a7d-a066-a8337805056e.jpg?1711498726)
 
-**cephille:** 5.0
+**cephille:** 4.5
 
 五費6/5飛行踐踏超頂，這次除了可以犧牲另一個生物可以讓拉鐸司獲得不滅直到回合結束，而當你犧牲生物時還可以放逐**任一玩家的牌庫頂，等同於被犧牲生物力量數量的牌**，並在你的下個結束步驟前可以使用，費用夠就隨便你付。
 
@@ -306,6 +306,7 @@ authors:
 **cephille:** 2.5
 
 三指定色三費3/3的傳奇生物，當你施放模式咒語時選擇至多X項，X是該咒語選擇的模式數量：
+
 - 放逐牌庫頂牌。直到你下一個回合結束你可以使用它；
 - 在Riku上放一個+1/+1指示物且他獲得踐踏異能直到回合結束；
 - 派出一個1/1藍色具飛行異能的鳥衍生物。
@@ -313,6 +314,7 @@ authors:
 這一看上去就是搭配追歡機制來賺取更多優勢的，如果你套牌中追歡牌多的話他就可能有接近4.0分的強度，沒有就只是一隻三費3/3。
 
 > 什麼叫模式咒語（modal spell）呢？在這邊不專業的說明一下，模式咒語就是當這張咒語上面有兩項以上的選項可以選擇：
+>
 > - 護符類（charm）：例如 [伊捷護符](https://scryfall.com/card/rtr/172/izzet-charm)
 > - 指命類（command）：例如 [地下指命](https://scryfall.com/card/lrw/56/cryptic-command)
 > - 交匯類（confluence）例如 [祕法交匯](https://scryfall.com/card/cmm/108/mystic-confluence)
@@ -320,7 +322,7 @@ authors:
 > - 追歡類（spree），本系列很多，例如[Final Showdown](https://scryfall.com/card/otj/11/final-showdown)
 > - 其他可以二選一或三選一的咒語：例如[命途交錯](https://scryfall.com/card/frf/65/crux-of-fate)、[挑選毒藥](https://scryfall.com/card/mkm/170/pick-your-poison)等
 > - 但像[告別](https://scryfall.com/card/mkc/64/farewell)、[靈光乍現](https://scryfall.com/card/m21/74/sublime-epiphany)、或[戰爭傷亡](https://scryfall.com/card/khc/83/casualties-of-war)這樣可以至多選四至五個選項的牌，因為[Riku of Many Paths](https://scryfall.com/card/otj/227/riku-of-many-paths)牌面上沒有寫說可以選擇同一個模式多次，所以即使即使你選擇了四種或更多種模式，你最多還是只能選擇Riku給你選的三種模式各一次。
-> 
+>
 > 然後這一版的Riku看圖真的想不到是原本的那張[複影黎庫](https://scryfall.com/card/2xm/214/riku-of-two-reflections)。
 
 ![228](https://cards.scryfall.io/large/front/1/1/11fbe52f-febd-49fc-8391-28d3efe9c3eb.jpg?1711665642)
@@ -397,7 +399,7 @@ authors:
 
 **cephille:** 2.5
 
-三費4/2警戒的體格有點微妙，像要補血抽牌還得先想辦法橫置她，看來是拿來乘駕坐騎用的。
+三費4/2警戒的體格有點微妙，像要補血抽牌還得先想辦法橫置他，看來是拿來乘駕坐騎用的。
 
 ## 神器
 
@@ -405,7 +407,7 @@ authors:
 
 **cephille:** 2.0
 
-乍看之下是很常見的三費加速神器，但只要你的套牌有足夠多的來源可以觸發犯下罪行，那他也可以變成一個叫慢速的手牌資源。沒有到非常強，但可用。
+乍看之下是很常見的三費加速神器，但只要你的套牌有足夠多的來源可以觸發犯下罪行，那他也可以變成一個較慢速的手牌資源。沒有到非常強，但可用。
 
 ![241](https://cards.scryfall.io/large/front/e/a/ea61d964-6d73-422e-9e08-360ac66f237a.jpg?1712356258)
 
@@ -522,6 +524,7 @@ authors:
 這次光雷驛鏢客的多色牌在限制賽中用起來應該蠻好玩的，但還是有點擔心三色以上的牌會因為調色困難而用不出來，如果打輪抽時可能調色的選次會變得更為重要，珍寶或其他調色手段的選為在打雙色需要混入第三色的套牌中也會變得更加重要。希望大家都能在接下來的OTJ限制賽玩得開心囉！
 
 > 本次多色、神器、地牌總共 82 張
+>
 > - 平均分數為 2.9 分
 > - 最高分 5.0 分
 > - 最低分 1.0 分
