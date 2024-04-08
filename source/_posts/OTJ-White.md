@@ -9,7 +9,7 @@ cover: "https://media.wizards.com/2024/images/daily/qk0tx3i96sjj.png"
 thumbnail: "https://media.wizards.com/2024/images/daily/qk0tx3i96sjj.png"
 excerpt: "我來限制賽只辦三件事！價值！價值！還是XX的價值！"
 authors:
-  - "偉特"
+  - "Egavas"
 ---
 
 光雷驛鏢客（Outlaws of Thunder Junction, OTJ）將於2024年4月12日舉行售前賽活動，而於隔一週2024年4月19日正式發行，想更了解單卡在限制賽的單卡評分與一些可能的有趣搭配嗎？那就來看看這一系列的OTJ限制賽介紹吧！
@@ -19,7 +19,7 @@ authors:
 ## 評分標準
 
 5.0：無條件必拿
-4.0：有首選價值 
+4.0：有首選價值
 3.5：強度夠但不一定要首選
 3.0：高於平均（會很希望他能放進最終牌組）
 2.5：平均水準，maybe輪抽第6、第7 pick左右
@@ -263,6 +263,7 @@ C卡燒，這系列防禦力1或2的生物有66張，超過三分之一，只是
 白色牌的表現中規中矩，雖然有幾張如[最終對決](https://scryfall.com/card/otj/11/final-showdown)等四分以上的炸彈，但沒有能在場上待幾回合就能輕易獲勝的5分單卡。不過白色生物的整體數值與曲線都不差，也有為數不少的低稀有度短解牌如[神秘栓鍊](https://scryfall.com/card/otj/19/mystical-tether)、[艾綸緹的搖籃曲](https://scryfall.com/card/otj/10/eriettes-lullaby)。整體來說，白色很適合作為基底去補齊費用曲線及小牌的價值，再根據實際情況加上其他顏色的炸彈來構築；比起首pick炸彈決定的顏色，白色在本系列的定位比較是在抓牌的中期看到/拿到足夠量優質的小牌之後決定進入的顏色組合。
 
 > 本次白色牌總共 38 張
+>
 > - 平均分數為 2.7 分
 > - 最高分 4.5 分
 > - 最低分 1.0 分
