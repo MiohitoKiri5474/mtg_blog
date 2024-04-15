@@ -4,6 +4,7 @@ date: "2023-10-25 17:19:50"
 tags:
   - "JruMTG"
   - "MTG Rule"
+  - "Limited"
   - "LCI"
 cover: "https://i.imgur.com/szsk2tj.png"
 thumbnail: "https://i.imgur.com/szsk2tj.png"
