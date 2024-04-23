@@ -1,6 +1,6 @@
 ---
 title: "豬鼻子的光雷驛鏢客限制賽分析（寫在PT OTJ之前）"
-date: "2024-04-23 13:45:58"
+date: "2024-04-23 13:59:29"
 tags:
   - "Limited"
   - "OTJ"
@@ -101,7 +101,7 @@ OTJ限制賽預覽看到 **<font color="#FED761">白</font><font color="#0A883B"
 
 而 **<font color="#FD0214">紅</font>黑** 的狂徒主題，相較於紅白，紅黑派出傭兵的能力在同時使用[持刀相逼](https://scryfall.com/card/otj/193/at-knifepoint)與[硫霧驅集](https://scryfall.com/card/otj/115/brimstone-roundup)甚至更強，然而這在他們傭兵/狂徒們可以到達三攻前幾乎是無法實質的參與戰鬥，而這讓[狂徒之怒](https://scryfall.com/card/otj/136/outlaws-fury)、甚至[火車大劫案](https://scryfall.com/card/otj/125/great-train-heist)這樣的牌在紅黑色組更為重要。而要想靠無空間殺法取勝的紅黑，則非常仰賴[放浪團伙](https://scryfall.com/card/otj/99/rakish-crew)以及[歡樂榴彈手砸瓶女](https://scryfall.com/card/otj/235/vial-smasher-gleeful-grenadier)這樣的牌。而當你無法拿到足夠多的紅黑回報單卡時，請留意他們的生物質量是真的偏差的這件事。 **黑<font color="#0A883B">綠</font>** 還有綠色的優質體格 + 墳場利用可以彌補； **<font color="#023FFD">藍</font>黑** 可以一邊防守（藍色4防生物不少、飛兵也夠多）一邊犯罪打大後期；但紅黑的體格真的不利於攻防戰。
 
-附帶一提，**黑<font color="#0A883B">綠</font>** 色組還有一個強力的combo，你可以二費棄掉[棘林犰狳](https://scryfall.com/card/otj/182/spinewoods-armadillo)找地奶3血再搭一個挖墳咒語，如[荒地重生](https://scryfall.com/card/otj/194/badlands-revival)、[返身再戰](https://scryfall.com/card/otp/36/back-for-more)等把犰狳拉回場上，超級能頂！搭配[活屍法](https://scryfall.com/card/otp/18/reanimate)甚至可以三回時痛4血、找一張地上手、放一隻7/7延勢守護三在場上[$^{註1}$](#quote1)）
+附帶一提，**黑<font color="#0A883B">綠</font>** 色組還有一個強力的combo，你可以二費棄掉[棘林犰狳](https://scryfall.com/card/otj/182/spinewoods-armadillo)找地奶3血再搭一個挖墳咒語，如[荒地重生](https://scryfall.com/card/otj/194/badlands-revival)、[返身再戰](https://scryfall.com/card/otp/36/back-for-more)等把犰狳拉回場上，超級能頂！搭配[活屍法](https://scryfall.com/card/otp/18/reanimate)甚至可以三回時痛4血、找一張地上手、放一隻7/7延勢守護三在場上[（註1）](#quote1)）
 
 <small><span id="quote1">**註1：**</span>這也是我唯一會比較想放[活屍法](https://scryfall.com/card/otp/18/reanimate)的組法，不然扣血這個副作用還是太大了；而如果想要挖對手的炸彈，你得先被對手炸過一輪進場異能、然後手中剛好有解得掉的正殺 + 活屍法，然後你的血還夠扣，太不切實際了。</small>
 
