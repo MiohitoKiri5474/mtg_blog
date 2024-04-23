@@ -19,6 +19,7 @@ authors:
 從偉特整理的這篇《[光雷驛鏢客限制賽前的最後一里路 - 殺牌與解牌](https://hackmd.io/@GuildmagesForumDraft/HkxurYVe0)》中，可以看到OTJ + OTP中，白色有放逐效果的解牌至少有[流放之徑](https://scryfall.com/card/otp/6/path-to-exile?utm_source=api)、[未知旅程](https://scryfall.com/card/otp/3/journey-to-nowhere?utm_source=api)、[神秘栓鍊](https://scryfall.com/card/otj/19/mystical-tether?utm_source=api)、[難逃法索](https://scryfall.com/card/otj/18/lassoed-by-the-law?utm_source=api)、[地脈束縛](https://scryfall.com/card/otp/4/leyline-binding?utm_source=api)這 5 張，即使扣掉代價甚高的[流放之徑](https://scryfall.com/card/otp/6/path-to-exile?utm_source=api)也有 4 張。
 
 如果再把其他各種解牌加入，白色無疑是去除最多最齊全的色組，光白單色就有 10 張之多。如果考慮到混色，
+
 - 混<font color="#0A883B">**綠**</font>可以再多 1 張放逐解[葬於花園](https://scryfall.com/card/otp/38/buried-in-the-garden?utm_source=api)；
 - 混<font color="#023FFD">**藍**</font>則更多了 3 張放逐解[同化神盾](https://scryfall.com/card/otj/192/assimilation-aegis?utm_source=api)、[扣留法球](https://scryfall.com/card/otp/43/detention-sphere?utm_source=api)、[碎裂認同](https://scryfall.com/card/otp/45/fractured-identity?utm_source=api)；
 - 混**黑** 2 張的[驅靈詩篇](https://scryfall.com/card/otp/57/vanishing-verse?utm_source=api)跟[哀慟歸虛](https://scryfall.com/card/otp/35/anguished-unmaking?utm_source=api)的限制與代價都較大，跟其他色組、甚至白單色相比並不是那麼好；
@@ -43,6 +44,7 @@ authors:
 ![](https://i.postimg.cc/tTRsZSGy/Toughness6.jpg)
 
 而當我們把範圍在限縮到防禦力等於 5 時，出現的 16 張生物牌基本上絕大多數都是炸彈等級、或是能扛住再次一級炸彈們的優秀阻擋者。然後到這邊眼尖的人就會發現
+
 - 並沒有純黑色的 5 防以上生物，超級可悲；
 - 綠色有最多的U卡以下 5 防以上生物，總共有 6 張（包括一張C卡的[仙掌狼蛛](https://scryfall.com/card/otj/158/cactarantula)），而白色與紅色次之各有 3 張、藍色也有 2 張 U卡。
 
@@ -58,7 +60,7 @@ authors:
 
 ![](https://cards.scryfall.io/large/front/9/1/912fcd14-5e81-418c-997b-771f2f38f63d.jpg?1712355825)
 
-先說結論，這部分我還不知道答案XD 
+先說結論，這部分我還不知道答案XD
 
 [魯莽跟班](https://scryfall.com/card/otj/140/reckless-lackey)雖然是一個超模的一費多異能生物，但他出現在OTJ限制賽中令我覺得難以理解。究竟是什麼色組會需要他這樣的快攻生物？而他要怎麼搭配才會強呢？先攻敏捷代表他在進攻時的存活率會變高，但就算給他+2/+2他也只是一隻3/4，不談我們上面提過的屁股 5 防，在本系列茫茫多的屁股 4 如同樣是白色一費的[披堅犰狳](https://scryfall.com/card/otj/3/armored-armadillo)面前他也打不過去，而這還是已經預設灌大後的表現！
 
@@ -87,6 +89,7 @@ OTJ限制賽預覽看到 **<font color="#FED761">白</font><font color="#0A883B"
 我所理解厲害的OTJ紅白色組，是善用紅白雙色優秀的解牌，充足的曲線生物，再加上中期白色的飛兵以及紅色高破壞力的飛龍們（[刺針背懼龍](https://scryfall.com/card/otj/147/stingerback-terror)以及[峰頂懼龍](https://scryfall.com/card/otj/149/terror-of-the-peaks)，當然，前提要開得到）。對局的過程常常是前期做過幾輪交換後地面苟住飛兵進攻獲勝，如果有順便生出來的傭兵，用傭兵灌大飛兵可以加速這個進程；而這個過程中捏住幾個瞬間殺或放逐解，邊打邊控的感覺相當棒！
 
 在這邊要再提一下我的愛牌 — [神牛aka Holy Cow~](https://scryfall.com/card/otj/16/holy-cow)，這張牌真的有夠強！三費閃現奶回2基本上可以讓對手前期白打一回，占卜一可以讓你的下一抽變得更好。更不用說紅白色組還有很多讓你反覆利用牠的手段：
+
 - 四回[育幼碧仙](https://scryfall.com/card/otj/20/nurturing-pixie)回手[神牛](https://scryfall.com/card/otj/16/holy-cow)然後再閃現一次；
 - [神牛](https://scryfall.com/card/otj/16/holy-cow)乘駕[疾馳獄火災禍](https://scryfall.com/card/otj/116/calamity-galloping-inferno)進攻後複製兩次；
 - [脫逃幻法](https://scryfall.com/card/otj/14/getaway-glamer)雲移[神牛](https://scryfall.com/card/otj/16/holy-cow)再殺對手一隻大怪；
@@ -101,7 +104,7 @@ OTJ限制賽預覽看到 **<font color="#FED761">白</font><font color="#0A883B"
 
 而 **<font color="#FD0214">紅</font>黑** 的狂徒主題，相較於紅白，紅黑派出傭兵的能力在同時使用[持刀相逼](https://scryfall.com/card/otj/193/at-knifepoint)與[硫霧驅集](https://scryfall.com/card/otj/115/brimstone-roundup)甚至更強，然而這在他們傭兵/狂徒們可以到達三攻前幾乎是無法實質的參與戰鬥，而這讓[狂徒之怒](https://scryfall.com/card/otj/136/outlaws-fury)、甚至[火車大劫案](https://scryfall.com/card/otj/125/great-train-heist)這樣的牌在紅黑色組更為重要。而要想靠無空間殺法取勝的紅黑，則非常仰賴[放浪團伙](https://scryfall.com/card/otj/99/rakish-crew)以及[歡樂榴彈手砸瓶女](https://scryfall.com/card/otj/235/vial-smasher-gleeful-grenadier)這樣的牌。而當你無法拿到足夠多的紅黑回報單卡時，請留意他們的生物質量是真的偏差的這件事。 **黑<font color="#0A883B">綠</font>** 還有綠色的優質體格 + 墳場利用可以彌補； **<font color="#023FFD">藍</font>黑** 可以一邊防守（藍色4防生物不少、飛兵也夠多）一邊犯罪打大後期；但紅黑的體格真的不利於攻防戰。
 
-附帶一提，**黑<font color="#0A883B">綠</font>** 色組還有一個強力的combo，你可以二費棄掉[棘林犰狳](https://scryfall.com/card/otj/182/spinewoods-armadillo)找地奶3血再搭一個挖墳咒語，如[荒地重生](https://scryfall.com/card/otj/194/badlands-revival)、[返身再戰](https://scryfall.com/card/otp/36/back-for-more)等把犰狳拉回場上，超級能頂！搭配[活屍法](https://scryfall.com/card/otp/18/reanimate)甚至可以三回時痛4血、找一張地上手、放一隻7/7延勢守護三在場上[（註1）](#quote1)）
+附帶一提，**黑<font color="#0A883B">綠</font>** 色組還有一個強力的combo，你可以二費棄掉[棘林犰狳](https://scryfall.com/card/otj/182/spinewoods-armadillo)找地奶3血再搭一個挖墳咒語，如[荒地重生](https://scryfall.com/card/otj/194/badlands-revival)、[返身再戰](https://scryfall.com/card/otp/36/back-for-more)等把犰狳拉回場上，超級能頂！搭配[活屍法](https://scryfall.com/card/otp/18/reanimate)甚至可以三回時痛4血、找一張地上手、放一隻7/7延勢守護三在場上[（註1）](#quote1)
 
 <small><span id="quote1">**註1：**</span>這也是我唯一會比較想放[活屍法](https://scryfall.com/card/otp/18/reanimate)的組法，不然扣血這個副作用還是太大了；而如果想要挖對手的炸彈，你得先被對手炸過一輪進場異能、然後手中剛好有解得掉的正殺 + 活屍法，然後你的血還夠扣，太不切實際了。</small>
 
@@ -112,6 +115,7 @@ OTJ限制賽預覽看到 **<font color="#FED761">白</font><font color="#0A883B"
 ### 其他幾個我沒實測到的色組
 
 藍白、藍綠、紅藍、紅綠、黑白這五個色組我沒有實際嘗試過，所以有可能上面的預測並不是非常準確。個人的猜想如下：
+
 - **<font color="#023FFD">藍</font><font color="#FED761">白</font>** 可能是對抗白綠的較優色組，飛兵、康、回手都是綠色相當頭痛的因素，而同樣藍白色組也能使用白色的優質解牌；不過藍白與其說是控制，倒不如說只是在對手回合做事的中速。U卡傳奇[探空斥候簡萊福](https://scryfall.com/card/otj/209/jem-lightfoote-sky-explorer)可以讓你留費空過持續賺取手牌，會是一個很不錯的色組回報。
 - **<font color="#023FFD">藍</font><font color="#0A883B">綠</font>** 的解牌較弱，必須有足夠強的綠色生物 + 藍色飛兵才構成進入藍綠的理由，當然自己開一張[俐落樵女伯妮帕](https://scryfall.com/card/otj/196/bonny-pall-clearcutter)或[竊冠甌柯](https://scryfall.com/card/otp/50/oko-thief-of-crowns)正是打藍綠的最大理由！藍綠色組印了這麼多不講武德的大炸彈應該也是一個彌補這個色組非炸彈牌偏差的原因。
 - **<font color="#FD0214">紅</font><font color="#023FFD">藍</font>** 的解牌射程雖然比較短，但靠藍色的軟解很容易做到一換二，再加上一兩隻小飛兵、或是[活力走鵑aka嗶嗶鳥](https://scryfall.com/card/otj/141/resilient-roadrunner)來結束比賽！可能需要穩定的犯罪源如[湧泉濺水蛙](https://scryfall.com/card/otj/69/spring-splasher)或[神準鬥客](https://scryfall.com/card/otj/119/deadeye-duelist)等牌，搭配藍色的[巧手強盜](https://scryfall.com/card/otj/58/nimble-brigand)、[心靈鬥客](https://scryfall.com/card/otj/45/duelist-of-the-mind)等牌來邊打邊抽來讓勝利的天秤倒向你這邊！OTP的[逐退](https://scryfall.com/card/otp/13/repulse)會是這個色組的高抓好牌！
