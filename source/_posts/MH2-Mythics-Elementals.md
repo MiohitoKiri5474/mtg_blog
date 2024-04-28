@@ -3,7 +3,7 @@ title: "五色元素傳：MH2五元素的發展簡評"
 date: "2023-12-11 14:00:58"
 tags:
   - "cephille"
-  - "MTG Anecode"
+  - "MTG Anecdote"
 cover: "https://i.imgur.com/8BIokGB.jpg"
 thumbnail: "https://i.imgur.com/8BIokGB.jpg"
 excerpt: "大江東去浪淘盡，千古風雲元素"
