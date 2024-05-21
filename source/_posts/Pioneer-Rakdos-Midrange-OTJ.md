@@ -6,8 +6,8 @@ tags:
   - "Pioneer"
 authors:
   - "ClarkShih"
-cover: "/images/Bloodtithe-Harvester.jpg"
-thumbnail: "/images/Bloodtithe-Harvester.jpg"
+cover: "https://cards.scryfall.io/art_crop/front/8/d/8df6603a-38c1-4d18-8b84-6211e9a7cc09.jpg?1684919918"
+thumbnail: "https://cards.scryfall.io/art_crop/front/8/d/8df6603a-38c1-4d18-8b84-6211e9a7cc09.jpg?1684919918"
 excerpt: "2024/5/11 Amazing Discover Glendale RCQ#1"
 ---
 
