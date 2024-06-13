@@ -1,6 +1,6 @@
 ---
 title: "近代的法力魔術師 - 泰坦護身符"
-date: "2024-06-11 18:58:32"
+date: "2024-06-13 16:49:21"
 tags:
   - "Modern"
   - "偉特"
@@ -45,21 +45,21 @@ authors:
 | ---- | ---- | -------- | ---- |
 | 4 [樹棲食草獸](https://scryfall.com/card/war/149/arboreal-grazer) | 4 [活力護身符](https://scryfall.com/card/wwk/121/amulet-of-vigor) | 4 [召喚師條約](https://scryfall.com/card/fut/139/summoners-pact)     | 4 [克撒傳](https://scryfall.com/card/mh2/259/urzas-saga) |
 | 4 [依呂夏林地樹靈](https://scryfall.com/card/thb/169/dryad-of-the-ilysian-grove)| 1 [探險地圖](https://scryfall.com/card/zen/201/expedition-map) || 4 [析米克生長室](https://scryfall.com/card/dis/180/simic-growth-chamber) |
-| 4 [太古泰坦](https://scryfall.com/card/m11/192/primeval-titan)| 4 [至尊魔戒](https://scryfall.com/card/ltr/246/the-one-ring) || 5 綠邊跳地 [$^{註1}$](#quote1) [$^{註2}$](#quote2) |
+| 4 [太古泰坦](https://scryfall.com/card/m11/192/primeval-titan)| 4 [至尊魔戒](https://scryfall.com/card/ltr/246/the-one-ring) || 5 綠邊跳地 <sup>[註1](#quote1)</sup> <sup>[註2](#quote2)</sup> |
 |||| 2 [樹林](https://scryfall.com/card/lea/294/forest)
 |||| 2 [曆祚母聖樹](https://scryfall.com/card/neo/266/boseiju-who-endures)
 |||| 2 [陶拉里亞西境](https://scryfall.com/card/fut/173/tolaria-west)
 |||| 1 [構生菌園](https://scryfall.com/card/one/256/the-mycosynth-gardens)
 |||| 2 [熔天頂瓦拉庫](https://scryfall.com/card/zen/228/valakut-the-molten-pinnacle)
 |||| 1 [維蘇瓦](https://scryfall.com/card/tsp/281/vesuva)
-|||| 2 敏捷地+爆發地 [$^{註3}$](#quote3)
+|||| 2 敏捷地+爆發地 <sup>[註3](#quote3)</sup>
 
 
-<small><span id="quote1">**註1：**</span>第一次拉尼卡環境中可產兩點雙色，並且進場需要回手自己一個地的地我們稱之為**跳地**，包含[析米克生長室](https://scryfall.com/card/dis/180/simic-growth-chamber)在內共有10種，為求方便，接下來我會以「XX跳地」的名稱來稱呼他們，舉例來說：析米克生長室就稱之為「藍綠跳地」。
+<small><span id="quote1">**註1：**</span>第一次拉尼卡環境中可產兩點雙色，並且進場需要回手自己一個地的地我們稱之為**跳地**，包含[析米克生長室](https://scryfall.com/card/dis/180/simic-growth-chamber)在內共有10種，為求方便，接下來我會以「XX跳地」的名稱來稱呼他們，舉例來說：析米克生長室就稱之為「藍綠跳地」。</small>
 
-<span id="quote2">**註2：**</span>泰坦護身符在多數情況下算是一套純綠混一點點藍的套牌（因為[陶拉里亞西境](https://scryfall.com/card/fut/173/tolaria-west)），因此除了4張[藍綠跳地](https://scryfall.com/card/dis/180/simic-growth-chamber)必要之外，剩下的5張跳地位只要沾到綠色即可，通常會根據備牌或自由位的牌去做選擇，舉例來說，本次MIT我的構築因為備牌有一張[執拗雄野牙剎](https://scryfall.com/card/znr/240/yasharn-implacable-earth)所以選擇放了4張的[白綠跳地](https://scryfall.com/card/rav/281/selesnya-sanctuary)。
+<small><span id="quote2">**註2：**</span>泰坦護身符在多數情況下算是一套純綠混一點點藍的套牌（因為[陶拉里亞西境](https://scryfall.com/card/fut/173/tolaria-west)），因此除了4張[藍綠跳地](https://scryfall.com/card/dis/180/simic-growth-chamber)必要之外，剩下的5張跳地位只要沾到綠色即可，通常會根據備牌或自由位的牌去做選擇，舉例來說，本次MIT我的構築因為備牌有一張[執拗雄野牙剎](https://scryfall.com/card/znr/240/yasharn-implacable-earth)所以選擇放了4張的[白綠跳地](https://scryfall.com/card/rav/281/selesnya-sanctuary)。</small>
 
-<span id="quote3">**註3：**</span>敏捷地與爆發地有兩個不同的流派，分別是「[翰威城垛](https://scryfall.com/card/emn/204/hanweir-battlements)體系」及「[剋星城塞
+<small><span id="quote3">**註3：**</span>敏捷地與爆發地有兩個不同的流派，分別是「[翰威城垛](https://scryfall.com/card/emn/204/hanweir-battlements)體系」及「[剋星城塞
 ](https://scryfall.com/card/avr/229/slayers-stronghold)+[教團要塞陽園](https://scryfall.com/card/rav/282/sunhome-fortress-of-the-legion)」兩種組合，我們[後面](#link1)會詳談。</small>
 
 <br></br>
@@ -139,7 +139,7 @@ authors:
 泰坦進場找「[剋星城塞](https://scryfall.com/card/avr/229/slayers-stronghold)＋[紅白跳地](https://scryfall.com/card/rav/275/boros-garrison) 」
 → 重置並啟動城塞兩次給泰坦（此時泰坦10攻），跳任意非紅白跳地回手
 → 泰坦攻擊、觸發找「[教團要塞陽園](https://scryfall.com/card/rav/282/sunhome-fortress-of-the-legion)＋[維蘇瓦](https://scryfall.com/card/tsp/281/vesuva)（作為紅白跳地複製進場）」
-→ 最後啟動陽園讓泰坦連擊[$^{註4}$](#quote4)
+→ 最後啟動陽園讓泰坦連擊<sup>[註4](#quote4)</sup>
 ＝**20點傷害**
 
 - **城垛＋鏡映潭＋終結地**
