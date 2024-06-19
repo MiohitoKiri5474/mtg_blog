@@ -126,7 +126,7 @@ Sundering Titan：打四色/五色玩家用的，聽說你很多基本地類別�
 另外這套牌也可以混藍，多放張 [Minamo, School at Water's Edge](https://cards.scryfall.io/large/front/7/5/7536292c-da25-41c8-ba28-1e35758a7f3d.jpg?1562761537) 可以重複站戒指，扣一次血抽兩次牌，賺爛。
 也可以額外放點康如 [Spell Pierce](https://cards.scryfall.io/large/front/3/5/35b8a9db-d126-4038-abb1-74dcc5b36136.jpg?1673147403) 之類的東西，不過混藍就沒辦法帶那麼多炸地了，因為有可能會被自己的調色卡爛，只能帶找地地、電震地這些一定有辦法調色的東西。
 
-### 結語
+## 結語
 
 純黑柯幫金庫是一套自己打過一次就會很想組的套牌，自從之前跟朋友借來打到 Q 之後，現在正認真思考要不要把 scam 那邊多的料出一出，換成四張戒指和卡恩工具箱。
 LTR 之前的版本還會帶 [Invoke Despair](https://cards.scryfall.io/large/front/3/5/35af9d5c-4449-4549-b549-c3ba4a67dee0.jpg?1685368727)，不過自從多了三張 Swampcycling 、四張弓箭手、三張戒指之後可說是完全沒空間放這些東西了呢......
