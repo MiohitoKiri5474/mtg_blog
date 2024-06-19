@@ -4,6 +4,7 @@ date: 2023-09-05 14:24:59
 tags:
   - Modern
   - Deck Tech
+  - "MiohitoKiri5474"
 
 cover: "https://guildmagesforum.tw/images/Izzet-Murktide/Cover.jpg"
 thumbnail: "https://guildmagesforum.tw/images/Izzet-Murktide/Cover.jpg"
