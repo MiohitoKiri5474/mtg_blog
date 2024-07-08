@@ -221,7 +221,7 @@ p.s. 我用黑白放逐殺[深奧挪用](https://scryfall.com/card/mh3/177/abstr
 
 四強戰後Simon獲勝後有跑過來轉播區這邊，毫不意外維持他一貫的華麗轉身繞場超大一圈登場，[不知道的人就去看PT MH3 的影片吧，00:52:40開始](https://www.youtube.com/watch?v=tCJ5-wDrHK4)。
 
-在等待冠亞戰的休息時間中，官方播了一段因應公布Kai Budde為2024年度玩家的關於其他資深Pro們的側訪，相當感人與趣味。影片的前一段還是Raphaël Lévy吐槽Kai年輕時戰無不勝老是橫掃他，某一天Kai去Raphaël家找他，出來應門的是他媽，他媽就問Kai說「你就是那個常常擊敗我兒子的德國人嗎？」Kai說是後他媽就“Please stop it!” 超級可愛；但下一段就轉到Jon Finkel提到Kai在MTG界中的意義，就有如籃球界的Michael Jordon，不知道為什麼，看到這一段時我的情緒真的難以控制[$^{註1}$](#quote1)。真心希望Kai能克服癌症，繼續享受這款他最愛的遊戲。
+在等待冠亞戰的休息時間中，官方播了一段因應公布Kai Budde為2024年度玩家的關於其他資深Pro們的側訪，相當感人與趣味。影片的前一段還是Raphaël Lévy吐槽Kai年輕時戰無不勝老是橫掃他，某一天Kai去Raphaël家找他，出來應門的是他媽，他媽就問Kai說「你就是那個常常擊敗我兒子的德國人嗎？」Kai說是後他媽就“Please stop it!” 超級可愛；但下一段就轉到Jon Finkel提到Kai在MTG界中的意義，就有如籃球界的Michael Jordon，不知道為什麼，看到這一段時我的情緒真的難以控制<sup>[註1](#quote1)</sup>。真心希望Kai能克服癌症，繼續享受這款他最愛的遊戲。
 
 <small><span id="quote1">**註1：**</span>Kai Budde與Jon Finkel兩人在早期MTG大賽處於相互競爭的關係，Kai[以野火神器龍取得1999年世冠賽冠軍](https://mtg.fandom.com/wiki/1999_World_Championships)後，隨即Jon也在[2000年以打造套牌奪冠](https://mtg.fandom.com/wiki/2000_World_Championships)。</small>
 
