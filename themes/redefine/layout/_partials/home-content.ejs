@@ -43,9 +43,10 @@
                         <% } else if (post.excerpt && post.excerpt !== "false") { %>
                             <%- render(post.excerpt, "markdown") %>
                         <% } else { %>
-                            <%- truncate(strip_html(post.content), {length: 128}) %>post.content
+                            <%- truncate(strip_html(post.content), {length: 128}) %>
                         <% } %>
                     </div>
+
                     <%- partial('_meta/home-article', {post: post}) %>
                 </div>
             </li>
