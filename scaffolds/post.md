@@ -1,9 +1,11 @@
 ---
-title: {{ title }}
-date: {{ date }}
+title: { { title } }
+date: { { date } }
 tags:
-cover:
-thumbnail:
-excerpt:
+cover: ""
+thumbnail: ""
+excerpt: ""
+mathjax: false
 authors:
+  - ""
 ---
