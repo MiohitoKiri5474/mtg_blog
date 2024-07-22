@@ -1,10 +1,9 @@
 ---
-
 title: "豬鼻子的MIT#6準備與賽報：蘇勒台中速"
 date: "2024-05-29 18:54:07"
 tags:
   - "cephille"
-  - "standard"
+  - "Standard"
   - "MIT"
 cover: "https://i.postimg.cc/BZFs1QT9/Master-of-Waves-Mt-G-Art.jpg"
 thumbnail: "https://i.postimg.cc/BZFs1QT9/Master-of-Waves-Mt-G-Art.jpg"
@@ -31,18 +30,18 @@ authors:
 {% folding red :: 慘不忍睹的藍黑中速MA勝率 %}
 
 > 5勝16負，BO3在MA鑽石排位，勝率23%
-> [我所使用的藍黑中速牌表，不要抄！打不贏！](https://www.mtggoldfish.com/deck/6407266) 
+> [我所使用的藍黑中速牌表，不要抄！打不贏！](https://www.mtggoldfish.com/deck/6407266)
 >
 > 白藍控 1-3
-藍黑中速 1-1
-黑綠中速 1-1
-紅白召集 0-1
-藍黑控制 1-0
-傳統Domain 0-1
-班特毒 0-2
-鐵木爾火球 0-4
-紅綠大怪（峰頂懼龍combo) 0-1
-艾斯波中速 1-2 （贏得那局對手組錯了 放一黑1/1仙靈，幾乎打不贏帶結界跟三費鼠王的型）
+> 藍黑中速 1-1
+> 黑綠中速 1-1
+> 紅白召集 0-1
+> 藍黑控制 1-0
+> 傳統Domain 0-1
+> 班特毒 0-2
+> 鐵木爾火球 0-4
+> 紅綠大怪（峰頂懼龍combo) 0-1
+> 艾斯波中速 1-2 （贏得那局對手組錯了 放一黑1/1仙靈，幾乎打不贏帶結界跟三費鼠王的型）
 
 {% endfolding %}
 
