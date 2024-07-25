@@ -9,7 +9,7 @@ cover: "https://media.wizards.com/2024/images/daily/fe051b2d92.jpg"
 thumbnail: "https://media.wizards.com/2024/images/daily/fe051b2d92.jpg"
 excerpt: "強！還要更強！強力殺牌加強力生物，你拿什麼贏我！"
 authors:
-  - "偉特"
+  - "Egavas"
 ---
 
 斑隆洛（Bloomburrow, BLB）將於2024年7月26日舉行售前賽活動，而於隔一週2024年8月2日正式發行，想更了解單卡在限制賽的單卡評分與建議嗎？那就來看看這一系列的BLB限制賽介紹吧！
