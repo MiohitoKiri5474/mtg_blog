@@ -1,10 +1,10 @@
 ---
 title: "斑隆洛（BLB）限制賽介紹 — 黑色"
-date: "2024-07-25 19:43:41"
+date: "2024-07-26 00:08:52"
 tags:
   - "Limited"
   - "BLB"
-  - "Egavas"
+  - "偉特"
 cover: "https://media.wizards.com/2024/images/daily/fe051b2d92.jpg"
 thumbnail: "https://media.wizards.com/2024/images/daily/fe051b2d92.jpg"
 excerpt: "強！還要更強！強力殺牌加強力生物，你拿什麼贏我！"
