@@ -70,11 +70,11 @@ Nadu 應該可以說是現在環境中最讓人厭惡的套牌，沒有之一。
 
 注意，這邊是 **有機會** 不是 **一定**，因為有可能把場上所有生物都指了一遍但臉很黑一張地都沒有。
 
-欸，發現了嗎？這是一套 `有可能無法做完的` 組合技套牌，雖然的確有不少組合技套牌只要中間一個環節斷了就會做不完，但 Nadu Combo 必須將場上所有生物都點兩次，才能說啊我做不完欸，這時他的場上可能有 10 隻生物，就算一次 trigger 只花五秒解決，但這樣也是 200 秒⋯⋯更不用說生物更多的時候了。
+欸，發現了嗎？這是一套 `有可能無法做完` 的組合技套牌，雖然的確有不少組合技套牌只要中間一個環節斷了就會做不完，但 Nadu Combo 必須將場上所有生物都點兩次，才能說啊我做不完欸，這時他的場上可能有 10 隻生物，就算一次觸發只花五秒解決，但這樣也是 200 秒⋯⋯更不用說生物更多的時候了。
 
 即便現在套牌已經被特化成很難做不完的情況了，但總是會有 `欸你等等，我去做幾次 trigger 找看看有沒有東西` 的狀況發生，特別是在沒有 {% mtgcard "Springheart Nantuko" tooltip=true %} 的時候。
 
-所以這邊我們先有一個觀念：*Nadu Combo 是一套很花時間的組合技套牌*。
+所以這邊我們先有一個觀念：_Nadu Combo 是一套很花時間的組合技套牌_。
 
 ### 既然是手甲（shuko），那幫 Nadu 擋個刀應該沒問題吧
 
@@ -86,9 +86,9 @@ Nadu 應該可以說是現在環境中最讓人厭惡的套牌，沒有之一。
 
 更別說環境中還有另一張牌 {% mtgcard "Lightning Greaves" tooltip=true %}，同樣也是零費啟動的指定源，缺點是不能指在原本配戴的生物上。
 
-所以如果 ban 掉 {% mtgcard "Shuko" tooltip=true %}，確實 Nadu Combo 真的變弱了，但還有另一個問題：*Nadu Combo 還是一套很花時間的組合技套牌*。
+所以如果 ban 掉 {% mtgcard "Shuko" tooltip=true %}，確實 Nadu Combo 真的變弱了，但還有另一個問題：_Nadu Combo 還是一套很花時間的組合技套牌_。
 
-讓我們往回看一下 [October 10, 2022, Banned and Restricted Announcement](https://magic.wizards.com/en/news/announcements/october-10-2022-banned-and-restricted-announcement)，我們來複習一下為什麼 {% mtgcard "Yorion, Sky Nomad" tooltip=true %} 在近代被 ban 了。
+讓我們往回看 [October 10, 2022, Banned and Restricted Announcement](https://magic.wizards.com/en/news/announcements/october-10-2022-banned-and-restricted-announcement) 來複習一下為什麼 {% mtgcard "Yorion, Sky Nomad" tooltip=true %} 在近代被 ban 了。
 
 {% notel default fa-info "OCT 20th 2022 BnR Update" %}
 ... Modern specifically entails more shuffling and other physical card manipulation because of the deep card pool of card-selection spells, fetch lands, and so on. Cards encouraging large decks, like Battle of Wits , have existed in the past, but usually on the fringes of competitive play rather than as one of the strongest decks.
@@ -101,10 +101,10 @@ Finally, we've also heard from many players that the repeated triggers caused by
 
 所以我們也可以這樣說：就是套牌太厚找地找太久目標又太少，因此殺了 {% mtgcard "Yorion, Sky Nomad" tooltip=true %}。
 
-既然老威不能夠接受找地找太久因此 ban 掉 {% mtgcard "Yorion, Sky Nomad" tooltip=true %}，那一個至少要做五六分鐘可能還做不完的 Combo 又有什麼可以活下來的理由？
+既然老威不能夠接受找地找太久因此 ban 掉 {% mtgcard "Yorion, Sky Nomad" tooltip=true %}，那一個至少要做五六分鐘可能還做不完的 combo 又有什麼可以活下來的理由？
 況且 Nadu Combo 同樣有大量的搜尋牌庫動作（{% mtgcard "Urza's Saga" tooltip=true %}, {% mtgcard "Chord of Calling" tooltip=true %} 和找地地），同樣有大量的操作時間（貼來貼去的 {% mtgcard "Shuko" tooltip=true %} 和指來指去的 {% mtgcard "Outrider en-Kor" tooltip=true %}），聽起來跟當時的 4C Elemental 一模一樣呢。
 
-這邊以我之前去參加貓腳印松江店的 MITQ 來舉例，當天有非常多的和局，而且很多時候都是 Nadu Combo vs Jeskai Control，整的對局看起來就是又臭又長。
+這邊以我之前去參加貓腳印松江店的 MITQ 來舉例，當天有非常多的和局，而且很多時候都是 Nadu Combo vs Jeskai Control，整個對局看起來就是又臭又長。
 沒有錯，Nadu Combo 就是一個這麼討人厭的套牌。
 
 ## Ban 了 Nadu 之後
@@ -118,11 +118,11 @@ Finally, we've also heard from many players that the repeated triggers caused by
 ![](/images/Why-Nadu-Should-Die/win-rate.png)
 
 以主流來說就是 Mardu Energy，但比起 Nadu Combo 他並沒有那麼平均的高勝率，是由少量的極優勢對局拉起的。
-同時 Energy 並沒有「喔如果我把這一張牌 ban 了整個套牌就動不了了」的套牌，真的要說可能就是一費的 {% mtgcard "Guide of Souls" tooltip=true %} 吧。而且 Energy 可以被 {% mtgcard "Suncleanser" tooltip=true %} 斷掉大量的牌張。
+同時 Energy 並沒有「喔如果我把這一張牌 ban 了整個套牌就動不了了」的單卡，真的要說可能就是一費的 {% mtgcard "Guide of Souls" tooltip=true %} 吧。而且 Energy 可以被 {% mtgcard "Suncleanser" tooltip=true %} 斷掉大量的牌張互動。
 另外當然還有其他高勝率的套牌存在，以 [MTG Decks 的數據](https://mtgdecks.net/Modern/winrates/range:last30days) 來看，還有 Eldrazi Ramp 的 60%, Izzet Wizards 的 55% 和 Domain Aggro 的 59%（雖然再往下還有其他勝率高於 55%，但樣本數太少了故不採計）。
 不過同樣的，這些套牌也是藉由少數的極優勢對局拉起來的，同時樣本數比起上面幾套差了太多，可能會是不錯的嘗試。
 
-## Nadu 的獄友們
+## Nadu 的同期獄友們
 
 再來我們換個問題，其他套牌有沒有可能一起被關入小黑屋？
 
@@ -153,7 +153,7 @@ Finally, we've also heard from many players that the repeated triggers caused by
 
 但抽牌是一個雙面刃，這也代表會被對手的 {% mtgcard "Sheoldred, the Apocalypse" tooltip=true %} 或 {% mtgcard "Orcish Bowmasters" tooltip=true %} 懲罰。
 同時是回合結束的觸發異能，所以有可能會被 {% mtgcard "Tishana's Tidebinder" tooltip=true %} 之類的東西一卡空掉一回合節奏。
-並且也有更多的自肅，例如手牌上限少了兩張、牌張進墳改為放逐（{% mtgcard "Necropotence" tooltip=true %} 是進墳跳放逐 trigger、可以利用這個堆疊多做點事情）等等更多的弊處。
+並且也有更多的自肅，例如手牌上限少了兩張、牌張進墳改為放逐（{% mtgcard "Necropotence" tooltip=true %} 是棄掉牌時將該牌放逐、可以利用這個堆疊多做點事情）等等更多的弊處。
 
 {% mtgcard "Orcish Bowmasters" %}
 
@@ -168,7 +168,7 @@ Finally, we've also heard from many players that the repeated triggers caused by
 
 {% mtgcard "Umezawa's Jitte" %}
 
-先說說 {% mtgcard "Umezawa's Jitte" tooltip=true %}，基本上他的異能已經無法有效的宰制環境了，說穿了 {% mtgcard "Umezawa's Jitte" tooltip=true %} 乃至於整個 Stoneblade 都已經不是環境中可生存的套牌，本來 {% mtgcard "Stoneforge Mystic" tooltip=true %} 還可以在 Nadu Combo 中找 {% mtgcard "Shuko" tooltip=true %} 出來，現在看起來是完全失業了呢⋯⋯。
+先說說 {% mtgcard "Umezawa's Jitte" tooltip=true %}，基本上他的異能已經無法有效的宰制環境了，說穿了 {% mtgcard "Umezawa's Jitte" tooltip=true %} 乃至於整個 Stoneblade 都已經不是環境中可生存的套牌，本來 {% mtgcard "Stoneforge Mystic" tooltip=true %} 還可以在 Nadu Combo 中找 {% mtgcard "Shuko" tooltip=true %} 出來，現在看起來是完全失業了呢⋯⋯
 
 {% mtgcard "Glimpse of Nature" %}
 
@@ -176,16 +176,15 @@ Finally, we've also heard from many players that the repeated triggers caused by
 
 除非 WotC 改成如隔壁棚 YGO 一樣的禁牌方式（從限二、限一開始，最後才是禁牌），試著將部分的牌以限一或限二的方式放出來，我覺得如果只能用一張 {% mtgcard "Uro, Titan of Nature's Wrath" tooltip=true %} 或是 {% mtgcard "Oko, Thief of Crowns" tooltip=true %} ，應該還能接受。
 
-> 吐槽一下，WotC 都已經和學 konami 砍出頭鳥的方式禁牌，為啥禁牌方式不能也一起學一學啊 = =
+> 吐槽一下，WotC 都已經和學 konami 砍出頭鳥的方式動刀，為啥禁牌方式不能也一起學一學啊 = =
 
 ## 順便看一下其他賽制
 
-標準基本上很健康不用動，上一次的 BnR WotC 有說標準的 Boros Convoke 和 Domain 是他們的觀察對象，因為兩者都有一隻生物（{% mtgcard "Atraxa, Grand Unifier" tooltip=true %} 和 {% mtgcard "Knight Errant of Eos" tooltip=true %}）本身是大生物的同時、還能夠補手牌資源。
-不過同時也有提到，在今年的退標之後，Boros Convoke 少了 {% mtgcard "Voldaren Epicure" tooltip=true %} 可以搭配 {% mtgcard "Gleeful Demolition" tooltip=true %} 可以早出 {% mtgcard "Knight Errant of Eos" tooltip=true %}、Domain 少了三色地可以穩定的調色和湊 domain，都算是少了一點東西。
-
+標準基本上很健康不用動，上一次的 BnR WotC 有說標準的 Boros Convoke 和 Domain Ramp 是他們的觀察對象，因為兩者都有一隻生物（{% mtgcard "Atraxa, Grand Unifier" tooltip=true %} 和 {% mtgcard "Knight Errant of Eos" tooltip=true %}）本身是大生物的同時、還能夠補手牌資源。
+不過同時也有提到，在今年的退標之後，Boros Convoke 少了 {% mtgcard "Voldaren Epicure" tooltip=true %} 可以搭配 {% mtgcard "Gleeful Demolition" tooltip=true %} 可以早出 {% mtgcard "Knight Errant of Eos" tooltip=true %}、Domain Ramp 少了三色地可以穩定的調色和湊 domain，都算是少了一點東西。
 剩下大概就是來看一下先驅吧。
-先驅目前我也覺得還算是平衡，可能真的比較搞心態的就是 Abzan Amalia Combo，雖然按照網站某成員的說法這是一套爛套牌，不過沒有改變這套帶來的絕望感，有時候不是不想解而是解不掉，例如 Izzet Phoenix 看到場上有 {% mtgcard "Selfless Savior" tooltip=true %} 時手上只有一張解牌無法解掉 {% mtgcard "Amalia Benavides Aguirre" tooltip=true %}、等到對面做完後也點不死，或者是看到對手牌庫頂留了一張 {% mtgcard "Aetherflux Reservoir" tooltip=true %}，要有多絕望有多絕望⋯⋯。
 
+先驅目前我也覺得還算是平衡，可能真的比較搞心態的就是 Abzan Amalia Combo，雖然按照網站中某寫手的說法這是一套爛套牌，不過沒有改變這套帶來的絕望感，有時候不是不想解而是解不掉，例如 Izzet Phoenix 看到場上有 {% mtgcard "Selfless Savior" tooltip=true %} 時手上只有一張解牌無法解掉 {% mtgcard "Amalia Benavides Aguirre" tooltip=true %}、等到對面做完後也點不死，或者是看到對手牌庫頂留了一張 {% mtgcard "Aetherflux Reservoir" tooltip=true %}，要有多絕望有多絕望⋯⋯
 其他套牌我認為屬於正常強度範圍，不過 Rakdos Vampires 辣個 meta 使用率是沒問題的嗎⋯⋯？
 
 ![](/images/Why-Nadu-Should-Die/pioneer-meta-rate.png)
