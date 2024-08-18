@@ -39,7 +39,7 @@ Nadu 應該可以說是現在環境中最讓人厭惡的套牌，沒有之一。
 
 ### Nadu 這套牌究竟在做什麼
 
-首先，我們需要先了解 Nadu 這套牌在做什麼，一套的 Nadu 套牌大概會長這樣：
+首先，我們需要先了解 Nadu 這套牌在做什麼，一套 Nadu 套牌大概會長這樣：
 
 ![](/images/Why-Nadu-Should-Die/bant-nadu-deck.png)
 
