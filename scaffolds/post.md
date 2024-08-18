@@ -5,7 +5,6 @@ tags:
 cover: ""
 thumbnail: ""
 excerpt: ""
-mathjax: false
 authors:
   - ""
 ---
