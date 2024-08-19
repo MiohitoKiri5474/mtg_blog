@@ -63,7 +63,7 @@ Nadu 應該可以說是現在環境中最讓人厭惡的套牌，沒有之一。
 
 接著就是重複以上動作，**有機會** 將牌庫中的所有地丟到場上、其他牌上手。然後看要用 {% mtgcard "Thassa's Oracle" tooltip=true %} 或是 {% mtgcard "Finale of Devastation" tooltip=true %} 贏。
 
-> 簡單提一下要怎麼用 {% mtgcard "Finale of Devastation" tooltip=true %}，這時候場上需要有另外三個元件： {% mtgcard "Endurance" tooltip=true %}, {% mtgcard "Yavimaya, Cradle of Growth" tooltip=true %} 以及 {% mtgcard "Sylvan Safekeeper" tooltip=true %}，其中 {% mtgcard "Endurance" tooltip=true %} 身上必須貼著一張神授的 {% mtgcard "Springheart Nantuko" tooltip=true %}（但如前面所說，基本上會把整套牌抓在手上，這些東西應該都要有才對）。
+> 簡單提一下要怎麼用 {% mtgcard "Finale of Devastation" tooltip=true %} 贏，這時候場上需要有另外三個元件： {% mtgcard "Endurance" tooltip=true %}, {% mtgcard "Yavimaya, Cradle of Growth" tooltip=true %} 以及 {% mtgcard "Sylvan Safekeeper" tooltip=true %}，其中 {% mtgcard "Endurance" tooltip=true %} 身上必須貼著一張神授的 {% mtgcard "Springheart Nantuko" tooltip=true %}（但如前面所說，基本上會把整套牌抓在手上，這些東西應該都要有才對）。
 > 等到將最後一張地牌丟到場上、神授的 {% mtgcard "Springheart Nantuko" tooltip=true %} 時，我們可以回應這個觸發，用 {% mtgcard "Sylvan Safekeeper" tooltip=true %} 的異能將所有的地犧牲（回應自己的啟動式異能再啟動一次，這樣就能用一隻目標生物將所有地犧牲掉）、並且在犧牲前產費（有 {% mtgcard "Yavimaya, Cradle of Growth" tooltip=true %} 其他地也能產綠），然後付兩費複製出一隻 {% mtgcard "Endurance" tooltip=true %} 進場指自己將自己的墳場洗回去，然後繼續做指自己 -> 翻牌庫頂 -> 地進場生 1/1 -> 地都出來的時候複製 {% mtgcard "Endurance" tooltip=true %} 洗自己墳場的動作。
 > 這樣就能做到無限隻生物、無限點綠，最後做一發很大發的 {% mtgcard "Finale of Devastation" tooltip=true %} 給所有的生物敏捷踐踏，全推打死人。
 > 我個人比較喜歡這個版本，因為可以躲 {% mtgcard "Angel's Grace" tooltip=true %} 之類的東西（可以將自己的墳場洗回去不怕抽乾）、{% mtgcard "Finale of Devastation" tooltip=true %} 前期也能用來當作額外的生物導師找工具箱或組合技組件，也能扛一些墳場套牌。
