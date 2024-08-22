@@ -5,8 +5,8 @@ tags:
   - "Beginner"
   - "EDH"
   - "faintmama"
-cover: "https://imgur.com/a/DsJuO5c"
-thumbnail: "https://imgur.com/a/DsJuO5c"
+cover: "https://i.imgur.com/HFPq96G.jpeg"
+thumbnail: "https://i.imgur.com/HFPq96G.jpeg"
 excerpt: "休閒又競爭的指揮官戰起來！這其實像極了非瑞克西亞發起的大戰役，爾虞我詐且充滿深度。說到底，「玩家」才是左右勝負的關鍵。"
 authors:
   - "faintmama"
@@ -27,30 +27,28 @@ authors:
 在進入我的故事以前，想先為潛在的新人引個路。如果你對EDH感興趣，身邊卻沒有人能帶你走進圈子，以下有幾個找到同好的辦法：
 
 - **各店家LINE社群**
-鼓起勇氣走進卡店是最快的手段，直接詢問櫃檯人員吧，不僅可以獲得有耐性的教學及贈品，更重要的是要加入店家的LINE社群。主動揪團或被動等待都行，只要你的態度良好，就有很高機率遇見優質大大。近兩年我認識了很多善良玩家，陪伴我學習這個遊戲，後續也成為生活上互相照應的朋友。如果帶領你的前輩太過興奮，一股腦兒說了太多艱澀用語，記得提醒他一下：「不好意思，聽不懂耶……~~我就是菜可以請你先說人話嗎~~」
-個人曾經去過以下五間卡店：[遊戲平方卡牌中心](https://www.facebook.com/GameSquareTCG/?locale=zh_TW)、[卡士多遊戲屋](https://www.facebook.com/CardStoreTW?locale=zh_TW)、[CardMaster](https://www.facebook.com/cardmaster.tw?locale=zh_TW)、[貓腳印-士林店](https://www.facebook.com/CatFootPrintShilin.tw?locale=zh_TW)、[Magic Star](https://www.facebook.com/MAGICSTAR01?locale=zh_TW)，都有常駐的資深玩家或店長、店員。除此之外，還有很多店家能提供良好打牌環境，只是我的腳程跟見識並不夠廣……
+  鼓起勇氣走進卡店是最快的手段，直接詢問櫃檯人員吧，不僅可以獲得有耐性的教學及贈品，更重要的是要加入店家的LINE社群。主動揪團或被動等待都行，只要你的態度良好，就有很高機率遇見優質大大。近兩年我認識了很多善良玩家，陪伴我學習這個遊戲，後續也成為生活上互相照應的朋友。如果帶領你的前輩太過興奮，一股腦兒說了太多艱澀用語，記得提醒他一下：「不好意思，聽不懂耶……~~我就是菜可以請你先說人話嗎~~」
+  個人曾經去過以下五間卡店：[遊戲平方卡牌中心](https://www.facebook.com/GameSquareTCG/?locale=zh_TW)、[卡士多遊戲屋](https://www.facebook.com/CardStoreTW?locale=zh_TW)、[CardMaster](https://www.facebook.com/cardmaster.tw?locale=zh_TW)、[貓腳印-士林店](https://www.facebook.com/CatFootPrintShilin.tw?locale=zh_TW)、[Magic Star](https://www.facebook.com/MAGICSTAR01?locale=zh_TW)，都有常駐的資深玩家或店長、店員。除此之外，還有很多店家能提供良好打牌環境，只是我的腳程跟見識並不夠廣……
 
 - **MTG指揮官約戰區**
-應該是全臺人數最多的指揮官LINE社群，主要約團形式為一般EDH、cEDH，群組內成員通常會附註強度，方便大家提前理解狀況，平時也有玩家間的討論與閒聊。
-建議先加入[魔法風雲會：MTG指揮官約戰群社團](https://www.facebook.com/groups/2634031176880373?locale=zh_TW)後，由管理者審核進入LINE群組，往後便可以在線上找人、線下見面~~火速開戰~~。
+  應該是全臺人數最多的指揮官LINE社群，主要約團形式為一般EDH、cEDH，群組內成員通常會附註強度，方便大家提前理解狀況，平時也有玩家間的討論與閒聊。
+  建議先加入[魔法風雲會：MTG指揮官約戰群社團](https://www.facebook.com/groups/2634031176880373?locale=zh_TW)後，由管理者審核進入LINE群組，往後便可以在線上找人、線下見面~~火速開戰~~。
 
 - **臺北征服愛好團 – Conquest賽制**
-Conquest賽制可說是EDH的「變體」，有著較多的禁卡，例如[琉晶研究](https://scryfall.com/card/jmp/169/rhystic-study)（超賺引擎）、[吸血鬼導師](https://scryfall.com/card/dmr/108/vampiric-tutor)（低費找牌）、[陽光戒](https://scryfall.com/card/mb2/233/sol-ring)（強力加速）、及較難取得的昂貴上古神卡。規則也和一般EDH略有不同：牌組最少80張即可、每人血量30、指揮官傷害12、後手玩家增加占卜數……等，詳細規則及禁卡表請見[Draftsim網站介紹](https://draftsim.com/mtg-conquest/)，順便附上熱心玩家自製的[中文版本](https://buffalobill.idv.tw/?f=deckworld&b=viewdeck&index=9276)。
+  Conquest賽制可說是EDH的「變體」，有著較多的禁卡，例如[琉晶研究](https://scryfall.com/card/jmp/169/rhystic-study)（超賺引擎）、[吸血鬼導師](https://scryfall.com/card/dmr/108/vampiric-tutor)（低費找牌）、[陽光戒](https://scryfall.com/card/mb2/233/sol-ring)（強力加速）、及較難取得的昂貴上古神卡。規則也和一般EDH略有不同：牌組最少80張即可、每人血量30、指揮官傷害12、後手玩家增加占卜數……等，詳細規則及禁卡表請見[Draftsim網站介紹](https://draftsim.com/mtg-conquest/)，順便附上熱心玩家自製的[中文版本](https://buffalobill.idv.tw/?f=deckworld&b=viewdeck&index=9276)。
 
   > 註：玩家自製的中文版本禁牌表不是永久有效的，因為不能更換已上傳的牌表，一旦禁牌表更動就需要重新連結。我們會盡量更新，建議優先參考官網版本。
 
   依我個人理解，Conquest旨在方便新手和輕度玩家加入、增加遊戲互動、讓冷門指揮官有實踐創意的空間。臺北征服愛好團是我最熱中的社群，目前已舉辦了三十二回，且有每屆賽事的記錄，若需要，歡迎[聯繫我](https://www.facebook.com/loudsidewang/?locale=zh_TW)加入。
-印象中，其他地區也有玩家召集過Conquest賽制活動，歡迎了解詳情的朋友留言分享資訊～
-
-
+  印象中，其他地區也有玩家召集過Conquest賽制活動，歡迎了解詳情的朋友留言分享資訊～
 
 - **巴格達交易日活動 – 法禁EDH淘汰賽**
-筆者剛好在今年夏天參加了一回，覺得是滿有意思的經驗。南部和北部的社群氣氛小有不同，既有的玩家間有著較深厚的交情、~~爆笑的吐槽垃圾話~~。一旦有過對局的的機會，老手們也願意友善、熱心地說出想法。當然，現場還有大量玩家及店家提供實體卡牌的交流，十分熱鬧，如果擅長開口攀談，那我會推薦你去[巴格達交易日](https://www.facebook.com/groups/1019509416074367)走走。
-法禁EDH是一對一的競賽，同樣也有獨立的禁卡表及規則，請見[介紹網站](https://www.mtgdc.info/banned-restricted?fbclid=IwY2xjawEvdNFleHRuA2FlbQIxMAABHTaESCyMte2THlo4JIOtmueXGb6523v80gHGayVDjHJ0qnzx-F43mk2E7A_aem_TDKCxS-YANklnWrX-AMPKA)。由於本篇會以介紹多人遊戲為主，法禁賽制就不著墨說明了，只提醒各位這是個血量20的賽制，相對適合快攻思維。
-筆者當時是拿造價約400美金的[元素之魂阿尼瑪](https://scryfall.com/card/2x2/171/animar-soul-of-elements)套牌參加活動，現場的玩家大都很客氣、套牌也友善，讓我有個順利打進決賽的經驗，但最終被先手的[戰巫師隊長巴爾莫](https://scryfall.com/card/dmu/196/balmor-battlemage-captain)快攻澈底衝破頭，~~功虧一簣我恨啊~~。
+  筆者剛好在今年夏天參加了一回，覺得是滿有意思的經驗。南部和北部的社群氣氛小有不同，既有的玩家間有著較深厚的交情、~~爆笑的吐槽垃圾話~~。一旦有過對局的的機會，老手們也願意友善、熱心地說出想法。當然，現場還有大量玩家及店家提供實體卡牌的交流，十分熱鬧，如果擅長開口攀談，那我會推薦你去[巴格達交易日](https://www.facebook.com/groups/1019509416074367)走走。
+  法禁EDH是一對一的競賽，同樣也有獨立的禁卡表及規則，請見[介紹網站](https://www.mtgdc.info/banned-restricted?fbclid=IwY2xjawEvdNFleHRuA2FlbQIxMAABHTaESCyMte2THlo4JIOtmueXGb6523v80gHGayVDjHJ0qnzx-F43mk2E7A_aem_TDKCxS-YANklnWrX-AMPKA)。由於本篇會以介紹多人遊戲為主，法禁賽制就不著墨說明了，只提醒各位這是個血量20的賽制，相對適合快攻思維。
+  筆者當時是拿造價約400美金的[元素之魂阿尼瑪](https://scryfall.com/card/2x2/171/animar-soul-of-elements)套牌參加活動，現場的玩家大都很客氣、套牌也友善，讓我有個順利打進決賽的經驗，但最終被先手的[戰巫師隊長巴爾莫](https://scryfall.com/card/dmu/196/balmor-battlemage-captain)快攻澈底衝破頭，~~功虧一簣我恨啊~~。
 
 - **卡士多遊戲屋 – 指揮官月賽（海怪禁）**
-卡士多應該是最頻繁舉辦指揮官賽事的臺北卡店了，不過和法禁賽制一樣，海怪禁也是一對一的競賽：血量30、採三戰兩勝制、每局開始前可從套牌內替換符合識別色的指揮官（這點很有意思）。詳細規則請見[官網](https://leviathancommander.wixsite.com/home/rules?fbclid=IwY2xjawEveQRleHRuA2FlbQIxMAABHaMeYtcuGv39Mt19SyvcsiYvAh4Xwjvp8V4Vpf8dwHpDmtGQ9Tq6p5mK3w_aem_txb6YF_YnMhWu5uyP2MDqg)，同樣也有獨立的[禁卡表](https://leviathancommander.wixsite.com/home/current-ban-list)，順便附上熱心玩家自製的[中文版本](https://buffalobill.idv.tw/?f=deckworld&b=viewdeck&index=9524)。
+  卡士多應該是最頻繁舉辦指揮官賽事的臺北卡店了，不過和法禁賽制一樣，海怪禁也是一對一的競賽：血量30、採三戰兩勝制、每局開始前可從套牌內替換符合識別色的指揮官（這點很有意思）。詳細規則請見[官網](https://leviathancommander.wixsite.com/home/rules?fbclid=IwY2xjawEveQRleHRuA2FlbQIxMAABHaMeYtcuGv39Mt19SyvcsiYvAh4Xwjvp8V4Vpf8dwHpDmtGQ9Tq6p5mK3w_aem_txb6YF_YnMhWu5uyP2MDqg)，同樣也有獨立的[禁卡表](https://leviathancommander.wixsite.com/home/current-ban-list)，順便附上熱心玩家自製的[中文版本](https://buffalobill.idv.tw/?f=deckworld&b=viewdeck&index=9524)。
 
   > 註：玩家自製的中文版本禁牌表不是永久有效的，因為不能更換已上傳的牌表，一旦禁牌表更動就需要重新連結。我們會盡量更新，建議優先參考官網版本。
 
@@ -103,7 +101,6 @@ What doesn’t kill you makes you stronger and stranger.
 筆者的社群中，有位技術本就嫻熟的強者常打[創機勝利械](https://scryfall.com/card/nec/4/shorikai-genesis-engine)，那是一張非常強力的單卡~~它甚至還不是生物有時很難殺~~。曾有玩家表示難以招架，但我倒是有不同的看法：選用強力指揮官便意味著會吸引炮火，那是另一層面的困難，只要其他玩家明確結盟，檯面上最強勢的選手反而容易提早下課，同時他也沒有「扮豬吃老虎」的可能性，心理戰方面較沒有彈性，只能筆直衝向勝利。
 
 當你是可視範圍內最強的玩家，我還能說什麼呢？趕快贏下遊戲吧，小心其他人即將聯手反撲。
-
 
 ## 帶綠修行
 
