@@ -8,7 +8,7 @@ thumbnail: "https://i.postimg.cc/jSBqSNTR/IMG-9131-1.jpg"
 excerpt: "第一次參加MagicCon就上手？來看看吧！"
 categories:
   - "Others"
-  - "MTG Anecode"
+  - "MTG Anecdote"
 authors:
   - "cephille"
 ---

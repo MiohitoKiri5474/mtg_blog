@@ -8,7 +8,7 @@ cover: "https://i.imgur.com/GfQlTbB.jpg"
 thumbnail: "https://i.imgur.com/GfQlTbB.jpg"
 categories:
   - "Others"
-  - "CardLore"
+  - "Card Lore"
 authors:
   - "JerobaMTG"
 ---

@@ -7,7 +7,7 @@ cover: "https://i.imgur.com/KqhdXXK.png"
 thumbnail: "https://i.imgur.com/zgTvE56.png"
 excerpt: "來談談 If you do 與 When you do 差一個字所產生的規則差異"
 categories:
-  - "MTG RUles"
+  - "MTG Rules"
 authors:
   - "JruMTG"
 ---
