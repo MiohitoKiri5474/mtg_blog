@@ -2,11 +2,13 @@
 title: "豬鼻子的MagicCon:Amsterdam記行"
 date: "2024-07-04 19:10:12"
 tags:
-  - "MTG Anecode"
   - "cephille"
 cover: "https://i.postimg.cc/jSBqSNTR/IMG-9131-1.jpg"
 thumbnail: "https://i.postimg.cc/jSBqSNTR/IMG-9131-1.jpg"
 excerpt: "第一次參加MagicCon就上手？來看看吧！"
+categories:
+  - "Others"
+  - "MTG Anecode"
 authors:
   - "cephille"
 ---
@@ -81,13 +83,13 @@ PT轉播台，焦點對局桌在另一側。另一張照片是PT主賽場，另�
 
 ### Trading
 
-![](https://i.postimg.cc/V6SZ5dLx/63afc72e-dd06-4ce6-9a98-e2b8d73cae62.jpg) 
+![](https://i.postimg.cc/V6SZ5dLx/63afc72e-dd06-4ce6-9a98-e2b8d73cae62.jpg)
 
 會場中有非常多家的卡店到場擺攤，交易的氣氛相當熱絡，而每家都會把自己的收牌清單展示出來，也可以直接詢問店員請他們估價。我後來是把帶來的牌交給義大利的卡店[CardGame Corner](https://www.cardgamecorner.com/en/)估價並賣給他們，替我估價的店員人非常友善，是一次非常愉快的交易經驗。估完價後店員會給你一張像照片上這樣的報價單或支票的紙，你同意後雙方就在上面簽名，然後你拿著它跟另一組店員領錢。
 
 ### 畫家簽名
 
-![](https://i.postimg.cc/xT7rRDBy/IMG-9162.jpg) 
+![](https://i.postimg.cc/xT7rRDBy/IMG-9162.jpg)
 
 會場有超過40位的畫家到場，每位畫家簽名的價格約 €3 ~ €5 不等，Double跟Shadow的意思是差不多的，基本上就是加上陰影或簽兩次的概念，當然價格也會更貴。照片上是這次Magali Villeneuve本次的會場報價，經過幾次人都超多，而接下來兩天我也繞過去看好幾次，但每次都因為人太多而放棄，最後一天攤位旁更直接放了一個至少需等待3小時的立牌讓玩家知難而退。不愧是知名畫家啊...。
 
@@ -95,7 +97,7 @@ PT轉播台，焦點對局桌在另一側。另一張照片是PT主賽場，另�
 
 上面這張是另一位知名畫家John Avon的簽名報價，很特別的是John他的簽名限定每次每人只有10個簽名的額度，而你如果要簽成Shadow的話一次就是用掉2個額度，他本人也是有點困擾說他都寫這麼多了但還是很多人不懂他的意思。
 
-![](https://i.postimg.cc/Vv6TqDRV/IMG-9164.jpg) 
+![](https://i.postimg.cc/Vv6TqDRV/IMG-9164.jpg)
 
 然後John他本人非常nice，也同意我在他簽名時拍下這張照片，其他人也有錄影的，總之就是非常隨和。不過可以感覺到這樣的簽名活動對他本人的負擔還是蠻大的，除了固定時間要休息外，簽的過程可以看到他常常在活動筋骨來放鬆。
 
@@ -109,11 +111,11 @@ PT轉播台，焦點對局桌在另一側。另一張照片是PT主賽場，另�
 
 因為回旅館也不知道要做什麼，不如待在會場打場輪抽吧！入場費是€35，要先到報名櫃台買面額€5的兌換券，然後就找一張桌子，等滿八人後裁判就會過來收兌換券然後開打。
 
-![](https://i.postimg.cc/65s5hmgZ/IMG-9174.jpg) 
+![](https://i.postimg.cc/65s5hmgZ/IMG-9174.jpg)
 
 輪抽過程由上至下、由左而右分別是第 1 ~ 3 包、第 1 ~ 14 pick的順序，抽成了一個沒有很好的黑白，最重要的去除都沒拿到。
 
-![](https://i.postimg.cc/gkvctKbT/IMG-9175.jpg) 
+![](https://i.postimg.cc/gkvctKbT/IMG-9175.jpg)
 
 最終構築的deck如上。
 
@@ -127,7 +129,7 @@ R3對手是那位13歲的小朋友，是美裔現居德國，他爸爸也在旁�
 
 打完後會去簽一張黃色的戰績表、拿各自的prize tix，三勝的話你會把名字簽在"Undefeated"的欄位，那個小朋友拿著戰績表像拿著獎狀般的讓他爸爸拍了照，還很天真地問工作人員說三勝有沒有額外的獎品，工作人員一開始說沒有，看他很失望就離開一陣子，回來時給了他一顆糖果XDD
 
-![](https://i.postimg.cc/y8s1MSVY/IMG-9176.jpg) 
+![](https://i.postimg.cc/y8s1MSVY/IMG-9176.jpg)
 
 每贏一場會拿到1,200點的prize tix，輸了則是400點，打完後2-1拿到2,800點，我把200點送給第一局的瑞典玩家讓他換了3包MH3，我用剩下來的2,600點換了2包MH3跟1包魔戒輪抽包。
 
@@ -143,7 +145,7 @@ R3對手是那位13歲的小朋友，是美裔現居德國，他爸爸也在旁�
 ![](https://i.postimg.cc/Lszkfks8/IMG-9191.jpg)
 
 開完後覺得這個pool好爛，黑白殺很大但生物超爛，但不得已還是要main board黑白，至少殺有跟上還可以跟一眾奧札奇稍微周旋一下。
- 
+
 ![](https://i.postimg.cc/g2h3Fy8H/IMG-9192.jpg)
 
 換備後考慮節奏或先手有幾場會換成紅綠奧札奇，但老是卡在三塊地，R5再卡一次後就不再採用。
@@ -184,7 +186,7 @@ p.s. 我用黑白放逐殺[深奧挪用](https://scryfall.com/card/mh3/177/abstr
 第二盤換成紅綠快攻一波獲勝。
 第三盤被[進化見證人](https://scryfall.com/card/mh3/151/evolution-witness)撿了兩次[結念預知體](https://scryfall.com/card/spg/39/thought-knot-seer)手牌被扒光，被對面出[龐巨血口面具](https://scryfall.com/card/mh3/148/colossal-dreadmask)無情踏死。
 
-### R5 勇德犧牲 0-2 
+### R5 勇德犧牲 0-2
 
 第一盤被鋪開 + 對手的[寇維達領袖艾拉達力](https://scryfall.com/card/mh3/149/eladamri-korvecdal)狂用牌庫頂資源，兩隻[弄偶學徒](https://scryfall.com/card/mh3/100/marionette-apprentice) + [繁殖地易魂師](https://scryfall.com/card/mh3/110/warren-soultrader)，解不完就GG惹。
 

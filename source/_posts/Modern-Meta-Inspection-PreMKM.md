@@ -3,8 +3,6 @@ title: "Modern 環境考察 pre MKM"
 date: "2024-02-12 09:56:02"
 tags:
   - "MiohitoKiri5474"
-  - "Modern"
-  - "Inspection"
 cover: "https://assets.moxfield.net/cards/card-Waw8l-art_crop.webp"
 thumbnail: "https://assets.moxfield.net/cards/card-Waw8l-art_crop.webp"
 excerpt: "犀牛犀牛犀牛，怎麼到處都是犀牛"
@@ -22,17 +20,18 @@ authors:
 其實本來這一篇文章應該是過年前就要寫完，不過懶懶病發作，拖到現在。
 
 開始之前先來了解一下現在的 RC 行程：
-* ~~European (Legacy): LEC Ghent @ Jan 26 ~ 28~~
-* ~~Brazil (City Class Games): CCG Showdown Cycle 5 @ Jan 27 - 28~~
-* ~~USA (DreamHack): Regional Championship - Denver @ Feb 9 ~ 11~~
-* ~~Canada (F2F Tour): Ottawa Weekend @ Feb 9 ~ 11~~
-* ~~Japan & Korea (Big Magic): Champions Cup Final Season 2 Round 2 @ Fab 11 ~ 12~~
-* Mexico & Central America & Caribbean (Yellow Rabbit): The Gathering Showdown Series @ Mar 1 ~ 3
-* Australia & New Zealand (Good Game): ANZ Super Series Cycle 5 Regional Championships @ Mar 8 ~ 10
-* Southeast Asia (Oracle Events): MTG SEA Championships Weekend Season 2 Round 2 - Bangkok @ Mar 8 ~ 10
-* South America (Magicsur): Final Regional de la Ronda 5 de la South America Magic Series @ Mar 8 ~ 10
-* Taiwan (GameSquare): MIT Championship Cycle 5 @ Mar 9 ~ 10
-* China (Kadou): TBA（或是我爛沒查到）
+
+- ~~European (Legacy): LEC Ghent @ Jan 26 ~ 28~~
+- ~~Brazil (City Class Games): CCG Showdown Cycle 5 @ Jan 27 - 28~~
+- ~~USA (DreamHack): Regional Championship - Denver @ Feb 9 ~ 11~~
+- ~~Canada (F2F Tour): Ottawa Weekend @ Feb 9 ~ 11~~
+- ~~Japan & Korea (Big Magic): Champions Cup Final Season 2 Round 2 @ Fab 11 ~ 12~~
+- Mexico & Central America & Caribbean (Yellow Rabbit): The Gathering Showdown Series @ Mar 1 ~ 3
+- Australia & New Zealand (Good Game): ANZ Super Series Cycle 5 Regional Championships @ Mar 8 ~ 10
+- Southeast Asia (Oracle Events): MTG SEA Championships Weekend Season 2 Round 2 - Bangkok @ Mar 8 ~ 10
+- South America (Magicsur): Final Regional de la Ronda 5 de la South America Magic Series @ Mar 8 ~ 10
+- Taiwan (GameSquare): MIT Championship Cycle 5 @ Mar 9 ~ 10
+- China (Kadou): TBA（或是我爛沒查到）
 
 其中歐洲和巴西在 1/28 結束了，歐洲那邊的 RC 直播我有看一些，大概六成左右的對局吧（？
 然後巴西的 RC 我則是完全忘記有這件事XD
@@ -165,17 +164,16 @@ Meta 比較分散一些。
 | 9 | [Subtlety](https://scryfall.com/card/mh2/67/subtlety) | 161 | 32% |
 | 10 | [Grief](https://scryfall.com/card/mh2/87/grief) | 160 | 21% |
 
-
-| Rank | Player | Decklist | Record |
-| :-: | :-: | :-: | :-: |
-| 1 | Rastaf | [Rakdos Scam](https://melee.gg/Decklist/View/359282) | 7-1 |
-| 2 | Rubens Campana | [Rakdos Scam](https://melee.gg/Decklist/View/358813) | 7-1 |
-| 4 | William Bossaneli Araujo | [Rakdos Scam](https://melee.gg/Decklist/View/359461) | 6-0-2 |
-| 4 | Thiago Vieira | [Izzet Murktide](https://melee.gg/Decklist/View/359609) | 6-1-1 |
-| 8 | Victor Carvalho | [Amulet Titan](https://melee.gg/Decklist/View/359989) | 6-0-2
-| 8 | GabrielF | [Rakdos Scam](https://melee.gg/Decklist/View/359133) | 6-0-2 |
-| 8 | Rafael Gullyt Cardoso | [Amulet Titan](https://melee.gg/Decklist/View/358369) | 6-1-1 |
-| 8 | Gabriel Bello | [Golgari Yawgmoth](https://melee.gg/Decklist/View/358945) | 6-1-1 |
+| Rank |          Player          |                         Decklist                          | Record |
+| :--: | :----------------------: | :-------------------------------------------------------: | :----: |
+|  1   |          Rastaf          |   [Rakdos Scam](https://melee.gg/Decklist/View/359282)    |  7-1   |
+|  2   |      Rubens Campana      |   [Rakdos Scam](https://melee.gg/Decklist/View/358813)    |  7-1   |
+|  4   | William Bossaneli Araujo |   [Rakdos Scam](https://melee.gg/Decklist/View/359461)    | 6-0-2  |
+|  4   |      Thiago Vieira       |  [Izzet Murktide](https://melee.gg/Decklist/View/359609)  | 6-1-1  |
+|  8   |     Victor Carvalho      |   [Amulet Titan](https://melee.gg/Decklist/View/359989)   | 6-0-2  |
+|  8   |         GabrielF         |   [Rakdos Scam](https://melee.gg/Decklist/View/359133)    | 6-0-2  |
+|  8   |  Rafael Gullyt Cardoso   |   [Amulet Titan](https://melee.gg/Decklist/View/358369)   | 6-1-1  |
+|  8   |      Gabriel Bello       | [Golgari Yawgmoth](https://melee.gg/Decklist/View/358945) | 6-1-1  |
 
 沒有錯，滿滿滿的 Scam，巴西人你們可以再沒創意一點啊 = =
 
@@ -215,6 +213,7 @@ Meta 比較分散一些。
 
 算是很標準的醫生構築，選擇採用 [Zulaport Cutthroat](https://scryfall.com/card/clb/775/zulaport-cutthroat) 應該是想要躲 [The One Ring](https://scryfall.com/card/ltr/246/the-one-ring) 的反一切保護。
 不過說真的，醫生應該是有能力在對手的維持階段取勝，而且 [Blood Artist](https://scryfall.com/card/lcc/182/blood-artist) 在對手的生物死去時也會觸發，應該會好一些才對。
+
 > 另外補充一下 [Blood Artist](https://scryfall.com/card/lcc/182/blood-artist) 和 [Zulaport Cutthroat](https://scryfall.com/card/clb/775/zulaport-cutthroat) 的優點。
 > [Blood Artist](https://scryfall.com/card/lcc/182/blood-artist)：雙方生物死亡都會做一次吸血
 > [Zulaport Cutthroat](https://scryfall.com/card/clb/775/zulaport-cutthroat)：可以繞過避邪/不用指目標
@@ -224,10 +223,12 @@ Meta 比較分散一些。
 
 MKM 卡表我大致上看完了，應該是不會影響太多近代環境。
 目前看起來應該只有 Rhinos 可能會用新的刺探地頂掉之前三色地的位置，因為 Rhinos 前二回合很容易沒事情做，用找地地去找一塊刺探地出來濾一下牌庫頂會是不錯的選擇。另外 Murktide 或是其他比較慢的套牌（例如控制）也可以考慮放。
+
 > 不過個人不太喜歡他在 Murktide 內的表現就是了，這個我們有機會再談（開始挖坑）。
 
 另外我對於其他國家的玩家社群分佈不太熟悉，但按綜合這兩週的 meta 表現和 RC 結果，應該會是 Rakdos Scam 和 Temur Rhinos 為最大宗。
 如果要細說的話應該會是這樣子：
+
 1. Rakdos Scam, Temur Rhinos 為最大宗，加起來應該會在 35% ~ 40% 上下
 2. Yawgmoth, Murktide, Titan 也不會太少，應該都會落在 10% 上下，Yawgmoth 應該會多一點
 3. Burn, Tron 這些不太需要練習量的套牌應該還是會出現，加起來應該會是 10% 上下

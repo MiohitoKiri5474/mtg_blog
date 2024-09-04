@@ -2,17 +2,13 @@
 title: "近代賽場：四色元素"
 date: 2023-09-20 10:19:10
 tags:
-  - Enki
-  - Modern
-  - Deck Tech
-
+  - "Enki"
 cover: "https://i0.wp.com/mtgazone.com/wp-content/uploads/2020/09/omnath-locus-of-creation_icon.jpg?fit=768%2C432&ssl=1"
 thumbnail: "https://i0.wp.com/mtgazone.com/wp-content/uploads/2020/09/omnath-locus-of-creation_icon.jpg?fit=768%2C432&ssl=1"
 excerpt: "為應戰第五季的近代賽季，來聊聊這套處於meta頂端之一的多色主題牌組，其潛在威力和應對方法吧！"
-
 categories:
-  - Construct
-  - Modern
+  - "Construct"
+  - "Modern"
 authors:
   - "Enki"
 ---
@@ -263,4 +259,3 @@ MH2出的強力解場，可以用來解0-5費的非地永久物（顏色夠多�
 值得一提的是因為新系列剛發售，在多數玩家依然在摸索的狀態下，套牌的構成有很高的多變性和可嘗試性，目前玩家所構成的牌張數量都在60-80張之間徘徊，有取得好成績的、也有慘遭滑鐵盧的（~~比如我~~），但相信再經過一陣子賽場的洗禮和測試後，這套牌的構築會逐漸穩定下來。
 
 如果有什麼意見都歡迎在下面留言，也祝各位在這一季的近代MITQ都能有不錯的成績，我們下次見！
-

@@ -2,12 +2,13 @@
 title: "光雷驛鏢客（OTJ）限制賽介紹 — 滿載而歸（BIG）& 特別來賓（SPG）"
 date: "2024-04-12 11:08:30"
 tags:
-  - "Limited"
-  - "OTJ"
   - "cephille"
 cover: "https://media.wizards.com/2024/images/daily/oLB26BDY2dwd.jpg"
 thumbnail: "https://media.wizards.com/2024/images/daily/oLB26BDY2dwd.jpg"
 excerpt: "小妹左手財勢劍、右手蓮花戒，失落的十手在腰間！"
+categories:
+  - "Limited"
+  - "OTJ"
 authors:
   - "cephille"
 ---
@@ -19,7 +20,7 @@ authors:
 ## 評分標準
 
 5.0：無條件必拿
-4.0：有首選價值 
+4.0：有首選價值
 3.5：強度夠但不一定要首選
 3.0：高於平均（會很希望他能放進最終牌組）
 2.5：平均水準，maybe輪抽第6、第7 pick左右
@@ -138,7 +139,7 @@ BIG裡 30 張牌有 14 張是神器，很符合[大幹一票](https://scryfall.c
 **cephille:** 0.0
 
 對比[爆發性植生](https://scryfall.com/card/dtk/186/explosive-vegetation)立竿見影地找兩塊地進場，這張結界要到進場第三個回合結束時才可能表現更好，而雖然五塊地是自己選的，但回合結束是哪塊地進場還是隨機的...~~什麼你選五塊樹林？那當我沒說~~我覺得不要放比較好。
- 
+
 > 既然你誠心誠意地發問了，
 > 那我就大發慈悲地告訴你！
 > 為了防止多重宇宙被破壞，為了維護世界的和平，
@@ -146,7 +147,7 @@ BIG裡 30 張牌有 14 張是神器，很符合[大幹一票](https://scryfall.c
 > 傑斯！瓦絲卡！
 > 我們是穿梭在預兆路中的~~SPY FAMILY~~，
 > 白洞，白色的明天在等著我們！
-> 就是這樣，喵！ 
+> 就是這樣，喵！
 
 ![](https://i.postimg.cc/cHD02QQP/Spy-Family-2.jpg)
 
@@ -236,7 +237,6 @@ BIG裡 30 張牌有 14 張是神器，很符合[大幹一票](https://scryfall.c
 
 > 打黑白色組，場上有黑色單色永久物，下白色的[興旺鎮大亨](https://scryfall.com/card/otj/25/prosperity-tycoon)派出紅色的1/1傭兵token，可以起動這塊地的第二條異能產出黑白紅三色。
 
-
 ## 特別來賓（Special Guests, SPG）
 
 ![0029](https://cards.scryfall.io/normal/front/1/1/11130547-391b-4fe7-8821-ef9514f6073f.jpg?1711513057)
@@ -304,6 +304,7 @@ BIG裡 30 張牌有 14 張是神器，很符合[大幹一票](https://scryfall.c
 取代The List的BIG以及SPG有三分之一神器主題的補強，而SPG中除了[病態投機者](https://scryfall.com/card/spg/32/morbid-opportunist)、或極端狀況下的[心念盜賊](https://scryfall.com/card/spg/36/notion-thief)以外沒有太多過於破格的牌，所以值得留意的還是BIG中的強牌，尤其是三把超強武具對於限制賽的影響。
 
 > 本次BIG、SPG牌總共 40 張
+>
 > - 平均分數為 2.7 分
 > - 最高分 5.0 分
 > - 最低分 0.0 分

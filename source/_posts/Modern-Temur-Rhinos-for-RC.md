@@ -1,17 +1,17 @@
 ---
-
 title: "鐵木爾犀牛的RC構築指南"
 date: "2024-03-01 15:30:26"
 tags:
-  - "Modern"
   - "ClarkShih"
 cover: "https://i.postimg.cc/HxVv1wkh/rhinos.jpg"
 thumbnail: "https://i.postimg.cc/HxVv1wkh/rhinos.jpg"
 excerpt: "DEN24 Sat 9:00 - U.S. Regional Championship 11-3 #28"
+categories:
+  - "Consturct"
+  - "Modern"
 authors:
   - "ClarkShih"
 ---
-
 
 ## 前言
 
@@ -22,22 +22,24 @@ authors:
 我將會從淺談這幾週近代Meta的變化開始，然後深論到牌張的選擇以及換備策略。對於常見的對局，我會盡量提供一些實用的建議和技巧，幫助你在RC中取得更好的成績。此外，我還會分享一些我在比賽中所學到的寶貴經驗和策略，希望能夠對你有所啟發和提升。
 
 > Guildmage's Forum編按：
-> 
+>
 > 荒野騎士前一版的犀牛文章[連結](https://guildmagesforum.tw/Modern-Temur-Crashing-Footballs/)在此，也歡迎讀者們回頭去看看兩個版本之間的變化~~怒火沒了~~。
 
 ---
+
 ## 近代的變化
 
 隨著[怒火](https://scryfall.com/card/mh2/126/fury)與[爬上豆莖](https://scryfall.com/card/woe/195/up-the-beanstalk)被禁用，以及[提莎娜的縛潮師](https://scryfall.com/card/lci/81/tishanas-tidebinder)的出現，近代有了很大的改變。「鐵木爾犀牛」坐穩了環境的領頭羊，「紅黑呼魂」、「黑綠醫生」、「紅藍龍侯」和「泰坦護身符」也在T1的位置相互競爭，「走骨行屍」、「四色控制」、「紅白燒」、「鱗甲共鳴」和「錘子」因為各自具有不同方面的「極端性」而在T2的位置，試圖在賽場中把T1的套牌拉下來。
 
 基於上面的分析，我們對於如今的環境有了初步的認識：
+
 - T1：「鐵木爾犀牛」、「 紅黑呼魂」、「黑綠醫生」、「紅藍龍侯」和「泰坦護身符」
 - T2：「走骨行屍」、「四色控制」、「紅白燒」、「鱗甲共鳴」和「錘子」
 
 當然近代還有很多套牌，廣泛的牌池總是不乏有組牌神人組出一些讓人意想不到的套牌來衝擊賽場。最近[十會盟地脈](https://scryfall.com/card/mkm/217/leyline-of-the-guildpact)也對近代早成了不小的影響，不過這個我們會放到後面再談。
 
-
 ---
+
 ## 牌組介紹
 
 ### 牌表
@@ -97,20 +99,15 @@ authors:
 
 ### 地牌的配置
 
-
 [電震地](https://i.postimg.cc/2kL7Fzdn/image.png)各1張：這個基本不解釋。
-
 
 [紅綠](https://scryfall.com/card/mh3/236/wooded-foothills)、[藍綠](https://scryfall.com/card/mh2/250/misty-rainforest)找地地各4張：因為已經有[揭現羅瑞安](https://scryfall.com/card/ltr/60/l%C3%B3rien-revealed)的關係，因此找地我想要帶綠的優先來找基本樹林。要注意的只有如果前期有紅綠找地先使用紅綠找地，這樣在中期需要找基本海島或基本樹林時，手上的藍綠找地會比較有彈性。
 
-
 [紅藍](https://scryfall.com/card/mkm/269/thundering-falls)、[藍綠](https://scryfall.com/card/mkm/262/hedge-maze)刺探地各1張：刺探地絕對是值得被投入的。鐵木爾犀牛在前兩回合時的法力並不吃緊，而且還有「一定要3塊地」的硬條件，前期刺探帶來的額外資訊讓起手的調度與否多了很多的彈性空間。我帶紅藍和藍綠各1，代替掉原本基本山脈和[克崔亞群系](https://scryfall.com/card/iko/250/ketria-triome)。
-
 
 [易形地窖](https://scryfall.com/card/clb/903/mutavault)2張：它在對上內戰、紅藍龍侯、走骨行屍和控制這些去除吃緊的套牌中表現亮眼，對手很難說服自己用瞬間去除殺死一隻2/2的生物，而在這過程中你就可以用它偷到不少的血量。而且，它還能配合[亞爾諾熾炎](https://scryfall.com/card/ltr/203/flame-of-anor)提高上限，由於我是正3[亞爾諾熾炎](https://scryfall.com/card/ltr/203/flame-of-anor)，因此我希望每場都有1張[易形地窖](https://scryfall.com/card/clb/903/mutavault)來與之配合。
 
 [寶石洞穴](https://scryfall.com/card/tsr/280/gemstone-caverns)1張：這張是奇蹟締造者，後手轉為先手在內戰以及龍侯對局中真的非常關鍵。我沒有放超過1張的原因就是我想要「保持穩定」，我[易形地窖](https://scryfall.com/card/clb/903/mutavault)已經放了兩張，實在沒辦法容納更多的無色地在這個三色套牌之中。不過，如果你想要打得激進一點，砍1張[易形地窖](https://scryfall.com/card/clb/903/mutavault)放2張[寶石洞穴](https://scryfall.com/card/tsr/280/gemstone-caverns)也是可以的。
-
 
 [曆祚母聖樹](https://scryfall.com/card/neo/266/boseiju-who-endures)1張：神器結界解，在對抗創、泰坦以及錘子時表現良好。正編我只想要有1張，因為我不想要被傳奇特性搞到，到了備牌局如果對手有[虛空聖杯](https://scryfall.com/card/a25/222/chalice-of-the-void)或者是以神器結界為主的套牌，我才會想要更多。
 
@@ -138,11 +135,12 @@ authors:
 
 [曆祚母聖樹](https://scryfall.com/card/neo/266/boseiju-who-endures)1張：我想要有更多神器去除，去應對對手備牌局的[虛空聖杯](https://scryfall.com/card/a25/222/chalice-of-the-void)，再來就是這張牌可以很有效的干擾泰坦護身符。
 
-
 ---
+
 ## 常見對局
 
 ### 內戰
+
 ![內戰](https://i.imgur.com/Z8kSwGq.jpg)
 內戰老話一句：「誰抽得好誰就贏」，當然玩家能力以及套牌構成多少有點影響。
 
@@ -175,6 +173,7 @@ authors:
 除此之外，你還要考慮你是應該將手上唯一一個去除咒語交給[巧手竊猴勒格文](https://scryfall.com/card/mh2/138/ragavan-nimble-pilferer)還是[道西虛空行者](https://scryfall.com/card/mh2/81/dauthi-voidwalker)？我認為，1回[勒格文](https://scryfall.com/card/mh2/138/ragavan-nimble-pilferer)確實很煩沒錯，不過它實際上沒有辦法從我們這裡得到太多有用的牌，因此我更願意留去除給[道西虛空行者](https://scryfall.com/card/mh2/81/dauthi-voidwalker)，以防止他偷我們的[壞滅足跡](https://scryfall.com/card/mh1/160/crashing-footfalls)來用，至於[勒格文](https://scryfall.com/card/mh2/138/ragavan-nimble-pilferer)就用犀牛擋住就好。
 
 ### 紅藍龍侯
+
 ![紅藍龍侯](https://i.postimg.cc/ss9jDKLG/image.png)
 
 我不是很喜歡這個對局，他們先手[碎帳艾文](https://scryfall.com/card/snc/46/ledger-shredder) + 康牌會讓這個對局變得非常奇怪，因為你的[壞滅足跡](https://scryfall.com/card/mh1/160/crashing-footfalls)會很難結算，還會讓[碎帳艾文](https://scryfall.com/card/snc/46/ledger-shredder)長大到足以擋住犀牛以及你血量無法承受的地步。
@@ -242,6 +241,7 @@ authors:
 與五色動物園一樣，[十會盟地脈](https://scryfall.com/card/mkm/217/leyline-of-the-guildpact)真的是挺無解的。如果他們沒有那對局就會好非常多，因為他們就會是比較爛的犀牛套牌。
 
 ---
+
 ## 換備策略
 
 > OTP: On the Play，即你先手
@@ -249,146 +249,151 @@ authors:
 
 ### 內戰
 
-| Side Out | Side In |
-| :-: | :-: |
-| -1 [銳敏](https://scryfall.com/card/mh2/67/subtlety) | +1 [堅忍](https://scryfall.com/card/mh2/157/endurance)|
-| -1 [肢解](https://scryfall.com/card/mm2/79/dismember) | +1 [提莎娜的縛潮師](https://scryfall.com/card/lci/81/tishanas-tidebinder)|
-| -3 [去死//走開](https://scryfall.com/card/tsr/161/dead-gone) | +1 [爾泰的輕蔑](https://scryfall.com/card/dmu/48/ertais-scorn) |
-| | +2 [神秘干擾](https://scryfall.com/card/eld/58/mystical-dispute) |
+|                           Side Out                           |                                  Side In                                  |
+| :----------------------------------------------------------: | :-----------------------------------------------------------------------: |
+|     -1 [銳敏](https://scryfall.com/card/mh2/67/subtlety)     |          +1 [堅忍](https://scryfall.com/card/mh2/157/endurance)           |
+|    -1 [肢解](https://scryfall.com/card/mm2/79/dismember)     | +1 [提莎娜的縛潮師](https://scryfall.com/card/lci/81/tishanas-tidebinder) |
+| -3 [去死//走開](https://scryfall.com/card/tsr/161/dead-gone) |      +1 [爾泰的輕蔑](https://scryfall.com/card/dmu/48/ertais-scorn)       |
+|                                                              |     +2 [神秘干擾](https://scryfall.com/card/eld/58/mystical-dispute)      |
 
 [去死//走開](https://scryfall.com/card/tsr/161/dead-gone)和[肢解](https://scryfall.com/card/mm2/79/dismember)在這個對局並不好，因為[去死](https://scryfall.com/card/tsr/161/dead-gone)幾乎沒有對象，雖然[走開](https://scryfall.com/card/tsr/161/dead-gone)可以有效的解決一隻犀牛或暫時解決[黯潮龍侯](https://scryfall.com/card/mh2/52/murktide-regent)，但我認爲不值得。[爾泰的輕蔑](https://scryfall.com/card/dmu/48/ertais-scorn)非常優秀，尤其是在後手的時候，而[堅忍](https://scryfall.com/card/mh2/157/endurance)則是幫助我們回收[壞滅足跡](https://scryfall.com/card/mh1/160/crashing-footfalls)，幫助我們中長牌的續戰力。
 
 ### 黑綠醫生
 
-
-| Side Out | Side In |
-| :-: | :-: |
-| -4 [否認之力](https://scryfall.com/card/mh1/52/force-of-negation) | +1 [兄弟反目](https://scryfall.com/card/bro/128/brotherhoods-end) |
-| -1 [寶石洞穴](https://scryfall.com/card/tsr/280/gemstone-caverns) (OTP) | +2 [堅忍](https://scryfall.com/card/mh2/157/endurance) |
-| -1 [易形地窖](https://scryfall.com/card/clb/903/mutavault) (OTD) |  +1 [提莎娜的縛潮師](https://scryfall.com/card/lci/81/tishanas-tidebinder) |
-|  | +1 [曆祚母聖樹](https://scryfall.com/card/neo/266/boseiju-who-endures) |
+|                                Side Out                                 |                                  Side In                                  |
+| :---------------------------------------------------------------------: | :-----------------------------------------------------------------------: |
+|    -4 [否認之力](https://scryfall.com/card/mh1/52/force-of-negation)    |     +1 [兄弟反目](https://scryfall.com/card/bro/128/brotherhoods-end)     |
+| -1 [寶石洞穴](https://scryfall.com/card/tsr/280/gemstone-caverns) (OTP) |          +2 [堅忍](https://scryfall.com/card/mh2/157/endurance)           |
+|    -1 [易形地窖](https://scryfall.com/card/clb/903/mutavault) (OTD)     | +1 [提莎娜的縛潮師](https://scryfall.com/card/lci/81/tishanas-tidebinder) |
+|                                                                         |  +1 [曆祚母聖樹](https://scryfall.com/card/neo/266/boseiju-who-endures)   |
 
 ### 紅黑呼魂
 
-| Side Out | Side In |
-| :-: | :-: |
-| -4 [否認之力](https://scryfall.com/card/mh1/52/force-of-negation) | +1 [兄弟反目](https://scryfall.com/card/bro/128/brotherhoods-end) |
-| -1 [寶石洞穴](https://scryfall.com/card/tsr/280/gemstone-caverns) (OTP)  | +3 [堅忍](https://scryfall.com/card/mh2/157/endurance) |
-|  -1 [易形地窖](https://scryfall.com/card/clb/903/mutavault) (OTD) | +1 [曆祚母聖樹](https://scryfall.com/card/neo/266/boseiju-who-endures) |
+|                                Side Out                                 |                                Side In                                 |
+| :---------------------------------------------------------------------: | :--------------------------------------------------------------------: |
+|    -4 [否認之力](https://scryfall.com/card/mh1/52/force-of-negation)    |   +1 [兄弟反目](https://scryfall.com/card/bro/128/brotherhoods-end)    |
+| -1 [寶石洞穴](https://scryfall.com/card/tsr/280/gemstone-caverns) (OTP) |         +3 [堅忍](https://scryfall.com/card/mh2/157/endurance)         |
+|    -1 [易形地窖](https://scryfall.com/card/clb/903/mutavault) (OTD)     | +1 [曆祚母聖樹](https://scryfall.com/card/neo/266/boseiju-who-endures) |
 
 ### 紅藍龍侯
 
-| Side Out | Side In |
-| :-: | :-: |
-| -1 [提莎娜的縛潮師](https://scryfall.com/card/lci/81/tishanas-tidebinder) | +3 [堅忍](https://scryfall.com/card/mh2/157/endurance) |
-| -1 [銳敏](https://scryfall.com/card/mh2/67/subtlety) | +1 [爾泰的輕蔑](https://scryfall.com/card/dmu/48/ertais-scorn) |
-| -4 [否認之力](https://scryfall.com/card/mh1/52/force-of-negation) | +2 [神秘干擾](https://scryfall.com/card/eld/58/mystical-dispute) |
-| -1 [寶石洞穴](https://scryfall.com/card/tsr/280/gemstone-caverns) (OTP)  | +1 [曆祚母聖樹](https://scryfall.com/card/neo/266/boseiju-who-endures) |
+|                                 Side Out                                  |                                Side In                                 |
+| :-----------------------------------------------------------------------: | :--------------------------------------------------------------------: |
+| -1 [提莎娜的縛潮師](https://scryfall.com/card/lci/81/tishanas-tidebinder) |         +3 [堅忍](https://scryfall.com/card/mh2/157/endurance)         |
+|           -1 [銳敏](https://scryfall.com/card/mh2/67/subtlety)            |     +1 [爾泰的輕蔑](https://scryfall.com/card/dmu/48/ertais-scorn)     |
+|     -4 [否認之力](https://scryfall.com/card/mh1/52/force-of-negation)     |    +2 [神秘干擾](https://scryfall.com/card/eld/58/mystical-dispute)    |
+|  -1 [寶石洞穴](https://scryfall.com/card/tsr/280/gemstone-caverns) (OTP)  | +1 [曆祚母聖樹](https://scryfall.com/card/neo/266/boseiju-who-endures) |
+
 -1 [易形地窖](https://scryfall.com/card/clb/903/mutavault) (OTD)
 
 如果對手沒有[虛空聖杯](https://scryfall.com/card/a25/222/chalice-of-the-void)，就不需用上[曆祚母聖樹](https://scryfall.com/card/neo/266/boseiju-who-endures)。
 
 ### 泰坦護身符
 
-| Side Out | Side In |
-| :-: | :-: |
-| -1 [黯潮龍侯](https://scryfall.com/card/mh2/52/murktide-regent) | +1 [腥紅之月](https://scryfall.com/card/2xm/118/blood-moon) |
-| -1 [肢解](https://scryfall.com/card/mm2/79/dismember) | +2 [紅月賢者](https://scryfall.com/card/tsr/175/magus-of-the-moon) |
-| -2 [亞爾諾熾炎](https://scryfall.com/card/ltr/203/flame-of-anor) | +1 [提莎娜的縛潮師](https://scryfall.com/card/lci/81/tishanas-tidebinder) |
-| -3 [去死//走開](https://scryfall.com/card/tsr/161/dead-gone) | +3 [活旺之力](https://scryfall.com/card/mh1/164/force-of-vigor) |
-| -1 [寶石洞穴](https://scryfall.com/card/tsr/280/gemstone-caverns) (OTP) | +1 [曆祚母聖樹](https://scryfall.com/card/neo/266/boseiju-who-endures) |
- -1 [易形地窖](https://scryfall.com/card/clb/903/mutavault) (OTD) 
+|                                Side Out                                 |                                  Side In                                  |
+| :---------------------------------------------------------------------: | :-----------------------------------------------------------------------: |
+|     -1 [黯潮龍侯](https://scryfall.com/card/mh2/52/murktide-regent)     |        +1 [腥紅之月](https://scryfall.com/card/2xm/118/blood-moon)        |
+|          -1 [肢解](https://scryfall.com/card/mm2/79/dismember)          |    +2 [紅月賢者](https://scryfall.com/card/tsr/175/magus-of-the-moon)     |
+|    -2 [亞爾諾熾炎](https://scryfall.com/card/ltr/203/flame-of-anor)     | +1 [提莎娜的縛潮師](https://scryfall.com/card/lci/81/tishanas-tidebinder) |
+|      -3 [去死//走開](https://scryfall.com/card/tsr/161/dead-gone)       |      +3 [活旺之力](https://scryfall.com/card/mh1/164/force-of-vigor)      |
+| -1 [寶石洞穴](https://scryfall.com/card/tsr/280/gemstone-caverns) (OTP) |  +1 [曆祚母聖樹](https://scryfall.com/card/neo/266/boseiju-who-endures)   |
+
+-1 [易形地窖](https://scryfall.com/card/clb/903/mutavault) (OTD)
 
 我想要保留法力源，因此[兄弟反目](https://scryfall.com/card/bro/128/brotherhoods-end)不夠好。事實上[肢解](https://scryfall.com/card/mm2/79/dismember)和[亞爾諾熾炎](https://scryfall.com/card/ltr/203/flame-of-anor)在這個對局表現不錯，如果你沒有需要上這麼多牌，可以多保留幾張。
 
 ### 走骨行屍
 
-| Side Out | Side In |
-| :-: | :-: |
-| -1 [黯潮龍侯](https://scryfall.com/card/mh2/52/murktide-regent) | +3 [堅忍](https://scryfall.com/card/mh2/157/endurance) |
-| -1 [肢解](https://scryfall.com/card/mm2/79/dismember) | +1 [爾泰的輕蔑](https://scryfall.com/card/dmu/48/ertais-scorn) |
-| -2 [亞爾諾熾炎](https://scryfall.com/card/ltr/203/flame-of-anor) | +2 [神秘干擾](https://scryfall.com/card/eld/58/mystical-dispute) |
-| -3 [去死//走開](https://scryfall.com/card/tsr/161/dead-gone) | +1 [提莎娜的縛潮師](https://scryfall.com/card/lci/81/tishanas-tidebinder)|
+|                             Side Out                             |                                  Side In                                  |
+| :--------------------------------------------------------------: | :-----------------------------------------------------------------------: |
+| -1 [黯潮龍侯](https://scryfall.com/card/mh2/52/murktide-regent)  |          +3 [堅忍](https://scryfall.com/card/mh2/157/endurance)           |
+|      -1 [肢解](https://scryfall.com/card/mm2/79/dismember)       |      +1 [爾泰的輕蔑](https://scryfall.com/card/dmu/48/ertais-scorn)       |
+| -2 [亞爾諾熾炎](https://scryfall.com/card/ltr/203/flame-of-anor) |     +2 [神秘干擾](https://scryfall.com/card/eld/58/mystical-dispute)      |
+|   -3 [去死//走開](https://scryfall.com/card/tsr/161/dead-gone)   | +1 [提莎娜的縛潮師](https://scryfall.com/card/lci/81/tishanas-tidebinder) |
 
 [黯潮龍侯](https://scryfall.com/card/mh2/52/murktide-regent)在這個對局完全沒有用，[亞爾諾熾炎](https://scryfall.com/card/ltr/203/flame-of-anor)抽牌也是表現不錯，如果你沒有需要上這麼多牌，可以多保留幾張。
 
 ### 四色控制
 
-| Side Out | Side In |
-| :-: | :-: |
-| -1 [無斷片密探](https://scryfall.com/card/mh2/292/shardless-agent) | +2 [堅忍](https://scryfall.com/card/mh2/157/endurance) |
-| -1 [黯潮龍侯](https://scryfall.com/card/mh2/52/murktide-regent) | +1 [爾泰的輕蔑](https://scryfall.com/card/dmu/48/ertais-scorn) |
-| -1 [肢解](https://scryfall.com/card/mm2/79/dismember) | +2 [神秘干擾](https://scryfall.com/card/eld/58/mystical-dispute) |
-| -3[去死//走開](https://scryfall.com/card/tsr/161/dead-gone) | +1 [提莎娜的縛潮師](https://scryfall.com/card/lci/81/tishanas-tidebinder) |
-| -1 [寶石洞穴](https://scryfall.com/card/tsr/280/gemstone-caverns) (OTP)  | +1 [曆祚母聖樹](https://scryfall.com/card/neo/266/boseiju-who-endures) |
+|                                Side Out                                 |                                  Side In                                  |
+| :---------------------------------------------------------------------: | :-----------------------------------------------------------------------: |
+|   -1 [無斷片密探](https://scryfall.com/card/mh2/292/shardless-agent)    |          +2 [堅忍](https://scryfall.com/card/mh2/157/endurance)           |
+|     -1 [黯潮龍侯](https://scryfall.com/card/mh2/52/murktide-regent)     |      +1 [爾泰的輕蔑](https://scryfall.com/card/dmu/48/ertais-scorn)       |
+|          -1 [肢解](https://scryfall.com/card/mm2/79/dismember)          |     +2 [神秘干擾](https://scryfall.com/card/eld/58/mystical-dispute)      |
+|       -3[去死//走開](https://scryfall.com/card/tsr/161/dead-gone)       | +1 [提莎娜的縛潮師](https://scryfall.com/card/lci/81/tishanas-tidebinder) |
+| -1 [寶石洞穴](https://scryfall.com/card/tsr/280/gemstone-caverns) (OTP) |  +1 [曆祚母聖樹](https://scryfall.com/card/neo/266/boseiju-who-endures)   |
+
 -1 [易形地窖](https://scryfall.com/card/clb/903/mutavault) (OTD)
 
 [無斷片密探](https://scryfall.com/card/mh2/292/shardless-agent)是巫術時機，與我們的閃現計畫不同，因此我想要下掉1張。如果對手沒有[虛空聖杯](https://scryfall.com/card/a25/222/chalice-of-the-void)，就後手就不需用上[曆祚母聖樹](https://scryfall.com/card/neo/266/boseiju-who-endures)。
 
 ### 紅白燒
 
-| Side Out | Side In |
-| :-: | :-: |
-| -3 [銳敏](https://scryfall.com/card/mh2/67/subtlety) | +1 [兄弟反目](https://scryfall.com/card/bro/128/brotherhoods-end) |
-| -1 [肢解](https://scryfall.com/card/mm2/79/dismember) | +1 [爾泰的輕蔑](https://scryfall.com/card/dmu/48/ertais-scorn) |
-| -1 [寶石洞穴](https://scryfall.com/card/tsr/280/gemstone-caverns) (OTP)  | +2 [神秘干擾](https://scryfall.com/card/eld/58/mystical-dispute) |
-| -1 [易形地窖](https://scryfall.com/card/clb/903/mutavault) (OTD) | +1 [曆祚母聖樹](https://scryfall.com/card/neo/266/boseiju-who-endures) |
+|                                Side Out                                 |                                Side In                                 |
+| :---------------------------------------------------------------------: | :--------------------------------------------------------------------: |
+|          -3 [銳敏](https://scryfall.com/card/mh2/67/subtlety)           |   +1 [兄弟反目](https://scryfall.com/card/bro/128/brotherhoods-end)    |
+|          -1 [肢解](https://scryfall.com/card/mm2/79/dismember)          |     +1 [爾泰的輕蔑](https://scryfall.com/card/dmu/48/ertais-scorn)     |
+| -1 [寶石洞穴](https://scryfall.com/card/tsr/280/gemstone-caverns) (OTP) |    +2 [神秘干擾](https://scryfall.com/card/eld/58/mystical-dispute)    |
+|    -1 [易形地窖](https://scryfall.com/card/clb/903/mutavault) (OTD)     | +1 [曆祚母聖樹](https://scryfall.com/card/neo/266/boseiju-who-endures) |
 
 ### 鱗甲共鳴/錘子：
 
-| Side Out | Side In |
-| :-: | :-: |
-| -4 [否認之力](https://scryfall.com/card/mh1/52/force-of-negation) | +1 [兄弟反目](https://scryfall.com/card/bro/128/brotherhoods-end) |
-| -1 [寶石洞穴](https://scryfall.com/card/tsr/280/gemstone-caverns) (OTP)  | +3 [活旺之力](https://scryfall.com/card/mh1/164/force-of-vigor) |
-| -1 [易形地窖](https://scryfall.com/card/clb/903/mutavault) (OTD) | +1 [曆祚母聖樹](https://scryfall.com/card/neo/266/boseiju-who-endures) |
+|                                Side Out                                 |                                Side In                                 |
+| :---------------------------------------------------------------------: | :--------------------------------------------------------------------: |
+|    -4 [否認之力](https://scryfall.com/card/mh1/52/force-of-negation)    |   +1 [兄弟反目](https://scryfall.com/card/bro/128/brotherhoods-end)    |
+| -1 [寶石洞穴](https://scryfall.com/card/tsr/280/gemstone-caverns) (OTP) |    +3 [活旺之力](https://scryfall.com/card/mh1/164/force-of-vigor)     |
+|    -1 [易形地窖](https://scryfall.com/card/clb/903/mutavault) (OTD)     | +1 [曆祚母聖樹](https://scryfall.com/card/neo/266/boseiju-who-endures) |
 
 ### 五色動物園
 
-| Side Out | Side In |
-| :-: | :-: |
-| -4 [否認之力](https://scryfall.com/card/mh1/52/force-of-negation) | +1 [兄弟反目](https://scryfall.com/card/bro/128/brotherhoods-end) |
-| -1 [寶石洞穴](https://scryfall.com/card/tsr/280/gemstone-caverns) (OTP)  | +3 [活旺之力](https://scryfall.com/card/mh1/164/force-of-vigor) |
-| -1 [易形地窖](https://scryfall.com/card/clb/903/mutavault) (OTD) | +1 [曆祚母聖樹](https://scryfall.com/card/neo/266/boseiju-who-endures) |
+|                                Side Out                                 |                                Side In                                 |
+| :---------------------------------------------------------------------: | :--------------------------------------------------------------------: |
+|    -4 [否認之力](https://scryfall.com/card/mh1/52/force-of-negation)    |   +1 [兄弟反目](https://scryfall.com/card/bro/128/brotherhoods-end)    |
+| -1 [寶石洞穴](https://scryfall.com/card/tsr/280/gemstone-caverns) (OTP) |    +3 [活旺之力](https://scryfall.com/card/mh1/164/force-of-vigor)     |
+|    -1 [易形地窖](https://scryfall.com/card/clb/903/mutavault) (OTD)     | +1 [曆祚母聖樹](https://scryfall.com/card/neo/266/boseiju-who-endures) |
 
 因為[十會盟地脈](https://scryfall.com/card/mkm/217/leyline-of-the-guildpact)的關係，[腥紅之月](https://scryfall.com/card/2xm/118/blood-moon)就沒有用了，因為基本地還是會保有所有基本地類別。
 
 ### 五色犀牛
 
-| Side Out | Side In |
-| :-: | :-: |
-| -1 [銳敏](https://scryfall.com/card/mh2/67/subtlety) | +1 [爾泰的輕蔑](https://scryfall.com/card/dmu/48/ertais-scorn)  |
-| -1 [肢解](https://scryfall.com/card/mm2/79/dismember) | +2 [神秘干擾](https://scryfall.com/card/eld/58/mystical-dispute) |
-| -3 [去死//走開](https://scryfall.com/card/tsr/161/dead-gone) | +3 [活旺之力](https://scryfall.com/card/mh1/164/force-of-vigor) |
-| -1 [提莎娜的縛潮師](https://scryfall.com/card/lci/81/tishanas-tidebinder) |+1 [曆祚母聖樹](https://scryfall.com/card/neo/266/boseiju-who-endures)  |
-| -1 [寶石洞穴](https://scryfall.com/card/tsr/280/gemstone-caverns) (OTP)  |  |
- -1 [易形地窖](https://scryfall.com/card/clb/903/mutavault) (OTD)
+|                                 Side Out                                  |                                Side In                                 |
+| :-----------------------------------------------------------------------: | :--------------------------------------------------------------------: |
+|           -1 [銳敏](https://scryfall.com/card/mh2/67/subtlety)            |     +1 [爾泰的輕蔑](https://scryfall.com/card/dmu/48/ertais-scorn)     |
+|           -1 [肢解](https://scryfall.com/card/mm2/79/dismember)           |    +2 [神秘干擾](https://scryfall.com/card/eld/58/mystical-dispute)    |
+|       -3 [去死//走開](https://scryfall.com/card/tsr/161/dead-gone)        |    +3 [活旺之力](https://scryfall.com/card/mh1/164/force-of-vigor)     |
+| -1 [提莎娜的縛潮師](https://scryfall.com/card/lci/81/tishanas-tidebinder) | +1 [曆祚母聖樹](https://scryfall.com/card/neo/266/boseiju-who-endures) |
+|  -1 [寶石洞穴](https://scryfall.com/card/tsr/280/gemstone-caverns) (OTP)  |                                                                        |
+
+-1 [易形地窖](https://scryfall.com/card/clb/903/mutavault) (OTD)
 
 ---
+
 ## 其他問題
 
 ### 推薦五色犀牛嗎？
+
 不推薦，我覺得五色犀牛非常不穩定，有[十會盟地脈](https://scryfall.com/card/mkm/217/leyline-of-the-guildpact)還不一定會贏，一定要配合[骸龍後裔](https://scryfall.com/card/mh2/234/scion-of-draco)才會顯現出這套牌的宰制力。而且，五色犀牛對於控制類型的套牌更為劣勢，最近還有玩家重新投入創的懷抱，用[盡歸塵土](https://scryfall.com/card/cmm/800/all-is-dust)或者[裂地泰坦](https://scryfall.com/card/2xm/292/sundering-titan)來制裁[十會盟地脈](https://scryfall.com/card/mkm/217/leyline-of-the-guildpact)。最後，隨著大家對於這套牌都有所準備，這套牌能帶來的優勢也變得越來越少。
 
-
 ### 地牌要找哪個顏色優先？
+
 我認為是基於你當下的對局或者手牌，要帶藍是肯定的，最主要是你希望第3和4回時要有兩點紅還是兩點綠。還有一點，在內戰, 紅黑呼魂和紅藍龍侯這些對局中血量很重要，如果當下扣兩滴血不是必要的，我會找基本地。
 
-
 ### 對於準備比賽有沒有什麼建議？
+
 測試，大量的測試。測試的用意不是測出哪張牌好不好用，或者換備要怎麼換（因為我都寫在這裡了），測試最主要是增進你對於自己套牌還有對局的實際理解，讓你在比賽時能比對手擁有更多的經驗，以及減少失誤的次數。
 
 不用在乎你在測試時一直輸，我們要的就是看到自己的短處然後改進，贏的場次就留給比賽吧！
 
-
 ### 還有什麼建議嗎？
+
 千萬不要忘記Suspend觸發！！！慢一回合的影響絕對是巨大的，絕對建議用任何方法來提醒自己，例如放骰子在牌庫頂，這樣要抽牌前就不會忘記，千萬不要一失足成千古恨。
 
 對手如果是有[提莎娜的縛潮師](https://scryfall.com/card/lci/81/tishanas-tidebinder)的套牌，請注意一定要在對手沒有辦法施放它時找地，後期可能沒有什麼差，但是前期如果被炸一塊地就會被拖慢節奏。
 
 還有一點，如果你有任何護身符或幸運物，我建議要帶在身邊。寧願在比賽中輸得一蹋糊塗，然後怪罪它們沒有起作用，也不要最後怪罪自己沒有帶著它們。我發現當我帶著護身手環和項鍊時，在比賽時感到更加安心，也對自己更有信心。這並不是無理的迷信，而是在漫長的對局和決策中，讓自己在迷失時有一個安全感的歸宿。
 
-
 ---
+
 ## 結語
 
 回顧我上次撰寫鐵木爾犀牛套牌介紹時，我還在為自己拿到RC資格驚嘆，而現在的我已經拿到了更高階的PT資格。想到這將會是我第一次參加PT比賽真的是既興奮又期待啊啊啊啊啊！！！
