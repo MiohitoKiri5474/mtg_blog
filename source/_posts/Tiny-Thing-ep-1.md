@@ -3,10 +3,12 @@ title: "那些影響對局的小事情 EP 1 找地篇"
 date: "2024-07-16 14:29:06"
 tags:
   - "MiohitoKiri5474"
-  - "Playing Skills"
 cover: "https://guildmagesforum.tw/images/cultivate.jpg"
 thumbnail: "https://guildmagesforum.tw/images/cultivate.jpg"
 excerpt: "你為什麼要找這塊地？"
+categories:
+  - "Others"
+  - "Playing Skills"
 authors:
   - "MiohitoKiri5474"
 ---

@@ -2,12 +2,10 @@
 title: "豬鼻子的艾卓荒野(WOE)限制賽初探 — 黑色"
 date: 2023-09-05 17:35:02
 tags:
-  - cephille
-  - WOE
-  - Limited
+  - "cephille"
 categories:
-  - Limited
-  - WOE-Limited
+  - "Limited"
+  - "WOE"
 excerpt: "夢魘與巫婆、惡人與...滿坑滿谷的老鼠！艾卓荒野(WOE)限制賽中黑色牌的評分與介紹看這邊！"
 authors:
   - "cephille"
@@ -326,4 +324,3 @@ authors:
 ---
 
 以上就是這次WOE黑色的限制賽分析，希望大家都能在接下來的現開與輪抽賽中找到屬於自己的樂趣！
-

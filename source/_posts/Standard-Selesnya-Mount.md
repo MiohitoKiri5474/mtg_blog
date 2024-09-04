@@ -1,13 +1,14 @@
 ---
-
 title: "羈絆合一：標準白綠坐騎"
 date: "2024-06-04 21:17:13"
 tags:
-  - "Standard"
   - "JerobaMTG"
 cover: "https://i.postimg.cc/44PRcJKD/thumb.png"
 thumbnail: "https://i.postimg.cc/44PRcJKD/thumb.png"
 excerpt: "給熾淨駒一對翅膀～"
+categories:
+  - "Construct"
+  - "Standard"
 authors:
   - "JerobaMTG"
 ---
@@ -17,7 +18,6 @@ authors:
 ![](https://i.postimg.cc/44PRcJKD/thumb.png)
 
 坐騎是《光雷譯鏢客》的代表性異能之一，限制賽在[獸群語者米莉安](https://scryfall.com/card/otj/221/miriam-herd-whisperer)的加持下可說是虎虎生風，但如果只看坐騎本身的話體格沒有特別突出，又需要攻擊才能觸發異能，標準種族套牌玩得起來嗎？
-
 
 ## 套牌介紹
 
@@ -40,13 +40,11 @@ authors:
 
 ![](https://i.postimg.cc/0yLTvj3w/Remove-prot.png)
 
-
 ## 實戰演示
 
 {%youtube g24GNG8YEVY %}
 
 第一場對手是潔思凱神器，主打鋼彈工廠[擬像融合儀](https://scryfall.com/card/big/6/simulacrum-synthesizer)。對手很順的三回[擬像融合儀](https://scryfall.com/card/big/6/simulacrum-synthesizer)、四回[掠束大隊](https://scryfall.com/card/bro/165/skitterbeam-battalion)，場上瞬間鋪滿三個試作[掠束大隊](https://scryfall.com/card/bro/165/skitterbeam-battalion)與三個8/8[組構體](https://scryfall.com/card/tbig/3/construct)。筆者這邊雖然有[叛逃蟲械斯勒夫](https://scryfall.com/card/one/33/skrelv-defector-mite)、[熾淨駒](https://scryfall.com/card/otj/232/seraphic-steed)、[可動家舍](https://scryfall.com/card/otj/245/mobile-homestead)與[亞廷勇士威利杜克](https://scryfall.com/card/otj/239/wylie-duke-atiin-hero)，面對這個場面只能乾瞪眼...於是[大天使艾紫培](https://scryfall.com/card/mom/6/archangel-elspeth)翩然降臨。[大天使艾紫培](https://scryfall.com/card/mom/6/archangel-elspeth)給了[熾淨駒](https://scryfall.com/card/otj/232/seraphic-steed)一對翅膀，飛越對手防線賺取血量與派出拖延攻勢用的[天使](https://scryfall.com/card/totj/2/angel)衍生物，儘管對手後來拍出延勢的[雙箭神射手](https://scryfall.com/card/neo/168/twinshot-sniper)試圖擋下[熾淨駒](https://scryfall.com/card/otj/232/seraphic-steed)的攻勢，但在筆者連一拉一的[末日劫戰士](https://scryfall.com/card/mom/185/doomskar-warrior)為[熾淨駒](https://scryfall.com/card/otj/232/seraphic-steed)補上踐踏，最終踩過[雙箭神射手](https://scryfall.com/card/neo/168/twinshot-sniper)成功逆轉。
-
 
 {%youtube XgO50AlfYJw %}
 

@@ -3,11 +3,9 @@ title: "豬鼻子的艾卓荒野(WOE)限制賽初探 — 紅色"
 date: 2023-09-05 17:36:45
 tags:
   - cephille
-  - WOE
-  - Limited
 categories:
-  - Limited
-  - WOE-Limited
+  - "Limited"
+  - "WOE"
 cover: "https://guildmagesforum.tw/images/WOE-Red.jpg"
 thumbnail: "https://guildmagesforum.tw/images/WOE-Red.jpg"
 excerpt: "鬼怪、鼠群、大無畏的突擊！艾卓荒野(WOE)限制賽中紅色牌的評分與介紹看這邊！"

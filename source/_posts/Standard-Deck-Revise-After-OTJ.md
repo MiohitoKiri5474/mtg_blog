@@ -1,16 +1,18 @@
 ---
-
 title: "《光雷驛鏢客》舊科技新譯"
 date: "2024-05-01 16:42:45"
 tags:
-  - "Standard"
   - "JerobaMTG"
 cover: "https://i.postimg.cc/JnJFM7kf/Guidestone-Compass.jpg"
 thumbnail: "https://i.postimg.cc/JnJFM7kf/Guidestone-Compass.jpg"
 excerpt: "標準牌池已經達到頂峰了，是時候來回顧舊科技看看有沒有什麼變化"
+categories:
+  - "Construct"
+  - "Standard"
 authors:
   - "JerobaMTG"
 ---
+
 ## Before We Start
 
 隨著《光雷驛鏢客》與《滿載而歸》的推出，改制為三年的標準牌池終於達到了頂峰。利用這個機會，筆者來給過去在本站發表過的標準套牌做個本季最後改版，聊聊這段時間獲得那些補強吧！沒有更動或是只增加快地的套牌會直接略過，有興趣的讀者請善用作者功能搜尋過去文章閱覽。

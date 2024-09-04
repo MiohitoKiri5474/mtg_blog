@@ -3,14 +3,12 @@ title: "跳鼠來襲：標準黑白老鼠"
 date: "2023-10-24 13:48:26"
 tags:
   - "JerobaMTG"
-  - "Standard"
 excerpt: "當老鼠拿起金圓機關槍時會發生什麼事？"
 cover: "https://i.imgur.com/yuht3fg.jpg"
 thumbnail: "https://i.imgur.com/yuht3fg.jpg"
-
 categories:
-  - Construct
-  - Standard
+  - "Construct"
+  - "Standard"
 authors:
   - "JerobaMTG"
 ---

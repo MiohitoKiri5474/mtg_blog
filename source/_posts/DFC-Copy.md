@@ -2,16 +2,14 @@
 title: "轉化式雙面牌與複製效應"
 date: 2023-09-28 12:00:00
 tags:
-  - JruMTG
-  - MTG Rule
-
+  - "JruMTG"
 cover: "https://i.imgur.com/NwTeh61.png"
 thumbnail: "https://i.imgur.com/NwTeh61.png"
 
 excerpt: "當我嘗試複製一個轉化式雙面牌時會得到甚麼?"
 
 categories:
-  - MTG-Rules
+  - "MTG Rules"
 authors:
   - "JruMTG"
 ---
@@ -166,4 +164,3 @@ authors:
 轉化式雙面牌與複製效應運作的底層邏輯其實並不複雜，但卻十分考驗對規則基本定義的理解度，本文所提及規則條目與情境，大致可包辦實戰中可能遇到的規則問題，只要理解了本文情境題中的規則處理原則，即使遇到更複雜的問題也可由底層邏輯逐步分析來破解。
 
 這次為了收斂問題，我們只專注探討了如何辨別正反面狀態，諸如Layer等其他細節就容我在此挖個坑，相信總有一天我會把這個坑填上，徹底的來聊聊Layer究竟該如何解析。
-

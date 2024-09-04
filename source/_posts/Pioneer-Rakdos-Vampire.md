@@ -2,11 +2,13 @@
 title: "PT MKM上的紅黑吸血鬼探討"
 date: "2024-03-01 15:29:44"
 tags:
-  - "Pioneer"
   - "cephille"
 cover: "https://i.postimg.cc/76wnqf1y/WYdgQmG.jpg"
 thumbnail: "https://i.postimg.cc/76wnqf1y/WYdgQmG.jpg"
 excerpt: "驕傲血領索霖：五年寒窗少人問，一朝成名天下知"
+categories:
+  - "Construct"
+  - "Pioneer"
 authors:
   - "cephille"
 ---

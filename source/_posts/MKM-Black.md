@@ -2,12 +2,13 @@
 title: "卡洛夫莊園謀殺案（MKM）限制賽介紹 — 黑色"
 date: "2024-02-01 11:28:24"
 tags:
-  - "MKM"
-  - "Limited"
   - "中二紳士"
 cover: "https://media.wizards.com/2024/images/daily/ycSGbmZo9QxQ.png"
 thumbnail: "https://media.wizards.com/2024/images/daily/ycSGbmZo9QxQ.png"
 excerpt: "你出一隻，我殺一隻就是黑色的浪漫！來看看MKM的黑色牌吧！"
+categories:
+  - "Limited"
+  - "MKM"
 authors:
   - "bruce1235566"
 ---
@@ -19,7 +20,7 @@ authors:
 ## 評分標準
 
 5.0：無條件必拿
-4.0：有首選價值 
+4.0：有首選價值
 3.5：強度夠但不一定要首選
 3.0：高於平均（會很希望他能放進最終牌組）
 2.5：平均水準，maybe輪抽第6、第7 pick左右
@@ -85,7 +86,8 @@ authors:
 
 **中二紳士:** 4.0
 
-慢速套牌使用的掃場，幫你在劣勢扳回局勢，額外效應比較像是為構築賽設計，但是可以知道對手套牌還有什麼以及對手手牌還有什麼也是不錯的，如果對手墳場有基本地也可以幫他全部移了。 
+慢速套牌使用的掃場，幫你在劣勢扳回局勢，額外效應比較像是為構築賽設計，但是可以知道對手套牌還有什麼以及對手手牌還有什麼也是不錯的，如果對手墳場有基本地也可以幫他全部移了。
+
 > 這樣做不見得很好就是了，會讓對手抽到廢牌的機率變低很多，除非對手卡色卡地。
 
 ![084](https://cards.scryfall.io/large/front/2/5/256c8b6e-4031-458b-8eb9-bbfe58405a0c.jpg?1705425380)
@@ -99,6 +101,7 @@ authors:
 **中二紳士:** 1.0
 
 幫自己磨牌讓自己更好觸發蒐證（collect evidence），但是體質太低沒有穿透，如果想蒐證，還是使用刺探系列的單卡更安全一點
+
 > 一不小心炸彈全在墳場了，卡地的時候也很擔心磨地下去。
 
 ![086](https://cards.scryfall.io/large/front/2/1/21d6accd-167a-4b21-a488-44d54cdfa608.jpg?1705433218)
@@ -142,6 +145,7 @@ authors:
 **中二紳士:** 3.0
 
 簡易小殺，不能被康讓你在殺一些有守護（Ward）異能的生物更簡單。
+
 > 就是想讓你拿來殺那些偽裝（Disguise）的生物。
 
 ![093](https://cards.scryfall.io/large/front/a/b/abb6184c-e3d0-4275-b25b-95e4a64b26f3.jpg?1705609154)
@@ -190,7 +194,7 @@ authors:
 
 **中二紳士:** 2.5
 
-常見的死後復活戰鬥詭計這次做成U卡了，能幫你的 Disguise 生物節省翻回來的費用爬回來或者再利用一次進場效益都是不錯的，可惜會給  suspect，只利於進攻不利於防守。
+常見的死後復活戰鬥詭計這次做成U卡了，能幫你的 Disguise 生物節省翻回來的費用爬回來或者再利用一次進場效益都是不錯的，可惜會給 suspect，只利於進攻不利於防守。
 
 ![101](https://cards.scryfall.io/large/front/0/c/0c2ca1e7-e0de-4d29-a81b-62185ccd295f.jpg?1705688446)
 
@@ -202,14 +206,15 @@ authors:
 
 **中二紳士:** 2.5
 
-4/3/4的生物很扛，後期搭配  collect evidence，還能幫你奶一口4，契合黑綠體系的樸實單卡。
+4/3/4的生物很扛，後期搭配 collect evidence，還能幫你奶一口4，契合黑綠體系的樸實單卡。
 
 ![103](https://cards.scryfall.io/large/front/3/1/317800b3-6b2d-4de6-8e44-7e54dd623055.jpg?1706119340)
 
 **中二紳士:** 3.5
 
 靈活度夠高的殺，是個更好用的[Disembowel](https://scryfall.com/card/rvr/74/disembowel)，用於生物攻防也好，直接殺一隻也罷，強力單卡。
->[Barbed Servitor](https://scryfall.com/card/mkm/77/barbed-servitor)瑟瑟發抖。
+
+> [Barbed Servitor](https://scryfall.com/card/mkm/77/barbed-servitor)瑟瑟發抖。
 
 ![104](https://cards.scryfall.io/large/front/4/b/4bc803ad-f8a2-4198-a8a6-8d987b3d00fb.jpg?1706201249)
 
@@ -245,7 +250,7 @@ authors:
 
 **中二紳士:** 2.0
 
-經典的2費棄牌仔，exile再稍微好一點，阻止對手  collect evidence。
+經典的2費棄牌仔，exile再稍微好一點，阻止對手 collect evidence。
 
 ![110](https://cards.scryfall.io/large/front/0/7/078933b3-6d82-45f2-94e8-addf54cf1704.jpg?1705608607)
 
@@ -253,9 +258,8 @@ authors:
 
 6/6/5 飛行，對手要指他必須先犧牲一隻，無情2換1，觸發異能也很強，美中不足大概就是指定色太重吧。
 
-
 ## 後記
 
 大家好，我是中二紳士，這次有幸被 **cephille** 邀請來寫這次的限制賽介紹，這次是我第一次做這樣的單卡評分介紹，希望大家喜歡。
 
-這次的新系列MTGA上的話我也會直播抽個兩三把，無聊的話可以來看看， [中二紳士想會打牌](https://www.facebook.com/bruce1235566) 這是我的粉專，平常有打實體賽的心得或者MTGA上有抽得不錯的套牌都會Po在上面，走過路過可以按個讚 uwub 
+這次的新系列MTGA上的話我也會直播抽個兩三把，無聊的話可以來看看， [中二紳士想會打牌](https://www.facebook.com/bruce1235566) 這是我的粉專，平常有打實體賽的心得或者MTGA上有抽得不錯的套牌都會Po在上面，走過路過可以按個讚 uwub

@@ -3,9 +3,9 @@ title: "光雷驛鏢客機制解析"
 date: "2024-03-29 15:13:51"
 tags:
   - "JruMTG"
-  - "MTG Rule"
-  - "OTJ"
+categories:
   - "Limited"
+  - "OTJ"
 authors:
   - "JruMTG"
 cover: "https://images.ctfassets.net/s5n2t79q9icq/4VBECMvWFGU6QL69sRtxsq/2abcd63683ee80c11422cdf43631a7fb/Wallpaper_2560x1600_Oko__the_Ringleader.jpg"

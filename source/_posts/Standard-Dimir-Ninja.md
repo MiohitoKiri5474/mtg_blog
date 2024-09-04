@@ -2,17 +2,13 @@
 title: "機敏閃避：標準藍黑忍者"
 date: 2023-10-01 16:30:00
 tags:
-  - JerobaMTG
-  - Standard
-
+  - "JerobaMTG"
 excerpt: "隨著《艾卓荒野》(WOE)的發售，藍黑仙靈一躍進入大眾視野，藍黑中速也以穩健的表現盤據標準meta一隅，本回要討論的藍黑套牌不是上述兩副，而是意外獲得補強的藍黑忍者。"
-
 cover: "https://i.imgur.com/7FQFNy3.jpg"
 thumbnail: "https://i.imgur.com/7FQFNy3.jpg"
-
 categories:
-  - Construct
-  - Standard
+  - "Construct"
+  - "Standard"
 authors:
   - "JerobaMTG"
 ---
@@ -97,4 +93,3 @@ authors:
 ![](https://i.imgur.com/jmnU5s4.png)
 
 就如前文所敘，NEO忍者將浪客也納入種族支援的一環，讓套牌成長不受限於神河環境，以標準牌池來說，[善變舞咒客](https://cards.scryfall.io/large/front/c/f/cf28c75d-1fb3-44cc-b651-5b2830e22add.jpg)、[金圓蒐集靈](https://cards.scryfall.io/large/front/e/d/edb5f0cc-c826-4e7b-882c-63f6e51fa932.jpg)皆能獲得種族加成，[約格莫夫判官基克斯](https://cards.scryfall.io/large/front/2/c/2c76f7e0-37e7-4e87-93a3-a25ba0674645.jpg)雖然不是浪客，但在小飛兵眾多的忍者套牌中很容易抽到牌，也可以直接挪位置放入[啟示天災希歐蕊](https://cards.scryfall.io/large/front/d/6/d67be074-cdd4-41d9-ac89-0a0456c4e4b2.jpg)、[仁慈仙王塔萊恩](https://cards.scryfall.io/large/front/6/2/62a6b452-c796-45c6-b4d1-0ae3d675e38e.jpg)等旗艦生物，改強的方式要多少有多少，找出最適合自己的打法才是正途。筆者衷心希望每位玩家都能打得開心、玩得快樂。
-

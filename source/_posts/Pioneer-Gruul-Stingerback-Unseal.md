@@ -1,13 +1,14 @@
 ---
-
 title: "猛烈轟炸：先驅蠍龍解印"
 date: "2024-05-01 16:24:14"
 tags:
-  - "Pioneer"
   - "JerobaMTG"
 cover: "https://i.postimg.cc/Jzvds8nx/thumb.jpg"
 thumbnail: "https://i.postimg.cc/Jzvds8nx/thumb.jpg"
 excerpt: "刺針背懼龍在先驅有搞頭？！"
+categories:
+  - "Construct"
+  - "Pioneer"
 authors:
   - "JerobaMTG"
 ---
@@ -28,7 +29,6 @@ authors:
 
 [套牌列表](https://www.mtggoldfish.com/deck/6351724#paper)
 ![](https://i.postimg.cc/ZRzcTJcd/stingerbackdeck.jpg)
-
 
 這副套牌本質上是古魯強攻，除了作為核心元件的[刺針背懼龍](https://scryfall.com/card/otj/147/stingerback-terror)、[薩坎解印](https://scryfall.com/card/m19/155/sarkhans-unsealing)與一費魔法力基底[羅堰妖精](https://scryfall.com/card/dom/168/llanowar-elves)、[妖精秘教徒](https://scryfall.com/card/m15/173/elvish-mystic)外，[薩坎解印](https://scryfall.com/card/m19/155/sarkhans-unsealing)的威猛需求也讓新系列的[莽野幫開路人](https://scryfall.com/card/otj/173/outcaster-trailblazer)成為打手兼加速兼補充手牌的重要元件。再來就是去除兼打手的定番[碎骨巨人](https://scryfall.com/card/eld/115/bonecrusher-giant-stomp)以及兩費力量4的[力量模範](https://scryfall.com/card/akh/165/exemplar-of-strength)填補曲線。
 

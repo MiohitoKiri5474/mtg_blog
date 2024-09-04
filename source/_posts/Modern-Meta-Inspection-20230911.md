@@ -2,16 +2,13 @@
 title: "Modern 環境考察 2023/09/11"
 date: 2023-09-11 16:59:23
 tags:
-  - MiohitoKiri5474
-  - Modern
-  - Inspection
+  - "MiohitoKiri5474"
 thumbnail: "https://guildmagesforum.tw/images/not-dead-after-all.jpg"
 cover: "https://guildmagesforum.tw/images/not-dead-after-all.jpg"
 excerpt: "MITQ#5 開打啦，是時候來更新一點資訊囉。"
-
 categories:
-  - Construct
-  - Modern
+  - "Construct"
+  - "Modern"
 
 authors:
   - "MiohitoKiri5474"
@@ -139,4 +136,3 @@ Hardened Scales 則是可以很過分的做一個 X = 0 的弩砲 BM 對手.....
 這週我們回顧一下過去兩週近代賽場的變動，如果要我選出最近適合打 RCQ 的套牌，我會推薦 4C Rhinos，他打的比較 aggressive 一些，但如果確定會有 Living End 玩家參賽而且比例較高的話，會推薦打 Omnath, Burn, Tron 或是比較 meta 邊緣的牌組，賭對手沒有做好應對（不過這是建立在有練好牌的前提）。
 下週預計會是回顧先驅賽場，雖然 MIT 要等到十一月才打，不過先做點準備肯定是不錯的，先開始收牌、調整牌組，加減做一些練習。
 希望這個系列可以作為常態性的文章一路寫下去，如果有什麼意見或是想討論的，都歡迎在下方留言，我們下週見！
-

@@ -2,7 +2,6 @@
 title: "標準紅快的新思路"
 date: "2024-01-10 12:30:50"
 tags:
-  - "Standard"
   - "yu-chen"
 cover: "https://i.imgur.com/WHN8nHx.jpg"
 thumbnail: "https://i.imgur.com/WHN8nHx.jpg"

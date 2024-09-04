@@ -3,11 +3,9 @@ title: "豬鼻子的艾卓荒野(WOE)限制賽初探 — 多色、神器、地"
 date: 2023-09-05 16:38:58
 tags:
   - cephille
-  - WOE
-  - Limited
 categories:
-  - Limited
-  - WOE-Limited
+  - "Limited"
+  - "WOE"
 cover: "https://guildmagesforum.tw/images/WOE-Multicolor-cover.jpg"
 thumbnail: "https://guildmagesforum.tw/images/WOE-Multicolor-cover.jpg"
 excerpt: "而一個系列限制賽中通常十個雙色色組都有對應的思路，艾卓荒野(WOE)也不例外！讓我們在艾卓時空中的傳奇人物的帶領下來認識雙色的限制賽構築方向，並進一步認識WOE中多色、神器以及地牌的評分與介紹吧！"
@@ -489,4 +487,3 @@ authors:
 ---
 
 以上就是這次WOE多色、神器及地的限制賽分析，希望大家都能在接下來的現開與輪抽賽中找到屬於自己的樂趣！
-

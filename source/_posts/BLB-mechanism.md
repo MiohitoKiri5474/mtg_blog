@@ -3,9 +3,9 @@ title: "斑隆洛機制解析"
 date: "2024-07-11 16:08:36"
 tags:
   - "JruMTG"
-  - "MTG Rule"
-  - "BLB"
+categories:
   - "Limited"
+  - "BLB"
 authors:
   - "JruMTG"
 cover: "https://media.wizards.com/2024/images/daily/a50f2e8a33.jpg"

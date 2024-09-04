@@ -2,8 +2,6 @@
 title: "Guildmages' Forum 寫手們的第四季MIT賽場回顧"
 date: "2023-11-27 23:27:29"
 tags:
-  - "MIT"
-  - "Pioneer"
   - "MiohitoKiri5474"
   - "cephille"
   - "T1BloodMoon"
@@ -14,6 +12,7 @@ thumbnail: "https://i.imgur.com/uIpdNUO.png"
 excerpt: "第四季MIT結束了，想知道這次Guildmages' Forum有參賽的選手們的心得與心路歷程嗎？想知道MIT賽場有什麼有趣的活動以及軼事嗎？那你一定不能錯過這一篇！"
 categories:
   - "Others"
+  - "MIT"
 authors:
   - "MiohitoKiri5474"
   - "cephille"

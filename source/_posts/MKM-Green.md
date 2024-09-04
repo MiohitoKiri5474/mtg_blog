@@ -2,12 +2,13 @@
 title: "卡洛夫莊園謀殺案（MKM）限制賽介紹 — 綠色"
 date: "2024-02-02 11:04:49"
 tags:
-  - "MKM"
-  - "Limited"
   - "GY_Player"
 cover: "https://media.wizards.com/2023/images/daily/KtnNh2uB95HD.png"
 thumbnail: "https://media.wizards.com/2023/images/daily/KtnNh2uB95HD.png"
 excerpt: "在多色環境裡，綠色就是KING!"
+categories:
+  - "Limited"
+  - "MKM"
 authors:
   - "GY_Player"
 ---

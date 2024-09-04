@@ -3,11 +3,12 @@ title: "滿月呼喚：先驅古魯狼人"
 date: "2024-01-23 11:10:18"
 tags:
   - "JerobaMTG"
-  - "LCI"
-  - "Pioneer"
 excerpt: "兩個依尼翠環境是否足夠撐起先驅狼人種族呢？"
 cover: "https://i.imgur.com/Sv9G5Pm.jpg"
 thumbnail: "https://i.imgur.com/Sv9G5Pm.jpg"
+categories:
+  - "Construct"
+  - "Pioneer"
 authors:
   - "JerobaMTG"
 ---

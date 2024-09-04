@@ -3,7 +3,8 @@ title: "如何描述一個物件？"
 date: "2023-11-30 23:48:43"
 tags:
   - "JruMTG"
-  - "MTG Rule"
+categories:
+  - "MTG Rules"
 cover: "https://i.imgur.com/rlgVpG8.jpg"
 thumbnail: "https://i.imgur.com/rlgVpG8.jpg"
 excerpt: "詛咒圖騰像跟抑制力場，誰可以對忍術生效呢？"

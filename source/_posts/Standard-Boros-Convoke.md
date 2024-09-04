@@ -3,11 +3,12 @@ title: "天下武功，惟快不破！MIT八強紅白召集賽報"
 date: "2024-06-06 12:44:42"
 tags:
   - "JerryYang"
-  - "Standard"
-  - "MIT"
 cover: "https://i.postimg.cc/3rbkH0YP/knight-errand-of-eos-by-kevin-sidharta-v0-EGhjx-EUd2tlq-EX0n-JBHBFDSfys7-Zxa-DJ99-PUwgq-At-NE.webp"
 thumbnail: "https://i.postimg.cc/3rbkH0YP/knight-errand-of-eos-by-kevin-sidharta-v0-EGhjx-EUd2tlq-EX0n-JBHBFDSfys7-Zxa-DJ99-PUwgq-At-NE.webp"
 excerpt: "紅白召集大軍壓境MIT#6！來看看傑利羊這篇賽報吧！"
+categories:
+  - "Construct"
+  - "Standard"
 authors:
   - "JerryYang"
 ---
@@ -20,7 +21,7 @@ authors:
 
 ![](https://i.postimg.cc/c4cVPwRS/d579ccad-6cb0-4551-95c3-2ff175c1fb2c.jpg)
 
-[MIT#6_紅白召集牌表 by 楊承孟](https://melee.gg/Decklist/View/401911)
+[MIT#6\_紅白召集牌表 by 楊承孟](https://melee.gg/Decklist/View/401911)
 
 ![](https://cards.scryfall.io/large/front/5/2/522aa72b-2b8c-484c-872b-f082101cee35.jpg?1699043186)
 
@@ -39,29 +40,35 @@ authors:
 預賽成績：5-0-2 排名：第2
 
 ### R1 艾斯波控制 2-0 後手
+
 第一盤：在看到對手的套牌正編掃場只有5費的[致命掩蓋](https://scryfall.com/card/mkm/83/deadly-cover-up)時，肯定就是鋪好鋪滿用力打，然後就順順的打死了。
 第二盤：對手的備牌是2張[短時封鎖](https://scryfall.com/card/dmu/36/temporary-lockdown)，1張[險峻路途](https://scryfall.com/card/vow/124/path-of-peril)，沒有二費的[害蟲防治](https://scryfall.com/card/big/22/pest-control)，所以遊戲計畫是透過[戰領召令](https://scryfall.com/card/mkm/242/warleaders-call)以及[靈魂洞窟](https://scryfall.com/card/lci/269/cavern-of-souls)相互配合穩定打血獲勝。
 
 ### R2 艾斯波中速 1-1 後手
+
 第一盤：2回召集帶走。
 第二盤：在後期被[啟示天災希歐蕊](https://scryfall.com/card/dmu/107/sheoldred-the-apocalypse)看到死。
 這局第二盤應該要趕快投降進第三盤，我可以拿先手來打壓制，在臨場上沒有判斷好，第二盤心裡是想說如果我能摸到一張殺的話也是會贏，但如果直接進第三盤我的勝率會再高一點。
 
 ### R3 艾斯波中速 2-1 後手
+
 第一盤：努力鋪場後，配合[靈魂洞窟](https://scryfall.com/card/lci/269/cavern-of-souls)無法被反擊的[依莫丹的徵兵員](https://scryfall.com/card/woe/229/imodanes-recruiter-train-troops)一波帶走。
 第二盤：被2回[虔敬新兵丹尼克](https://scryfall.com/card/mid/217/dennick-pious-apprentice-dennick-pious-apparition)，3回[卜測魔拉斐茵](https://scryfall.com/card/snc/213/raffine-scheming-seer)，節奏追不上就死去了。能檢討的是還是3回要殺拉斐茵才對，那時候不知道在想啥選擇殺了丹尼克，導致後面拉斐茵的籌謀去把手牌換成更好的組合。
 第三盤：2回召集帶走。
 
 ### R4 鐵木爾火球 2-1 先手
+
 第一盤：2回召集帶走。
 第二盤：3回[復生物靈師妮莎](https://scryfall.com/card/mat/22/nissa-resurgent-animist)，4回[厄時爆炸](https://scryfall.com/card/mkm/207/ill-timed-explosion)掃場，5回[咕嚕力莫與夫畢佐](https://scryfall.com/card/mom/219/borborygmos-and-fblthp)，手上還有一隻[俐落樵女伯妮帕](https://scryfall.com/card/otj/196/bonny-pall-clearcutter)，只能趕緊投降。
 第三盤：1回[沃達連品血客](https://scryfall.com/card/vow/182/voldaren-epicure)，2回[內宇護衛](https://scryfall.com/card/lci/43/warden-of-the-inner-sky)，起動異能後看到[進軍高巴汗](https://scryfall.com/card/mom/22/invasion-of-gobakhan-lightshield-array)留下，拆掉血瓶後再放一顆豆，3回出高巴汗看手牌被回應殺掉了內宇護衛，看到了一張[樹海幻視師茂樹](https://scryfall.com/card/neo/206/shigeki-jukai-visionary)、一張妮莎跟三塊地，放逐妮莎後打掉高巴汗開始全家放豆，對手3回出了茂樹被我在4回用[門前快車案](https://scryfall.com/card/mkm/8/case-of-the-gateway-express)殺掉，4回對手抽牌後投降。
 
 ### R5 鐵木爾火球 2-0 後手
+
 第一盤：調度2次後，2回召集帶走。
 第二盤：2回看手牌看到了2個[吸血鬼復仇](https://scryfall.com/card/moc/289/vampires-vengeance)，確定對手手上沒有加速生物後，放逐其中一個吸血鬼復仇，選擇慢打穩定出威脅；直到對手在有一個回合選擇tap out出火球加速一波set下一回合的斬殺時，閃現[堅定援兵](https://scryfall.com/card/dmu/29/resolute-reinforcements)接上全家敏捷的[依莫丹的徵兵員](https://scryfall.com/card/woe/229/imodanes-recruiter-train-troops)打死。
 
 ### R6 Domain 2-1 先手
+
 第一盤：對手正編沒有[短時封鎖](https://scryfall.com/card/dmu/36/temporary-lockdown)，調度後2回召集帶走。
 第二盤：對手4回[掃除人口](https://scryfall.com/card/snc/10/depopulate)，5回[忿怒大天使](https://scryfall.com/card/dmu/3/archangel-of-wrath)，7回[獸群遷徙](https://scryfall.com/card/dmu/165/herd-migration)叫了一堆3/3就趕緊投降了。
 第三盤：調度後2回閃現[堅定援兵](https://scryfall.com/card/dmu/29/resolute-reinforcements)，3回出了[窪巴斯的鍛冶爐](https://scryfall.com/card/one/153/urabrasks-forge)，後面召集找到了[阻咒艾文](https://scryfall.com/card/otj/4/aven-interrupter)跟[依莫丹的徵兵員](https://scryfall.com/card/woe/229/imodanes-recruiter-train-troops)，在我的鍛冶爐有三顆豆時對手出了[安詳鰭背龍](https://scryfall.com/card/mat/24/tranquil-frillback)想拆鍛冶爐被我用[阻咒艾文](https://scryfall.com/card/otj/4/aven-interrupter)放逐後，下一回合出徵兵員配合檯面打死。
@@ -69,6 +76,7 @@ authors:
 ### R7 Draw
 
 ### TOP8 紅白召集 1-2 先手
+
 第一盤：我鋪得快我贏。
 第二盤：被[內宇護衛](https://scryfall.com/card/lci/43/warden-of-the-inner-sky)單刷。
 第三盤：被[內宇護衛](https://scryfall.com/card/lci/43/warden-of-the-inner-sky)單刷again。

@@ -3,11 +3,9 @@ title: "豬鼻子的艾卓荒野(WOE)限制賽初探 — 藍色"
 date: 2023-09-05 17:30:21
 tags:
   - cephille
-  - WOE
-  - Limited
 categories:
-  - Limited
-  - WOE-Limited
+  - "Limited"
+  - "WOE"
 excerpt: "仙靈與倒楣鬼、術士與冰霜魔法...艾卓荒野(WOE)限制賽中藍色牌的評分與介紹看這邊！"
 authors:
   - "cephille"

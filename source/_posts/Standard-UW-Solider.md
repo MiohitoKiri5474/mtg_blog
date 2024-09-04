@@ -1,20 +1,14 @@
 ---
 date: 2023-10-02 23:54:20
 title: "標準藍白士兵的流變與展望"
-
 tags:
   - cephille
-  - Standard
-
 cover: "https://i.imgur.com/oPBzlrf.png"
 thumbnail: "https://i.imgur.com/oPBzlrf.png"
-
 excerpt: "WOE發售後，藍白士兵雖然沒有獲得太多的補強，但在剛結束的世冠賽還是有一副能取得第三名的好成績，想知道更多關於這副套牌的know-how的話就點進來看看吧！"
-
 categories:
-  - Construct
-  - Standard
-
+  - "Construct"
+  - "Standard"
 authors:
   - "cephille"
 ---
@@ -141,4 +135,3 @@ authors:
 優缺點前面都提過了就不再贅述，但Simon Nielson新的構築方式也讓這副套牌從士兵的框架中釋放出來，缺乏領主的部分在以成婚佳訊取代並保留哈賓的爆發力下，打法變得比以前更加靈活且多變。備牌的部分目前只是列一個參考用，還是需要依照當前meta去做微調，這是每個賽制、每一種套路都必須去做的，並沒有一個固定的形式；當然，這也體現了每位玩家的偏好以及思慮的獨到之處。
 
 希望這篇文章能幫助到對這個主題有興趣的玩家們，也歡迎告訴我你們的想法與見解，那就下次再見囉！
-

@@ -1,13 +1,14 @@
 ---
-
 title: "邊疆營地：標準鐵木爾沙漠"
 date: "2024-05-21 17:53:52"
 tags:
-  - "Standard"
   - "JerobaMTG"
 cover: "https://i.postimg.cc/cLb3f3bT/thumb.png"
 thumbnail: "https://i.postimg.cc/cLb3f3bT/thumb.png"
 excerpt: "大鏢客甌柯與罪惡的沙漠"
+categories:
+  - "Construct"
+  - "Standard"
 authors:
   - "JerobaMTG"
 ---
@@ -29,7 +30,6 @@ authors:
 ![](https://i.postimg.cc/k4rtpm9b/td1.png)
 ![](https://i.postimg.cc/N02HDMht/tdd.png)
 
-
 雖然說是走沙漠主題，這副套牌的沙漠機制單卡僅使用[莽野幫碧劍客](https://scryfall.com/card/otj/172/outcaster-greenblade)，也是本套牌的核心戰將。他就像是門套牌的[城區響導](https://scryfall.com/card/grn/128/zht/%E5%9F%8E%E5%8D%80%E5%9A%AE%E5%B0%8E)和[破門公羊](https://scryfall.com/card/rna/126/zht/%E7%A0%B4%E9%96%80%E5%85%AC%E7%BE%8A)的結合體，進場自帶找沙漠，除了可以找出雙色沙漠調色，也可找出[不毛拱門](https://scryfall.com/card/otj/252/arid-archway)、[通導覽塔](https://scryfall.com/card/otj/254/conduit-pylons)來調整下地節奏，同時依照沙漠數量膨脹體格，中後期很容易達到兩位數身材，也是[魁首甌柯](https://scryfall.com/card/otj/223/oko-the-ringleader)最好的複製對象。為了讓多達17張躺地的套牌運作順暢，筆者再投入萬里尋父的[奇探逸才凱瀾](https://scryfall.com/card/mkm/212/kellan-inquisitive-prodigy-tail-the-suspect)、[梓莎八方之旅](https://scryfall.com/card/neo/172/azusas-many-journeys-likeness-of-the-seeker)與[豆莖亞龍](https://scryfall.com/card/woe/161/beanstalk-wurm-plant-beans)共八張二費加速下地手段。
 
 ![](https://i.postimg.cc/Yq9JFVjB/td2a.png)
@@ -42,6 +42,7 @@ authors:
 ## 實戰演示
 
 {%youtube eBOFvHrSguo %}
+
 > 影片為初期版本，[吸血鬼復仇](https://scryfall.com/card/moc/289/zhs/%E5%90%B8%E8%A1%80%E9%AC%BC%E5%A4%8D%E4%BB%87)的位置就是目前的[地動波](https://scryfall.com/card/neo/161/zht/%E5%9C%B0%E5%8B%95%E6%B3%A2)
 
 演示影片為對抗黑綠中速，基本上是利用[勝利煙火](https://scryfall.com/card/dmu/123/fires-of-victory)及[厄時爆炸](https://scryfall.com/card/mkm/207/ill-timed-explosion)掃除對手拍出來的中小型威脅，然後靠著沙漠觸發[魁首甌柯](https://scryfall.com/card/otj/223/oko-the-ringleader)犯罪來穩定賺取資源，之後靠著旗艦生物或[魁首甌柯](https://scryfall.com/card/otj/223/oko-the-ringleader)變身去快速終結對手。由於下沙漠就會造成傷害，在筆者揮出第一拳時對手的生命只有11（其中兩點為對手痛地自傷），大概只要打中兩拳就能結束遊戲。

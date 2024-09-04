@@ -3,11 +3,9 @@ title: "豬鼻子的艾卓荒野(WOE)限制賽初探 — 機制介紹"
 date: 2023-08-29 16:40:06
 tags:
   - cephille
-  - WOE
-  - Limited
 categories:
-  - Limited
-  - WOE-Limited
+  - "Limited"
+  - "WOE"
 cover: "https://media.wizards.com/2023/images/daily/nNjKmcrleh.jpg"
 thumbnail: "https://guildmagesforum.tw/images/WOE-Cover.jpg"
 excerpt: "要了解新系列限制賽一定要從它的機制來認識起，來看看艾卓荒野(WOE)的機制介紹吧！"
@@ -180,4 +178,3 @@ authors:
 想在限制賽中用[倍產旺季](https://cards.scryfall.io/large/front/c/7/c7d7db76-0a0c-444f-96f1-559838450549.jpg?1692932801)生滿坑滿谷的食品以及角色衍生物；或食物太多想用[血色羈絆](https://cards.scryfall.io/large/front/b/d/bd199c13-9437-4162-bde9-9301589989aa.jpg?1692932549)直接擊殺對手嗎？
 
 魅附奇譚將讓你夢想成真！
-
