@@ -7,8 +7,8 @@ cover: "https://media.wizards.com/2024/images/daily/cardart_chittering_skullspea
 thumbnail: "https://media.wizards.com/2024/images/daily/cardart_chittering_skullspeaker_christina_kraus_p3c9q0iblmh0.webp"
 excerpt: "睽違兩年系列輪替後的全新標準"
 categories:
+  - "Construct"
   - "Standard"
-  - "JruMTG"
 authors:
   - "JruMTG"
 ---

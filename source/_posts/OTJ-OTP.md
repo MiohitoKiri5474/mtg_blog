@@ -2,12 +2,13 @@
 title: "光雷驛鏢客（OTJ）限制賽介紹 — 號外新聞（OTP）"
 date: "2024-04-12 18:34:46"
 tags:
-  - "Limited"
-  - "OTJ"
   - "cephille"
 cover: "https://i.postimg.cc/QNzc61f7/image.png"
 thumbnail: "https://i.postimg.cc/QNzc61f7/image.png"
 excerpt: "號外！我的對手用攫取思緒棄掉了我的峰頂懼龍，然後用活屍法把牠挖回來！太無情了！"
+categories:
+  - "Limited"
+  - "OTJ"
 authors:
   - "cephille"
 ---
@@ -19,7 +20,7 @@ authors:
 ## 評分標準
 
 5.0：無條件必拿
-4.0：有首選價值 
+4.0：有首選價值
 3.5：強度夠但不一定要首選
 3.0：高於平均（會很希望他能放進最終牌組）
 2.5：平均水準，maybe輪抽第6、第7 pick左右
@@ -420,16 +421,16 @@ X > = 5 後不要放逐到太多地，應該都會蠻炸的，但相對比較不
 
 ![065](https://cards.scryfall.io/large/front/1/8/18d24d9a-a49e-4ce8-9158-03fe4cea39e2.jpg?1711502388)
 
-**cephille:** 1.5 
+**cephille:** 1.5
 
 備牌命，對手打五色放一堆雙色地換上來就對了。
-
 
 ## 結語
 
 OTP中重印了許多經典的咒語來模擬各種罪行，基本上除了[傳染引擎](https://scryfall.com/card/otp/61/contagion-engine)以外應該每一張牌都有可以與本系列的犯下罪行（commit a crime）機制有所連動，限制賽玩起來應該非常有趣，偶爾也會被一些Legacy等級的強牌或操作炸得亂七八糟！
 
 > 本次號外新聞牌總共 65 張
+>
 > - 平均分數為 2.7 分
 > - 最高分 5.0 分
 > - 最低分 0.0 分

@@ -7,7 +7,7 @@ cover: "https://i.postimg.cc/4Z2RqqXx/RHINO-TOKEN.png"
 thumbnail: "https://i.postimg.cc/4Z2RqqXx/RHINO-TOKEN.png"
 excerpt: "雖然暴烈迸發離開我們了，但鐵木爾犀牛依舊在最後一刻綻放光芒！來看看David為我們帶來的分享！"
 categories:
-  - "Consturct"
+  - "Construct"
   - "Modern"
 authors:
   - "david-yeh"
