@@ -3,10 +3,12 @@ title: "葛加理掠魂魔"
 date: "2024-06-05 19:56:34"
 tags:
   - "Kappa"
-  - "Pioneer"
 cover: "https://i.postimg.cc/hth4mQPK/tumblr-nj9y24-V2-QD1thxsmlo1-640.jpg"
 thumbnail: "https://i.postimg.cc/hth4mQPK/tumblr-nj9y24-V2-QD1thxsmlo1-640.jpg"
 excerpt: "掠魂魔Bros. Season 2突襲賽場啦！"
+categories:
+  - "Construct"
+  - "Pioneer"
 authors:
   - "Kappa"
 ---
@@ -24,6 +26,7 @@ A：[掠魂魔](https://scryfall.com/card/c20/138/soulflayer)Season 2啦！
 基礎操作及介紹上次已經說過了，我就省略了。然後開始介紹卡組之前，先有一件很重要的話要說：**別玩掠魂魔**。（雖然由掠魂魔推手的我來說這件事真的很矛盾，而且你們都按進來看了，現在再趕你們出去真的很奇怪。）
 
 原因如下：
+
 1. 掠魂魔很吃賽場環境，相性差很大，若果環境充滿針對墳場卡的時候，這副卡組會死得不像人形。
 2. 其次是爆發性雖然十足，但是抽卡的穩定性及再現度實在不足，當成天選之人專用就好。
 3. 三者，這卡組很吃資訊差，屬於初見殺卡組，對手如果理解你卡組的構造以及運作的話，就會留相應的對策卡，很看對手的經驗值來決定自己打得順不順利。
@@ -73,11 +76,13 @@ MKM期待新星一號，基本上就是葛加理顏色組的[異界凝視](https
 繫命擔當，同時充當[攫取思緒](https://scryfall.com/card/2xm/109/thoughtseize)，強過頭了，不愧是標準賽制有黑就必入四張的王者。這副卡組比較容易找生物，也可以作為掠魂魔出場前的開路，2回女像柱3回女像柱+蝙蝠更是妙不可言。
 
 ### [尋水獸](https://scryfall.com/card/eld/171/questing-beast)
+
 ![](https://cards.scryfall.io/large/front/e/4/e41cf82d-3213-47ce-a015-6e51a8b07e4f.jpg?1572490640)
 
 警戒，死觸，敏捷擔當（主要是為了後兩者）。實驗位所以只放一張，本來打算有踐踏連擊的話，那麼一定要有一張死觸方便我過飛行或延勢生物，但發現以前最需要我這樣過的生物叫[荊棘驍騎](https://scryfall.com/card/m20/167/cavalier-of-thorns)，而他已經隨著大綠的消逝一起逝去了。換個角度想，至少尋水獸的優點是2回女像柱，3回尋水獸就可以直接鬼轉中速，也可以同時隔山打牛打[面紗的莉蓮娜](https://scryfall.com/card/dmu/97/liliana-of-the-veil)，[飄萍皇](https://scryfall.com/card/neo/42/the-wandering-emperor)等等處理麻煩的PW，但整體上現在環境沒那麼大的必須性，可能會把位置讓給[金脈多頭龍](https://scryfall.com/card/otj/167/goldvein-hydra)。
 
 ### [逆徒之聲撒姆特](https://scryfall.com/card/akh/205/samut-voice-of-dissent)
+
 ![](https://cards.scryfall.io/large/front/6/0/60f2d8f1-43a9-438a-830c-9d6b5701f950.jpg?1543676097)
 
 警戒連擊敏捷擔當，可以看到這副卡組是多麼多警戒，基本上就是整副卡組的暴力擔當，掠魂魔食料界（？）當中，除了澤塔帕之外的人氣no.1，但這次要把空間騰出去給2個實驗位，所以只放兩張，要正拍的時候，那點紅色要交給魔力聚流或者女像柱，基本上很少要本體出動就是了。
@@ -101,11 +106,13 @@ MKM期待新星一號，基本上就是葛加理顏色組的[異界凝視](https
 刺探地，本來應該入滿的，反正1費的動作都不多，但組的時候發現我只有2張，時間不足，剩餘的空間用2張變身地填補了。可以臨時堆一張進墳場，有時就會堆中重要的生物進墳，但黑綠的生物地實在太過強力太過論外，最後感想是刺探地3生物地1的比例最好。
 
 ### [不息小屋](https://scryfall.com/card/woe/258/restless-cottage)
+
 ![](https://cards.scryfall.io/large/front/7/8/787eadf3-5005-4ae5-820f-4012a4d4e1a5.jpg?1692939998)
 
 生物地，一般而言這些位置是不應該放躺地浪費時間的，但這張實在過度強力，實質544，打過去還可以放逐一張墳場以及生一個食物太過實用，但這卡組躺地總量還是不能超過4張就是了。本來只是代替刺探地用的實驗位卻比想像中好用，特別是all in戰術的中段，手牌經常會空空如也沒事情做，這時候就可以用這塊生物地協助攻擊，逼對手地上部隊進行防禦交換，最優秀例子是和[生機核歐那斯](https://scryfall.com/card/znr/232/omnath-locus-of-creation)互換過，而且不吃[地脈束縛](https://scryfall.com/card/dmu/24/leyline-binding)也是優點，緊急情況可以站起來防止對手跳樓殺，在對方掃場之後突然揍對方4點也是一個好選項，從側面支撐中速戰術或者All in戰術，缺點還是遲到就很難用。
 
 ### [聖潔地脈](https://scryfall.com/card/m20/26/leyline-of-sanctity)
+
 ![](https://cards.scryfall.io/large/front/b/e/be8b1acf-dd87-42ca-ad19-c27d21066030.jpg?1592516120)
 
 備牌基本上未調整完成，但有2張想特別說說，首先是聖潔地脈，先說說這副主牌構築已對[鳳凰](https://scryfall.com/card/grn/91/arclight-phoenix)以及[紅黑](https://scryfall.com/card/m20/115/sorin-imperious-bloodlord)[吸血鬼](https://scryfall.com/card/mkm/110/vein-ripper)有利，但對[物盡其用](https://scryfall.com/card/m15/122/waste-not)，[阿瑪莉亞](https://scryfall.com/card/lci/221/amalia-benavides-aguirre)以及[蓮花田](https://scryfall.com/card/m20/249/lotus-field)不利，白地脈作為備牌用於針對後兩者用。首先對物盡其用可以free win，對手會有四分一的卡廢掉；對阿瑪莉亞是因為只要場上有做了澤塔帕效果的生物之後，阿瑪莉亞的20掃場效果就不能讓他直接打到臉，這樣要防的只有[乙太流貯庫](https://scryfall.com/card/kld/192/aetherflux-reservoir)，那......白地脈！

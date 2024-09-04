@@ -3,12 +3,11 @@ title: "傷害與生命"
 date: "2023-11-06 18:07:26"
 tags:
   - "JruMTG"
-  - "MTG Rule"
 cover: "https://i.imgur.com/vdnukTk.jpg"
 thumbnail: "https://i.imgur.com/vdnukTk.jpg"
 excerpt: "從受到傷害到產生結果中間經歷了甚麼？ 防止傷害與不能失去生命又差在哪？"
 categories:
-  - MTG-Rules
+  - "MTG Rule"
 authors:
   - "JruMTG"
 ---

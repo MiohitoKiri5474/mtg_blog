@@ -2,16 +2,13 @@
 title: "Pioneer 環境考察 preMIT #4"
 date: 2023-11-1 20:00:00
 tags:
-  - MiohitoKiri5474
-  - Pioneer
-  - Inspection
+  - "MiohitoKiri5474"
 cover: "/images/Thoughtseize.jpg"
 thumbnail: "/images/Thoughtseize.jpg"
 excerpt: "週末就是 MIT #4 的決賽了，大家決定好套牌了嗎？"
-
 categories:
-  - Construct
-  - Pioneer
+  - "Construct"
+  - "Pioneer"
 authors:
   - "MiohitoKiri5474"
 ---
@@ -343,4 +340,3 @@ Convoke 也是跟之前沒有太多的變動，不過這個構築應該是想要
 沒意外的話 MIT #4 完我們會寫一篇回顧文章，如果我的成績還行應該也會寫個新的紅黑中速文章，主要是關於現在環境中的 sideboard guide 和 card choose 吧。
 
 那麼，我們大家週末賽場見！
-

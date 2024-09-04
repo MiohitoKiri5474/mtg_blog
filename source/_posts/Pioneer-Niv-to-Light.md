@@ -3,8 +3,9 @@ title: "Pioneer 五色天光尼米捷"
 date: "2024-03-06 12:24:33"
 tags:
   - "Enki"
+categories:
+  - "Construct"
   - "Pioneer"
-  - "Dech Tech"
 cover: "https://scg-static.starcitygames.com/articles/2020/10/4ed35a02-209.jpg"
 thumbnail: "https://scg-static.starcitygames.com/articles/2020/10/4ed35a02-209.jpg"
 excerpt: "來看看經過莊園謀殺案強化後的五色天光尼米捷吧！！"
@@ -13,6 +14,7 @@ authors:
 ---
 
 ## 前言
+
 安安各位好這裡是Enki，不知道各位PT MKM看得是否盡興呢？在這次的莊園謀殺案推出後，對遊戲的Meta又造成了不少的影響，除了在近代肆虐的[十會盟地脈](https://scryfall.com/card/mkm/217/leyline-of-the-guildpact)以外，也有相當多的新卡在先驅被採用，如讓**紅黑中速**變身為**紅黑吸血鬼**的[血脈開膛手](https://scryfall.com/card/mkm/110/vein-ripper)和讓原本勝率就不錯的**藍白控**又再度加強的[終結謊言](https://scryfall.com/card/mkm/221/no-more-lies)等等，都是在這個環境當中表現不錯的新秀。而這次的系列中推出的雙色單卡也是相當的多樣，讓[新生尼米捷](https://scryfall.com/card/war/208/niv-mizzet-reborn)異能擊中的範圍變得相當廣泛，這個久違的強化我認為算是有將這套牌拉到能夠與現在Meta抗衡的強度。
 
 小弟這次在與PT MKM同時舉辦的MagicCon先驅杯中也選擇使用這套牌，並在瑞士輪取得了6-0-1、排名第二的不錯戰績，因此有感而發想好好介紹一下這副套牌。
@@ -57,6 +59,7 @@ authors:
 之前這張牌剛推出時「傾曳 （cascade）」異能的規則還沒有被更動過，導致在近代環境跑出了一堆用3費的傾曳咒語把「寰宇冒名客提勃」給叫出來的狀況，由於過於氾濫而致使官方臨時將傾曳給更動，現在能夠不用7費就叫出[謊言神瓦爾基//寰宇冒名客提勃](https://scryfall.com/card/khm/114/valki-god-of-lies-tibalt-cosmic-impostor?back)，就只剩使用[得見天光](https://cards.scryfall.io/large/front/e/3/e3399260-a81a-475c-9b87-1efb1a13f8d6.jpg?1673148415)這個方式了。
 
 ## 新卡的投入
+
 莊園謀殺案推出了許多供本牌組使用的雙色咒語，而由於我們是五色牌組，除了有放三色地以外，套牌還投入了[森林女像柱](https://scryfall.com/card/ths/180/sylvan-caryatid)、[神奇小徑](https://scryfall.com/card/m21/246/fabled-passage)等單卡來調整Manabase，因此大部分時間都不太需要擔心會無法施放這些咒語。
 
 ![](https://cards.scryfall.io/large/front/1/e/1e0c695d-62f9-4805-9e2f-7032e8464136.jpg?1706242217)
@@ -70,7 +73,6 @@ authors:
 ![](https://cards.scryfall.io/large/front/d/2/d2ac346a-fc46-4023-aa60-4d55170697dc.jpg?1706242279)
 
 低費版的[戰爭傷亡](https://scryfall.com/card/khc/83/casualties-of-war)，可以一次炸多個目標，條件是必須蒐證X，X為這個咒語目標的魔力費用總和，對上放多種永久物類型的牌組會很好用。
-
 
 ![](https://cards.scryfall.io/large/front/0/b/0b5cdb01-eaa4-4a0a-b42a-332bcf4d6fff.jpg?1706980244)
 
@@ -94,14 +96,16 @@ authors:
 同時因為我們咒語的費用都偏大，要在中後期湊出蒐證8基本上沒什麼難度。
 
 ## 對局與上下備牌
+
 這部分就來講解一下對不同對局的思路與上下備牌的取捨吧。
 
 ### 紅黑中速 Rakdos Midrange
-| Side In | Side Out |
-| :-: | :-: |
-| +1 [狼友托西密](https://scryfall.com/card/war/224/tolsimir-friend-to-wolves) | -1 [屠殺遊戲](https://scryfall.com/card/rtr/197/slaughter-games) |
-| +1 [克崙可的嗡墜蟲](https://scryfall.com/card/mkm/136/krenkos-buzzcrusher) | -1 [絕望終局伊莫庫](https://scryfall.com/card/emn/6/emrakul-the-promised-end)|
-| +1 [震耳號角](https://scryfall.com/card/grn/165/deafening-clarion) | -1 [緊急剖檢](https://scryfall.com/card/mkm/240/urgent-necropsy) |
+
+|                                   Side In                                    |                                   Side Out                                    |
+| :--------------------------------------------------------------------------: | :---------------------------------------------------------------------------: |
+| +1 [狼友托西密](https://scryfall.com/card/war/224/tolsimir-friend-to-wolves) |       -1 [屠殺遊戲](https://scryfall.com/card/rtr/197/slaughter-games)        |
+|  +1 [克崙可的嗡墜蟲](https://scryfall.com/card/mkm/136/krenkos-buzzcrusher)  | -1 [絕望終局伊莫庫](https://scryfall.com/card/emn/6/emrakul-the-promised-end) |
+|      +1 [震耳號角](https://scryfall.com/card/grn/165/deafening-clarion)      |       -1 [緊急剖檢](https://scryfall.com/card/mkm/240/urgent-necropsy)        |
 
 這個對局基本上是Free的，因為只要打到中後期你所有的Top Deck都會比他強。對手想要贏你就只能拚快速斬殺，因此我們需要更多的有效解場手段來讓對手沒辦法做到這件事情。
 進入備牌局之後對手會上更多的掉牌，如果對手起手掉爛你、就等於你Keep多強的手牌都會被掉光，因此我們基本上要盡可能Keep一個至少3-4地、和一些前期咒語的起手(他沒掉牌就會有用)，來確保前面有事做、並讓後面進的Top Deck成為有效進牌。
@@ -109,14 +113,15 @@ authors:
 [得見天光](https://cards.scryfall.io/large/front/e/3/e3399260-a81a-475c-9b87-1efb1a13f8d6.jpg?1673148415)看當下場面做搜尋，生物多找掃，麻煩的單體生物找[謊言神瓦爾基//寰宇冒名客提勃](https://scryfall.com/card/khm/114/valki-god-of-lies-tibalt-cosmic-impostor?back)，補手牌資源找[新生尼米捷](https://scryfall.com/card/war/208/niv-mizzet-reborn)。
 
 ### 紅藍鳳凰 Izzet Phoenix
-| Side In | Side Out |
-| :-: | :-: |
-| +2 [震撼寂靜](https://scryfall.com/card/eld/10/deafening-silence) | -1 [閃電螺旋](https://scryfall.com/card/mkm/426/lightning-helix) |
-| +1 [心念盜賊](https://scryfall.com/card/znc/96/notion-thief) | -1 [機械之母艾雷儂](https://scryfall.com/card/one/10/elesh-norn-mother-of-machines) |
-| +1 [克崙可的嗡墜蟲](https://scryfall.com/card/mkm/136/krenkos-buzzcrusher)| -1 [謊言神瓦爾基//寰宇冒名客提勃](https://scryfall.com/card/khm/114/valki-god-of-lies-tibalt-cosmic-impostor?back) |
-| +2 [搜索靈魂](https://scryfall.com/card/mkm/232/soul-search) | -1 [寇安甘的指命](https://scryfall.com/card/2x2/239/kolaghans-command)|
-| | -1 [緊急剖檢](https://scryfall.com/card/mkm/240/urgent-necropsy) |
-| | -1 [甲蟲神](https://scryfall.com/card/cmm/353/the-scarab-god)|
+
+|                                  Side In                                   |                                                      Side Out                                                      |
+| :------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------: |
+|     +2 [震撼寂靜](https://scryfall.com/card/eld/10/deafening-silence)      |                          -1 [閃電螺旋](https://scryfall.com/card/mkm/426/lightning-helix)                          |
+|        +1 [心念盜賊](https://scryfall.com/card/znc/96/notion-thief)        |                -1 [機械之母艾雷儂](https://scryfall.com/card/one/10/elesh-norn-mother-of-machines)                 |
+| +1 [克崙可的嗡墜蟲](https://scryfall.com/card/mkm/136/krenkos-buzzcrusher) | -1 [謊言神瓦爾基//寰宇冒名客提勃](https://scryfall.com/card/khm/114/valki-god-of-lies-tibalt-cosmic-impostor?back) |
+|        +2 [搜索靈魂](https://scryfall.com/card/mkm/232/soul-search)        |                       -1 [寇安甘的指命](https://scryfall.com/card/2x2/239/kolaghans-command)                       |
+|                                                                            |                          -1 [緊急剖檢](https://scryfall.com/card/mkm/240/urgent-necropsy)                          |
+|                                                                            |                           -1 [甲蟲神](https://scryfall.com/card/cmm/353/the-scarab-god)                            |
 
 正編因為對手高機率只有[點破咒語](https://cards.scryfall.io/large/front/3/5/35b8a9db-d126-4038-abb1-74dcc5b36136.jpg?1673147403)或是[爪爾干擾](https://cards.scryfall.io/large/front/c/b/cbc2f053-28f6-41f5-9412-78507d41bc0e.jpg?1646308068)作為他們的反制咒語，他們不太好阻止我們的遊戲計畫，而且我們的去除手段大部分都是放逐，且加上我們有腦切咒語，鳳凰想在正編打贏是很困難的。去除咒語方面，盡量把放逐交給鳳凰，消滅交給[碎帳艾文](https://cards.scryfall.io/large/front/7/e/7ea4b5bc-18a4-45db-a56a-ab3f8bd2fb0d.jpg?1664410287)。
 
@@ -128,13 +133,14 @@ authors:
 場面如果失控，通常就是鳳凰已經爬出來了，這時候就找腦切掃場[致命掩蓋](https://scryfall.com/card/mkm/83/deadly-cover-up)蒐證6把鳳凰全部切掉，對手基本跟輸了沒兩樣。然後備牌局腦切有成功的話記得看一下對方牌組、記一下對手上了哪些康牌，這樣等等會更好做撞康策略，例如說對手有上[神秘干擾](https://scryfall.com/card/eld/58/mystical-dispute)的情況下就可以考慮到8費再做招，而沒有[倨傲擊](https://scryfall.com/card/woe/47/disdainful-stroke)卻只有[失效](https://scryfall.com/card/mom/68/negate)就可以考慮5費直接拍大生物咒語。
 
 ### 阿布贊Amalia組合技 Abzan Amalia Combo
-| Side In | Side Out |
-| :-: | :-: |
-| +4 [搜索靈魂](https://scryfall.com/card/mkm/232/soul-search) | -1 [寇安甘的指命](https://scryfall.com/card/2x2/239/kolaghans-command) |
-| +1 [震耳號角](https://scryfall.com/card/grn/165/deafening-clarion)| -1 [絕望終局伊莫庫](https://scryfall.com/card/emn/6/emrakul-the-promised-end)|
-| | -1 [甲蟲神](https://scryfall.com/card/cmm/353/the-scarab-god) |
-| | -1 [先兆娜希麗](https://scryfall.com/card/cmm/929/nahiri-the-harbinger) |
-| | -1 [克崙可的嗡墜蟲](https://scryfall.com/card/mkm/136/krenkos-buzzcrusher)|
+
+|                              Side In                               |                                   Side Out                                    |
+| :----------------------------------------------------------------: | :---------------------------------------------------------------------------: |
+|    +4 [搜索靈魂](https://scryfall.com/card/mkm/232/soul-search)    |    -1 [寇安甘的指命](https://scryfall.com/card/2x2/239/kolaghans-command)     |
+| +1 [震耳號角](https://scryfall.com/card/grn/165/deafening-clarion) | -1 [絕望終局伊莫庫](https://scryfall.com/card/emn/6/emrakul-the-promised-end) |
+|                                                                    |         -1 [甲蟲神](https://scryfall.com/card/cmm/353/the-scarab-god)         |
+|                                                                    |    -1 [先兆娜希麗](https://scryfall.com/card/cmm/929/nahiri-the-harbinger)    |
+|                                                                    |  -1 [克崙可的嗡墜蟲](https://scryfall.com/card/mkm/136/krenkos-buzzcrusher)   |
 
 這個對局基本上也算是優勢對局，但若是讓對面成功做到組合技回到太多血，除了我們的斬殺clock會變的非常慢以外，讓對手濾牌濾到[乙太流貯庫](https://scryfall.com/card/kld/192/zht/%E4%B9%99%E5%A4%AA%E6%B5%81%E8%B2%AF%E5%BA%AB)會讓我們暴露在被斬殺的風險之下，因此我們還是要盡可能避免讓對手做到組合技。
 
@@ -143,13 +149,14 @@ authors:
 備牌局我們把費用太重、對對局比較沒有影響的單卡下掉，改上掃場對付生物、跟掉牌來拆掉對手的組合技。
 
 ### 藍白控制 Azorious Control
-| Side In | Side Out |
-| :-: | :-: |
-| +4 [搜索靈魂](https://scryfall.com/card/mkm/232/soul-search) | -3 [閃電螺旋](https://scryfall.com/card/mkm/426/lightning-helix)|
-| +3 [多溫的否決](https://scryfall.com/card/war/193/dovins-veto)| -1 [厄時爆炸](https://scryfall.com/card/mkm/207/ill-timed-explosion)|
-| | -1 [致命掩蓋](https://scryfall.com/card/mkm/83/deadly-cover-up)|
-| | -1 [震耳號角](https://scryfall.com/card/grn/165/deafening-clarion)|
-| | -1 [機械之母艾雷儂](https://scryfall.com/card/one/10/elesh-norn-mother-of-machines)| 
+
+|                            Side In                             |                                      Side Out                                       |
+| :------------------------------------------------------------: | :---------------------------------------------------------------------------------: |
+|  +4 [搜索靈魂](https://scryfall.com/card/mkm/232/soul-search)  |          -3 [閃電螺旋](https://scryfall.com/card/mkm/426/lightning-helix)           |
+| +3 [多溫的否決](https://scryfall.com/card/war/193/dovins-veto) |        -1 [厄時爆炸](https://scryfall.com/card/mkm/207/ill-timed-explosion)         |
+|                                                                |           -1 [致命掩蓋](https://scryfall.com/card/mkm/83/deadly-cover-up)           |
+|                                                                |         -1 [震耳號角](https://scryfall.com/card/grn/165/deafening-clarion)          |
+|                                                                | -1 [機械之母艾雷儂](https://scryfall.com/card/one/10/elesh-norn-mother-of-machines) |
 
 這個對局應該滿多人都覺得滿劣的，但我個人覺得算是五五開，新版的藍白控制大部分都選擇帶[終結謊言](https://scryfall.com/card/mkm/221/no-more-lies)並開始不帶正康了，因此我們有更多的空間可以繞過反制咒語來讓我們的咒語結算，而且只要對控制最強單卡[爬上豆莖](https://scryfall.com/card/woe/195/up-the-beanstalk)在場上來讓我們的資源不斷擋﹑對手就會因為康不完我們的咒語而輸掉。
 
@@ -161,20 +168,20 @@ authors:
 
 至於[得見天光](https://cards.scryfall.io/large/front/e/3/e3399260-a81a-475c-9b87-1efb1a13f8d6.jpg?1673148415)結算時要找什麼，則是很看當下狀況跟你對對手手牌的臆測，通常狀況下我們會優先找[謊言神瓦爾基//寰宇冒名客提勃](https://scryfall.com/card/khm/114/valki-god-of-lies-tibalt-cosmic-impostor)、施放旅法師的那一邊、或是直接找[新生尼米捷](https://scryfall.com/card/war/208/niv-mizzet-reborn)靠賽、嘗試將資源差距拉開，或是當你下一turn一定會被變身地打死時就得找[克崙可的嗡墜蟲](https://scryfall.com/card/mkm/136/krenkos-buzzcrusher)來炸掉那張變身地。
 
-
 ### 蓮花田組合技 Lotus Field Combo
-| Side In | Side Out |
-| :-: | :-: |
-| +4 [搜索靈魂](https://scryfall.com/card/mkm/232/soul-search) | -3 [閃電螺旋](https://scryfall.com/card/mkm/426/lightning-helix)|
-| +3 [多溫的否決](https://scryfall.com/card/war/193/dovins-veto)| -1 [厄時爆炸](https://scryfall.com/card/mkm/207/ill-timed-explosion)|
-| +2 [震撼寂靜](https://scryfall.com/card/eld/10/deafening-silence) | -1 [致命掩蓋](https://scryfall.com/card/mkm/83/deadly-cover-up)|
-| +1 [心念盜賊](https://scryfall.com/card/znc/96/notion-thief) | -1 [震耳號角](https://scryfall.com/card/grn/165/deafening-clarion)|
-| +1 [克崙可的嗡墜蟲](https://scryfall.com/card/mkm/136/krenkos-buzzcrusher) | -1 [機械之母艾雷儂](https://scryfall.com/card/one/10/elesh-norn-mother-of-machines)| 
-| +1 [俄佐立變節者拉溫妮](https://scryfall.com/card/rvr/195/lavinia-azorius-renegade) | -1 [謊言神瓦爾基//寰宇冒名客提勃](https://scryfall.com/card/khm/114/valki-god-of-lies-tibalt-cosmic-impostor?back)| 
-|  | -1 [絕望終局伊莫庫](https://scryfall.com/card/emn/6/emrakul-the-promised-end)| 
-|  |-1 [緊急剖檢](https://scryfall.com/card/mkm/240/urgent-necropsy)| 
-|  |-1 [甲蟲神](https://scryfall.com/card/cmm/353/the-scarab-god)|
-|  |-1 [熔毀崩塌](https://scryfall.com/card/lci/234/molten-collapse) |
+
+|                                       Side In                                       |                                                      Side Out                                                      |
+| :---------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------: |
+|            +4 [搜索靈魂](https://scryfall.com/card/mkm/232/soul-search)             |                          -3 [閃電螺旋](https://scryfall.com/card/mkm/426/lightning-helix)                          |
+|           +3 [多溫的否決](https://scryfall.com/card/war/193/dovins-veto)            |                        -1 [厄時爆炸](https://scryfall.com/card/mkm/207/ill-timed-explosion)                        |
+|          +2 [震撼寂靜](https://scryfall.com/card/eld/10/deafening-silence)          |                          -1 [致命掩蓋](https://scryfall.com/card/mkm/83/deadly-cover-up)                           |
+|            +1 [心念盜賊](https://scryfall.com/card/znc/96/notion-thief)             |                         -1 [震耳號角](https://scryfall.com/card/grn/165/deafening-clarion)                         |
+|     +1 [克崙可的嗡墜蟲](https://scryfall.com/card/mkm/136/krenkos-buzzcrusher)      |                -1 [機械之母艾雷儂](https://scryfall.com/card/one/10/elesh-norn-mother-of-machines)                 |
+| +1 [俄佐立變節者拉溫妮](https://scryfall.com/card/rvr/195/lavinia-azorius-renegade) | -1 [謊言神瓦爾基//寰宇冒名客提勃](https://scryfall.com/card/khm/114/valki-god-of-lies-tibalt-cosmic-impostor?back) |
+|                                                                                     |                   -1 [絕望終局伊莫庫](https://scryfall.com/card/emn/6/emrakul-the-promised-end)                    |
+|                                                                                     |                          -1 [緊急剖檢](https://scryfall.com/card/mkm/240/urgent-necropsy)                          |
+|                                                                                     |                           -1 [甲蟲神](https://scryfall.com/card/cmm/353/the-scarab-god)                            |
+|                                                                                     |                          -1 [熔毀崩塌](https://scryfall.com/card/lci/234/molten-collapse)                          |
 
 超級劣勢對局，基本上正編想要贏只能靠賽抽[克崙可的嗡墜蟲](https://scryfall.com/card/mkm/136/krenkos-buzzcrusher)炸對手的蓮花田，但由於我們贏的太慢，會給到對手太多時間做組合技，就只能想辦法加速打死對手。
 
@@ -187,10 +194,10 @@ authors:
 
 ### 紅白召集 Boros Convoke
 
-| Side In | Side Out |
-| :-: | :-: |
-| +1 [狼友托西密](https://scryfall.com/card/war/224/tolsimir-friend-to-wolves) | -1 [屠殺遊戲](https://scryfall.com/card/rtr/197/slaughter-games) |
-| +1 [震耳號角](https://scryfall.com/card/grn/165/deafening-clarion)| -1 [絕望終局伊莫庫](https://scryfall.com/card/emn/6/emrakul-the-promised-end)|
+|                                   Side In                                    |                                   Side Out                                    |
+| :--------------------------------------------------------------------------: | :---------------------------------------------------------------------------: |
+| +1 [狼友托西密](https://scryfall.com/card/war/224/tolsimir-friend-to-wolves) |       -1 [屠殺遊戲](https://scryfall.com/card/rtr/197/slaughter-games)        |
+|      +1 [震耳號角](https://scryfall.com/card/grn/165/deafening-clarion)      | -1 [絕望終局伊莫庫](https://scryfall.com/card/emn/6/emrakul-the-promised-end) |
 
 超級劣勢對局，只有抽到掃場會贏，但有時候抽到也不一定會贏，只能祈禱對面不會2回convoke，想辦法撐到後面用生物跟他拼命。
 
@@ -198,18 +205,19 @@ authors:
 
 ### 紅白勇行 Boros Heoric
 
-| Side In | Side Out |
-| :-: | :-: |
-| +2 [震撼寂靜](https://scryfall.com/card/eld/10/deafening-silence) | -1  [屠殺遊戲](https://scryfall.com/card/rtr/197/slaughter-games) |
-| +1 [震耳號角](https://scryfall.com/card/grn/165/deafening-clarion)| -1 [絕望終局伊莫庫](https://scryfall.com/card/emn/6/emrakul-the-promised-end)|
-| +1 [狼友托西密](https://scryfall.com/card/war/224/tolsimir-friend-to-wolves)| -1 [甲蟲神](https://scryfall.com/card/cmm/353/the-scarab-god)|
-|  | -1 [克崙可的嗡墜蟲](https://scryfall.com/card/mkm/136/krenkos-buzzcrusher)|
+|                                   Side In                                    |                                   Side Out                                    |
+| :--------------------------------------------------------------------------: | :---------------------------------------------------------------------------: |
+|      +2 [震撼寂靜](https://scryfall.com/card/eld/10/deafening-silence)       |       -1 [屠殺遊戲](https://scryfall.com/card/rtr/197/slaughter-games)        |
+|      +1 [震耳號角](https://scryfall.com/card/grn/165/deafening-clarion)      | -1 [絕望終局伊莫庫](https://scryfall.com/card/emn/6/emrakul-the-promised-end) |
+| +1 [狼友托西密](https://scryfall.com/card/war/224/tolsimir-friend-to-wolves) |         -1 [甲蟲神](https://scryfall.com/card/cmm/353/the-scarab-god)         |
+|                                                                              |  -1 [克崙可的嗡墜蟲](https://scryfall.com/card/mkm/136/krenkos-buzzcrusher)   |
 
 還算可以的對局，對手手上的增幅咒語很需要跟場上的生物做配合，因此我們只要想辦法把對手的生物都解光就可以。
 
 備牌局上了兩張[震撼寂靜](https://scryfall.com/card/eld/10/deafening-silence)來降速、防止對手做太多增幅咒語把我們一回打死，並且能夠爭取到更多的時間來抽到掃場一次解決。然後我們會上更多的生物解場來讓我們能夠阻止對手的outs變多，並下掉對對局比較沒有影響力的生物。
 
 ## 結語
+
 這次的卡洛夫莊園謀殺案讓這套天光尼米捷迎來了大幅強化，[閃電螺旋](https://scryfall.com/card/sta/62/lightning-helix)和[終結謊言](https://scryfall.com/card/mkm/221/no-more-lies)的加入讓套牌能夠更好的對付前期威脅並能夠將節奏給拖慢到中後期，讓我們更有機會的能夠拍出我們的大費咒語來領先對手，而[分析花粉](https://scryfall.com/card/mkm/150/analyze-the-pollen)的導師性質則讓我們的牌組的增加，能夠更良好的去調度mana base跟找出牌庫的關鍵生物來改變戰局。
 
 我認為套牌的等級算是有提升到能與現在Meta頂端的其他套牌一戰的程度，甚至其中大部分的牌組都不是劣勢對局，但五色依舊有其Manabase隱憂存在，加上牌組有半工具庫的性質，比起其他雙色、三色系列的牌組更加吃牌手對於牌組的了解。

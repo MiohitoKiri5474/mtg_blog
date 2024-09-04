@@ -3,12 +3,11 @@ title: "最近的近代怎麼了？"
 date: "2023-11-23 14:22:34"
 tags:
   - "MiohitoKiri5474"
-  - "Modern"
 cover: "https://cards.scryfall.io/art_crop/front/3/2/325f2243-54fd-484b-a742-166cea7ec179.jpg?1562906805"
 thumbnail: "https://cards.scryfall.io/art_crop/front/3/2/325f2243-54fd-484b-a742-166cea7ec179.jpg?1562906805"
 excerpt: "先手一回丟對手兩張手牌，好玩遊戲......嗎？"
 categories:
-  - "Others"
+  - "Construct"
   - "Modern"
 authors:
   - "MiohitoKiri5474"
@@ -216,4 +215,3 @@ Pauper 則是有越來越多的強力 C 卡（更不用說有些 U 甚至是 R �
 讓我們期待一下吧。
 ![](/images/Whats-Wrong-Modern/12-4-RB.png)
 {% endnotel %}
-

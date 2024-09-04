@@ -3,13 +3,12 @@ title: "標準套牌推薦：經典白藍控制"
 date: 2023-09-26 15:00:00
 tags:
   - JruMTG
-  - Standard
 cover: "https://i.imgur.com/5emSBM9.png"
 thumbnail: "https://i.imgur.com/OuoV2BT.png"
 excerpt: "Sorry , I'm late."
 categories:
-  - Construct
-  - Standard
+  - "Construct"
+  - "Standard"
 authors:
   - "JruMTG"
 ---

@@ -3,11 +3,9 @@ title: "豬鼻子的艾卓荒野(WOE)限制賽初探 — 綠色"
 date: 2023-09-05 17:37:58
 tags:
   - cephille
-  - WOE
-  - Limited
 categories:
-  - Limited
-  - WOE-Limited
+  - "Limited"
+  - "WOE"
 excerpt: "食品與線索...怪物與皇族的故事最終是...艾卓荒野(WOE)限制賽中綠色牌的評分與介紹看這邊！"
 authors:
   - "cephille"
@@ -289,4 +287,3 @@ authors:
 ---
 
 以上就是這次WOE綠色的限制賽分析，希望大家都能在接下來的現開與輪抽賽中找到屬於自己的樂趣！
-

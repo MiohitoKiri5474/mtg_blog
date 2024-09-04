@@ -3,11 +3,12 @@ title: "自然之道：標準大綠猛襲"
 date: "2023-11-29 18:01:33"
 tags:
   - "JerobaMTG"
-  - "LCI"
-  - "Standard"
 excerpt: "品嘗《依夏蘭迷窟》帶給傳統大綠強攻的新滋味。"
 cover: "https://i.imgur.com/5JSHH1D.png"
 thumbnail: "https://i.imgur.com/5JSHH1D.png"
+categories:
+  - "Construct"
+  - "Standard"
 authors:
   - "JerobaMTG"
 ---

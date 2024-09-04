@@ -1,20 +1,14 @@
 ---
 title: "先驅簡易環境指南"
-
 date: 2023-09-21 14:00:00
-
 tags:
   - Enki
-  - Pioneer
-
 excerpt: "給新加入的玩家、或是想要入坑先驅賽制的玩家的一個建議！"
-
 cover: "https://www.wargamer.com/wp-content/sites/wargamer/2023/06/mtg-pioneer.jpg"
 thumbnail: "https://guildmagesforum.tw/images/mtg-pioneer.jpg"
-
 categories:
-  - Construct
-  - Pioneer
+  - "Construct"
+  - "Pioneer"
 authors:
   - "Enki"
 ---
@@ -332,4 +326,3 @@ authors:
 
 先驅目前的環境總地來說我認為還算平衡，牌組的使用率分布不會到太誇張的地步且擁有多樣性，而每周的meta都會出現一些新科技。雖然不能否認以數據來看的話確實有些牌組會擁有較高的勝率（[大綠](#純綠獻力-Mono-Green-Devotion)、[犧牲](#紅黑犧牲-Rakdos-Sacrifice)與[精靈](#藍白精靈-Azorious-Spirits)等等），但我認為這是每個卡牌遊戲都會經歷的過程，每過一個時期一定會有所謂的**版本解答**存在，這些所謂的**版本解答**其實也不全然是沒有破解方法，正因為他們被認為是解答，所以會被研究找出弱點、被備牌針對、會遇到劣勢對局、也會有無法如願完成遊戲計畫的時候。
 小弟我呢也使用過非上述的牌組拿下過國外資格賽的冠軍，也是經過了一定時間的練習、對對局的研究和思考備牌的選擇才終於成功，而這些激盪腦力的爽快過程對我來說是非常特別的體驗也是驅使我繼續打牌的動力，總之希望大家打牌的樂趣不要被meta給消磨，也祝各位在進入先驅賽制後能在這個多樣的環境中找到屬於自己的快樂。
-

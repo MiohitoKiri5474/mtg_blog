@@ -1,20 +1,14 @@
 ---
 date: 2023-10-11 19:30:00
 title: "標準套牌推薦 : 格利極戰役"
-
 tags:
-  - JruMTG
-  - Standard
-
+  - "JruMTG"
 cover: "https://i.imgur.com/vHmZ67s.png"
 thumbnail: "https://i.imgur.com/vHmZ67s.png"
-
 excerpt: "寫作戰役讀作賺牌狂魔"
-
 categories:
-  - Construct
-  - Standard
-
+  - "Construct"
+  - "Standard"
 authors:
   - "JruMTG"
 ---
@@ -203,4 +197,3 @@ authors:
 ## 保持彈性思維
 
 格利極戰役的操作思維沒有任何定式，根據對手牌型、當前手牌都會讓遊戲計畫產生劇烈變化，甚至是同樣的手牌也會因不同的決策路線變成完全不同風格的對局，在操作當下與覆盤時，皆要嘗試思考不同路線的操作思維，哪個是最適用當下的對局的，這種豐富的思考空間也是我喜歡這副牌的原因。
-

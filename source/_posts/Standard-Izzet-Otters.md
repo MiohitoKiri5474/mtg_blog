@@ -1,13 +1,14 @@
 ---
-
 title: "獺球技藝：標準紅藍水獺"
 date: "2024-09-02 11:50:34"
 tags:
-  - "Standard"
   - "JerobaMTG"
 cover: "https://i.imgur.com/n1nmOry.png"
 thumbnail: "https://i.imgur.com/n1nmOry.png"
 excerpt: "靈技？召集？還是...？"
+categories:
+  - "Construct"
+  - "Standard"
 authors:
   - "JerobaMTG"
 ---
@@ -18,19 +19,17 @@ authors:
 
 《班隆洛》有著充滿魅力的十大種族，要說哪個構築起來最有挑戰性，除了[上一篇文章](https://guildmagesforum.tw/Standard-Simic-Frog/)提到的青蛙以外，就非水獺莫屬了。乍看之下是連燒帶打的傳統靈技路線，卻又包含著搭配召集超展開的可能性，究竟哪個路線比較穩當呢？
 
-
-
-
 ## 單卡解析
 
 一般來說種族套路怎麼打看傳奇最準，但是傳奇水獺[發散風暴艾嵐妮](https://scryfall.com/card/blb/204/alania-divergent-storm)的設計顯然不是標準構築取向，所以同時符合上述兩套路的核心單卡為[蒼茂谷喚洪師](https://scryfall.com/card/blb/79/valley-floodcaller)：
 
 ![](https://i.imgur.com/mvmkXjS.png)
->蒼茂谷喚洪師
->生物 | 水獺／魔法師
->閃現
->你可以將非生物咒語視同具有閃現異能地來施放。
->每當你施放非生物咒語時，由你操控的鳥，蛙，水獺和老鼠得+1/+1直到回合結束。將它們重置。
+
+> 蒼茂谷喚洪師
+> 生物 | 水獺／魔法師
+> 閃現
+> 你可以將非生物咒語視同具有閃現異能地來施放。
+> 每當你施放非生物咒語時，由你操控的鳥，蛙，水獺和老鼠得+1/+1直到回合結束。將它們重置。
 
 身為會走路又會閃現的[潔斯凱霸權](https://scryfall.com/card/ktk/180/jeskai-ascendancy)，[蒼茂谷喚洪師](https://scryfall.com/card/blb/79/valley-floodcaller)既提供靈技套路額外加成與非生物咒語全閃現，附帶的全家重置讓你可以免費支付非生物召集咒語的費用，看起來好像走哪邊都可以？實際上卻不是這麼回事。
 
@@ -58,13 +57,11 @@ authors:
 
 ![](https://i.imgur.com/XzUAjur.png)
 
-
 ## 實戰演示
 
 {%youtube FJpyPxNu1l0 %}
 
 對手是黑白中速，看起來是靠雲移[躍動新春貝薩](https://scryfall.com/card/blb/2/beza-the-bounding-spring)來賺取資源的套路。前期對手抽了不少殺牌，但被去除的都是筆者靠[獺球技藝](https://scryfall.com/card/blb/63/otterball-antics)派出來的衍生物，可說是完全無傷，還準時送了對手的[叛教幫傳道士](https://scryfall.com/card/lci/113/preacher-of-the-schism)一發[娜希麗興戰](https://scryfall.com/card/mom/155/nahiris-warcrafting)。後面對手雖然製造出空優與血量優勢，也有[阻咒艾文](https://scryfall.com/card/otj/4/aven-interrupter)進行干擾，可惜沒算到[全城起火](https://scryfall.com/card/mom/135/city-on-fire)這妖物，靠著[拉爾](https://scryfall.com/card/blb/230/ral-crackling-wit)派出的[水獺](https://scryfall.com/card/tblb/25/otter)衍生物與[喚洪師](https://scryfall.com/card/blb/79/valley-floodcaller)搭配，直接拍下來一拳送對手下課。
-
 
 {%youtube WejpBJ9aKM4 %}
 

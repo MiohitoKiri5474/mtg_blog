@@ -4,14 +4,11 @@ date: 2023-10-01 15:58:50
 cover: "https://i0.wp.com/mtgazone.com/wp-content/uploads/2020/12/Lotus-Field.jpg?w=930&ssl=1"
 thumbnail: "https://i0.wp.com/mtgazone.com/wp-content/uploads/2020/12/Lotus-Field.jpg?w=930&ssl=1"
 tags:
-  - MiohitoKiri5474
-  - Pioneer
-  - Deck Tech
+  - "MiohitoKiri5474"
 excerpt: "組合技玩家從入門到放棄的心路歷程。"
 categories:
-  - Construct
-  - Pioneer
-
+  - "Construct"
+  - "Pioneer"
 authors:
   - "MiohitoKiri5474"
 ---

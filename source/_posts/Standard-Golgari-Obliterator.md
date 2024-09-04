@@ -2,12 +2,12 @@
 title: "艾卓仙蹤標準初探 : 葛加理互鬥抹煞獸"
 date: 2023-09-05 17:48:11
 tags:
-  - JruMTG
-  - Standard
-
+  - "JruMTG"
+cover: "https://i0.wp.com/mtgazone.com/wp-content/uploads/2023/01/Obliter.jpg?fit=555%2C414&ssl=1"
+thumbnail: "https://i0.wp.com/mtgazone.com/wp-content/uploads/2023/01/Obliter.jpg?fit=555%2C414&ssl=1"
 categories:
-  - Construct
-  - Standard
+  - "Construct"
+  - "Standard"
 authors:
   - "JruMTG"
 ---
@@ -163,4 +163,3 @@ authors:
 我目前的構築正編算是去除特化型，現環境中對上大多數快攻與生物中速應對能力皆可，但遇到幾乎不帶前中期生物的傳統控制、生物都是小東西橫向展開且帶有大量放逐殺的白底中速、以及善於懲罰速度不快中速的藍節奏時，正編局會十分難打，若各位讀者所處環境這類套牌比例較高，可以嘗試正編減少去除，增加棄牌、資源補充卡等。若是以成婚佳訊為主的橫向鋪場牌型較多，導致點殺效益過低，也能斟酌將掃場調為正編。
 
 這些細微的改動都是根據當下環境而定，並且不同玩家所處的本地環境可能也有所出入，究竟哪些工作該給正編、那些工作備牌來處理即可，都可依您對所處環境的理解來調整。
-

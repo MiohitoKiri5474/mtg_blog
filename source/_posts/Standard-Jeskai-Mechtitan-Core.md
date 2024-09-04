@@ -1,20 +1,14 @@
 ---
 date: 2023-10-16 19:15:45
-
 title: "器械進擊：標準潔思凱合體"
-
 tags:
-  - JerobaMTG
-  - Standard
-
+  - "JerobaMTG"
 excerpt: "大哥，現在怎麼辦？那還用說嗎？當然是合體啊。"
-
 cover: "https://i.imgur.com/ITmNCfU.jpg"
 thumbnail: "https://i.imgur.com/ITmNCfU.jpg"
-
 categories:
-  - Construct
-  - Standard
+  - "Construct"
+  - "Standard"
 authors:
   - "JerobaMTG"
 ---

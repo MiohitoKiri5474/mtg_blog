@@ -2,15 +2,13 @@
 title: "Pioneer 環境考察 2023/10/07"
 date: 2023-10-07 09:00:00
 tags:
-  - MiohitoKiri5474
-  - Pioneer
-  - Inspection
+  - "MiohitoKiri5474"
 cover: "https://files.hareruyamtg.com/article/wp-content/uploads/2020/07/06194309/Discontinuity.jpg"
 thumbnail: "https://files.hareruyamtg.com/article/wp-content/uploads/2020/07/06194309/Discontinuity.jpg"
 excerpt: "加拿大 RC 和歐洲 RC 在上週末結束了，讓我們來看看有哪些突出的套牌吧！"
 categories:
-  - Construct
-  - Pioneer
+  - "Construct"
+  - "Pioneer"
 authors:
   - "MiohitoKiri5474"
 ---
@@ -367,4 +365,3 @@ Day 2：額外的五輪瑞士輪之後取八強單淘汰。
 最後整合我這禮拜打 MA Explorer Event 的感覺，應該也是從紅黑犧牲還有紅黑中速這兩套在選，還在觀望中。
 
 最後希望各位都能找到各自喜歡的套牌，大家十一月賽場見！
-

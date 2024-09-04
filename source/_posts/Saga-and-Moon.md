@@ -2,14 +2,12 @@
 title: "克撒傳怎麼自爆了"
 date: 2023-09-05 17:42:48
 tags:
-  - JruMTG
-  - MTG Rule
-  - Modern
-  - Legacy
+  - "JruMTG"
+cover: "https://www.dexerto.com/cdn-image/wp-content/uploads/2024/04/26/MTG-Blood-Moon.jpg?width=3840&quality=60&format=auto"
+thumbnail: "https://www.dexerto.com/cdn-image/wp-content/uploads/2024/04/26/MTG-Blood-Moon.jpg?width=3840&quality=60&format=auto"
 excerpt: "我只是拍個血月，克薩傳怎麼就自己爆掉了"
-
 categories:
-  - MTG-Rules
+  - "MTG Rules"
 authors:
   - "JruMTG"
 ---
@@ -76,4 +74,3 @@ authors:
 其中如[力量渠道](https://scryfall.com/card/ncc/376/power-conduit)這類瞬間時機移除指示物的能力，還可以與傳紀達成更精妙的配合。
 
 在你的傳紀最終章節異能觸發時，可以回應堆疊上的異能移除傳紀的學問指示物，由於此時傳紀的觸發式異能尚未離開堆疊，不滿足[714.4](https://mtg.fandom.com/wiki/Saga)中犧牲傳紀的條件，而在該章節異能結算時，由於傳紀的學問指示物已經被移除，並非大於等於最終章節編號的狀態，因此也不用犧牲傳紀。最終就是你白嫖了一次傳紀的最終章異能，但傳紀依舊留在場上。
-

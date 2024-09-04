@@ -1,13 +1,14 @@
 ---
-
 title: "呱叫反身：標準藍綠青蛙"
 date: "2024-08-15 19:32:52"
 tags:
-  - "Standard"
   - "JerobaMTG"
 cover: "https://i.imgur.com/5SnDVW9.jpeg"
 thumbnail: "https://i.imgur.com/5SnDVW9.jpeg"
 excerpt: "好KERO球不打嗎？"
+categories:
+  - "Construct"
+  - "Standard"
 authors:
   - "JerobaMTG"
 ---
@@ -18,19 +19,17 @@ authors:
 
 《班隆洛》給了我們十個雙色色組的小動物種族主題，家鼠、兔子、蜥蜴、老鼠...大部分都有可以構成標準種族套牌的清晰策略，可是青蛙同時有進離場與放+1/+1指示物兩個相斥的主題，要怎麼組才好呢？
 
-
-
 ## 單卡解析
 
 欲知套路怎麼打，先看傳奇怎麼設計：
 
-
 ![](https://i.imgur.com/9N00hNl.jpeg)
->憂天草克萊門特
->傳奇生物 - 蛙／德魯伊
->警戒
->每當憂天草克萊門特或另一個由你操控的生物進場時，將至多一個目標由你操控且魔法力值比進戰場生物小的生物移回其擁有者手上。
->由你操控的蛙具有「{橫置}：加{綠}或{藍}。此魔法力只能用來施放生物咒語。」
+
+> 憂天草克萊門特
+> 傳奇生物 - 蛙／德魯伊
+> 警戒
+> 每當憂天草克萊門特或另一個由你操控的生物進場時，將至多一個目標由你操控且魔法力值比進戰場生物小的生物移回其擁有者手上。
+> 由你操控的蛙具有「{橫置}：加{綠}或{藍}。此魔法力只能用來施放生物咒語。」
 
 [難測先知赫爾嘉](https://scryfall.com/card/blb/217/helga-skittish-seer)、[災禍卜算師格拉布](https://scryfall.com/card/blb/215/glarb-calamitys-augur)以及舊系列的黑綠傳奇青蛙和藍綠種族策略明顯無法搭配，所以這邊不列入討論。
 
@@ -57,8 +56,6 @@ authors:
 ![](https://i.imgur.com/aWS7wp0.jpeg)
 
 地牌部分除了三組稀有雙色地外，帶有進場限制的種族地[睡蓮村](https://scryfall.com/card/blb/255/lilypad-village)與[洞橡村](https://scryfall.com/card/blb/258/oakhollow-village)在沒事就跳來跳去的青蛙套牌相當容易滿足前置條件，加上有[崖頂警戒員](https://scryfall.com/card/blb/168/clifftop-lookout)的地牌擴張，中後期可以帶來可觀的效益。
-
-
 
 ## 實戰演示
 

@@ -2,11 +2,13 @@
 title: "MKM後的標準紅快構築概念"
 date: "2024-03-16 11:22:35"
 tags:
-  - "Standard"
   - "yu-chen"
 cover: "https://i.postimg.cc/QdVnKCMq/cover.jpg"
 thumbnail: "https://i.postimg.cc/QdVnKCMq/cover.jpg"
 excerpt: "MKM加入後標準紅快會如何變化呢？"
+categories:
+  - "Construct"
+  - "Standard"
 authors:
   - "yu-chen"
 ---
@@ -44,12 +46,12 @@ authors:
 
 筆者這裡簡單列出掃場但又不虧牌的時機：
 
-1.	起手手上有掃場就不要鋪太多生物。
-2.	[若納掘古師費頓](https://scryfall.com/card/bro/135/feldon-ronom-excavator)被掃到還有可能不虧牌。
-3.	[寺院迅矛僧](https://scryfall.com/card/bro/144/monastery-swiftspear)前面有觸發過一次靈技或有一個+1+1豆子時。
-4.	掃完之後可以接著蓋偽裝的[漂泊破碼客](https://scryfall.com/card/mkm/127/fugitive-codebreaker)，中後期再補牌。
-5.	真的掃完自己跟對手沒生物時也別擔心，自己的生物大多都有敏捷，而且體質都不會輸。
-6.	對手是班特毒時，可以選擇消滅三費以下神器。
+1. 起手手上有掃場就不要鋪太多生物。
+2. [若納掘古師費頓](https://scryfall.com/card/bro/135/feldon-ronom-excavator)被掃到還有可能不虧牌。
+3. [寺院迅矛僧](https://scryfall.com/card/bro/144/monastery-swiftspear)前面有觸發過一次靈技或有一個+1+1豆子時。
+4. 掃完之後可以接著蓋偽裝的[漂泊破碼客](https://scryfall.com/card/mkm/127/fugitive-codebreaker)，中後期再補牌。
+5. 真的掃完自己跟對手沒生物時也別擔心，自己的生物大多都有敏捷，而且體質都不會輸。
+6. 對手是班特毒時，可以選擇消滅三費以下神器。
 
 ![](https://i.postimg.cc/4yCXqpHB/shock.jpg)
 
@@ -58,10 +60,10 @@ authors:
 更多的一費打二可以觸發多次靈技，爆發力更高，一回合內的操作會更靈活，也可以更好搭配[漂泊破碼客](https://scryfall.com/card/mkm/127/fugitive-codebreaker)的偽裝異能，更快速的堆墳場的瞬間巫術，對手做[深窟蝙蝠](https://scryfall.com/card/lci/102/deep-cavern-bat)時可以更高機率輕鬆解決掉，對手也許會被迫壓掉電震，而不是壓掉其他的強力單卡。
 
 ## 那些被我替換下去的單卡
- 
+
 這裡可以搭配一張我自製的梗圖：
 ![](https://i.postimg.cc/qMbMFvBc/image.jpg)
- 
+
 [俊美惡棍](https://scryfall.com/card/woe/124/charming-scoundrel)這張雖然是三選一的強牌，但是弱點太明顯了，通常沒有特別卡地或手牌不算太差時會貼惡人皮，但對手瞬間時機回應解掉，這樣甚麼都沒獲得；若這時你選擇另外二項時，他只是1/1生物
 沒什麼威脅性。做棄抽時也沒[漂泊破碼客](https://scryfall.com/card/mkm/127/fugitive-codebreaker)翻面抽得那麼多。
 
@@ -102,8 +104,8 @@ authors:
 
 - 第一盤先手，對手一回做[鳳凰幼雛](https://scryfall.com/card/dmu/140/phoenix-chick)變得沒甚麼壓力，剛好能解掉對手重要的生物直接打贏。
 - 第二盤後手，對手一回[熊野大戰渴苛斬](https://scryfall.com/card/neo/152/kumano-faces-kakkazan-etching-of-kumano)，二回[寺院迅矛僧](https://scryfall.com/card/bro/144/monastery-swiftspear)，三回做[偽王斯奎](https://scryfall.com/card/dmu/146/squee-dubious-monarch)，剛好起手手上二張電震 + [閃電煉擊](https://scryfall.com/card/dmu/137/lightning-strike)，二張電震直接解掉斯奎 +
-熊野翻面的生物。（還好對手沒有[華袍狂歡客戈垂克](https://scryfall.com/card/woe/132/goddric-cloaked-reveler)，不然可能我這盤會輸）
-中後期直接用[漂泊破碼客](https://scryfall.com/card/mkm/127/fugitive-codebreaker)翻面異能補牌賺取資源差獲勝。
+  熊野翻面的生物。（還好對手沒有[華袍狂歡客戈垂克](https://scryfall.com/card/woe/132/goddric-cloaked-reveler)，不然可能我這盤會輸）
+  中後期直接用[漂泊破碼客](https://scryfall.com/card/mkm/127/fugitive-codebreaker)翻面異能補牌賺取資源差獲勝。
 
 ### 四強賽 0-2 對手Domain
 
@@ -111,8 +113,10 @@ authors:
 - 第二盤先手調度1，也是直接準時被[短時封鎖](https://scryfall.com/card/dmu/36/temporary-lockdown)後面對手直接叫[忿怒大天使](https://scryfall.com/card/dmu/3/archangel-of-wrath)，我喊投降。
 
 ### 賽後檢討：
+
 四強戰第一局雖然看完起手有預感牌庫頂是地牌，願意賭賭看，但
 沒意識到對手可能用激進調度的策略，整天的對局打下來也沒有意識到對手可能正在等做[短時封鎖](https://scryfall.com/card/dmu/36/temporary-lockdown)的時機。
 
 ## 結語：
+
 這次標準的改動[煙火表演者](https://scryfall.com/card/mkm/140/pyrotechnic-performer)超乎我的預期，上市後的第二天才意識到爆發力很高。[漂泊破碼客](https://scryfall.com/card/mkm/127/fugitive-codebreaker)的偽裝異能可以做出很多操作。對手遇到偽裝生物時還能讓對手煩惱要如何應對！
