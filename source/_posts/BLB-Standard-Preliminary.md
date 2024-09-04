@@ -1,14 +1,14 @@
 ---
-
 title: "斑隆洛標準初探"
 date: "2024-07-31 11:29:17"
 tags:
-  - "Standard"
-  - "JruMTG"
   - "BLB"
 cover: "https://media.wizards.com/2024/images/daily/cardart_chittering_skullspeaker_christina_kraus_p3c9q0iblmh0.webp"
 thumbnail: "https://media.wizards.com/2024/images/daily/cardart_chittering_skullspeaker_christina_kraus_p3c9q0iblmh0.webp"
 excerpt: "睽違兩年系列輪替後的全新標準"
+categories:
+  - "Standard"
+  - "JruMTG"
 authors:
   - "JruMTG"
 ---
@@ -24,6 +24,7 @@ authors:
 ## 套牌介紹
 
 ### 白綠兔子（Selesnya Rabbit）
+
 [白綠兔子牌表連結](https://www.mtggoldfish.com/deck/6539730#paper)
 ![DeckList](https://i.imgur.com/qdAb3KP.jpeg)
 
@@ -33,8 +34,8 @@ authors:
 
 ![單卡](https://i.imgur.com/Bx4lLvd.jpeg)
 
-
 ### 黑白蝙蝠（Orzhov Bat）
+
 [黑白蝙蝠牌表連結](https://www.mtggoldfish.com/deck/6540358#paper)
 ![DeckList](https://i.imgur.com/4sHNOuv.jpeg)
 
@@ -59,8 +60,8 @@ authors:
 
 ![單卡](https://i.imgur.com/1VNwHh8.jpeg)
 
-
 ### 紅白家鼠（Boros Mouse）
+
 [紅白家鼠牌表連結](https://www.mtggoldfish.com/deck/6544872#paper)
 ![DeckList](https://i.imgur.com/mPCPy8F.jpeg)
 
@@ -68,8 +69,8 @@ authors:
 
 ![單卡](https://i.imgur.com/Kq2Sm8A.jpeg)
 
-
 ### 藍黑老鼠（Dimir Rat）
+
 [藍黑老鼠牌表連結](https://www.mtggoldfish.com/deck/6542909#paper)
 ![DeckList](https://i.imgur.com/oj97em7.jpeg)
 
@@ -77,8 +78,8 @@ authors:
 
 ![單卡](https://i.imgur.com/KSNvYIu.jpeg)
 
-
 ### 紅黑蜥蜴（Rakdos Lizard）
+
 [紅黑蜥蜴牌表連結](https://www.mtggoldfish.com/deck/6539742#paper)
 ![DeckList](https://i.imgur.com/C6HCWDR.jpeg)
 
@@ -86,12 +87,12 @@ authors:
 
 然而蜥蜴的受惠還不限於這系列，仔細看看會發現，這系列的低費實用蜥蜴，基本上都是狂徒類別（Outlaw），而OTJ的紅黑狂徒們，又有相當占比是蜥蜴，於是諸如[笑面客燧火賈斯珀](https://scryfall.com/card/otj/215/laughing-jasper-flint)&[煉刺幫團匪首領](https://scryfall.com/card/otj/128/hellspur-posse-boss)這種狂徒領主，也和樂融融的加入蜥蜴隊伍了。
 
->忘記OTJ機制內容的，可以參考這篇：[光雷驛鏢客機制解析](https://guildmagesforum.tw/OTJ-mechanism/)
+> 忘記OTJ機制內容的，可以參考這篇：[光雷驛鏢客機制解析](https://guildmagesforum.tw/OTJ-mechanism/)
 
 ![單卡](https://i.imgur.com/ZhFGsyl.jpeg)
 
-
 ### 紅黑狂徒（Rakdos Outlaw）
+
 [紅黑狂徒牌表連結](https://www.mtggoldfish.com/deck/6539745#paper)
 ![DeckList](https://i.imgur.com/1wbfUnz.png)
 
@@ -99,8 +100,8 @@ authors:
 
 ![單卡](https://i.imgur.com/zHpaaqQ.jpeg)
 
-
 ### 紅黑中速（Rakdos Midrange）
+
 [紅黑中速牌表連結](https://www.mtggoldfish.com/deck/6545025#paper)
 ![DeckList](https://i.imgur.com/XEvzcCM.png)
 
@@ -110,8 +111,8 @@ authors:
 
 ![單卡](https://i.imgur.com/X1I8aS7.jpeg)
 
-
 ### 黑綠中速（Golgari Midrange）
+
 [黑綠中速牌表連結](https://www.mtggoldfish.com/deck/6539750#paper)
 ![DeckList](https://i.imgur.com/ro4fgnW.jpeg)
 
@@ -119,8 +120,8 @@ authors:
 
 ![單卡](https://i.imgur.com/Ra49fCj.jpeg)
 
-
 ### 藍黑中速（Dimir Midrange）
+
 [藍黑中速牌表連結](https://www.mtggoldfish.com/deck/6539752#paper)
 ![DeckList](https://i.imgur.com/tMiOwsl.png)
 
@@ -128,8 +129,8 @@ authors:
 
 ![單卡](https://i.imgur.com/Qy4hWuv.jpeg)
 
-
 ### 藍黑拷問台（Dimir Rack）
+
 [藍黑拷問台牌表連結](https://www.mtggoldfish.com/deck/6542977#paper)
 ![DeckList](https://i.imgur.com/IGoJTv4.jpeg)
 
@@ -137,8 +138,8 @@ authors:
 
 ![單卡](https://i.imgur.com/w2SqMUx.jpeg)
 
-
 ### 藍黑飛兵（Dimir Flying）
+
 [藍黑飛兵牌表連結](https://www.mtggoldfish.com/deck/6539755#paper)
 ![DeckList](https://i.imgur.com/icOWxFZ.png)
 
@@ -146,8 +147,8 @@ authors:
 
 ![單卡](https://i.imgur.com/rvkDWDJ.jpeg)
 
-
 ### 白藍節奏飛兵（Azorius Fly Tempo）
+
 [白藍節奏飛兵牌表連結](https://www.mtggoldfish.com/deck/6539759#paper)
 ![DeckList](https://i.imgur.com/sGYsucS.png)
 
@@ -155,8 +156,8 @@ authors:
 
 ![單卡](https://i.imgur.com/9PqRHKk.png)
 
-
 ### 白藍控制（Azorius Control）
+
 [白藍控制牌表連結](https://www.mtggoldfish.com/deck/6539768#paper)
 ![DeckList](https://i.imgur.com/6IrZtZJ.png)
 
@@ -170,8 +171,8 @@ authors:
 
 ![單卡](https://i.imgur.com/S2bCU4i.png)
 
-
 ### 藍黑控制（Dimir Control）
+
 [藍黑控制牌表連結](https://www.mtggoldfish.com/deck/6539766#paper)
 ![DeckList](https://i.imgur.com/84cbzwE.jpeg)
 
@@ -179,8 +180,8 @@ authors:
 
 ![單卡](https://i.imgur.com/zVDJT20.png)
 
-
 ### 白綠Token（Selesnya Token）
+
 [白綠Token牌表連結](https://www.mtggoldfish.com/deck/6539770#paper)
 ![DeckList](https://i.imgur.com/HEbpjDS.png)
 
@@ -188,19 +189,19 @@ authors:
 
 ![單卡](https://i.imgur.com/t2WVqwI.png)
 
-
 ### 紅白挖墳（Boros Reanimator）
+
 [紅白挖墳牌表連結](https://www.mtggoldfish.com/deck/6539773#paper)
 ![DeckList](https://i.imgur.com/lzXc4mh.jpeg)
 
 主要的遊戲計畫還是透過大量的抽棄手段，將[長吼食肉龍](https://scryfall.com/card/lci/171/trumpeting-carnosaur)&[始霸埃泰力](https://scryfall.com/card/mom/137/etali-primal-conqueror-etali-primal-sickness)堆進墳場，之後使用[最後一票](https://scryfall.com/card/otj/22/one-last-job)&[拉回](https://scryfall.com/card/mkm/250/push-pull)挖進戰場，但除此之外還外掛了一個夢想的Plan B，用[最後一票](https://scryfall.com/card/otj/22/one-last-job)同時挖[沃達連逐樂客](https://scryfall.com/card/mom/171/voldaren-thrillseeker)&[龐碩化](https://scryfall.com/card/blb/392/colossification)進場，並選擇讓龐碩化貼附於沃達連逐樂客（最後一票是直接把靈氣挖進戰場，這種方式是不用在施放咒語時選定貼附目標的），在最後一票效果處理完的瞬間，沃達連逐樂客便已經是21/21的生物了，可以立刻犧牲自己投擲對手打臉，至於堆疊上還沒處理完的ETB觸發式異能也不重要了。當然這個Combo費用高得要命，即使沃達連逐樂客事先就在場上也要5費才能立刻斬殺，不可能當主要的遊戲計畫，就是多一個偷雞手段而已。
 
->PS：[龐碩化](https://scryfall.com/card/blb/392/colossification)並不在BLB的常規補充包牌池內，而是因為其他[預組產品](https://magic.wizards.com/en/news/announcements/bloomburrow-starter-kit-decklists)而進入標準牌池。
+> PS：[龐碩化](https://scryfall.com/card/blb/392/colossification)並不在BLB的常規補充包牌池內，而是因為其他[預組產品](https://magic.wizards.com/en/news/announcements/bloomburrow-starter-kit-decklists)而進入標準牌池。
 
 ![單卡](https://i.imgur.com/Kh7Ic7X.png)
 
-
 ### 純綠強攻（Mono Green Aggro）
+
 [純綠快攻牌表連結](https://www.mtggoldfish.com/deck/6539776#paper)
 ![DeckList](https://i.imgur.com/a9RCEgJ.png)
 
@@ -208,8 +209,8 @@ authors:
 
 ![單卡](https://i.imgur.com/kaUJWG3.png)
 
-
 ### 純紅快攻（Mono Red Aggro）
+
 [純紅快攻牌表連結](https://www.mtggoldfish.com/deck/6539774#paper)
 ![DeckList](https://i.imgur.com/z2UAVMT.png)
 
@@ -217,8 +218,8 @@ authors:
 
 ![單卡](https://i.imgur.com/3YNfkbc.png)
 
-
 ### 純黑快攻（Mono Black Aggro）
+
 [純黑快攻牌表連結](https://www.mtggoldfish.com/deck/6539777#paper)
 ![DeckList](https://i.imgur.com/KB9QIhp.png)
 
@@ -228,15 +229,14 @@ authors:
 
 ![單卡](https://i.imgur.com/LM7hXov.png)
 
-
 ### 黑白喚尋師（Orzhov Questcaller）
+
 [黑白喚尋師牌表連結](https://www.mtggoldfish.com/deck/6539779#paper)
 ![DeckList](https://i.imgur.com/3g9XYyF.jpeg)
 
 套牌概要：[蒼茂谷喚尋師](https://scryfall.com/card/blb/36/valley-questcaller)與牠的快樂夥伴們。這套確實放飛自我了點，主要是看上[蒼茂谷喚尋師](https://scryfall.com/card/blb/36/valley-questcaller)的多種族領主能力，試著將相關種族融合成一套牌。因為是最簡單的身材膨脹式領主，所以組成快節奏的進攻套牌會比較好發揮，至於為甚麼還跑出了個種族跟喚尋師完全無關的[約格莫夫判官基克斯](https://scryfall.com/card/bro/95/gix-yawgmoth-praetor)... 因為組到後面都快變飛兵大隊了，既然打點有這麼強的穿透性，不活用一下基克斯好像有點過意不去。
 
 ![單卡](https://i.imgur.com/TY4rgD1.png)
-
 
 ### 黑綠陰險蛇（Golgari Insidious Viper）
 
@@ -247,15 +247,14 @@ authors:
 
 ![單卡](https://i.imgur.com/adPL7yC.jpeg)
 
-
 ### 殘廢領土（Disabled Domain）
+
 [殘廢領土牌表連結](https://www.mtggoldfish.com/deck/6542922#paper)
 ![DeckList](https://i.imgur.com/0kPr4B3.jpeg)
 
 這次標準輪替領土真的被砍到要哭出來了，痛失三類別循環地後，湊領土類別的難易度將直線上升，只能先靠MKM的刺探地頂著用了。另外一個損失是[綠雕跺地獸](https://scryfall.com/card/lcc/261/topiary-stomper)，牠配上[進軍贊迪卡](https://scryfall.com/card/mom/194/invasion-of-zendikar-awakened-skyclave)在過去也是一個非常順的遊戲節奏，不過這個問題倒是相對不大，畢竟環境演化到後期，[遠古羊角](https://scryfall.com/card/big/16/ancient-cornucopia)流的組法也被證實是可行的了，因此筆者最初是以[遠古羊角](https://scryfall.com/card/big/16/ancient-cornucopia)版本的構築為基底去調整，不過組著組著筆者就發現一個問題，以前三色地隨便下一下可能都能湊滿領土類別，或者只差一種也容易導基本地出來補齊，但少了三色地後如果三費的加速還不能找地，那先不說調色，領土的能力會直接被砍一刀，而且少了三色地送輔助色的能力後，原本[遠古羊角](https://scryfall.com/card/big/16/ancient-cornucopia)版構築的招指定色就有點危險了，所以最後三費位置還是改成了找地招，順便給新牌[成堆收成](https://scryfall.com/card/blb/175/heaped-harvest)一個試用期看看，雖然只看三費找地的能力標準比他好的招一把抓，但送的附加價值大多也不高，[成堆收成](https://scryfall.com/card/blb/175/heaped-harvest)起碼可以穩定的再找一塊地出來，強化調色與壓縮牌庫的能力。另外，掃場的位置也選配了一張新牌[星落祝願](https://scryfall.com/card/blb/34/starfall-invocation)，雖然解場能力沒有[烈日墮威](https://scryfall.com/card/mom/40/sunfall)強，還要禮贈對方一張牌才能賺到額外價值，但我們套牌中正好有最賺的ETB生物[大一統飛將亞崔夏](https://scryfall.com/card/one/196/atraxa-grand-unifier)，送對手一張牌自己賺一個亞崔夏還是能接受的。
 
 ![單卡](https://i.imgur.com/6S5OAbp.png)
-
 
 ---
 

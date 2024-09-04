@@ -2,11 +2,13 @@
 title: "斑隆洛限制賽初探"
 date: "2024-07-22 13:10:38"
 tags:
-  - "Limited"
-  - "BLB"
+  - "cephille"
 cover: "https://i.postimg.cc/CMZk2Xgg/28c0611a3f.jpg"
 thumbnail: "https://i.postimg.cc/CMZk2Xgg/28c0611a3f.jpg"
 excerpt: "BLB限制賽的十種雙色主題以及其他值得留意的主題在這邊~"
+categories:
+  - "Limited"
+  - "BLB"
 authors:
   - "cephille"
 ---
@@ -56,17 +58,17 @@ U卡的[Tidecaller Mentor](https://scryfall.com/card/blb/236)本身是一隻三�
 如果要增強門檻主題的話，套牌中會很希望有如[Wick's Patrol](https://scryfall.com/card/blb/121)這樣的牌，並以前期高防生物如[Nightwhorl Hermit](https://scryfall.com/card/blb/62)、[Mind Drill Assailant](https://scryfall.com/card/blb/225/)等頂住，中後期[Wick's Patrol](https://scryfall.com/card/blb/121)連殺帶磨來解鎖門檻反攻，可能會是藍黑色組較合理的構築方式。
 
 **Takeaway Tips**
+
 1. 門檻是一個極度關注墳場牌張數量的機制，有/無達到門檻標準的牌張強度是天差地遠的。因此，套牌中除了門檻機制的回報單卡外，更需要放入如刺探（surveil）、磨（mill）等填墳效果的牌張來加速達成門檻。
 2. 藍黑色組對應的種族是老鼠（Rats）共有16張，如果你牌池較多的是像[Vren, the Relentless](https://scryfall.com/card/blb/239)、[Wick, the Whorled Mind](https://scryfall.com/card/blb/120)這類的R卡，可考慮多選取一些老鼠牌來獲取回報，但要小心不要選用太多體格太小的老鼠讓你在前期撐不出快攻的攻勢。
 3. 要想順利過渡到門檻發威，防禦力4以上、且具有門檻回報的生物作為前期阻擋者是相當重要的。
-
 
 ### **<font color="#FD0214">紅</font>黑** — 對手失去生命（Opponent loses life matters）
 
 ![](https://i.postimg.cc/Fsy6Tdzv/BR-3.jpg)
 
 > **對應種族：蜥蜴（Lizards）**
-> 紅黑色組數量：**16** 
+> 紅黑色組數量：**16**
 
 U卡的[Fireglass Mentor](https://scryfall.com/card/blb/213)讓你在第二主階段時檢視是否對手有失去過生命，有的話可以放逐牌庫頂兩張牌，你可以在本回合結束前使用其中一張。這個效果隱含了幾個注意事項：
 
@@ -89,7 +91,7 @@ U卡的[Fireglass Mentor](https://scryfall.com/card/blb/213)讓你在第二主�
 ![](https://i.postimg.cc/d0xykbSt/BLB-RG.jpg)
 
 > **對應種族：浣熊（Raccoons）**
-> 紅綠色組數量：**14** 
+> 紅綠色組數量：**14**
 
 U卡的[Wandertale Mentor](https://scryfall.com/card/blb/240)能做兩件事：產費、與花銷4讓自己長大；而C卡的[Junkblade Bruiser](https://scryfall.com/card/blb/220)除了本身體格達標外，花銷4則可以讓自己+2/+1直到回合結束。至於R卡傳奇[Muerra, Trash Tactician](https://scryfall.com/card/blb/227)則可以給你更多的費用，並從花銷機制中獲得更大的利益。然而，這幾張牌的效果，嚴格來說並沒有很吸引人想要繞著這個機制去組牌，至少對我而言如此。
 
@@ -107,8 +109,8 @@ U卡的[Wandertale Mentor](https://scryfall.com/card/blb/240)能做兩件事：�
 ![](https://i.postimg.cc/0jcxrscV/BLB-GW.jpg)
 
 > **對應種族：兔（Rabbits）**
-> 白綠色組數量：**14** 
-> 其他色組數量：1 （紅白綠三色的[Baylen, the Haymaker](https://scryfall.com/card/blb/205)） 
+> 白綠色組數量：**14**
+> 其他色組數量：1 （紅白綠三色的[Baylen, the Haymaker](https://scryfall.com/card/blb/205)）
 
 U卡的[Burrowguard Mentor](https://scryfall.com/card/blb/206)簡單暴力，生物越多就越強，自帶踐踏不用怕打不穿；而C卡的[Head of the Homestead](https://scryfall.com/card/blb/216)五費一帶三，作為主題的搭配單卡相當高效。R卡傳奇[Finneas, Ace Archer](https://scryfall.com/card/blb/212)只要能活到攻擊後，就能讓你操控的兔子們群體放豆，不小心還能多抽一張牌。可惜這個效果影響不到自己，通常沒有保護咒語護航，打出去後應該就沒有下一次了。
 
@@ -127,7 +129,7 @@ U卡的[Burrowguard Mentor](https://scryfall.com/card/blb/206)簡單暴力，生
 ![](https://i.postimg.cc/hP1MzG8D/BLB-WB.jpg)
 
 > **對應種族：蝙蝠（Bats）**
-> 黑白色組數量：**12** 
+> 黑白色組數量：**12**
 
 U卡的[Starseer Mentor](https://scryfall.com/card/blb/233)五費3/5飛行警戒超級頂不說，在你結束階段時如果你本回合生命值有變動，就可以開始蠶食對手的資源。C卡的[Moonrise Cleric](https://scryfall.com/card/blb/226)則是一個主題觸發來源，只要攻擊就能獲得1點生命。而R卡傳奇[Zoraline, Cosmos Caller](https://scryfall.com/card/blb/242)應該是這個系列數一數二強的牌，異能設計也跟黑白色組的主題相當扣合，蝙蝠攻擊就能獲得1點生命、而當牠進場或攻擊可以支付兩費與2點生命，來讓總魔法力值3以下的生物返場。這邊不得不額外提一下[Lunar Convocation](https://scryfall.com/card/blb/223)這張黑白色組的結界，這張二費的結界設計上把黑白關注血量變化的主題發揮到極致，不只單純看你血量的增或減，當你同一回合血量增與減時，你還可以額外派出一隻1/1的黑色蝙蝠，而這又能繼續支援[Zoraline, Cosmos Caller](https://scryfall.com/card/blb/242)等種族回報卡，達到滾雪球的驚人效果！
 
@@ -146,7 +148,7 @@ U卡的[Starseer Mentor](https://scryfall.com/card/blb/233)五費3/5飛行警戒
 ![](https://i.postimg.cc/QNbWcKzy/BLB-UR.jpg)
 
 > **對應種族：水獺（Otters）**
-> 紅藍色組數量：**14** 
+> 紅藍色組數量：**14**
 
 U卡的[Stormcatch Mentor](https://scryfall.com/card/blb/234)乍看之下一卡多功能，但只要你無法施放非生物咒語時牠就會瞬間啞火；C卡的[Tempest Angler](https://scryfall.com/card/blb/235)體格不及格，要至少施放過兩個非生物咒語才勉強進入打手行列，不會讓我很想用牠。
 
@@ -166,11 +168,12 @@ U卡的[Stormcatch Mentor](https://scryfall.com/card/blb/234)乍看之下一卡�
 ![](https://i.postimg.cc/1tM5Vwz0/BLB-BG.jpg)
 
 > **對應種族：松鼠（Squirrels）**
-> 黑綠色組數量：**14 + 1 （SPG中的[Toski, Bearer of Secrets](https://scryfall.com/card/spg/60)，出現機率較低）** 
+> 黑綠色組數量：**14 + 1 （SPG中的[Toski, Bearer of Secrets](https://scryfall.com/card/spg/60)，出現機率較低）**
 
 U卡的[Vinereap Mentor](https://scryfall.com/card/blb/238)牌面上就是寫著「賺」，也是少數雙色U卡中自帶主題觸發源的牌。C卡的[Corpseberry Cultivator](https://scryfall.com/card/blb/210)只要覓糧觸發一次變成3/4的體格就很能打了。再來，R卡傳奇[Camellia, the Seedmiser](https://scryfall.com/card/blb/207)是一個從覓糧機制中獲益的松鼠種族領主，松鼠跟牠自己會威懾不說，還可以犧牲食品生松鼠然後順便全家灌大。打這個色組的好處都集合在牠身上了。
 
 黑綠色組的問題，還是在於就是你的套牌是否能夠穩定觸發覓糧，意即：
+
 1. 能夠派出食品衍生物的牌要有足夠的數量，或單卡可以持續派出食品；
 2. 或是你的套牌擅長堆墳，以至於讓你有足夠的牌可以拿來做覓糧。
 
@@ -187,7 +190,7 @@ U卡的[Vinereap Mentor](https://scryfall.com/card/blb/238)牌面上就是寫著
 ![](https://i.postimg.cc/zGm5B0jZ/BLB-RW.jpg)
 
 > **對應種族：家鼠（Mice）**
-> 紅白色組數量：**15** 
+> 紅白色組數量：**15**
 
 U卡的[Seedglaive Mentor](https://scryfall.com/card/blb/231)是個有侵略性的三費打手，這也定調了這次BLB紅白是走快攻路線，英武的機制則鼓勵你多放低費的戰鬥詭計、貼皮、或增益性的起動式異能來觸發。C卡的[Veteran Guardmouse](https://scryfall.com/card/blb/237)則讓我不甚滿意，以快攻而言四費3/4有點太笨重了，觸發英武給灌大與先攻，即使觸發了，4點的先攻傷害可能也不夠打穿對面建立起的防線；與其說快攻，不如說是更偏為防守向設計的牌。看到這邊令我滿頭黑人問號，所以我打紅白要前期搶攻後期防守！？
 
@@ -211,7 +214,7 @@ U卡的[Seedglaive Mentor](https://scryfall.com/card/blb/231)是個有侵略性�
 ![](https://i.postimg.cc/nrQgffNs/BLB-GU.jpg)
 
 > **對應種族：蛙（Frogs）**
-> 藍綠色組數量：**19** 
+> 藍綠色組數量：**19**
 > 其他色組數量：1（SPG中的[Frogmite](https://scryfall.com/card/spg/61)，出現機率較低）
 
 U卡的[Lilysplash Mentor](https://scryfall.com/card/blb/222)體格合格外，本身自帶一個觸發進離場的起動式異能，回場的生物還會變大，只可惜無法瞬間起動，應該是怕太強太賺所設的限制。C卡的[Pond Prophet](https://scryfall.com/card/blb/229)進場不虧牌，但本身1/1的體格在現在戰力通膨的限制賽中，基本上是拿來反覆刷進場異能用的。而R卡傳奇[Clement, the Worrywort](https://scryfall.com/card/blb/209)可以讓你的生物跳恰恰跳得不亦樂乎，以大回小，以小放大，進進出出、好不快活！
@@ -243,7 +246,7 @@ U卡的[Lilysplash Mentor](https://scryfall.com/card/blb/222)體格合格外，�
 
 #### 谷喚師（Valley Callers）
 
-![](https://i.postimg.cc/ydPmJZT1/valley-callers.jpg) 
+![](https://i.postimg.cc/ydPmJZT1/valley-callers.jpg)
 
 谷喚師是 5 張的單色R卡生物，牠們都可以為該色對應種族帶來如讚美詩的群體膨脹、以及一些特別的效果。
 
@@ -282,19 +285,20 @@ U卡的[Lilysplash Mentor](https://scryfall.com/card/blb/222)體格合格外，�
 ![](https://i.postimg.cc/k4CCN4kf/calamity.jpg)
 
 如果說上述的10種色組種族作為斑隆洛時空住民的代表，那天災獸就是作為於之並存、並帶來近似大自然災變級別的危害，天災獸的存在並不是只有帶來破壞，它們同時也帶來了季節變遷。除了秘稀等級強大，且具有名字的傳奇天災獸外，另外也有UR卡級別的天災獸，但就不具有傳奇類別。這些天災獸的特性大致有以下幾點：
+
 1. 生物單體效果都極為強大，體格也與在同費用生物相比具有宰制力；
 2. 它們本身與限制賽主題不太有太多連動，畢竟自己就夠強了；
 3. 天災獸本身都額外具有元素（Elemental）的種族類別，象徵它們作為斑隆洛自然災變的特性。
 
 ### 單色職業（Class）
 
-![](https://i.postimg.cc/W111jJdm/Talents.jpg) 
+![](https://i.postimg.cc/W111jJdm/Talents.jpg)
 
 單色職業牌含U卡 5 張、R卡 5張共10張。這些職業牌在使用上與鵬洛客（planeswalkes）有些類似，大部分在進場的當回合表現出的影響力可能會比同費用的一次性咒語來得弱一點，它們總需要一點時間來發酵影響力！你可以在適合的巫術時機，施放後並依序開通不同等級的效果來強化你的優勢，而這些累積起來的優勢將漸漸滾起通往獲勝的康莊大道。
 
 ## 斑隆洛的特別來賓 （Special Guest, SPG）
 
-![](https://i.postimg.cc/j2njVV2p/SPG-BLB.jpg) 
+![](https://i.postimg.cc/j2njVV2p/SPG-BLB.jpg)
 
 SPG0054~0063這10張牌為斑隆洛中常規補充包能開到的特別來賓牌，有幾張是與主題種族有關連的牌，也有不知道為什麼，但強度爆炸像是[Sword of Fire and Ice](https://scryfall.com/card/spg/62)這樣的牌，也出在這一次的SPG。基本上SPG就當成一些主題或風味上的一點補充與樂趣，但考慮到沒有太多張、出現機率也不高，大家就當一個限制賽的小驚喜（嚇？）來看吧！
 

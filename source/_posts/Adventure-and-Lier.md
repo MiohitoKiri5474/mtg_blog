@@ -5,8 +5,6 @@ date: 2023-09-19 18:00:00
 
 tags:
   - JruMTG
-  - MTG Rule
-  - Standard
 
 cover: "https://i.imgur.com/swcUW7m.png"
 thumbnail: "https://i.imgur.com/zd5EUlv.png"
@@ -14,7 +12,7 @@ thumbnail: "https://i.imgur.com/zd5EUlv.png"
 excerpt: "翻湧神信徒列爾是如何從墳場返照歷險咒語的?"
 
 categories:
-  - MTG-Rules
+  - "MTG Rules"
 authors:
   - "JruMTG"
 ---
@@ -109,4 +107,3 @@ authors:
 [進軍阿拉若](https://scryfall.com/card/mom/230/invasion-of-alara-awaken-the-maelstrom)與[刺藤傭獸](https://scryfall.com/card/woe/164/bramble-familiar-fetch-quest)則是一個充分利用歷險牌雙特徵的Combo，進軍阿拉若進場時展示牌庫頂直到兩張總魔法力值小於等於4的 **牌** ，你可以從中施放一張牌且不需要支付魔法力費用。
 
 這段能力唯一的檢查條件是 **魔法力值小於等於4的牌** ，刺藤傭獸是個二費的生物牌，滿足此條件。接著你可以施放此牌且不需要支付魔法力費用，這時歷險牌才會問你想要施放生物端的刺藤傭獸，還是歷險巫術端的尋得標的，無論你選擇哪一邊都可以成功施放，進軍阿拉若不會過問你最後施放了一個幾費的咒語。
-

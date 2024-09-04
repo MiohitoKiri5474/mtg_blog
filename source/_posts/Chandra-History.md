@@ -3,12 +3,12 @@ title: "旅法演進史：茜卓納拉"
 date: "2023-12-25 19:18:53"
 tags:
   - "JerobaMTG"
-  - "CardLore"
 excerpt: "Lets Fight Fire with Fire."
 cover: "https://i.imgur.com/GfQlTbB.jpg"
 thumbnail: "https://i.imgur.com/GfQlTbB.jpg"
 categories:
   - "Others"
+  - "CardLore"
 authors:
   - "JerobaMTG"
 ---

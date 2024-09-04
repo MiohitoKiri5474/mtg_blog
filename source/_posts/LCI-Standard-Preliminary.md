@@ -2,7 +2,6 @@
 title: "依夏蘭迷窟標準初探"
 date: "2023-11-23 12:17:46"
 tags:
-  - "Standard"
   - "JruMTG"
   - "JerobaMTG"
   - "cephille"

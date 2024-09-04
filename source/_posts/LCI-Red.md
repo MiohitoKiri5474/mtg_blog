@@ -2,16 +2,14 @@
 title: "依夏蘭迷窟（LCI）限制賽介紹 — 紅色"
 date: "2023-11-16 14:22:08"
 tags:
-  - "LCI"
-  - "Limited"
   - "JruMTG"
   - "Kappa"
 cover: "https://i.imgur.com/8Nf0OgA.png"
 thumbnail: "https://i.imgur.com/8Nf0OgA.png"
 excerpt: "不管你缺恐龍還缺神器，來找紅色就對了！"
 categories:
-  - Limited
-  - LCI-Limited
+  - "Limited"
+  - "LCI"
 authors:
   - "JruMTG"
   - "Kappa"

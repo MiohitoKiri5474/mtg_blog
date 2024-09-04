@@ -3,12 +3,11 @@ title: "特徵定義異能 CDA"
 date: "2024-01-03 10:50:24"
 tags:
   - "JruMTG"
-  - "MTG Rule"
 cover: "https://i.imgur.com/e5CFofZ.jpg"
 thumbnail: "https://i.imgur.com/e5CFofZ.jpg"
 excerpt: "來看看塔莫耶夫定義身材的 * 有著甚麼樣的規則"
 categories:
-  - "MTG-Rules"
+  - "MTG Rules"
 authors:
   - "JruMTG"
 ---
