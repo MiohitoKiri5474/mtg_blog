@@ -38,7 +38,7 @@ jobs:
 
   build:
     runs-on: ubuntu-latest
-    needs: [set-timezone, install-package]
+    needs: [set-env, install-package]
 
     steps:
       - uses: actions/checkout@v3
