@@ -9,12 +9,10 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
+  set-env:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
-
       - name: Set Time Zone
         run: sudo timedatectl set-timezone 'Asia/Taipei'
 
@@ -29,8 +27,21 @@ jobs:
           git config --global user.name "MiohitoKiri5474"
           git config --global user.email "lltzpp@gmail.com"
 
+  install-package:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
       - name: Node.js Package install
         run: npm i -g hexo-cli && npm i
+
+  build:
+    runs-on: ubuntu-latest
+    needs: [set-timezone, install-package]
+
+    steps:
+      - uses: actions/checkout@v3
 
       - name: Deploy
         run: |
